@@ -1,0 +1,730 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {"@context":"https://schema.org","@type":"WebSite","name":"The Atlantic","url":"https://www.theatlantic.com","inLanguage":"en-US","issn":"1072-7825","potentialAction":{"@type":"SearchAction","target":"https://www.theatlantic.com/search/?q={q}","query-input":"required name=q"}}
+  
+
+   {"@context":"https://schema.org","@type":"Organization","@id":"https://www.theatlantic.com/#publisher","name":"The Atlantic","url":"https://www.theatlantic.com","logo":{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":224},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":224},"url":"https://cdn.theatlantic.com/assets/media/files/atlantic-logo--224x224.png"},"sameAs":["https://www.facebook.com/TheAtlantic","https://twitter.com/theatlantic"]}
+  
+
+   #paywall,#nonMeteredNudge,#gate {opacity:0;}
+  
+
+   The Three Biggest Obstacles to Convicting Trump - The Atlantic
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {"@context":"https://schema.org","@type":"NewsArticle","headline":"The Three Biggest Obstacles to Convicting Trump","alternativeHeadline":"The Three Biggest Obstacles to Convicting Trump","description":"Although Special Counsel Jack Smith has brought a strong case, he still faces significant challenges.","url":"https://www.theatlantic.com/ideas/archive/2023/06/three-biggest-obstacles-convicting-trump/674366/","datePublished":"2023-06-11T16:52:27Z","dateModified":"2023-06-11T21:18:07Z","isAccessibleForFree":false,"hasPart":{"@type":"WebPageElement","isAccessibleForFree":false,"cssSelector":".article-content-body"},"publisher":{"@id":"https://www.theatlantic.com/#publisher"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.theatlantic.com/ideas/archive/2023/06/three-biggest-obstacles-convicting-trump/674366/"},"image":[{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":720},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":405},"url":"https://cdn.theatlantic.com/thumbor/vzqEnFbUVzWov2IbagvDBbF428w=/0x0:2000x1125/720x405/media/img/mt/2023/06/TrumpIndictment/original.png"},{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":1080},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":1080},"url":"https://cdn.theatlantic.com/thumbor/eSHiYQgpOChJIR2rO3w14XvCvyE=/438x0:1563x1125/1080x1080/media/img/mt/2023/06/TrumpIndictment/original.png"},{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":1200},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":900},"url":"https://cdn.theatlantic.com/thumbor/HawUa21bacxQEeMrHJHA4IBS0m0=/249x0:1749x1125/1200x900/media/img/mt/2023/06/TrumpIndictment/original.png"},{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":1600},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":900},"url":"https://cdn.theatlantic.com/thumbor/YEugq--rgq_GHu7ZYI441eyzsl8=/0x0:2000x1125/1600x900/media/img/mt/2023/06/TrumpIndictment/original.png"},{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":960},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":540},"url":"https://cdn.theatlantic.com/thumbor/njWgB82A-SBskS8ZbRt31y_FWw0=/0x0:2000x1125/960x540/media/img/mt/2023/06/TrumpIndictment/original.png"},{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":540},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":540},"url":"https://cdn.theatlantic.com/thumbor/Q0KeWWvDN7VXZfXyzl5sXeId868=/438x0:1563x1125/540x540/media/img/mt/2023/06/TrumpIndictment/original.png"}],"author":[{"@type":"Person","name":"Paul Rosenzweig","sameAs":"https://www.theatlantic.com/author/paul-rosenzweig/"}],"articleSection":"Ideas"}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Skip to content
+     
+
+      Site Navigation
+     
+
+
+
+
+
+
+           The Atlantic
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Popular
+            
+
+             Latest
+            
+
+             Newsletters
+            
+
+
+
+
+
+             Sections
+            
+
+
+
+               Politics
+              
+
+
+
+               Ideas
+              
+
+
+
+               Fiction
+              
+
+
+
+               Technology
+              
+
+
+
+               Science
+              
+
+
+
+               Photo
+              
+
+
+
+               Business
+              
+
+
+
+               Culture
+              
+
+
+
+               Planet
+              
+
+
+
+               Global
+              
+
+
+
+               Books
+              
+
+
+
+               Podcasts
+              
+
+
+
+               Health
+              
+
+
+
+               Education
+              
+
+
+
+               Projects
+              
+
+
+
+               Features
+              
+
+
+
+               Family
+              
+
+
+
+               Events
+              
+
+
+
+               Shadowland
+              
+
+
+
+               Progress
+              
+
+
+
+               Newsletters
+              
+
+
+
+
+
+
+
+
+
+                Explore The Atlantic Archive
+               
+
+
+
+
+
+
+                Play The Atlantic crossword
+               
+
+
+
+
+
+
+             The Print Edition
+            
+
+
+
+
+
+
+
+                Latest Issue
+               
+
+                Past Issues
+               
+
+
+
+               Give a Gift
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Search The Atlantic
+             
+
+
+
+
+
+
+
+
+
+
+
+             Quick Links
+            
+
+
+
+
+
+                Dear Therapist
+               
+
+
+
+
+
+
+                Crossword Puzzle
+               
+
+
+
+
+
+
+                Magazine Archive
+               
+
+
+
+
+
+
+                Your Subscription
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Popular
+        
+
+
+
+         Latest
+        
+
+
+
+         Newsletters
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Sign In
+         
+
+
+
+          Subscribe
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Ideas
+          
+
+
+
+
+          The Three Biggest Obstacles to Convicting Trump
+         
+
+
+
+          Although Special Counsel Jack Smith has brought a strong case, he still faces significant challenges.
+         
+
+
+
+
+           By
+           
+            Paul Rosenzweig
+           
+
+
+
+
+
+
+
+
+
+
+
+
+          The Atlantic; Source: Brandon Bell / Getty
+         
+
+
+
+
+
+
+         June 11, 2023, 12:52 PM ET
+        
+
+
+
+
+          Share
+         
+
+
+
+          Saved Stories
+          
+
+
+
+
+
+          Save
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Donald Trump has been indicted on 37 felony counts related to his theft of classified documents and his obstruction of the investigation into that security breach. Now comes the hard part: trying the case.
+      
+
+       Prosecutors often talk of the “cruel dilemma” they face: If they secure the conviction of a charged defendant, they are “just doing their job” and merit no substantial credit; if they indict and fail to secure that conviction, they have somehow messed up.
+      
+
+       To a large degree, this description is accurate. In a run-of-the-mill criminal case, notwithstanding the formal presumption of innocence, the prosecutor comes into the trial with a host of procedural and substantive advantages. In these routine cases, to lose is truly to err.
+      
+
+       Not so with the case against Trump. Though the special counsel, Jack Smith, begins the proceedings with some significant pluses, he faces a much tougher road than prosecutors typically do. There is a more-than-reasonable possibility that Trump will never be convicted of the crimes with which he has been charged.
+      
+
+       Smith’s most notable advantage is the factual strength of his case. In his speaking indictment (or, as Norm Eisen of the Brookings Institution called it,
+       
+        his “shouting” indictment
+       
+       ), Smith laid out the case against Trump in stark detail. To take but one example, the
+       
+        Espionage Act
+       
+       criminalizes the “willful retention” of national-defense information. In a recording of his own voice, Trump admits to almost all of the essential elements of the criminal charge—that he has a document in his possession; that he knows it is national defense-information (involving a plan for an attack on a foreign nation); that he knows it is still classified; that he knows that he can’t declassify it.
+      
+
+       The indictment is replete with examples of the stunning depth and texture of Smith’s evidence. It references, for example, multiple text messages in which Trump’s co-defendant, Waltine Nauta, and other Trump employees discussed how the boxes containing classified documents were being handled at Trump’s express direction. It also references surveillance-camera footage showing Nauta removing boxes from a storage area before that area was to be canvassed for classified information. And it goes into painful detail about how Trump misled his own attorneys into falsely certifying that the search for classified documents was complete, and how he attempted to persuade one attorney to lie for him by removing particularly damning classified documents from the set he was going to produce to the government.
+      
+
+       Smith’s case is also significantly bolstered by the underlying seriousness of the charges. Though Trump has tried to minimize the consequence of the papers he retained, and though the contents of the documents are not yet, and may never be, public, the description Smith has offered—documents “regarding defense and weapons capabilities of both the United States and foreign countries; United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack”—is chilling. Trump’s casualness in storing such important materials (and his apparent willingness to share some details contained in them with authors and one of his PAC employees) will surely be viewed skeptically by the jury when the matter goes to trial.
+      
+
+       In any other circumstances, given the weight of this evidence, the case would be a slam dunk. But in the current state of affairs, the case is more aptly characterized as a difficult contested shot from beyond the three-point arc.
+      
+
+       To begin with, Smith was exceedingly unlucky in his drawing of a judge. The case was assigned to Judge Aileen Cannon, the same judge whose interference in the original search of Mar-a-Lago was roundly criticized and rejected by the Eleventh Circuit (the appellate court that oversees her district). Her past rulings suggest that her instincts will favor Trump. Federal district judges have substantial discretion in the conduct of trials, and so their underlying proclivities can matter.
+      
+
+       To take one extreme example, consider the impact of
+       
+        Federal Rule of Criminal Procedure 29(a)
+       
+       . This rule—obscure to most Americans, though well known in the criminal-defense bar—gives a federal judge the power to dismiss a prosecutor’s case at the end of the prosecutor’s presentation on a finding that the government has not presented sufficient evidence from which a jury could find guilt beyond a reasonable doubt. This broad discretion is rarely used, because it allows a judge to substitute their own judgment for that of the jury. But it does exist and, more important for our purposes, it is completely unreviewable. For reasons of double jeopardy, if a judge dismisses a case at the close of the prosecutor’s presentation, that’s the end of it. One does not have to be completely Machiavellian to see in this power the prospect of judicial interference and disruption.
+      
+
+       But we need not have anywhere near so dystopian a view of judges to worry about how one might conduct a trial. (And, to be clear, I have no reason to think that Judge Cannon would, in fact, use Rule 29[a] in an inappropriate manner). There are ample other ways, well within the bounds of discretion, in which a judge might impact the trial of a case. Consider just two more.
+      
+
+       Within certain boundaries, trial judges have almost unreviewable discretion to determine what evidence will, and will not, be presented to a jury. Often, judges use that authority to trim frivolous defense arguments. Sovereign-tax protesters, for example, are not allowed to offer evidence that they think shows that the U.S. government is not constitutionally authorized to impose an income tax. Nonsense arguments like that are simply ruled out of bounds.
+      
+
+       Many of Trump’s defenses to the espionage charges border on frivolous. The “I can declassify a document just by thinking about it” and the “I’m entitled to keep whatever documents I want from my presidency” defenses genuinely have no legal basis. Many judges would, quite properly, exclude testimony about those issues as an attempt to confuse the jury with irrelevant matters. But that decision is not inevitable, and a small minority of judges might reach the opposite conclusion, inevitably complicating Smith’s presentation of the case and reducing the likelihood of a conviction.
+      
+
+       Far more prosaically, trial judges have near absolute and plenary authority over the timing of trials in their courtroom. They set the deadlines for when discovery must be completed, for when motions must be filed, for how quickly (or slowly) they decide those motions, and, ultimately, for when the trial will be scheduled.
+      
+
+       As the special counsel made clear
+       
+        in his brief public remarks
+       
+       last Friday, he is seeking a relatively speedy trial. Beyond the normal concerns regarding delay—that evidence will grow stale or that witnesses will become available—he wants this trial to be resolved well before the 2024 presidential election. Many think that the public interest also counsels a quick resolution; as voters, we also want to know the result before the election.
+      
+
+       Trump, by contrast, wants delay. Delay always benefits a defendant, but here, if the trial were postponed until after the 2024 election, there is every reason to think that a Republican victor (whether Trump or another candidate) would order the case dismissed. We cannot know now who will win, but in some ways the Trump candidacy is the ultimate plea for absolution from his criminal jeopardy. He is running for president in part to avoid jail.
+      
+
+       Moreover, to be completely fair, though the average timeline for a typical white-collar case runs from nine to 12 months, it would be utterly unremarkable if this case were to take longer to come to trial. Given the uniqueness and complexity of some of the issues that might arise, even a completely neutral jurist might find it difficult to move this case along as rapidly as Smith would like. How much more likely is delay now that a Trump-friendly judge has been named?
+      
+
+       The special counsel is not powerless in the face of these challenges. He may repeat his public call for a rapid trial in formal papers. He can make motions to exclude frivolous arguments, and attempt to convince a reluctant jurist with detailed legal reasoning. In the end, if he feels especially aggrieved, he can ask Judge Cannon to recuse herself or seek her recusal by the Eleventh Circuit. These steps are not wholly ineffective. But realistically, they are second-best solutions to a difficult problem. Even if successful, they will result in delay—and if unsuccessful, they will leave Smith no better off (and possibly worse off for having directly challenged the judge) than he was before.
+      
+
+       The choice of judge is not the only challenge Smith faces. The jury that will hear the case, or, more accurately, the jury pool from which the jurors will be drawn, will also be challenging. Like many observers, I thought that the special counsel would bring his charges in Washington, D.C., if only because doing so would let him draw from a jury pool that more than 90 percent of voted for Joe Biden in the last election.
+      
+
+       But venue is not always a choice; it is sometimes an inexorable constitutional command. And a review of the new indictment makes clear that most of the charges Smith has lodged could have been brought only in the Palm Beach division of the Southern District of Florida, where Mar-a-Lago is located. That jury pool is more evenly divided politically than the jury pool in D.C. To be sure, Biden won in Palm Beach County, with more than 433,000 votes. But Trump received more than 334,000 votes, and that 46 percent of the electorate is likely to be 46 percent of the pool from which the jury will be drawn.
+      
+
+       Voting patterns, of course, are not an absolute proxy for a juror’s determination at trial. Indeed, the entire purpose of voir dire (the process of examining potential jurors before they are seated) is to weed out of the jury those who have already made up their mind and who cannot fairly hear the evidence. But a great deal of discretion goes into assessing a juror’s suitability (again, a role for the judge), and, more to the point, the standard to be applied is that a juror has already reached a decision.
+      
+
+       That does not, and cannot, mean that jurors may not have predispositions and biases. Many jurors (indeed, likely all of them) will come to the jury box with a preexisting view of Trump. And it would be both impossible and improper to seat a jury composed solely of Palm Beach Biden voters. At a minimum, some jurors will have inherent sympathy for the defendant—and the total number of them will likely be greater in Florida than in Washington, D.C.
+      
+
+       This, too, will make Smith’s case harder to win. Reluctant jurors can be persuaded by a strong case, such as the one against Trump. And experience tells us that convictions of Trump’s allies are possible. But most of the convictions thus far—such as those of Steve Bannon and Paul Manafort—have come in jurisdictions that have leaned decidedly against Trump. Even Trump’s civil trial in New York City, which had to deal with a diverse jury pool likely containing Trump-supporting jurors, occurred in a venue that was significantly weighted against Trump. Because this is the first significant instance in which a Trump-related case has been brought in a venue where the jury pool is politically balanced, the conduct of voir dire and the seating of a jury will be an especially important part of the case and another unusually notable obstacle to Smith’s success.
+      
+
+       And then, finally, there is the wild-card prospect of jury nullification—the possibility that an adamant pro-Trump supporter will be seated on the jury with the committed mission of refusing to convict Trump, against all the evidence. This risk is not unique to the Trump prosecution. It can arise in any political case and can even appear in situations (like the prosecution of minor drug offenses) where the identity of an individual defendant is irrelevant to the nullifier. But it seems clear to me that the risk of nullification is especially salient with high-profile defendants like Trump, who are often the beneficiaries of cultlike loyalty.
+      
+
+       Here, too, Smith is not without recourse. Careful voir dire is intended to address this problem directly. But mendacious jurors who want to sit on a jury in order to disrupt it can be difficult to ferret out and seem more likely in the context of Trump’s trial than in most others. A complacent judge will only exacerbate the problem. It is by no means improbable that the end result of a lengthy trial of Trump would be a hung jury with a single recalcitrant holdout. Any retrial would happen during the administration of whoever won the 2024 election.
+      
+
+       Are any of these obstacles insurmountable? No. But they are far more formidable than many observers think. The fundamental strength of Smith’s case mandated an indictment; bald-faced rejection of the legal system and manifest threats to national security could not be ignored. The strength also counsels optimism for a conviction. But the collateral factors of judge and jury make this a much harder case than the typical criminal prosecution.
+      
+
+       As always, this circumstance demonstrates that the criminal process is, in the long run, ill-suited as a vehicle for resolving the fundamental underlying political problems facing America. Those problems seep into the process and affect its operation. Ultimately, the only solutions to America’s political challenges lie in the political arena.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {"props":{"isLoggedIn":false,"hasPaywallAccess":false,"hasAdFree":false,"pageProps":{"id":"BlogArticle:674366","isTnfCompatible":true,"layout":"standard","hasMeter":true,"url":"https://www.theatlantic.com/ideas/archive/2023/06/three-biggest-obstacles-convicting-trump/674366/","dateModified":"2023-06-11T21:18:07Z","__typename":"BlogArticle","urqlState":{"2021745665":{"data":"{\"breakingNews\":null}"},"2680656855":{"data":"{\"article\":{\"primaryCategory\":{\"__typename\":\"Channel\"},\"editorialProject\":null,\"__typename\":\"BlogArticle\"}}"},"2693673344":{"data":"{\"article\":{\"id\":\"BlogArticle:674366\",\"isTnfCompatible\":true,\"layout\":\"standard\",\"hasMeter\":true,\"url\":\"https://www.theatlantic.com/ideas/archive/2023/06/three-biggest-obstacles-convicting-trump/674366/\",\"dateModified\":\"2023-06-11T21:18:07Z\",\"__typename\":\"BlogArticle\"}}"},"3975491049":{"data":"{\"article\":{\"__typename\":\"BlogArticle\",\"id\":\"BlogArticle:674366\",\"categories\":[{\"slug\":\"top-20\",\"__typename\":\"Category\"},{\"slug\":\"top-40\",\"__typename\":\"Category\"},{\"slug\":\"top-60\",\"__typename\":\"Category\"}],\"content\":[{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Donald Trump has been indicted on 37 felony counts related to his theft of classified documents and his obstruction of the investigation into that security breach. Now comes the hard part: trying the case.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Prosecutors often talk of the “cruel dilemma” they face: If they secure the conviction of a charged defendant, they are “just doing their job” and merit no substantial credit; if they indict and fail to secure that conviction, they have somehow messed up.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"To a large degree, this description is accurate. In a run-of-the-mill criminal case, notwithstanding the formal presumption of innocence, the prosecutor comes into the trial with a host of procedural and substantive advantages. In these routine cases, to lose is truly to err.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Not so with the case against Trump. Though the special counsel, Jack Smith, begins the proceedings with some significant pluses, he faces a much tougher road than prosecutors typically do. There is a more-than-reasonable possibility that Trump will never be convicted of the crimes with which he has been charged.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Smith’s most notable advantage is the factual strength of his case. In his speaking indictment (or, as Norm Eisen of the Brookings Institution called it, \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://twitter.com/NormEisen/status/1667243229916307480\\\"\u003ehis “shouting” indictment\u003c/a\u003e), Smith laid out the case against Trump in stark detail. To take but one example, the \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.law.cornell.edu/uscode/text/18/793\\\"\u003eEspionage Act\u003c/a\u003e criminalizes the “willful retention” of national-defense information. In a recording of his own voice, Trump admits to almost all of the essential elements of the criminal charge—that he has a document in his possession; that he knows it is national defense-information (involving a plan for an attack on a foreign nation); that he knows it is still classified; that he knows that he can’t declassify it.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"The indictment is replete with examples of the stunning depth and texture of Smith’s evidence. It references, for example, multiple text messages in which Trump’s co-defendant, Waltine Nauta, and other Trump employees discussed how the boxes containing classified documents were being handled at Trump’s express direction. It also references surveillance-camera footage showing Nauta removing boxes from a storage area before that area was to be canvassed for classified information. And it goes into painful detail about how Trump misled his own attorneys into falsely certifying that the search for classified documents was complete, and how he attempted to persuade one attorney to lie for him by removing particularly damning classified documents from the set he was going to produce to the government.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Smith’s case is also significantly bolstered by the underlying seriousness of the charges. Though Trump has tried to minimize the consequence of the papers he retained, and though the contents of the documents are not yet, and may never be, public, the description Smith has offered—documents “regarding defense and weapons capabilities of both the United States and foreign countries; United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack”—is chilling. Trump’s casualness in storing such important materials (and his apparent willingness to share some details contained in them with authors and one of his PAC employees) will surely be viewed skeptically by the jury when the matter goes to trial.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"In any other circumstances, given the weight of this evidence, the case would be a slam dunk. But in the current state of affairs, the case is more aptly characterized as a difficult contested shot from beyond the three-point arc.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"To begin with, Smith was exceedingly unlucky in his drawing of a judge. The case was assigned to Judge Aileen Cannon, the same judge whose interference in the original search of Mar-a-Lago was roundly criticized and rejected by the Eleventh Circuit (the appellate court that oversees her district). Her past rulings suggest that her instincts will favor Trump. Federal district judges have substantial discretion in the conduct of trials, and so their underlying proclivities can matter.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"To take one extreme example, consider the impact of \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.law.cornell.edu/rules/frcrmp/rule_29\\\"\u003eFederal Rule of Criminal Procedure 29(a)\u003c/a\u003e. This rule—obscure to most Americans, though well known in the criminal-defense bar—gives a federal judge the power to dismiss a prosecutor’s case at the end of the prosecutor’s presentation on a finding that the government has not presented sufficient evidence from which a jury could find guilt beyond a reasonable doubt. This broad discretion is rarely used, because it allows a judge to substitute their own judgment for that of the jury. But it does exist and, more important for our purposes, it is completely unreviewable. For reasons of double jeopardy, if a judge dismisses a case at the close of the prosecutor’s presentation, that’s the end of it. One does not have to be completely Machiavellian to see in this power the prospect of judicial interference and disruption.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"But we need not have anywhere near so dystopian a view of judges to worry about how one might conduct a trial. (And, to be clear, I have no reason to think that Judge Cannon would, in fact, use Rule 29[a] in an inappropriate manner). There are ample other ways, well within the bounds of discretion, in which a judge might impact the trial of a case. Consider just two more.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Within certain boundaries, trial judges have almost unreviewable discretion to determine what evidence will, and will not, be presented to a jury. Often, judges use that authority to trim frivolous defense arguments. Sovereign-tax protesters, for example, are not allowed to offer evidence that they think shows that the U.S. government is not constitutionally authorized to impose an income tax. Nonsense arguments like that are simply ruled out of bounds.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Many of Trump’s defenses to the espionage charges border on frivolous. The “I can declassify a document just by thinking about it” and the “I’m entitled to keep whatever documents I want from my presidency” defenses genuinely have no legal basis. Many judges would, quite properly, exclude testimony about those issues as an attempt to confuse the jury with irrelevant matters. But that decision is not inevitable, and a small minority of judges might reach the opposite conclusion, inevitably complicating Smith’s presentation of the case and reducing the likelihood of a conviction.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Far more prosaically, trial judges have near absolute and plenary authority over the timing of trials in their courtroom. They set the deadlines for when discovery must be completed, for when motions must be filed, for how quickly (or slowly) they decide those motions, and, ultimately, for when the trial will be scheduled.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"As the special counsel made clear \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.cbsnews.com/news/donald-trump-indictment-documents-special-counsel-jack-smith-statement-watch-livestream-2023-06-09/?ftag=YHF4eb9d17\\\"\u003ein his brief public remarks\u003c/a\u003e last Friday, he is seeking a relatively speedy trial. Beyond the normal concerns regarding delay—that evidence will grow stale or that witnesses will become available—he wants this trial to be resolved well before the 2024 presidential election. Many think that the public interest also counsels a quick resolution; as voters, we also want to know the result before the election.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Trump, by contrast, wants delay. Delay always benefits a defendant, but here, if the trial were postponed until after the 2024 election, there is every reason to think that a Republican victor (whether Trump or another candidate) would order the case dismissed. We cannot know now who will win, but in some ways the Trump candidacy is the ultimate plea for absolution from his criminal jeopardy. He is running for president in part to avoid jail.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Moreover, to be completely fair, though the average timeline for a typical white-collar case runs from nine to 12 months, it would be utterly unremarkable if this case were to take longer to come to trial. Given the uniqueness and complexity of some of the issues that might arise, even a completely neutral jurist might find it difficult to move this case along as rapidly as Smith would like. How much more likely is delay now that a Trump-friendly judge has been named?\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"The special counsel is not powerless in the face of these challenges. He may repeat his public call for a rapid trial in formal papers. He can make motions to exclude frivolous arguments, and attempt to convince a reluctant jurist with detailed legal reasoning. In the end, if he feels especially aggrieved, he can ask Judge Cannon to recuse herself or seek her recusal by the Eleventh Circuit. These steps are not wholly ineffective. But realistically, they are second-best solutions to a difficult problem. Even if successful, they will result in delay—and if unsuccessful, they will leave Smith no better off (and possibly worse off for having directly challenged the judge) than he was before.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"The choice of judge is not the only challenge Smith faces. The jury that will hear the case, or, more accurately, the jury pool from which the jurors will be drawn, will also be challenging. Like many observers, I thought that the special counsel would bring his charges in Washington, D.C., if only because doing so would let him draw from a jury pool that more than 90 percent of voted for Joe Biden in the last election.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"But venue is not always a choice; it is sometimes an inexorable constitutional command. And a review of the new indictment makes clear that most of the charges Smith has lodged could have been brought only in the Palm Beach division of the Southern District of Florida, where Mar-a-Lago is located. That jury pool is more evenly divided politically than the jury pool in D.C. To be sure, Biden won in Palm Beach County, with more than 433,000 votes. But Trump received more than 334,000 votes, and that 46 percent of the electorate is likely to be 46 percent of the pool from which the jury will be drawn.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Voting patterns, of course, are not an absolute proxy for a juror’s determination at trial. Indeed, the entire purpose of voir dire (the process of examining potential jurors before they are seated) is to weed out of the jury those who have already made up their mind and who cannot fairly hear the evidence. But a great deal of discretion goes into assessing a juror’s suitability (again, a role for the judge), and, more to the point, the standard to be applied is that a juror has already reached a decision.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"That does not, and cannot, mean that jurors may not have predispositions and biases. Many jurors (indeed, likely all of them) will come to the jury box with a preexisting view of Trump. And it would be both impossible and improper to seat a jury composed solely of Palm Beach Biden voters. At a minimum, some jurors will have inherent sympathy for the defendant—and the total number of them will likely be greater in Florida than in Washington, D.C.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"This, too, will make Smith’s case harder to win. Reluctant jurors can be persuaded by a strong case, such as the one against Trump. And experience tells us that convictions of Trump’s allies are possible. But most of the convictions thus far—such as those of Steve Bannon and Paul Manafort—have come in jurisdictions that have leaned decidedly against Trump. Even Trump’s civil trial in New York City, which had to deal with a diverse jury pool likely containing Trump-supporting jurors, occurred in a venue that was significantly weighted against Trump. Because this is the first significant instance in which a Trump-related case has been brought in a venue where the jury pool is politically balanced, the conduct of voir dire and the seating of a jury will be an especially important part of the case and another unusually notable obstacle to Smith’s success.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"And then, finally, there is the wild-card prospect of jury nullification—the possibility that an adamant pro-Trump supporter will be seated on the jury with the committed mission of refusing to convict Trump, against all the evidence. This risk is not unique to the Trump prosecution. It can arise in any political case and can even appear in situations (like the prosecution of minor drug offenses) where the identity of an individual defendant is irrelevant to the nullifier. But it seems clear to me that the risk of nullification is especially salient with high-profile defendants like Trump, who are often the beneficiaries of cultlike loyalty.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Here, too, Smith is not without recourse. Careful voir dire is intended to address this problem directly. But mendacious jurors who want to sit on a jury in order to disrupt it can be difficult to ferret out and seem more likely in the context of Trump’s trial than in most others. A complacent judge will only exacerbate the problem. It is by no means improbable that the end result of a lengthy trial of Trump would be a hung jury with a single recalcitrant holdout. Any retrial would happen during the administration of whoever won the 2024 election.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Are any of these obstacles insurmountable? No. But they are far more formidable than many observers think. The fundamental strength of Smith’s case mandated an indictment; bald-faced rejection of the legal system and manifest threats to national security could not be ignored. The strength also counsels optimism for a conviction. But the collateral factors of judge and jury make this a much harder case than the typical criminal prosecution.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"As always, this circumstance demonstrates that the criminal process is, in the long run, ill-suited as a vehicle for resolving the fundamental underlying political problems facing America. Those problems seep into the process and affect its operation. Ultimately, the only solutions to America’s political challenges lie in the political arena.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"\"}],\"editorialProject\":null,\"primaryCategory\":{\"__typename\":\"Channel\",\"displayName\":\"Ideas\",\"url\":\"https://www.theatlantic.com/ideas/\",\"slug\":\"ideas\"},\"reviews\":[],\"embeds\":[],\"authors\":[{\"id\":\"Author:19904\",\"displayName\":\"Paul Rosenzweig\",\"url\":\"https://www.theatlantic.com/author/paul-rosenzweig/\",\"biography\":{\"default\":\"\u003ca href=\\\"https://www.theatlantic.com/author/paul-rosenzweig/\\\" class=\\\"author-link\\\" data-label=\\\"https://www.theatlantic.com/author/paul-rosenzweig/\\\" data-action=\\\"click author - name\\\"  \u003ePaul Rosenzweig\u003c/a\u003e is a principal at Red Branch Consulting. From 2005 to 2009 he was the deputy assistant secretary for policy of the Department of Homeland Security, overseeing the U.S. Secret Service. He teaches cybersecurity at the George Washington University Law School. Twenty years ago, he served as a senior counsel in the investigation of President Bill Clinton.\",\"__typename\":\"Biography\"},\"socialMedia\":[],\"__typename\":\"Author\",\"slug\":\"paul-rosenzweig\"}],\"preview\":null,\"layout\":\"standard\",\"secondaryByline\":\"\",\"dek\":\"Although Special Counsel Jack Smith has brought a strong case, he still faces significant challenges.\",\"url\":\"https://www.theatlantic.com/ideas/archive/2023/06/three-biggest-obstacles-convicting-trump/674366/\",\"title\":\"The Three Biggest Obstacles to Convicting Trump\",\"seoTitle\":\"The Three Biggest Obstacles to Convicting Trump\",\"dateModified\":\"2023-06-11T21:18:07Z\",\"datePublished\":\"2023-06-11T16:52:27Z\",\"hasMeter\":true,\"primaryChannel\":{\"displayName\":\"Ideas\",\"__typename\":\"Channel\",\"slug\":\"ideas\"},\"shareImage1x1\":{\"width\":1080,\"height\":1080,\"url\":\"https://cdn.theatlantic.com/thumbor/eSHiYQgpOChJIR2rO3w14XvCvyE=/438x0:1563x1125/1080x1080/media/img/mt/2023/06/TrumpIndictment/original.png\",\"__typename\":\"BasicImage\"},\"shareImage16x9\":{\"width\":1600,\"height\":900,\"url\":\"https://cdn.theatlantic.com/thumbor/YEugq--rgq_GHu7ZYI441eyzsl8=/0x0:2000x1125/1600x900/media/img/mt/2023/06/TrumpIndictment/original.png\",\"__typename\":\"BasicImage\"},\"shareImage4x3\":{\"width\":1200,\"height\":900,\"url\":\"https://cdn.theatlantic.com/thumbor/HawUa21bacxQEeMrHJHA4IBS0m0=/249x0:1749x1125/1200x900/media/img/mt/2023/06/TrumpIndictment/original.png\",\"__typename\":\"BasicImage\"},\"shareImageDefault\":{\"width\":960,\"height\":540,\"url\":\"https://cdn.theatlantic.com/thumbor/njWgB82A-SBskS8ZbRt31y_FWw0=/0x0:2000x1125/960x540/media/img/mt/2023/06/TrumpIndictment/original.png\",\"__typename\":\"BasicImage\"},\"shareImageSquareDefault\":{\"width\":540,\"height\":540,\"url\":\"https://cdn.theatlantic.com/thumbor/Q0KeWWvDN7VXZfXyzl5sXeId868=/438x0:1563x1125/540x540/media/img/mt/2023/06/TrumpIndictment/original.png\",\"__typename\":\"BasicImage\"},\"shareImageLeadArt\":{\"image\":{\"width\":720,\"height\":405,\"url\":\"https://cdn.theatlantic.com/thumbor/vzqEnFbUVzWov2IbagvDBbF428w=/0x0:2000x1125/720x405/media/img/mt/2023/06/TrumpIndictment/original.png\",\"__typename\":\"BasicImage\"},\"__typename\":\"LeadArtImage\"},\"shareDek\":\"Although Special Counsel Jack Smith has brought a strong case, he still faces significant challenges.\",\"shareText\":\"\\\"Though the special counsel, Jack Smith, begins the proceedings with some significant pluses, he faces a much tougher road than prosecutors typically do.\\\" @RosenzweigP details the three biggest obstacles to convicting Donald Trump:\",\"shareTitle\":\"The Three Biggest Obstacles to Convicting Trump\",\"editorsNote\":null,\"leadArt\":{\"__typename\":\"LeadArtImage\",\"image\":{\"url\":\"https://cdn.theatlantic.com/thumbor/njWgB82A-SBskS8ZbRt31y_FWw0=/0x0:2000x1125/960x540/media/img/mt/2023/06/TrumpIndictment/original.png\",\"width\":960,\"height\":540,\"srcSet\":\"https://cdn.theatlantic.com/thumbor/HkHGp8SLjYBVY0aCqjg3wNL3Ico=/0x0:2000x1125/750x422/media/img/mt/2023/06/TrumpIndictment/original.png 750w, https://cdn.theatlantic.com/thumbor/KJFsq6O7s3TzJgcq9wGy3Jt_JAs=/0x0:2000x1125/828x466/media/img/mt/2023/06/TrumpIndictment/original.png 828w, https://cdn.theatlantic.com/thumbor/njWgB82A-SBskS8ZbRt31y_FWw0=/0x0:2000x1125/960x540/media/img/mt/2023/06/TrumpIndictment/original.png 960w, https://cdn.theatlantic.com/thumbor/PFrP5ckivxIX0u1iaVY9jfWjiLY=/0x0:2000x1125/976x549/media/img/mt/2023/06/TrumpIndictment/original.png 976w, https://cdn.theatlantic.com/thumbor/RCJFuDlGuYYjgIAghmNlMVenXbM=/0x0:2000x1125/1952x1098/media/img/mt/2023/06/TrumpIndictment/original.png 1952w\",\"reducedMotionSrcSet\":null,\"altText\":\"Illustration of Donald Trump\",\"captionText\":\"\",\"attributionText\":\"The Atlantic; Source: Brandon Bell / Getty\",\"attributionUrl\":\"\",\"__typename\":\"BasicImage\"}},\"narratedAudio\":null,\"narratedAudioImage\":{\"url\":\"https://cdn.theatlantic.com/thumbor/eqwbRNY7GdHlnEiHGDCY4YbQdj0=/438x0:1563x1125/80x80/media/img/mt/2023/06/TrumpIndictment/original.png\",\"srcSet\":\"https://cdn.theatlantic.com/thumbor/eqwbRNY7GdHlnEiHGDCY4YbQdj0=/438x0:1563x1125/80x80/media/img/mt/2023/06/TrumpIndictment/original.png 80w, https://cdn.theatlantic.com/thumbor/XYoecQ4PmY9EeHamKG8ze0grxAA=/438x0:1563x1125/96x96/media/img/mt/2023/06/TrumpIndictment/original.png 96w, https://cdn.theatlantic.com/thumbor/yMr4P2uycuZ54NSej5QXZxsHfUg=/438x0:1563x1125/128x128/media/img/mt/2023/06/TrumpIndictment/original.png 128w, https://cdn.theatlantic.com/thumbor/tcPWrX202D5ZFQMh1kSyoPM6ugo=/438x0:1563x1125/160x160/media/img/mt/2023/06/TrumpIndictment/original.png 160w, https://cdn.theatlantic.com/thumbor/2_fdcQ2LCJe-4pSAOv50UG8mtFc=/438x0:1563x1125/192x192/media/img/mt/2023/06/TrumpIndictment/original.png 192w, https://cdn.theatlantic.com/thumbor/wXusqFVmcrXhSnITNSxverXfzv4=/438x0:1563x1125/256x256/media/img/mt/2023/06/TrumpIndictment/original.png 256w, https://cdn.theatlantic.com/thumbor/yvhFYBYnacI3bAOGvT4VfetJnL0=/438x0:1563x1125/384x384/media/img/mt/2023/06/TrumpIndictment/original.png 384w, https://cdn.theatlantic.com/thumbor/_4wZmIxp1Mr1oHwsdMz6OCm4Abg=/438x0:1563x1125/512x512/media/img/mt/2023/06/TrumpIndictment/original.png 512w\",\"width\":80,\"height\":80,\"altText\":\"Illustration of Donald Trump\",\"__typename\":\"BasicImage\"},\"fbiaUrl\":\"https://www.theatlantic.com/facebook-instant/article/674366/\",\"canonicalUrl\":\"https://www.theatlantic.com/ideas/archive/2023/06/three-biggest-obstacles-convicting-trump/674366/\",\"syndication\":\"ALL\",\"shareImage2x1\":{\"url\":\"https://cdn.theatlantic.com/thumbor/eed4GZ2c75viP0Yfhl1MVvy34gM=/0x43:2000x1085/1200x625/media/img/mt/2023/06/TrumpIndictment/original.png\",\"height\":625,\"width\":1200,\"__typename\":\"BasicImage\"},\"shareImageSmall\":{\"url\":\"https://cdn.theatlantic.com/thumbor/dUz0i5an5A8fUYoleGt4C6e-4k0=/4x41:1996x1087/960x504/media/img/mt/2023/06/TrumpIndictment/original.png\",\"height\":504,\"width\":960,\"__typename\":\"BasicImage\"},\"channels\":[{\"slug\":\"ideas\",\"__typename\":\"Channel\"}],\"watsonInfo\":{\"keywords\":[\"criminal case\",\"Donald Trump\",\"drawing of a judge\",\"theft of classified documents\",\"routine cases\",\"Jack Smith\",\"special counsel\",\"conviction of a charged defendant\",\"jury pool\",\"much tougher road\",\"United States\",\"classified documents\",\"conduct of trials\",\"federal judge\",\"Federal district judges\",\"Trump’s casualness\",\"factual strength of his case\",\"hard part\",\"national-defense information\",\"jury\",\"foreign nation\",\"substantial discretion\",\"juror’s determination\",\"end of the prosecutor\",\"essential elements of the criminal charge\",\"such important materials\",\"difficult problem\",\"long run\",\"reasons of double jeopardy\",\"typical criminal prosecution.As\",\"storage area\",\"total number\",\"review of the new indictment\",\"more-than-reasonable possibility\",\"Judge Aileen Cannon\",\"difficult contested shot\",\"extreme example\",\"classified information\",\"trial\",\"great deal of discretion\",\"Joe Biden\",\"jurors\",\"foreign countries\",\"recording of his own voice\",\"presidential election\",\"text messages\",\"wild-card prospect of jury nullification\",\"Trump\",\"conduct of voir\",\"potential jurors\"],\"__typename\":\"WatsonInfo\"},\"slug\":\"three-biggest-obstacles-convicting-trump\",\"grapeshot\":{\"segments\":[\"shadow9hu7_pos_bofa-kwlist\",\"gb_safe\",\"pos_safe_core\",\"pos_safe_strict\",\"gs_law\",\"gs_politics\",\"shadow9hu7_pos_customtopics\",\"shadow9hu7_pos_lexus_fy23\",\"gt_negative\",\"gs_law_misc\",\"gs_politics_misc\",\"gs_politics_issues_policy\",\"elections\",\"gs_politics_elections\",\"gt_negative_anger\"],\"__typename\":\"Grapeshot\"},\"advertisingInfo\":{\"disableHouseAd\":false,\"__typename\":\"AdvertisingInfo\"}}}"}},"urqlClient":null}},"page":"/[channel]/archive/[year]/[month]/[slug]/[id]","query":{"channel":"ideas","year":"2023","month":"06","slug":"three-biggest-obstacles-convicting-trump","id":"674366"},"buildId":"d9bea7393d","assetPrefix":"https://cdn.theatlantic.com","runtimeConfig":{"GTM_CONTAINER_ID":"GTM-NTQTB9V","GTM_CONTAINER_ID_NONCONSENTED":"GTM-5839GV7","GRAPHQL_API_URL":"https://graphql.theatlantic.com","GRAPHQL_API_KEY":"JakhyMEXwa9odtB8gBxFI63ITyKqDGkn7ciGVIJf","ADS_LIB_URL":"https://www.theatlantic.com/packages/adsjs/ads.min.js","ACCOUNTS_FRONTEND_URL":"https://accounts.theatlantic.com","ENABLE_FEATURE_ARTICLE_RENDER":"false","RECAPTCHA_SITE_KEY":"6Lc9Z7AUAAAAAEYS1dgAG2_6tT3KLqZQ1z4kbDRc"},"isFallback":false,"dynamicIds":[40487,91860],"gip":true,"appGip":true,"scriptLoader":[]}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

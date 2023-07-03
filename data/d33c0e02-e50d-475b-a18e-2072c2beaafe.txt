@@ -1,0 +1,1911 @@
+
+
+
+
+   Texas Republicans in Congress defend Donald Trump after federal indictment | The Texas Tribune
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {"@context": "https://schema.org/", "@type": "NewsArticle", "url": "https://www.texastribune.org/2023/06/09/donald-trump-indicted-texas-republicans/", "mainEntityOfPage": {"@type": "WebPage", "@id": "https://www.texastribune.org/2023/06/09/donald-trump-indicted-texas-republicans/"}, "inLanguage": "en_US", "isAccessibleForFree": true, "headline": "Texas Republicans in Congress defend Donald Trump after federal indictment", "alternativeHeadline": "Texas Republicans in Congress stand behind Donald Trump after federal indictment", "description": "GOP lawmakers dismiss the charges over classified documents as a partisan attack, but Democrats say the matter proves nobody is above the law.", "datePublished": "2023-06-09T21:04:32+00:00", "dateModified": "2023-06-10T02:20:14.244787+00:00", "author": [{"@type": "Person", "name": "Olivia Alafriz", "url": "https://www.texastribune.org/about/staff/olivia-alafriz/", "affiliation": {"@type": "NewsMediaOrganization", "name": "The Texas Tribune"}, "sameAs": ["https://twitter.com/oliviaalafriz"], "knowsAbout": [{"@type": "Thing", "name": "politics"}, {"@type": "Thing", "name": "Congress"}, {"@type": "Thing", "name": "Donald Trump"}, {"@type": "Thing", "name": "Chip Roy"}], "image": "https://thumbnails.texastribune.org/A7LKq5_1e7pswwE0T8KbzwJVfuw=/105x155/smart/filters:quality(85)/https://static.texastribune.org/media/profiles/Alafriz_Olivia_-_Olivia_Alafriz.jpeg", "jobTitle": "Fellow", "description": "Olivia Alafriz is a summer 2023 reporting fellow based in Washington, D.C. Previously, Olivia interned with CNN’s KFile team, doing investigative reporting on political candidates and elected officials across the country. She grew up in Huntington Beach, California, and Vienna, Austria, before moving to Washington, D.C. to study journalism and political science at American University.", "workLocation": {"@type": "Place", "name": "Texas, United States"}}, {"@type": "Person", "name": "Matthew Choi", "url": "https://www.texastribune.org/about/staff/matthew-choi/", "affiliation": {"@type": "NewsMediaOrganization", "name": "The Texas Tribune"}, "sameAs": ["https://twitter.com/matthewchoi2018"], "knowsAbout": [{"@type": "Thing", "name": "Congress"}, {"@type": "Thing", "name": "politics"}, {"@type": "Thing", "name": "U.S. House of Representatives"}, {"@type": "Thing", "name": "immigration"}], "image": "https://thumbnails.texastribune.org/t6L1zJxcxNJ6sxDAb10VCMcQLTw=/105x155/smart/filters:quality(85)/https://static.texastribune.org/media/profiles/Matthew_Choi_2x3.jpg", "jobTitle": "Washington Correspondent", "description": "Matthew Choi is a Washington correspondent for The Texas Tribune. He previously covered energy and climate policy at Politico, where he wrote the Morning Energy newsletter and covered campaign events as a breaking news reporter during the 2020 presidential election and the Mueller investigation. Before joining Politico, Matthew was a two-time reporting fellow at The Texas Tribune based in Austin, reporting on education, health care, immigration, guns, agriculture and land management. He graduated from Northwestern University where he studied journalism and political science and was managing editor of The Daily Northwestern. Matthew is a native of Northern Virginia and speaks both French and English. In his free time, Matthew enjoys cooking French country food while listening to Simon and Garfunkel.", "workLocation": {"@type": "Place", "name": "Washington, D.C., United States"}}], "articleSection": "politics", "image": {"@type": "ImageObject", "url": "https://thumbnails.texastribune.org/7gcNvG7YbR3OxsBx6S4V-0qyATY=/450x300/https://static.texastribune.org/media/files/f925dc7b8905a15093269e0875c3648d/0325%20Waco%20Trump%20Rally%20LS%20TT%2007.jpg", "width": 450, "height": 300, "caption": "Hundreds of people gathered to attend former President Donald Trump's first 2024 presidential campaign rally in Waco on March 25, 2023."}, "keywords": ["politics", "Congress", "Donald Trump", "John Cornyn", "Ted Cruz", "Michael Cloud", "Chip Roy", "Jasmine Felicia Crockett", "Ronny Jackson", "Beth Van Duyne"], "publisher": {"@type": "NewsMediaOrganization", "name": "The Texas Tribune", "publishingPrinciples": "https://www.texastribune.org/about/", "logo": {"@type": "ImageObject", "url": "https://www.texastribune.org/static/images/logo.png"}}, "thumbnailUrl": "https://thumbnails.texastribune.org/7gcNvG7YbR3OxsBx6S4V-0qyATY=/450x300/https://static.texastribune.org/media/files/f925dc7b8905a15093269e0875c3648d/0325%20Waco%20Trump%20Rally%20LS%20TT%2007.jpg", "creator": [{"@type": "Person", "name": "Olivia Alafriz", "url": "https://www.texastribune.org/about/staff/olivia-alafriz/", "affiliation": {"@type": "NewsMediaOrganization", "name": "The Texas Tribune"}, "sameAs": ["https://twitter.com/oliviaalafriz"], "knowsAbout": [{"@type": "Thing", "name": "politics"}, {"@type": "Thing", "name": "Congress"}, {"@type": "Thing", "name": "Donald Trump"}, {"@type": "Thing", "name": "Chip Roy"}], "image": "https://thumbnails.texastribune.org/A7LKq5_1e7pswwE0T8KbzwJVfuw=/105x155/smart/filters:quality(85)/https://static.texastribune.org/media/profiles/Alafriz_Olivia_-_Olivia_Alafriz.jpeg", "jobTitle": "Fellow", "description": "Olivia Alafriz is a summer 2023 reporting fellow based in Washington, D.C. Previously, Olivia interned with CNN’s KFile team, doing investigative reporting on political candidates and elected officials across the country. She grew up in Huntington Beach, California, and Vienna, Austria, before moving to Washington, D.C. to study journalism and political science at American University.", "workLocation": {"@type": "Place", "name": "Texas, United States"}}, {"@type": "Person", "name": "Matthew Choi", "url": "https://www.texastribune.org/about/staff/matthew-choi/", "affiliation": {"@type": "NewsMediaOrganization", "name": "The Texas Tribune"}, "sameAs": ["https://twitter.com/matthewchoi2018"], "knowsAbout": [{"@type": "Thing", "name": "Congress"}, {"@type": "Thing", "name": "politics"}, {"@type": "Thing", "name": "U.S. House of Representatives"}, {"@type": "Thing", "name": "immigration"}], "image": "https://thumbnails.texastribune.org/t6L1zJxcxNJ6sxDAb10VCMcQLTw=/105x155/smart/filters:quality(85)/https://static.texastribune.org/media/profiles/Matthew_Choi_2x3.jpg", "jobTitle": "Washington Correspondent", "description": "Matthew Choi is a Washington correspondent for The Texas Tribune. He previously covered energy and climate policy at Politico, where he wrote the Morning Energy newsletter and covered campaign events as a breaking news reporter during the 2020 presidential election and the Mueller investigation. Before joining Politico, Matthew was a two-time reporting fellow at The Texas Tribune based in Austin, reporting on education, health care, immigration, guns, agriculture and land management. He graduated from Northwestern University where he studied journalism and political science and was managing editor of The Daily Northwestern. Matthew is a native of Northern Virginia and speaks both French and English. In his free time, Matthew enjoys cooking French country food while listening to Simon and Garfunkel.", "workLocation": {"@type": "Place", "name": "Washington, D.C., United States"}}]}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           /**
+    Promises
+    https://github.com/bramstein/fontfaceobserver
+  */
+  (function(){'use strict';var f,g=[];function l(a){g.push(a);1==g.length&&f()}function m(){for(;g.length;)g[0](),g.shift()}f=function(){setTimeout(m)};function n(a){this.a=p;this.b=void 0;this.f=[];var b=this;try{a(function(a){q(b,a)},function(a){r(b,a)})}catch(c){r(b,c)}}var p=2;function t(a){return new n(function(b,c){c(a)})}function u(a){return new n(function(b){b(a)})}function q(a,b){if(a.a==p){if(b==a)throw new TypeError;var c=!1;try{var d=b&&b.then;if(null!=b&&"object"==typeof b&&"function"==typeof d){d.call(b,function(b){c||q(a,b);c=!0},function(b){c||r(a,b);c=!0});return}}catch(e){c||r(a,e);return}a.a=0;a.b=b;v(a)}}
+  function r(a,b){if(a.a==p){if(b==a)throw new TypeError;a.a=1;a.b=b;v(a)}}function v(a){l(function(){if(a.a!=p)for(;a.f.length;){var b=a.f.shift(),c=b[0],d=b[1],e=b[2],b=b[3];try{0==a.a?"function"==typeof c?e(c.call(void 0,a.b)):e(a.b):1==a.a&&("function"==typeof d?e(d.call(void 0,a.b)):b(a.b))}catch(h){b(h)}}})}n.prototype.g=function(a){return this.c(void 0,a)};n.prototype.c=function(a,b){var c=this;return new n(function(d,e){c.f.push([a,b,d,e]);v(c)})};
+  function w(a){return new n(function(b,c){function d(c){return function(d){h[c]=d;e+=1;e==a.length&&b(h)}}var e=0,h=[];0==a.length&&b(h);for(var k=0;k<a.length;k+=1)u(a[k]).c(d(k),c)})}function x(a){return new n(function(b,c){for(var d=0;d<a.length;d+=1)u(a[d]).c(b,c)})};window.Promise||(window.Promise=n,window.Promise.resolve=u,window.Promise.reject=t,window.Promise.race=x,window.Promise.all=w,window.Promise.prototype.then=n.prototype.c,window.Promise.prototype["catch"]=n.prototype.g);}());
+          
+
+
+
+           var dataLayer = window.dataLayer || [];
+
+  dataLayer.push({
+    contentType: 'article',
+    contentCategory: 'News'
+  });
+          
+
+           dataLayer.push({
+    author: 'Matthew Choi|Olivia Alafriz',
+    contentID: '42887',
+    contentSeries: 'None',
+    primaryTags: 'Congress',
+    publishDate: '06-09-2023',
+    tags: 'politics,Congress,Donald Trump,John Cornyn,Ted Cruz,Michael Cloud,Chip Roy,Jasmine Felicia Crockett,Ronny Jackson,Beth Van Duyne',
+    title: 'Texas Republicans in Congress stand behind Donald Trump after federal indictment'
+  });
+          
+
+           (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+          new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+          j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+          'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+          })(window,document,'script','dataLayer','GTM-P5L2Z5Z');
+          
+
+           window.ttGlobal = { pageType: 'generic' };
+          
+
+           document
+            .documentElement
+            .classList
+            .remove('no-js');
+          
+
+
+
+
+
+
+
+   Skip to main content
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Investigations
+       
+
+
+
+        Newsletters
+       
+
+
+
+        Events
+       
+
+
+
+        Audio
+       
+
+
+
+        Data
+       
+
+
+
+
+
+
+         Donate
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Menu
+        
+
+
+
+
+
+
+
+
+
+
+
+         Close
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Donate
+       
+
+
+
+
+       Investigations
+      
+
+
+
+       Newsletters
+      
+
+
+
+       Events
+      
+
+
+
+       Audio
+      
+
+
+
+       Data
+      
+
+
+
+
+
+
+
+   (function() {
+  function bindSearchOpen(elements) {
+    var searchOpen = elements.searchOpen;
+    var searchForm = elements.searchForm;
+    var searchInput = elements.searchInput;
+    var toggleOnSearch = elements.toggleOnSearch;
+
+    searchOpen.addEventListener('click', function () {
+      searchForm.classList.remove('hidden');
+      toggleOnSearch.forEach(function (el) {
+        el.classList.add('hidden');
+        searchInput.focus();
+      });
+    });
+  }
+
+  function bindSearchClose(elements) {
+    var searchClose = elements.searchClose;
+    var searchForm = elements.searchForm;
+    var toggleOnSearch = elements.toggleOnSearch;
+
+    searchClose.addEventListener('click', function () {
+      searchForm.classList.add('hidden');
+      toggleOnSearch.forEach(function (el) {
+        el.classList.remove('hidden');
+      });
+    });
+  }
+
+  function bindMenuOpen(elements) {
+    var menuOpen = elements.menuOpen;
+    var menuClose = elements.menuClose;
+    var dropdown = elements.dropdown;
+
+    menuOpen.addEventListener('click', function () {
+      menuOpen.classList.add('hidden');
+      menuClose.classList.remove('hidden');
+      dropdown.classList.remove('hidden');
+    });
+  }
+
+  function bindMenuClose(elements) {
+    var menuOpen = elements.menuOpen;
+    var menuClose = elements.menuClose;
+    var dropdown = elements.dropdown;
+
+    menuClose.addEventListener('click', function () {
+      menuOpen.classList.remove('hidden');
+      menuClose.classList.add('hidden');
+      dropdown.classList.add('hidden');
+    });
+  }
+
+  function getElements() {
+    var toggleOnSearch = document.querySelectorAll('.js-toggle-on-search');
+    var menuOpen = document.querySelector('#nav-menu-open');
+    var menuClose = document.querySelector('#nav-menu-close');
+    var searchForm = document.querySelector('#nav-search-form');
+    var searchInput = document.querySelector('.js-search-input');
+    var searchOpen = document.querySelector('#nav-search-open');
+    var searchClose = document.querySelector('#nav-search-close');
+    var dropdown = document.querySelector('#nav-dropdown');
+
+    return {
+      toggleOnSearch: toggleOnSearch,
+      menuOpen: menuOpen,
+      menuClose: menuClose,
+      searchForm: searchForm,
+      searchInput: searchInput,
+      searchOpen: searchOpen,
+      searchClose: searchClose,
+      dropdown: dropdown
+    };
+  }
+
+  function bindNavEvents() {
+    const elements = getElements();
+    bindSearchOpen(elements);
+    bindSearchClose(elements);
+    bindMenuOpen(elements);
+    bindMenuClose(elements);
+  }
+
+  bindNavEvents();
+}());
+  
+
+
+    Key coverage
+   
+
+
+
+
+
+
+         Donate
+        
+
+
+
+         Paxton Impeachment
+        
+
+
+
+         2023 Legislative Session
+        
+
+
+
+         Houston Evictions
+        
+
+
+
+         James Byrd Jr.
+        
+
+
+
+         Texas Tribune Festival
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Texas Republicans in Congress stand behind Donald Trump after federal indictment
+       
+
+
+
+
+
+         GOP lawmakers dismiss the charges over classified documents as a partisan attack, but Democrats say the matter proves nobody is above the law.
+        
+
+
+
+
+         by
+         
+          Matthew Choi
+         
+         and
+         
+          Olivia Alafriz
+         
+
+
+         June 9, 2023
+        
+
+         Updated: 8 PM Central
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Copy link
+         
+
+
+
+
+         Republish
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Former President Donald Trump's presidential campaign rally drew crowds to Waco on March 25, 2023.
+       
+
+
+         Credit:
+        
+
+
+
+
+
+
+        Leila Saidane/The Texas Tribune
+       
+
+
+
+
+
+
+
+
+
+         Sign up for The Brief
+        
+        , The Texas Tribune’s daily newsletter that keeps readers up to speed on the most essential Texas news.
+       
+
+
+
+       WASHINGTON — A 37-count federal indictment, unsealed Friday, accused former President Donald Trump of lying to federal investigators as part of a scheme to keep classified documents in his possession, but numerous Texas Republicans continue to stand by him, dismissing the charges as a partisan ploy.
+      
+
+       “Today is a very sad day in American history,” Sen.
+       
+        Ted Cruz
+       
+       , R-Texas, said on his podcast Friday. “We have never in over two centuries of our nation’s history had a new president who launched the entire Department of Justice, the entire machinery of justice on a vendetta to persecute, to attack, to investigate, to indict, to try to throw in jail the former president who, it should be noted, is also currently the leading contender on the Republican side to run against the current president.”
+      
+
+       A federal grand jury in Florida indicted Trump on Thursday over his handling of classified documents at Mar-a-Lago, his Florida home, as well as efforts to hide them from federal agents.
+      
+
+       Federal agents found troves of documents marked classified, including “information regarding defense and weapons capabilities of both the United States and foreign countries; United States nuclear programs; potential vulnerabilities of the United States and its allies to military attack; and plans for possible retaliation in response to a foreign attack,” according to the indictment.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+       But several Texas Republicans quickly rallied to Trump’s defense and echoed his claims of a partisan attack.
+      
+
+       “WITCH HUNT!!! They KNOW they can’t beat Trump at the ballot box, so Biden has WEAPONIZED our entire federal government against him,” tweeted U.S. Rep.
+       
+        Ronny Jackson
+       
+       , R-Amarillo, who previously served as Trump’s White House doctor. “This is a DARK DAY in American history, but we’ll get the last laugh. Trump will be BACK in the White House!!”
+      
+
+       “The Merrick Garland indictment of
+       
+        @realDonaldTrump
+       
+       is a blatant and disgraceful political hit job. As President, Trump could declassify anything he wanted,” tweeted Rep.
+       
+        Beth Van Duyne
+       
+       , R-Irving. “Biden had documents all over the eastern seaboard before he was President.”
+      
+
+       U.S. Rep.
+       
+        Chip Roy
+       
+       , who has endorsed Florida Gov. Ron DeSantis’ presidential bid, also came to Trump’s defense.
+      
+
+
+
+
+
+
+
+
+
+       “The rule of law & strength of our nation depend on the blind application of justice & rejection of the politicization of DOJ. From Mark Houck & Scott Smith to President Trump - even as the Biden family corruption has long been ignored - Congress must act to restore norms,” Roy tweeted.
+      
+
+       U.S. Rep.
+       
+        Michael Cloud
+       
+       , R-Victoria, who sits on the powerful House Appropriations Committee, bashed the investigation as perverse and threatened future funding for a new FBI headquarters “to stop forcing taxpayers to fund these nefarious actions.”
+      
+
+       Republican U.S. Reps.
+       
+        Keith Self
+       
+       ,
+       
+        Pat Fallon
+       
+       ,
+       
+        Lance Gooden
+       
+       ,
+       
+        August Pfluger
+       
+       ,
+       
+        Randy Weber
+       
+       ,
+       
+        Troy Nehls
+       
+       ,
+       
+        Roger Williams
+       
+       ,
+       
+        Brian Babin
+       
+       ,
+       
+        Michael Burgess
+       
+       and
+       
+        Wesley Hunt
+       
+       released similar statements.
+      
+
+       U.S. Sen.
+       
+        John Cornyn
+       
+       , R-Texas,
+       
+        told NBC News
+       
+       he didn’t want to comment on the case “until we know the facts.” Cornyn has shied away from endorsing any Republican presidential candidate but has expressed doubt that Trump could win if he secured the nomination.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+       Trump immediately dismissed the indictment as “election interference” on his Truth Social platform — an echo of his defense during the August search of his home. He accused President Joe Biden of siccing the Justice Department to sweep away a top Republican candidate in 2024.
+      
+
+       U.S. Rep.
+       
+        Jasmine Crockett
+       
+       , D-Dallas, a former public defender, rejected the characterization, tweeting Biden “didn’t INDICT ANYONE. The secret grand jury of his Florida peers indicted Trump! What’s unconscionable is pushing this propaganda or maybe defending a twice impeached multi indicted sexual abuser.”
+      
+
+       Other Texas Democrats insisted Trump be tried for alleged crimes like any other American. U.S. Rep.
+       
+        Al Green
+       
+       , D-Houston, said in a statement that Trump “deserves his day in court, and the American people deserve justice.”
+      
+
+       U.S. Rep.
+       
+        Lizzie Fletcher,
+       
+       D-Houston, said the "indictment of former President Trump reflects the rule of law at work. It is important for our country to let the legal process proceed in the courts, without the interference of politicians."
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+       "No person in the United States, including the President, is above the law," Fletcher said in a statement.
+      
+
+       U.S. Rep.
+       
+        Marc Veasey
+       
+       , D-Fort Worth, said Trump had numerous opportunities to turn over the classified documents, adding “no other citizen in our great land would have been allowed as many opportunities to do the right thing.”
+      
+
+       “When I was an impeachment manager, I argued that Trump incited an insurrection that gave our foreign enemies unprecedented exposure to the halls of Congress. Again and again, his crimes put our national security at risk,” U.S. Rep.
+       
+        Joaquin Castro
+       
+       , D-San Antonio, said in a tweet. “Nobody — not even a former President — is above the law.”
+      
+
+       U.S. Rep.
+       
+        Colin Allred
+       
+       , D-Dallas, blasted Cruz for casting the indictment as a partisan ploy as "wrong and Texans deserve better from their Senator.” Allred is challenging Cruz for his Senate seat in 2024.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+       The indictment is Trump’s second after a New York grand jury charged him over his role in allegedly paying hush money to porn actress Stormy Daniels to cover up an affair. He is also subject to another investigation in Georgia over his efforts to overturn the 2020 presidential election.
+      
+
+
+
+        Go behind the headlines with newly announced speakers at the
+        
+         2023 Texas Tribune Festival
+        
+        , in downtown Austin from Sept. 21-23. Join them to get their take on what’s next for Texas and the nation.
+       
+
+
+
+
+
+
+
+
+        Quality journalism doesn't come free
+       
+
+        Perhaps it goes without saying — but producing quality journalism isn't cheap. At a time when newsroom resources and revenue across the country are declining, The Texas Tribune remains committed to sustaining our
+        
+         mission
+        
+        : creating a more engaged and informed Texas with every story we cover, every event we convene and every newsletter we send. As a nonprofit newsroom, we rely on members to help keep our stories free and our events open to the public. Do you value our journalism? Show us with your support.
+       
+
+
+         Yes, I'll donate today
+        
+
+
+
+
+
+
+
+
+      Information about the authors
+     
+
+
+
+
+
+
+
+
+
+
+
+
+           Matthew Choi
+          
+
+
+          Washington Correspondent
+         
+
+
+
+
+
+
+
+
+
+
+
+            mchoi@texastribune.org
+           
+
+
+
+
+
+
+
+
+
+            @matthewchoi2018
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Olivia Alafriz
+          
+
+
+          Fellow
+         
+
+
+
+
+
+
+
+
+
+
+
+            olivia.alafriz@texastribune.org
+           
+
+
+
+
+
+
+
+
+
+            @oliviaalafriz
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Latest Texas Tribune events and articles
+   
+
+
+
+
+
+
+         Upcoming events
+        
+
+         Loading content …
+        
+
+
+
+
+           Loading indicator
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Loading indicator
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Loading indicator
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Latest from our reporters
+        
+
+         Loading content …
+        
+
+
+
+
+           Loading indicator
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Loading indicator
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Loading indicator
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Loading indicator
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Loading indicator
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Loading indicator
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Loading indicator
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Loading indicator
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Donate
+       
+
+
+
+        View your giving history
+       
+
+
+
+        Contact us
+       
+
+
+
+        Advertise
+       
+
+
+
+        Send us a confidential tip
+       
+
+
+
+        © 2023 The Texas Tribune
+       
+
+
+
+
+
+      Topics
+     
+
+
+
+        Congress
+       
+
+
+
+        Courts
+       
+
+
+
+        Criminal justice
+       
+
+
+
+        Demographics
+       
+
+
+
+        Economy
+       
+
+
+
+        Energy
+       
+
+
+
+        Environment
+       
+
+
+
+        Health care
+       
+
+
+
+        Higher education
+       
+
+
+
+        Immigration
+       
+
+
+
+        Politics
+       
+
+
+
+        Public education
+       
+
+
+
+        State government
+       
+
+
+
+        Transportation
+       
+
+
+
+        View all
+       
+
+
+
+
+
+
+       Company
+      
+      Info
+     
+
+
+
+        About Us
+       
+
+
+
+        Our Staff
+       
+
+
+
+        Jobs
+       
+
+
+
+        Who Funds Us?
+       
+
+
+
+        Strategic Plan
+       
+
+
+
+        Republishing Guidelines
+       
+
+
+
+        Code of Ethics
+       
+
+
+
+        Terms of Service
+       
+
+
+
+        Privacy Policy
+       
+
+
+
+        Corrections
+       
+
+
+
+        Feeds
+       
+
+
+
+        Newsletters
+       
+
+
+
+        Audio
+       
+
+
+
+        Video
+       
+
+
+
+
+
+      Social Media
+     
+
+
+
+
+
+
+
+
+
+        Facebook
+       
+
+
+
+
+
+
+
+
+
+        Twitter
+       
+
+
+
+
+
+
+
+
+
+        YouTube
+       
+
+
+
+
+
+
+
+
+
+        Instagram
+       
+
+
+
+
+
+
+
+
+
+        LinkedIn
+       
+
+
+
+
+
+
+
+
+
+        Reddit
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Join our Facebook Group, This Is Your Texas.
+       
+
+
+
+
+
+
+
+
+
+      .db-bar-frame{ font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; width:100%; z-index:2; } .db-height-tracker { visibility:visible; will-change:transition; } .db-height-tracker.animation-top { max-height:500px; transition:margin-top .3s ease-in-out 0ms; } .js .db-frame-pinned { display:block; position:fixed; left:0; max-height:0; overflow:hidden; width:100%; z-index:4; zoom:1; } .db-frame-pinned.top { top:0; } .db-frame-pinned.top.opened { max-height:500px; } .db-frame-pinned.top.opened.animation-top { animation:.3s ease-in-out 0s slideInFromTop; } .db-frame-pinned.bottom { bottom:0; } .db-frame-pinned.bottom.opened { max-height:500px; } .db-frame-pinned.bottom.opened.animation-bottom { animation:.3s ease-in-out 0s slideInFromBottom; } .db-cancel-button { background-color:inherit; border-width:0; box-shadow:none; cursor:pointer; font-size:2em; font-weight:normal; line-height:.75em; margin-left: 15px; opacity:.75; padding:5px; position:absolute; right:5px; text-align:right; text-decoration:none; width:25px; z-index:1; } .db-cancel-button:focus { font-weight:normal; opacity:1; outline:0; } .db-engage-button { box-shadow:none; display:inline-block; white-space:nowrap; z-index:2; } .db-engage-button p { margin:.2em .8em; } .db-flex-wrap { padding:7px 5px 7px 5px; } @media (min-width:768px){ .db-flex-wrap { align-items:center; clear:both; display:flex; flex-wrap:wrap; justify-content:center; margin:0; } .db-engage-button { margin-top:0; } } .db-col-inline { flex:0 1 auto; letter-spacing:.2em; margin:5px 15px 5px 15px; vertical-align: middle; z-index:1 } @keyframes slideInFromTop { 0% { transform:translateY(-100%); -webkit-transform:translateY(-100%); } 100% { transform:translateY(0); -webkit-transform:translateY(0); } } @-webkit-keyframes slideInFromTop { 0% { transform:translateY(-100%); -webkit-transform:translateY(-100%); } 100% { transform:translateY(0); -webkit-transform:translateY(0); } } @keyframes slideInFromBottom { 0% { opacity:.25; transform:translateY(100%); -webkit-transform:translateY(100%); } 100% { opacity:1; } } @-webkit-keyframes slideInFromBottom { 0% { opacity:.25; transform:translateY(100%); -webkit-transform:translateY(100%); } 100% { opacity:1; } }
+     
+
+      .template-bar-frame{ background-color:#FFC200; } .template-cancel-button{ color:#222; } .template-flex-wrap{ padding:12px; text-align:center; } .template-col-inline{ color:#000000; font-family:"PT Serif", serif; font-size:18px; text-transform:none; font-weight:normal; letter-spacing:0.02em; line-height: 1.5em; } .template-col-inline a{ font-family:"PT Serif", serif; } .template-col-inline span{ font-weight:bold; font-family:"Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif; text-transform:uppercase; } .template-engage-button{ align-items:center; background-color:#222; border-radius:0; border-width:0; text-decoration:none; } .template-engage-button p{ color:#FFFFFF; font-size:13px; font-weight:bold; letter-spacing:0.04em; opacity:1; padding:.3em; text-transform:uppercase; vertical-align:middle; }
+     
+
+      (function (document, window) { const TOOL_PREVIEW_ON=true; const msgBarLoader=function (el, cfg){ "use strict"; var elBnr, elVertSpace, sets, elHTML=document.documentElement, barOpen; const VSPC_DIV_ID='vert-spacer'; const ANIM_SEEN_CKIE ='mb_animation_seen=true'; const ANIM_SEEN_WB_STORE ='mb_animation_seen'; const UI_USE_CKIE='ck'; const UI_USE_WBSTORE='ws'; const ANIM_ONCE='once'; const ANIM_ALWAYS='always'; const PIN_BOTTOM ='bottom'; const PIN_TOP ='top'; const PIN_PLATFORM='platform'; const PIN_PLATFORM_BRKPOINT=768; const COOKIE_NAME='_tt_msgbar='; const dataLayer=window.dataLayer || []; const CANCEL_ELEMENT_ID='cancel-click'; const ENGAGE_ELEMENT_ID='engage-click'; const DB_TEMPLATE_LITERAL = `<div id="${cfg.mbId}" class="db-bar-frame template-bar-frame" > <button class="db-cancel-button template-cancel-button"> \t&times; </button> <div class="db-flex-wrap template-flex-wrap"> <span class="db-img template-img"></span> <h4 class="db-col-inline template-col-inline"> <span class="">${cfg.barPrefixText}</span>${cfg.mbBarTextFinalEncode} </h4> <a id=${ENGAGE_ELEMENT_ID} href="${cfg.btnURL}" class="db-engage-button template-engage-button" ga-event-category="${cfg.mbGAEvtCat}" ga-event-action="${cfg.mbGAEvtAct}"> <p>${cfg.btnText}</p> <span class="db-engage-button-img template-engage-button-img"></span> </a> </div> </div>`; const storeUIState=function(type) { var store; try { store=window[type]; var x='__storage_test__'; store.setItem(x, x); store.removeItem(x); return { tempStorage: UI_USE_WBSTORE, seen: function () { if (sessionStorage.getItem(ANIM_SEEN_WB_STORE)) { return true; } else { return false; } }, setSeen: function() { sessionStorage.setItem(ANIM_SEEN_WB_STORE, true) } }; } catch (e) { return { tempStorage: UI_USE_CKIE, seen: function () { if (document.cookie.indexOf(ANIM_SEEN_CKIE) == -1) { return false; } else { return true; } }, setSeen: function () { document.cookie=ANIM_SEEN_CKIE + '; expires=0; path=/;'; } }; } }; function pinBasedOnPlatform(choice) { switch (choice) { case PIN_TOP: case PIN_BOTTOM: return choice; case PIN_PLATFORM: if (window.innerWidth < PIN_PLATFORM_BRKPOINT) { return PIN_BOTTOM; } else { return PIN_TOP; } default: return PIN_TOP; } } var addEvent=function (el, evt, fn, bubble) { if ("addEventListener" in el) { el.addEventListener(evt, fn, bubble); } else if ("attachEvent" in el) { if (typeof fn === "object" && fn.handleEvent) { el.attachEvent("on" + evt, function () { fn.handleEvent.call(fn); }); } else { el.attachEvent("on" + evt, fn); } } }, setAttributes=function (el, attrs) { for (var key in attrs) { el.setAttribute(key, attrs[key]); } }, addClass=function (el, cls) { if (el.className.indexOf(cls) !== 0) { el.className += " " + cls; el.className=el.className.replace(/(^\s*)|(\s*$)/g,""); } }, removeClass=function (el, cls) { var reg=new RegExp("(\\s|^)" + cls + "(\\s|$)"); el.className=el.className.replace(reg, " ").replace(/(^\s*)|(\s*$)/g,""); }, forEach=function (array, callback, scope) { for (var i=0; i < array.length; i++) { callback.call(scope, i, array[i]); } }; const addAnimClass=function(elBnr, pinnedTo, elSpacing) { addClass(elBnr, "animation-" + pinnedTo); addClass(elVertSpace,"animation-"+pinnedTo); elSpacing.style.cssText=`margin-top: 0 ${elBnr.offsetHeight}px;`; }; const removeAnimClass=function(elBnr, pinnedTo, elSpacing) { removeClass(elBnr, "animation-" + pinnedTo); removeClass(elVertSpace,"animation-"+pinnedTo); elSpacing.style.cssText=`margin-top: 0 ${elBnr.offsetHeight}px;`; }; const MsgBarControl=function (el, cfg) { this.cfg={ UIStateVal: storeUIState('sessionStorage'), openPos: "relative", animate: cfg.barAnimate, barPin: pinBasedOnPlatform(cfg.barPinTo), barClass: "db-frame-pinned " + pinBasedOnPlatform(cfg.barPinTo), barActiveClass: "js-bar-active", jsClass: "js", close: function(){}, }; for (let i in cfg) { this.cfg[i]=cfg[i]; } addClass(elHTML, this.cfg.jsClass); this.wrapper=document.getElementById("body"); sets=this.cfg; this.el=el.replace("#", ""); this._init(this); }; MsgBarControl.prototype={ setCookie: function (){ const endDate=new Date(cfg.mbEndDatetimeEncoded).toUTCString(); document.cookie=COOKIE_NAME+cfg.mbCookie+'; expires='+endDate+'; path=/;isSession=false;'; }, engage: function () { this.close(); }, cancel: function () { dataLayer.push({ event: cfg.mbGADLPushEvent, gaAction: cfg.mbGADLPushCloseAction, }); this.close(); }, close: function () { if (barOpen) { removeClass(elBnr, "opened"); addClass(elBnr, "closed"); setAttributes(elBnr, {"aria-hidden": "true"}); } else { elBnr.style.position="absolute"; } barOpen=false; this.resize(); this.setCookie(); sets.close(); }, resize: function () { if (window.getComputedStyle(elBnr, null).getPropertyValue("display") !== "none") { removeClass(elVertSpace,"animation-top" ); this._transitions(); setAttributes(elBnr, {"aria-hidden": "false"}); if (elBnr.className.match(/(^|\s)closed(\s|$)/)) { setAttributes(elBnr, {"aria-hidden": "true"}); elBnr.style.position="absolute"; } this._calcHeight(); } }, handleEvent: function (e) { var evt=e || window.event; switch (evt.type) { case "resize": this.resize(evt); break; case "focus": case "click": break; } }, _init: function () { let elExists=document.querySelector(this.el+'.db-frame-pinned'); if (!elExists){ elBnr=document.createElement(this.el); } else { elExists.nextSibling.remove(); elExists.remove(); elBnr=document.createElement(this.el); } document.body.insertBefore(elBnr, document.body.firstChild); elBnr.innerHTML=DB_TEMPLATE_LITERAL; addClass(elBnr, sets.barClass); addClass(elBnr, "opened"); setAttributes(elBnr, {"aria-hidden": "false"}); elVertSpace=document.createElement("div"); elVertSpace.setAttribute("id", VSPC_DIV_ID); addClass(elVertSpace, "db-height-tracker "); elBnr.parentNode.insertBefore(elVertSpace, elBnr.nextSibling); barOpen=true; addEvent(window, "focus", this, false); addEvent(window, "resize", this, false); addEvent(elBnr, "click", this, false); this._closeOnClick(); this.resize(); }, _closeOnClick: function () { let cancelActionEls=elBnr.getElementsByClassName("db-cancel-button"); let thisCancel=this; forEach(cancelActionEls, function (i) { addEvent(cancelActionEls[i], "click", function () { thisCancel.cancel(); }, false); }, this ); let links=elBnr.getElementsByTagName("a"); let thisLink=this; forEach(links, function (i) { addEvent(links[i], "click", function () { thisLink.engage(links[i].getAttribute("href")); }, true); }, this ); }, _transitions: function () { switch (sets.animate) { case ANIM_ONCE: if (!sets.UIStateVal.seen()) { sets.UIStateVal.setSeen(); addAnimClass(elBnr, sets.barPin, elVertSpace); } else { removeAnimClass(elBnr, sets.barPin, elVertSpace); } break; case ANIM_ALWAYS: if (!elBnr.classList.contains("animation-top") && !elBnr.classList.contains("animation-bottom")){ addAnimClass(elBnr, sets.barPin, elVertSpace); } break; default: removeAnimClass(elBnr, sets.barPin, elVertSpace); break; } }, _calcHeight: function () { if (sets.barPin === PIN_TOP) { elVertSpace.style.marginTop=elBnr.offsetHeight+"px"; } } }; return new MsgBarControl(el, cfg); }; function launchIfCampaignActive(cfg){ let nowDateTimeObj=new Date(); if ( ((Date.parse(cfg.mbStartDatetimeEncoded) <= nowDateTimeObj) & (nowDateTimeObj <= Date.parse(cfg.mbEndDatetimeEncoded) ) & (document.cookie.indexOf(cfg.mbCookie)== -1) )){ msgBarLoader("aside", cfg); } } const cfg={ styleTemplate:'Yellow', mbSimulcast:'No', barPrefixText:'', btnText:'BUY NOW', btnURL:'https://festival-platform.texastribune.org/?promo=site-message-bar&tr=true', barAnimate:'always', barPinTo:'platform', mbCookie:'seen', mbId:'message-bar-id', mbGAEvtCat:'message bar', mbGAEvtAct:'cta', mbGADLPushCloseAction:'close', mbGADLPushEvent:'customMessageBar', mbMobileOnly:'No', mbDesktopOnly:'No', mbStartDatetimeEncoded:'2023/05/31 08:00', mbEndDatetimeEncoded:'2023/05/31 23:59', mbBarTextFinalEncode:'Special rates for TribFest end tonight at midnight.', MB_VERSION:1685538784000}; launchIfCampaignActive(cfg); if (typeof module !== "undefined" && module.exports) { module.exports=msgBarLoader; } else { window.msgBarLoader=msgBarLoader; } }(document, window, 0));
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   (function(s, p, d) {
+      var h=d.location.protocol, i=p+"-"+s,
+        e=d.getElementById(i), r=d.getElementById(p+"-root"),
+        u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+        :"static."+p+".com";
+      if (e) return;
+      e = d.createElement(s); e.id = i; e.async = true;
+      e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+    })("script", "parsely", document);
+  
+
+
+
+
+   (function() {
+    var gutenTags = [],
+        authors = [],
+        series = [];
+
+    
+      gutenTags.push('subject-politics');
+    
+      gutenTags.push('subject-congress');
+    
+      gutenTags.push('person-donald-trump');
+    
+      gutenTags.push('person-john-cornyn');
+    
+      gutenTags.push('person-ted-cruz');
+    
+      gutenTags.push('person-michael-cloud');
+    
+      gutenTags.push('person-chip-roy');
+    
+      gutenTags.push('person-jasmine-felicia-crockett');
+    
+      gutenTags.push('person-ronny-jackson');
+    
+      gutenTags.push('person-beth-van-duyne');
+    
+
+    
+
+    
+      authors.push('matthew-choi');
+    
+      authors.push('olivia-alafriz');
+    
+
+    var updates = {
+      contentId: 42887,
+      authors: authors,
+      pageType: 'article',
+      gutenTags: gutenTags,
+      series: series
+    };
+
+    Object.keys(updates).forEach(function(key) {
+      window.ttGlobal[key] = updates[key];
+    });
+  }());
+  
+
+   window.addEventListener('DOMContentLoaded', function() {
+        
+  jsBundle.buildAdUnit({
+    selectorSuffix: '1565',
+    slot: 'roofline',
+    collapseOnFail: true
+  });
+
+
+  jsBundle.buildCopyLink({
+    ariaLabel: 'Copy link to this page',
+    ga: { label: 'Share Button Row' },
+    isMinimal: false,
+    selectorSuffix: '1493',
+    urlPath: '/2023/06/09/donald\u002Dtrump\u002Dindicted\u002Dtexas\u002Drepublicans/?utm_source\u003Darticleshare\u0026utm_medium\u003Dsocial'
+  });
+
+
+  jsBundle.buildAdUnit({
+    selectorSuffix: '6805',
+    slot: 'first',
+    collapseOnFail: true
+  });
+
+
+  jsBundle.buildSignUp({
+    interestId: '20c921ee0a',
+    selectorSuffix: '4893',
+    
+    isAuto: true,
+    
+    logoUrl: 'https://static.texastribune.org/media/newsletters/TT-subscription-email-notification.jpg',
+    title: 'The Brief',
+    description: 'Keep tabs on Texas politics and policy with our morning newsletter',
+    display: {
+      
+      isVertical: false,
+      
+      bgColor: '#ffffff',
+      
+    },
+    gaLabel: "story page"
+  });
+
+
+  jsBundle.buildAdUnit({
+    selectorSuffix: '7463',
+    slot: 'flex',
+    collapseOnFail: true
+  });
+
+
+  jsBundle.buildAdUnit({
+    selectorSuffix: '1558',
+    slot: 'flex',
+    collapseOnFail: true
+  });
+
+
+  jsBundle.buildAdUnit({
+    selectorSuffix: '1675',
+    slot: 'flex',
+    collapseOnFail: true
+  });
+
+
+        jsBundle.buildArticleRecs({
+          selectorSuffix: '4769',
+          recCount: 4,
+          articleId: 42887,
+        })
+      
+
+  jsBundle.buildAdUnit({
+    selectorSuffix: '4839',
+    slot: 'paidPost',
+    collapseOnFail: true
+  });
+
+
+      jsBundle.buildRug({
+        featuredType: 'UpcomingEvents',
+        ga: { label: 'story page' }
+      });
+    
+
+  jsBundle.buildAdUnit({
+    selectorSuffix: '7931',
+    slot: 'footer',
+    collapseOnFail: true
+  });
+
+
+
+        
+          jsBundle.buildLazyImages();
+        
+
+        
+          jsBundle.makeVidsResponsive();
+        
+
+        
+      });
+  
+
+

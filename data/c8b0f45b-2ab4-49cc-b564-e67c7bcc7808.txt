@@ -1,0 +1,898 @@
+
+
+
+
+   window.performance.mark('PageStart');
+        (function(html){var c = document.documentElement.classList;c.add('JsEnabled', 'jsenabled');c.remove('NoJs');})(document.documentElement);
+        /**
+        * Empty darlaOnready method, to avoid JS error.
+        * This can happen when Async Darla JS file is loaded earlier than Darla Proxy JS.
+        * This method will be overridden by Darla Proxy
+        */
+        window.darlaOnready = function() {};
+  
+
+   Eric Holder: Trump conviction could lead to impeachment, removal from office
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       /*! CMP 6.3.0 Copyright 2018 Oath Holdings, Inc. */
+!function(){var t={2131:function(t){"use strict";function e(t){return(e="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}t.exports=function(){for(var t,n,o=[],r=window,a=r;a;){try{if(a.frames.__tcfapiLocator){t=a;break}}catch(t){}if(a===r.top)break;a=a.parent}t||(function t(){var e=r.document,n=!!r.frames.__tcfapiLocator;if(!n)if(e.body){var o=e.createElement("iframe");o.style.cssText="display:none",o.name="__tcfapiLocator",e.body.appendChild(o)}else setTimeout(t,5);return!n}(),r.__tcfapi=function(){for(var t=arguments.length,e=new Array(t),r=0;r<t;r++)e[r]=arguments[r];if(!e.length)return o;"setGdprApplies"===e[0]?e.length>3&&2===parseInt(e[1],10)&&"boolean"==typeof e[3]&&(n=e[3],"function"==typeof e[2]&&e[2]("set",!0)):"ping"===e[0]?"function"==typeof e[2]&&e[2]({gdprApplies:n,cmpLoaded:!1,cmpStatus:"stub"}):o.push(e)},r.addEventListener("message",(function(t){var n="string"==typeof t.data,o={};if(n)try{o=JSON.parse(t.data)}catch(t){}else o=t.data;var r="object"===e(o)?o.__tcfapiCall:null;r&&window.__tcfapi(r.command,r.version,(function(e,o){var a={__tcfapiReturn:{returnValue:e,success:o,callId:r.callId}};t&&t.source&&t.source.postMessage&&t.source.postMessage(n?JSON.stringify(a):a,"*")}),r.parameter)}),!1))}},7037:function(t,e,n){"use strict";n.r(e);var o=n(2131);n.n(o)()()},7781:function(){!function(){for(var t,e="__uspapiLocator",n=[],o=window;o;){try{if(o.frames.__uspapiLocator){t=o;break}}catch(t){}if(o===window.top)break;o=o.parent}t||(function t(){var n=window.document;if(!window.frames.__uspapiLocator)if(n.body){var o=n.createElement("iframe");o.style.cssText="display:none",o.name=e,n.body.appendChild(o)}else setTimeout(t,5)}(),window.__uspapi=function(){for(var t=arguments.length,e=new Array(t),o=0;o<t;o++)e[o]=arguments[o];if(!e.length)return n;n.push(e)},window.addEventListener("message",(function(t){var e="string"==typeof t.data,n={};try{n=e?JSON.parse(t.data):t.data}catch(t){}var o=n.__uspapiCall;o&&window.__uspapi(o.command,o.version,(function(n,r){var a={__uspapiReturn:{returnValue:n,success:r,callId:o.callId}};e&&(a=JSON.stringify(a)),t&&t.source&&t.source.postMessage(a,"*")}),o.parameter)}),!1))}()}},e={};function n(o){var r=e[o];if(void 0!==r)return r.exports;var a=e[o]={exports:{}};return t[o](a,a.exports,n),a.exports}n.n=function(t){var e=t&&t.__esModule?function(){return t.default}:function(){return t};return n.d(e,{a:e}),e},n.d=function(t,e){for(var o in e)n.o(e,o)&&!n.o(t,o)&&Object.defineProperty(t,o,{enumerable:!0,get:e[o]})},n.o=function(t,e){return Object.prototype.hasOwnProperty.call(t,e)},n.r=function(t){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(t,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(t,"__esModule",{value:!0})},function(){"use strict";n(7781);!window.document.documentMode&&n(7037)}()}();
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {
+                "name": "article-server",
+                "version": 1
+            }
+  
+
+   {"playerScript":"https://yep.video.yahoo.com/oath/js/1/oath-player.js?ypv=8.5.43&lang=en-US"}
+  
+
+   {
+                "dedupUuids": "15665382-6a5d-30a6-b3e4-6bf692ef632c",
+                "geminiAds": {
+                    "geminiDedupeToken": "PHToken"
+                },
+                "publisherBlobPageContext": "%7B%22lu%22%3A%220%22%2C%22pageType%22%3A%22content%22%2C%22site%22%3A%22news%22%2C%22appName%22%3A%22article%22%2C%22pageDesign%22%3A%22non_modal%22%2C%22pageContentType%22%3A%22story%22%2C%22ctopid%22%3A%221996000%3B2063500%3B12830500%22%2C%22hashtag%22%3A%221996000%3B2063500%3B12830500%22%2C%22wiki_topics%22%3A%22Donald_Trump%3BEric_Holder%3BJen_Psaki%3BFelony%3BIndictment%3BPresident_of_the_United_States%22%2C%22lmsid%22%3A%22a0V6T00000KBWWwUAP%22%2C%22revsp%22%3A%22the_hill_articles_341%22%2C%22lpstaid%22%3A%2215665382-6a5d-30a6-b3e4-6bf692ef632c%22%7D"
+            }
+  
+
+   (function() {
+        
+window.YAHOO = window.YAHOO || {};
+window.YAHOO.context = {
+    "apptype": "",
+    "authed": "0",
+    "bucket": "news-US-en-US-def",
+    "contentSite": "",
+    "crumb": "TKGjQolpHpd",
+    "device": "featurephone",
+    "errBeaconConfig": {
+        "beaconPath": "_td_api/beacon/error",
+        "site": "news"
+    },
+    "feature": [
+        "caasEnableCommentsCountViaOpenweb",
+        "disableCommentsMessage",
+        "enableAdditionalPageContextParams",
+        "enableAdlite",
+        "enableSpotImAdsStream",
+        "enableSpotImComments",
+        "enableXrayEntityAboutFacts",
+        "useBotEP",
+        "caasRemoveDuplicateImage",
+        "caasNoRapidClickClass",
+        "enableFooterFromFPMS",
+        "fuseAtomicCssAws"
+    ],
+    "guid": "",
+    "intl": "us",
+    "lang": "en-US",
+    "meta": {
+        "categoryLabel": "Politics",
+        "commentsAllowed": true,
+        "commentsCount": "717",
+        "contentType": "story",
+        "messageId": "",
+        "replyId": "",
+        "siteAttribute": "wiki_topics=\"Donald_Trump;Eric_Holder;Jen_Psaki;Felony;Indictment;President_of_the_United_States\" ctopid=\"1996000;2063500;12830500\" hashtag=\"1996000;2063500;12830500\" rs=\"lmsid:a0V6T00000KBWWwUAP;revsp:the_hill_articles_341;lpstaid:15665382-6a5d-30a6-b3e4-6bf692ef632c;lu:0;pct:story\"",
+        "tags": "President Trump, Attorney General Eric Holder, Jen Psaki, impeachment proceeding, presidential campaign, convicted felon",
+        "title": "Eric Holder: Trump conviction could lead to impeachment, removal from office",
+        "url": "https://news.yahoo.com/eric-holder-trump-conviction-could-224340124.html",
+        "uuid": "15665382-6a5d-30a6-b3e4-6bf692ef632c",
+        "xhrPathPrefix": "/nel_ms/_rcv/remote"
+    },
+    "mode": "normal",
+    "partner": "none",
+    "region": "US",
+    "rid": "7sqc52li8cuhi",
+    "site": "news",
+    "tpConsent": true,
+    "ynet": "0"
+};
+
+
+    }());
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     window.performance.mark('header');
+                    window.performance.measure('headerDone','PageStart','header');
+    
+
+
+    .progress-loader-bar-wrapper {
+    bottom: 0;
+    height: 2px;
+    left: 0;
+    position: absolute;
+    width: 100%;
+}
+
+.progress-loader {
+    width: 100%;
+    height: 100%;
+    line-height: 0px;
+}
+
+.progress-loader canvas {
+    vertical-align: top;
+}
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://news.yahoo.com/eric-holder-trump-conviction-could-224340124.html","headline":"Eric Holder: Trump conviction could lead to impeachment, removal from office","datePublished":"2023-06-11T22:43:40.000Z","dateModified":"2023-06-11T22:46:10.332Z","keywords":["President Trump","Attorney General Eric Holder","Jen Psaki","impeachment proceeding","presidential campaign","convicted felon"],"description":"Former Attorney General Eric Holder said on Sunday that a possible conviction of former President Trump, if he’s elected to a second term as president in...","publisher":{"@type":"Organization","name":"Yahoo News","logo":{"@type":"ImageObject","url":"https://s.yimg.com/rz/p/yahoo_news_en-US_h_p_news_2.png","width":310,"height":50},"url":"https://news.yahoo.com/"},"author":{"@type":"Person","name":"Olafimihan Oshin","url":"","jobTitle":""},"creator":{"@type":"Person","name":"Olafimihan Oshin","url":"","jobTitle":""},"provider":{"@type":"Organization","name":"The Hill","url":"https://thehill.com/","logo":{"@type":"ImageObject","width":462,"height":100,"url":"https://s.yimg.com/os/creatr-uploaded-images/2021-11/c5d8db50-4bb5-11ec-8fff-60edbf7d6abb"}},"image":{"@type":"ImageObject","width":900,"height":506,"url":"https://media.zenfs.com/en/the_hill_articles_341/d86f22c0a03bc66c80194cc5cb0624b0"},"thumbnailUrl":"https://media.zenfs.com/en/the_hill_articles_341/d86f22c0a03bc66c80194cc5cb0624b0"}
+           
+
+            {}
+           
+
+            {"longForm":{"weekday":"short","day":"numeric","hour":"numeric","hourCycle":"h12","minute":"2-digit","month":"long","year":"numeric","timeZoneName":"short"},"shortForm":{"day":"numeric","month":"long","year":"numeric"}}
+           
+
+            {"twitter":{"timeout":5000}}
+           
+
+
+
+
+
+
+
+               The Hill
+              
+
+
+
+
+              Eric Holder: Trump conviction could lead to impeachment, removal from office
+             
+
+
+
+
+
+
+               Olafimihan Oshin
+              
+
+
+
+               June 11, 2023 at 6:43 PM
+              
+
+               ·
+              
+
+               2 min read
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Former Attorney General Eric Holder said on Sunday that a possible conviction of former President Trump, if he’s elected to a second term as president in 2024, would lead to an impeachment proceeding and him being eventually removed from office.
+            
+
+             During an appearance on MSNBC’s “Inside with Jen Psaki,” host Jen Psaki mentioned to Holder about Trump remaining committed to his 2024 presidential campaign, despite facing his second indictment in the past two months.
+            
+
+             “Well, the notion that you could have a trial, defend it, be convicted, somehow win the election, be sworn in as a president, or whenever it happens, that seems inconsistent with our notion of fairness, of the rule of law,” Holder told Psaki.  “At that point, I would hope that it impeachment proceeding might be considered. Not only considered, brought. And, ultimately, he would be moved from office.”
+            
+
+
+
+
+
+
+
+             “The notion that a convicted felon, convicted felon, would serve as president of the United States is absurd. It’s simply absurd,” Holder added.
+            
+
+             When asked if there should be an impeachment hearing and proceedings in Congress if Trump is convicted, Holder agreed, saying in part that people have “underestimated the impact of this indictment,” also noting Trump’s indictment in a Manhattan court in April and the ongoing investigations he faces in Georgia and in Washington, D.C.
+            
+
+             “I’m not a political pundit, but I think at some point, you certainly won’t get beyond, you know, the Trump cult base, but for people who are on the fringes of that, the outside of that, are likely to have been negatively impacted by all of these cases brought against the former president,” Holder added. “I think that that will have some electoral effect. And so, the likelihood that he’ll be able to survive this and win a general election, I think, is pretty small.”
+            
+
+             Speaking at the North Carolina GOP convention, Trump said that he’s standing firm on his 2024 presidential campaign.
+            
+
+             “I will never yield,” Trump told those in attendance on Saturday. “I will never be deterred.”
+            
+
+             Trump, who announced his 2024 presidential campaign last November, was charged with 37 counts on Friday for his alleged mishandling of classified material and efforts to prevent the federal government from retrieving them,
+             
+              according to
+             
+             the unsealed indictment.
+            
+
+
+              For the latest news, weather, sports, and streaming video, head to The Hill.
+             
+
+
+
+
+
+
+         (function(w) {
+        var adsConfig = {
+            clientPositionMeta: undefined,
+            clientViewportAdFetchYOffset: undefined,
+            clusterPositionMeta: {"addAutoEvent":true,"positions":[],"siteAttributes":"LREC=\"300x250;1x1\" LREC2=\"300x250;1x1\" MON=\"300x600;1x1\" geminifed=1"},
+            enableAdSlugText: undefined,
+            enableAdditionalPageContextParams: undefined,
+            enableGAMAds: undefined,
+            enableJac: undefined,
+            pencilAdSections: {},
+            positions: {"BTNA":{"meta":{"clean":"sda-BTN","dest":"sda-BTN-iframe","fdb":1,"h":60,"id":"BTNA","metaSize":true,"w":120},"sfoptin":1},"BTNB":{"meta":{"clean":"sda-BTN-1","dest":"sda-BTN-1-iframe","fdb":1,"h":60,"id":"BTNB","metaSize":true,"w":120},"sfoptin":1},"BTNC":{"meta":{"clean":"sda-BTN-2","dest":"sda-BTN-2-iframe","fdb":1,"h":60,"id":"BTNC","metaSize":true,"w":120},"sfoptin":1},"BTND":{"meta":{"clean":"sda-BTN-3","dest":"sda-BTN-3-iframe","fdb":1,"h":60,"id":"BTND","metaSize":true,"w":120},"sfoptin":1},"COMMENTSWFPAD":{"meta":{"clean":"sda-COMMENTSWFPAD","dest":"sda-COMMENTSWFPAD-iframe","h":50,"id":"COMMENTSWFPAD","metaSize":true,"pos":"COMMENTSWFPAD","supports":{"exp-ovr":1,"exp-push":1,"lyr":1,"resize-to":1},"w":320}},"FSRVY":{"meta":{"clean":"sda-FSRVY","dest":"sda-FSRVY-iframe","fr":"expIfr_exp","id":"FSRVY","supports":{"lyr":1}}},"HPSPON":{"filtered":1,"sfoptin":0},"INARTICLE":{"meta":{"clean":"sda-INARTICLE-base","dest":"sda-INARTICLE","fdb":1,"flex":{"h":{"min":10},"ratio":"1.78x1","w":{"min":10}},"h":211,"id":"INARTICLE","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":375},"sfoptin":1},"INBODYLDRB-1":{"meta":{"clean":"wafer-darla-clean-INBODYLDRB-1","dest":"wafer-darla-INBODYLDRB-1","fdb":1,"h":90,"id":"INBODYLDRB-1","metaSize":true,"pos":"LDRB","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728},"sfoptin":1},"INBODYLDRB-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":90,"id":"LDRB","metaSize":true,"pos":"LDRB","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728}},"INBODYLDRB-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":90,"id":"LDRB","metaSize":true,"pos":"LDRB","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728,"doubleBuffering":false}},"INBODYLDRB2-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":90,"id":"LDRB","metaSize":true,"pos":"LDRB","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728}},"INBODYLDRB2-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":90,"id":"LDRB","metaSize":true,"pos":"LDRB","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728,"doubleBuffering":false}},"INBODYLDRB3-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":90,"id":"LDRB","metaSize":true,"pos":"LDRB","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728}},"INBODYLDRB3-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":90,"id":"LDRB","metaSize":true,"pos":"LDRB","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728,"doubleBuffering":false}},"INBODYLDRB4-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":90,"id":"LDRB","metaSize":true,"pos":"LDRB","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728}},"INBODYLDRB4-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":90,"id":"LDRB","metaSize":true,"pos":"LDRB","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728,"doubleBuffering":false}},"INBODYLREC-1":{"meta":{"clean":"wafer-darla-clean-INBODYLREC-1","dest":"wafer-darla-INBODYLREC-1","fdb":1,"h":250,"id":"INBODYLREC-1","metaSize":true,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300},"sfoptin":1},"INBODYLREC-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"LREC","metaSize":true,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300}},"INBODYLREC-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":300,"id":"LREC","metaSize":false,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300,"doubleBuffering":false,"flex":{"w":{"max":375}}}},"INBODYLREC2-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"LREC","metaSize":true,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300}},"INBODYLREC2-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":300,"id":"LREC","metaSize":false,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300,"doubleBuffering":false,"flex":{"w":{"max":375}}}},"INBODYLREC3-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"LREC","metaSize":true,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300}},"INBODYLREC3-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":300,"id":"LREC","metaSize":false,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300,"doubleBuffering":false,"flex":{"w":{"max":375}}}},"INBODYLREC4-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"LREC","metaSize":true,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300}},"INBODYLREC4-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":300,"id":"LREC","metaSize":false,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300,"doubleBuffering":false,"flex":{"w":{"max":375}}}},"INBODYMAST-1":{"meta":{"clean":"wafer-darla-clean-INBODYMAST-1","dest":"wafer-darla-INBODYMAST-1","fdb":1,"h":250,"id":"INBODYMAST-1","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970},"sfoptin":1},"INBODYMAST-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970}},"INBODYMAST-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970,"doubleBuffering":false,"flex":{"w":{"max":1220,"min":960}}}},"INBODYMAST2-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970}},"INBODYMAST2-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970,"doubleBuffering":false,"flex":{"w":{"max":1220,"min":960}}}},"INBODYMAST3-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970}},"INBODYMAST3-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970,"doubleBuffering":false,"flex":{"w":{"max":1220,"min":960}}}},"INBODYMAST4-DISPLAY-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970}},"INBODYMAST4-NATIVE-PH":{"meta":{"clean":"sda-placeholder","dest":"sda-placeholder-iframe","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970,"doubleBuffering":false,"flex":{"w":{"max":1220,"min":960}}}},"LDRB":{"meta":{"clean":"sda-LDRB","dest":"sda-LDRB-iframe","fdb":1,"h":90,"id":"LDRB","metaSize":true,"pos":"LDRB","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728},"sfoptin":1},"LDRB2":{"meta":{"clean":"sda-LDRB2","dest":"sda-LDRB2-iframe","fdb":1,"h":90,"id":"LDRB2","metaSize":true,"pos":"LDRB2","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728},"sfoptin":1},"LDRB2-9":{"meta":{"clean":"sda-LDRB2-9","dest":"sda-LDRB2-9-iframe","fdb":1,"h":90,"id":"LDRB2-9","metaSize":true,"pos":"LDRB2-9","supports":{"exp-ovr":1,"exp-push":1,"lyr":0},"w":728},"sfoptin":1},"LREC":{"meta":{"clean":"sda-LREC","dest":"sda-LREC-iframe","fdb":1,"h":250,"id":"LREC","metaSize":true,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300},"sfoptin":1},"LREC2":{"meta":{"clean":"sda-LREC2","dest":"sda-LREC2-iframe","fdb":1,"h":250,"id":"LREC2","metaSize":true,"pos":"LREC2","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300},"sfoptin":1},"LREC3":{"meta":{"clean":"sda-LREC3","dest":"sda-LREC3-iframe","fdb":1,"h":250,"id":"LREC3","metaSize":true,"pos":"LREC3","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300},"sfoptin":1},"LREC3-DISPLAY-PH":{"meta":{"clean":"sda-LREC","dest":"sda-LREC-iframe","fdb":1,"h":250,"id":"LREC","metaSize":true,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300}},"LREC3-NATIVE-PH":{"meta":{"clean":"sda-LREC","dest":"sda-LREC-iframe","fdb":1,"h":250,"id":"LREC","metaSize":true,"pos":"LREC","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300,"doubleBuffering":false,"flex":{"h":{"max":312,"min":250},"ratio":"1.2x1","w":{"align":"center","max":375,"min":300}}},"sfoptin":1},"LREC4":{"meta":{"clean":"sda-LREC4","dest":"sda-LREC4-iframe","fdb":1,"h":250,"id":"LREC4","metaSize":true,"pos":"LREC4","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300},"sfoptin":1},"LREC5":{"meta":{"clean":"sda-LREC5","dest":"sda-LREC5-iframe","fdb":1,"h":250,"id":"LREC5","metaSize":true,"pos":"LREC5","supports":{"exp-ovr":0,"exp-push":1,"lyr":0},"w":300},"sfoptin":1},"MAST":{"meta":{"clean":"sda-MAST","dest":"sda-MAST-iframe","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970},"sfoptin":1},"MAST-DISPLAY-PH":{"meta":{"clean":"sda-MAST-DISPLAY","dest":"sda-MAST-DISPLAY","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970},"sfoptin":1},"MAST-NATIVE-PH":{"meta":{"clean":"sda-MAST-NATIVE","dest":"sda-MAST-NATIVE","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":970,"doubleBuffering":false,"flex":{"w":{"max":1220,"min":960}}},"sfoptin":1},"MAST2":{"meta":{"clean":"sda-MAST2","dest":"sda-MAST2-iframe","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":0,"exp-push":1,"lyr":0,"resize-to":1},"w":970}},"MAST2-DISPLAY-PH":{"meta":{"clean":"sda-MAST2-DISPLAY","dest":"sda-MAST2-DISPLAY","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":0,"exp-push":1,"lyr":0,"resize-to":1},"w":970},"sfoptin":1},"MAST2-NATIVE-PH":{"meta":{"clean":"sda-MAST2-NATIVE","dest":"sda-MAST2-NATIVE","fdb":1,"h":250,"id":"MAST","metaSize":true,"pos":"MAST","supports":{"exp-ovr":0,"exp-push":1,"lyr":0,"resize-to":1},"w":970,"doubleBuffering":false,"flex":{"w":{"max":1220,"min":960}}},"sfoptin":1},"MOMENTS":{"meta":{"clean":"sda-MOMENTS-base","dest":"defaultdestMOMENTS","fdb":1,"flex":{"h":{"min":568},"ratio":"1x1.78","w":{"min":320}},"fr":"expIfr_exp","h":667,"id":"MOMENTS","supports":{"exp-ovr":1,"exp-push":1,"resize-to":1},"w":375,"z":3}},"MON":{"meta":{"clean":"sda-MON","dest":"sda-MON-iframe","fdb":1,"h":600,"id":"MON","metaSize":true,"pos":"MON","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":300},"sfoptin":1},"MON2":{"meta":{"clean":"sda-MON2","dest":"sda-MON2-iframe","fdb":1,"h":600,"id":"MON2","metaSize":true,"pos":"MON2","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":300}},"NE1":{"meta":{"clean":"sda-NE1","dest":"sda-NE1-iframe","fr":"expIfr_exp","h":35,"id":"NE1","metaSize":false,"pos":"NE1","staticLayout":true,"supports":{"exp-ovr":1,"exp-push":1,"lyr":1},"w":970,"z":9}},"UMU":{"meta":{"clean":"sda-UMU","dest":"sda-UMU-iframe","fr":"expIfr_exp","h":32,"id":"UMU","metaSize":false,"pos":"UMU","staticLayout":true,"supports":{"exp-ovr":1,"exp-push":1,"lyr":1},"w":1220,"z":1000}},"WFPAD":{"meta":{"clean":"sda-WFPAD","dest":"sda-WFPAD-iframe","h":50,"id":"WFPAD","metaSize":true,"pos":"WFPAD","supports":{"exp-ovr":1,"exp-push":1,"lyr":1,"resize-to":1},"w":320},"sfoptin":0},"WFPAD-DISPLAY-PH":{"meta":{"clean":"sda-WFPAD-DISPLAY","dest":"sda-WFPAD-DISPLAY","h":50,"id":"WFPAD","metaSize":true,"pos":"WFPAD","supports":{"exp-ovr":1,"exp-push":1,"lyr":1,"resize-to":1},"w":320,"flex":{"h":{"min":50}}},"sfoptin":0},"WFPAD-NATIVE-PH":{"meta":{"clean":"sda-WFPAD-NATIVE","dest":"sda-WFPAD-NATIVE","h":50,"id":"WFPAD","metaSize":true,"pos":"WFPAD","supports":{"exp-ovr":1,"exp-push":1,"lyr":1,"resize-to":1},"w":320,"doubleBuffering":false,"flex":{"h":{"max":100,"min":80},"w":{"max":800,"min":300}}},"sfoptin":0},"WFPAD2":{"meta":{"clean":"sda-WFPAD2","dest":"sda-WFPAD2-iframe","h":50,"id":"WFPAD2","metaSize":true,"pos":"WFPAD2","supports":{"exp-ovr":1,"exp-push":1,"lyr":1,"resize-to":1},"w":320}},"WIDGET":{"meta":{"clean":"sda-WIDGET","dest":"sda-WIDGET-iframe","fdb":1,"h":450,"id":"WIDGET","metaSize":false,"pos":"WIDGET","supports":{"exp-ovr":1,"exp-push":1,"lyr":0,"resize-to":1},"w":750},"sfoptin":1},"WIDGETA":{"meta":{"clean":"sda-WIDGETA","dest":"sda-WIDGETA-iframe","fdb":1,"h":198,"id":"WIDGETA","metaSize":false,"pos":"WIDGETA","supports":{"exp-ovr":1,"exp-push":1},"w":758},"sfoptin":1},"XFPAD":{"filtered":1,"sfoptin":0}},
+            rotateIndexPageAds: undefined,
+            rotation: {},
+            strings: {"advertisement":"Advertisement"},
+            videoPublisherBlob: "lu:0;lpstaid:15665382-6a5d-30a6-b3e4-6bf692ef632c;pt:content;ver:article;pd:non_modal;pct:story",
+            viewerEnableLRECForShowBodyAdsFalse: undefined,
+            viewerGAMPositionMeta: undefined,
+            viewerGeminiSMAdConfig: {},
+            viewerGeminiSMAdEnabled: undefined,
+            viewerPositionMeta: undefined,
+            viewerResetAutoEventOnClose: undefined,
+            viewerSMAdEnabled: undefined,
+            viewerViewportAdFetch: {},
+            viewerWfpad2AdEnabled: undefined,
+            viewerWfpadAdEnabled: undefined,
+            viewerWfpadInVideoEnabled: undefined,
+        };
+
+        // expose adsConfig for homepage-viewer client
+        if (!w.adsConfig) {
+            w.adsConfig = adsConfig;
+        }
+    }(window));
+        
+
+         {
+  "caasUrl": "https://www.yahoo.com/caas/content/article/",
+  "contextParams": "lang=en-US&region=US&site=news"
+}
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Yahoo!
+          
+
+
+
+           US
+          
+
+
+
+           Politics
+          
+
+
+
+           World
+          
+
+
+
+           COVID-19
+          
+
+
+
+           Climate Change
+          
+
+
+
+           Health
+          
+
+
+
+           Science
+          
+
+
+
+           Originals
+          
+
+
+
+           Contact Us
+          
+
+
+
+
+
+
+            Terms
+           
+           and
+           
+            Privacy Policy
+           
+
+
+
+
+           Privacy Dashboard
+          
+
+
+
+           Help
+          
+
+
+
+           Share your feedback
+          
+
+
+
+           About Us
+          
+
+
+
+           About Our Ads
+          
+
+
+
+           Site map
+          
+
+
+
+
+
+
+            Follow us on
+           
+
+
+
+
+
+
+
+
+               twitter
+              
+
+
+
+
+
+
+
+
+
+               facebook
+              
+
+
+
+
+
+
+
+
+
+               instagram
+              
+
+
+
+
+
+
+            Download our app
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+        © 2023 Yahoo. All rights reserved.
+       
+
+
+
+
+     window.performance.mark('footer');
+                    window.performance.measure('footerDone','PageStart','footer');
+    
+
+
+
+
+
+
+
+   {"assetsLoaded":{"/aaq/art/css/deeplink.atomic.ltr.f44f29211f1587a9aafc28685103f8c7.css":true,"/aaq/art/css/yahoosans.895fc745debe0fde2a1d2159365417b2.css":true,"/aaq/art/css/modules.atomic.ltr.39e2e5db1d96b407e318c3610ed674c7.css":true,"/aaq/art/css/mobileweb.7703ddedd8fe0eed436b06d247ae7757.css":true,"/aaq/cprops/colors_1.1.27.min.css":true,"/aaq/fp/css/react-wafer-footer.FooterDesktopWide.atomic.ltr.ad319f5fa96758dce994c228594f2cde.min.css":true,"/aaq/nel/css/tdv2-wafer-header.Header.atomic.ltr.d7d9ebae264396c06d6865e0bfbe75ee.min.css":true,"/aaq/nel/css/tdv2-wafer-header.custom.smartphone.b0d0f0f882282ce0330ca02d643a17cd.css":true,"/aaq/art/js/caas.3a6e69a64a04ae71af75502261ac65dc.js":true,"/rq/darla/4-11-1/js/g-r-min.js":true,"/aaq/wf/wf-loader-2.6.65.js":true,"/ss/rapid-3.53.38.js":true,"/aaq/cmp/version/6.3.0/cmp.js":true,"/aaq/vzm/cs_1.4.0.js":true,"/aaq/nel/jsc/tdv2-wafer-utils.19c76fb8.js":true,"/oa/consent.js":true,"/aaq/wf/wf-toggle-1.15.4.js":true,"/aaq/wf/wf-fetch-1.18.13.js":true,"/aaq/wf/wf-lightbox-1.10.6.js":true,"/aaq/wf/wf-text-1.2.0.js":true,"/aaq/wf/wf-rapid-1.10.7.js":true,"/aaq/wf/wf-progress-loader-1.2.10.js":true,"/aaq/wf/wf-image-1.4.0.js":true,"/aaq/c/cecfa42.caas-article2_mweb.min.css":true,"/aaq/wf/wf-core-1.63.0.js":true,"/os/yaft/yaft-0.3.28.min.js":true,"/aaq/c/c1dacc6.caas-article2_mweb.min.js":true}}
+  
+
+
+
+   (function(win) {
+        win.addEventListener && win.addEventListener("DOMContentLoaded", function () {
+            var s = win.document.createElement("script");
+            s.async = true;
+            s.defer = true;
+            s.src = "https://s.yimg.com/cx/pv/perf-vitals_3.1.0.js";
+            win.document.body.appendChild(s);
+        });
+    })(window);
+  
+
+
+
+
+
+   (function(w) {
+        if (w.YAHOO && w.YAHOO.i13n && w.YAHOO.i13n.Rapid) {
+            YAHOO.i13n.SPACEID = '1197618805';
+            var enableApvBeacon = true;
+            var clientOnly = undefined;
+            var rapidConfig = {"click_timeout":200,"keys":{"_rid":"7sqc52li8cuhi","abk":"","colo":"bf1","mrkt":"us","p_sec":"default","partner":"none","site":"news","uh_vw":0,"navtype":"server","p_hosted":"hosted","pcp":"Olafimihan Oshin","pct":"story","pd":"non_modal","pstaid":"15665382-6a5d-30a6-b3e4-6bf692ef632c","pstaid_p":"15665382-6a5d-30a6-b3e4-6bf692ef632c","pstcat":"politics","pt":"content","ver":"article"},"perf_navigationtime":2,"test_id":"news-US-en-US-def","tracked_mods_viewability":{"module-footer":"footer","module-header":"hd","close-button-section":"close-button","close-fauxdal":"close-button","module-article":"content-canvas","module-spotIm":"cmmts"},"viewability":true,"yql_host":"udc.yahoo.com","yql_path":"/v2/public/yql"};
+            rapidConfig.spaceid = YAHOO.i13n.SPACEID;
+
+            if(typeof clientOnly !== 'undefined') {
+                rapidConfig.client_only = clientOnly;
+            }
+            // beacon apv for mobile web
+            if (enableApvBeacon) {
+                rapidConfig.apv_callback = function(apvObj) {
+                    try {
+                        if ('1197618805' === YAHOO.i13n.SPACEID) {
+                            var img = new Image();
+                            img.src = '/_td_api/beacon/error?beaconType=apv&sp=' + YAHOO.i13n.SPACEID
+                                + '&device=featurephone&intl=US&pixel_pos='
+                                + apvObj.pixel_pos + '&scroll_dir='
+                                + apvObj.scroll_dir;
+                        }
+                    } catch (e) {}
+                };
+            }
+
+            // ensure webworker is loaded from yaho.com cdn path
+            YAHOO.i13n.WEBWORKER_FILE = '/__rapid-worker-1.2.js';
+
+            // setup rapid instance
+            YAHOO.i13n.rapidInstance = w.rapidInstance = w.YAHOO.i13n.Rapid(rapidConfig);
+
+            // expose rapid config for homepage-viewer client
+            if (!w.rapidPageConfig) {
+                w.rapidPageConfig = {
+                    rapidConfig: rapidConfig
+                }
+            }
+        }
+    }(window));
+  
+
+   (function(w) {
+            w.YAHOO = w.YAHOO || {};
+            w.YAHOO.comscore = {"c14":-1,"enableTracking":true};
+
+            w._comscore = w._comscore || [];
+            w._comscore.push({"c1":"2","c2":"7241469","c5":"1197618805","c7":"https://news.yahoo.com/eric-holder-trump-conviction-could-224340124.html","c14":-1});
+
+            var s = document.createElement('script');
+            var el = document.getElementsByTagName('script')[0];
+            s.async = true;
+            s.src = 'https://s.yimg.com/aaq/vzm/cs_1.4.0.js';
+            el.parentNode.insertBefore(s, el);
+        }(window));
+  
+
+
+
+
+   (function(w) {
+        if (w.performance && typeof w.performance.now === 'function' && w.document.addEventListener) {
+            w.document.addEventListener('DOMContentLoaded', function(){
+                var yaftConfig = {"adModules":["sda-LDRB","sda-LREC","sda-LREC2","sda-LREC3","sda-MAST","sda-MON","sda-WFPAD","sda-XFPAD"],"adModulesMap":{"LDRB":"sda-LDRB","LREC":"sda-LREC","LREC2":"sda-LREC2","LREC3":"sda-LREC3","MAST":"sda-MAST","MON":"sda-MON","WFPAD":"sda-WFPAD","XFPAD":"sda-XFPAD"},"maxWaitTime":4000,"modules":["module-","sda-"],"modulesExclude":[],"preferDataModNameOverId":true,"punishAdsOnNoShow":true,"trackModulesMap":{"pencilAd":"ADEND_PENCIL","sponsoredMoments":"ADEND_SPONSOREDMOMENTS"}};
+                if (w.YAFT && yaftConfig) {
+                    var whiteListedAds = yaftConfig.adModulesMap;
+                    var preProcess = function() {
+                        // Override the ad load time as the ad module's load time
+                        var darlaAdTimings = [];
+                        var adTiming;
+                        var aft2StartRender = w.YAFT.AFT2.getAFT2StartRender() - 800;
+                        if (typeof w._adLT !== 'undefined') {
+                            for (var i = 0; i < w._adLT.length; i++) {
+                                adTiming = w._adLT[i];
+                                var adIdAction = adTiming[0];
+                                var adTime = adTiming[1];
+                                var adAction = adIdAction.indexOf('ADSTART_') > -1 ? 'start' : 'end';
+                                var adId = '';
+
+                                if (adAction === 'start') {
+                                    adId = adIdAction.replace('ADSTART_', '');
+                                    darlaAdTimings[adId] = {
+                                        started: adTime,
+                                        loaded: 0
+                                    };
+                                } else {
+                                    adId = adIdAction.replace('ADEND_', '');
+                                    if (typeof darlaAdTimings[adId] !== 'undefined') {
+                                        darlaAdTimings[adId].loaded = adTime;
+                                    }
+                                }
+                            }
+
+                            for (var adObj in darlaAdTimings) {
+                                if (darlaAdTimings.hasOwnProperty(adObj) && whiteListedAds && typeof whiteListedAds[adObj] !== undefined) {
+                                    var adStartTime = darlaAdTimings[adObj].started;
+                                    var adLoadTime = darlaAdTimings[adObj].loaded || w.performance.now();
+                                    if (aft2StartRender > adStartTime) {continue;}
+                                    w.YAFT.triggerCustomTiming(whiteListedAds[adObj], adStartTime, adLoadTime);
+                                }
+                            }
+                        }
+
+                        // Override the video load time as the module's load time
+                        if (typeof w._videoLT !== 'undefined') {
+                            for (var key in w._videoLT) {
+                                if (w._videoLT.hasOwnProperty(key)) {
+                                    w.YAFT.triggerCustomTiming(key, w._videoLT[key].startTime, w._videoLT[key].loadTime || w.performance.now());
+                                }
+                            }
+                        }
+                    };
+
+                    var setPagePerfDataForTrackModules = function(pagePerfData) {
+                        var trackModulesPerfMark = w.performance.getEntriesByType('mark');
+                        if (trackModulesPerfMark) {
+                            var trackModules = yaftConfig.trackModulesMap;
+                            if (trackModules) {
+                                var trackModuleNames = [];
+                                for (var trackModule in trackModules) {
+                                    if (trackModules.hasOwnProperty(trackModule)) {
+                                        trackModuleNames.push(trackModule);
+                                    }
+                                }
+                                if (trackModuleNames.length > 0) {
+                                    for (var t = 0; t < trackModulesPerfMark.length; t++) {
+                                        var moduleMark = trackModulesPerfMark[t];
+                                        if (trackModuleNames.indexOf(moduleMark.name) !== -1) {
+                                            pagePerfData[trackModules[moduleMark.name]] = Math.round(moduleMark.startTime);
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                    yaftConfig.preProcess = preProcess;
+                    w.YAFT.init(yaftConfig, function(data, error) {
+                        if (!error && w.rapidInstance) {
+                            var aft = Math.round(data.aft);
+                            var initialPageLoad = {
+                                AFT: aft,
+                                AFT1: aft,
+                                AFTNOAD: Math.round(data.aftNoAd),
+                                STR: Math.round(data.startRender),
+                                VIC: data.visuallyComplete,
+                                PLT: data.pageLoadTime,
+                                DOMC: data.domElementsCount,
+                                HTTPC: data.httpRequests.count,
+                                CP: Math.round(data.totalCoveragePercentage),
+                                NCP: Math.round(data.normTotalCoveragePercentage)
+                            };
+                            var customPerfData = {};
+                            var pagePerfData = {};
+                            if ( window._adLT) {
+                                for (var i = 0; i < _adLT.length; i++) {
+                                    pagePerfData[_adLT[i][0]]  = _adLT[i][1];
+                                }
+                            }
+                            setPagePerfDataForTrackModules(pagePerfData);
+                            // Track user connection type
+                            var navConnection = navigator && (navigator.connection || navigator.mozConnection || navigator.webkitConnection) || {};
+                            pagePerfData['CONNECTION_TYPE'] = navConnection.effectiveType || 'unknown';
+                                                        
+                            customPerfData['utm'] = pagePerfData;
+                            var perfData = {
+                                perf_commontime: {
+                                    initialPageLoad: initialPageLoad
+                                },
+                                perf_usertime: customPerfData
+                            };
+
+                            w.rapidInstance.beaconPerformanceData(perfData);
+                        }
+                    });
+                }
+            });
+        }
+    })(window);
+  
+
+
+
+   (function(w) {
+        var dabConfig = {"cookieDurationInDays":7,"detectionTimeout":300,"enableABPDetection":true,"enableDetection":true,"enableUBDetection":false,"positions":["sda-LDRB","sda-MAST"]};
+        var cookieName = 'thamba';
+        var thamba = false;
+        var shouldCheckPosition = true;
+        var cookieDuration = 10080;
+        var pixelDetectUrl = "https://www.yahoo.com/px.gif";
+        var detectABP = function(daTrk) {
+    var DPba=new function(){this.detect=function(px,callback){var detected=false;var checksRemain=2;var error1=false;var error2=false;if(typeof callback!="function")return;px+="?ch=*&rn=*";function beforeCheck(callback,timeout){if(checksRemain==0|| timeout>1E3)callback(checksRemain==0&&detected);else setTimeout(function(){beforeCheck(callback,timeout*2)},timeout*2)}function checkImages(){if(--checksRemain)return;detected=!error1&&error2}var random=Math.random()*11;var img1=new Image;img1.onload=checkImages;img1.onerror=function(){error1=true;checkImages()};img1.src=px.replace(/\*/,1).replace(/\*/,random);var img2=new Image;img2.onload=checkImages;img2.onerror=function(){error2=true;checkImages()};img2.src=px.replace(/\*/,2).replace(/\*/,random);beforeCheck(callback,250)}}; 
+    DPba.detect(pixelDetectUrl, function(usesABP) {
+        if (usesABP) {
+            var expires = new Date();
+            expires.setMinutes(expires.getMinutes() + cookieDuration);
+            daTrk = '2';
+            w.wafer.utils.setCookie(cookieName, '2', {expires: expires, domain: location.hostname, path:'/'});
+        }
+
+        // this fires rapid when we set cookie either 1 or 2
+        if ((!thamba && daTrk !== '0') && w.rapidInstance && w.rapidInstance.beaconEvent) {
+            w.rapidInstance.beaconEvent("datrk", {pl1: daTrk});
+        }
+    });
+};
+
+var ubDetection = function() {
+    // primary check: create node has sensitive id on the fly
+    const decoyId = 'my-ads';
+    const decoyNode = document.createElement('div');
+    decoyNode.setAttribute('id', decoyId);
+    decoyNode.innerHTML = decoyId;
+    document.body.appendChild(decoyNode);
+    
+    const decoyNodeIns = document.querySelector(`#${decoyId}`);
+    if (decoyNodeIns && decoyNodeIns.offsetHeight === 0) {
+        decoyNodeIns.remove();
+        return true;
+    }
+    decoyNodeIns.remove();
+    
+    // additional check: check all necessary ad pos dimension
+    if (shouldCheckPosition) {
+        const { positions } = dabConfig;
+        let adposNodeCount = 0;
+        let hidenPosNodeCount = 0;
+        
+        for (const position of positions) {
+            const adposNode = document.querySelector(`#${position}`);
+            if (adposNode) {
+                adposNodeCount += 1;
+                if (adposNode.offsetHeight === 0) {
+                    hidenPosNodeCount += 1;
+                }
+            }
+        }
+
+        if (adposNodeCount > 0 && adposNodeCount === hidenPosNodeCount) {
+            return true;
+        }
+    }
+    return false;
+}
+
+var initABDetection = function() {
+    var daTrk = '0';
+    var cExpiry = 0;
+    var expires = new Date();
+
+    /* General AB Check */
+    var abSelector = document.getElementById('advertisement-thamba');
+    if (!abSelector) {
+        daTrk = '1';
+        cExpiry = cookieDuration;
+    }
+
+    /* Specific AB Check */
+    if (dabConfig.enableUBDetection) {
+        const isUBActive = ubDetection();
+        if (isUBActive) {
+            daTrk = '1';
+            cExpiry = cookieDuration;
+        }
+    }
+
+    expires.setMinutes(expires.getMinutes() + cExpiry);
+
+    // Sets cookie if we have to clear (block -> non-blocked state) OR
+    // set with value (non-block -> block state)
+    if ((thamba && daTrk === '0') || (!thamba && daTrk === '1')) {
+        w.wafer.utils.setCookie(cookieName, daTrk, {expires: expires, domain: location.hostname, path:'/'});
+    }
+
+    // if (dabConfig.enableABPDetection && daTrk === '1') { // will uncomment when we can detect container collapsed
+    if (dabConfig.enableABPDetection) {
+        detectABP(daTrk);
+    }
+};
+
+w.wafer && w.wafer.utils && w.wafer.ready  && w.wafer.ready(function () {
+    setTimeout(initABDetection, dabConfig.detectionTimeout || 300);
+});
+    }(window));
+  
+
+
+
+
+
+
+

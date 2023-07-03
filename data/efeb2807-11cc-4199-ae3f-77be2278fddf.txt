@@ -1,0 +1,3342 @@
+
+
+
+
+
+
+   Jonathan Turley tells Fox News the Trump indictment is ‘extremely damning’ and a ‘hit below the waterline’ | The Independent
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   html{overflow-x:hidden!important}html.i-amphtml-fie{height:100%!important;width:100%!important}html:not([amp4ads]),html:not([amp4ads]) body{height:auto!important}html:not([amp4ads]) body{margin:0!important}body{-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;-ms-text-size-adjust:100%;text-size-adjust:100%}html.i-amphtml-singledoc.i-amphtml-embedded{-ms-touch-action:pan-y pinch-zoom;touch-action:pan-y pinch-zoom}html.i-amphtml-fie>body,html.i-amphtml-singledoc>body{overflow:visible!important}html.i-amphtml-fie:not(.i-amphtml-inabox)>body,html.i-amphtml-singledoc:not(.i-amphtml-inabox)>body{position:relative!important}html.i-amphtml-ios-embed-legacy>body{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important}html.i-amphtml-ios-embed{overflow-y:auto!important;position:static}#i-amphtml-wrapper{overflow-x:hidden!important;overflow-y:auto!important;position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;margin:0!important;display:block!important}html.i-amphtml-ios-embed.i-amphtml-ios-overscroll,html.i-amphtml-ios-embed.i-amphtml-ios-overscroll>#i-amphtml-wrapper{-webkit-overflow-scrolling:touch!important}#i-amphtml-wrapper>body{position:relative!important;border-top:1px solid transparent!important}#i-amphtml-wrapper+body{visibility:visible}#i-amphtml-wrapper+body .i-amphtml-lightbox-element,#i-amphtml-wrapper+body[i-amphtml-lightbox]{visibility:hidden}#i-amphtml-wrapper+body[i-amphtml-lightbox] .i-amphtml-lightbox-element{visibility:visible}#i-amphtml-wrapper.i-amphtml-scroll-disabled,.i-amphtml-scroll-disabled{overflow-x:hidden!important;overflow-y:hidden!important}amp-instagram{padding:54px 0px 0px!important;background-color:#fff}amp-iframe iframe{box-sizing:border-box!important}[amp-access][amp-access-hide]{display:none}[subscriptions-dialog],body:not(.i-amphtml-subs-ready) [subscriptions-action],body:not(.i-amphtml-subs-ready) [subscriptions-section]{display:none!important}amp-experiment,amp-live-list>[update]{display:none}amp-list[resizable-children]>.i-amphtml-loading-container.amp-hidden{display:none!important}amp-list [fetch-error],amp-list[load-more] [load-more-button],amp-list[load-more] [load-more-end],amp-list[load-more] [load-more-failed],amp-list[load-more] [load-more-loading]{display:none}amp-list[diffable] div[role=list]{display:block}amp-story-page,amp-story[standalone]{min-height:1px!important;display:block!important;height:100%!important;margin:0!important;padding:0!important;overflow:hidden!important;width:100%!important}amp-story[standalone]{background-color:#000!important;position:relative!important}amp-story-page{background-color:#757575}amp-story .amp-active>div,amp-story .i-amphtml-loader-background{display:none!important}amp-story-page:not(:first-of-type):not([distance]):not([active]){transform:translateY(1000vh)!important}amp-autocomplete{position:relative!important;display:inline-block!important}amp-autocomplete>input,amp-autocomplete>textarea{padding:0.5rem;border:1px solid rgba(0,0,0,0.33)}.i-amphtml-autocomplete-results,amp-autocomplete>input,amp-autocomplete>textarea{font-size:1rem;line-height:1.5rem}[amp-fx^=fly-in]{visibility:hidden}amp-script[nodom],amp-script[sandboxed]{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}
+/*# sourceURL=/css/ampdoc.css*/[hidden]{display:none!important}.i-amphtml-element{display:inline-block}.i-amphtml-blurry-placeholder{transition:opacity 0.3s cubic-bezier(0.0,0.0,0.2,1)!important;pointer-events:none}[layout=nodisplay]:not(.i-amphtml-element){display:none!important}.i-amphtml-layout-fixed,[layout=fixed][width][height]:not(.i-amphtml-layout-fixed){display:inline-block;position:relative}.i-amphtml-layout-responsive,[layout=responsive][width][height]:not(.i-amphtml-layout-responsive),[width][height][heights]:not([layout]):not(.i-amphtml-layout-responsive),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-layout-responsive){display:block;position:relative}.i-amphtml-layout-intrinsic,[layout=intrinsic][width][height]:not(.i-amphtml-layout-intrinsic){display:inline-block;position:relative;max-width:100%}.i-amphtml-layout-intrinsic .i-amphtml-sizer{max-width:100%}.i-amphtml-intrinsic-sizer{max-width:100%;display:block!important}.i-amphtml-layout-container,.i-amphtml-layout-fixed-height,[layout=container],[layout=fixed-height][height]:not(.i-amphtml-layout-fixed-height){display:block;position:relative}.i-amphtml-layout-fill,.i-amphtml-layout-fill.i-amphtml-notbuilt,[layout=fill]:not(.i-amphtml-layout-fill),body noscript>*{display:block;overflow:hidden!important;position:absolute;top:0;left:0;bottom:0;right:0}body noscript>*{position:absolute!important;width:100%;height:100%;z-index:2}body noscript{display:inline!important}.i-amphtml-layout-flex-item,[layout=flex-item]:not(.i-amphtml-layout-flex-item){display:block;position:relative;-ms-flex:1 1 auto;flex:1 1 auto}.i-amphtml-layout-fluid{position:relative}.i-amphtml-layout-size-defined{overflow:hidden!important}.i-amphtml-layout-awaiting-size{position:absolute!important;top:auto!important;bottom:auto!important}i-amphtml-sizer{display:block!important}@supports (aspect-ratio:1/1){i-amphtml-sizer.i-amphtml-disable-ar{display:none!important}}.i-amphtml-blurry-placeholder,.i-amphtml-fill-content{display:block;height:0;max-height:100%;max-width:100%;min-height:100%;min-width:100%;width:0;margin:auto}.i-amphtml-layout-size-defined .i-amphtml-fill-content{position:absolute;top:0;left:0;bottom:0;right:0}.i-amphtml-replaced-content,.i-amphtml-screen-reader{padding:0!important;border:none!important}.i-amphtml-screen-reader{position:fixed!important;top:0px!important;left:0px!important;width:4px!important;height:4px!important;opacity:0!important;overflow:hidden!important;margin:0!important;display:block!important;visibility:visible!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:8px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:12px!important}.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader~.i-amphtml-screen-reader{left:16px!important}.i-amphtml-unresolved{position:relative;overflow:hidden!important}.i-amphtml-select-disabled{-webkit-user-select:none!important;-ms-user-select:none!important;user-select:none!important}.i-amphtml-notbuilt,[layout]:not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){position:relative;overflow:hidden!important;color:transparent!important}.i-amphtml-notbuilt:not(.i-amphtml-layout-container)>*,[layout]:not([layout=container]):not(.i-amphtml-element)>*,[width][height][heights]:not([layout]):not(.i-amphtml-element)>*,[width][height][sizes]:not([layout]):not(.i-amphtml-element)>*{display:none}amp-img:not(.i-amphtml-element)[i-amphtml-ssr]>img.i-amphtml-fill-content{display:block}.i-amphtml-notbuilt:not(.i-amphtml-layout-container),[layout]:not([layout=container]):not(.i-amphtml-element),[width][height][heights]:not([layout]):not(.i-amphtml-element),[width][height][sizes]:not(img):not([layout]):not(.i-amphtml-element){color:transparent!important;line-height:0!important}.i-amphtml-ghost{visibility:hidden!important}.i-amphtml-element>[placeholder],[layout]:not(.i-amphtml-element)>[placeholder],[width][height][heights]:not([layout]):not(.i-amphtml-element)>[placeholder],[width][height][sizes]:not([layout]):not(.i-amphtml-element)>[placeholder]{display:block;line-height:normal}.i-amphtml-element>[placeholder].amp-hidden,.i-amphtml-element>[placeholder].hidden{visibility:hidden}.i-amphtml-element:not(.amp-notsupported)>[fallback],.i-amphtml-layout-container>[placeholder].amp-hidden,.i-amphtml-layout-container>[placeholder].hidden{display:none}.i-amphtml-layout-size-defined>[fallback],.i-amphtml-layout-size-defined>[placeholder]{position:absolute!important;top:0!important;left:0!important;right:0!important;bottom:0!important;z-index:1}amp-img[i-amphtml-ssr]:not(.i-amphtml-element)>[placeholder]{z-index:auto}.i-amphtml-notbuilt>[placeholder]{display:block!important}.i-amphtml-hidden-by-media-query{display:none!important}.i-amphtml-element-error{background:red!important;color:#fff!important;position:relative!important}.i-amphtml-element-error:before{content:attr(error-message)}i-amp-scroll-container,i-amphtml-scroll-container{position:absolute;top:0;left:0;right:0;bottom:0;display:block}i-amp-scroll-container.amp-active,i-amphtml-scroll-container.amp-active{overflow:auto;-webkit-overflow-scrolling:touch}.i-amphtml-loading-container{display:block!important;pointer-events:none;z-index:1}.i-amphtml-notbuilt>.i-amphtml-loading-container{display:block!important}.i-amphtml-loading-container.amp-hidden{visibility:hidden}.i-amphtml-element>[overflow]{cursor:pointer;position:relative;z-index:2;visibility:hidden;display:initial;line-height:normal}.i-amphtml-layout-size-defined>[overflow]{position:absolute}.i-amphtml-element>[overflow].amp-visible{visibility:visible}template{display:none!important}.amp-border-box,.amp-border-box *,.amp-border-box :after,.amp-border-box :before{box-sizing:border-box}amp-pixel{display:none!important}amp-analytics,amp-auto-ads,amp-story-auto-ads{position:fixed!important;top:0!important;width:1px!important;height:1px!important;overflow:hidden!important;visibility:hidden}amp-story{visibility:hidden!important}html.i-amphtml-fie>amp-analytics{position:initial!important}[visible-when-invalid]:not(.visible),form [submit-error],form [submit-success],form [submitting]{display:none}amp-accordion{display:block!important}@media (min-width:1px){:where(amp-accordion>section)>:first-child{margin:0;background-color:#efefef;padding-right:20px;border:1px solid #dfdfdf}:where(amp-accordion>section)>:last-child{margin:0}}amp-accordion>section{float:none!important}amp-accordion>section>*{float:none!important;display:block!important;overflow:hidden!important;position:relative!important}amp-accordion,amp-accordion>section{margin:0}amp-accordion:not(.i-amphtml-built)>section>:last-child{display:none!important}amp-accordion:not(.i-amphtml-built)>section[expanded]>:last-child{display:block!important}
+/*# sourceURL=/css/ampshared.css*/
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   .hoUYqD{max-width:100%}.jpagTJ{display:none}.gKnenO,.jXRgdv{display:flex;width:1em;align-items:center}.exnxyU{display:flex;flex-direction:column;margin:0}.OUACk{flex-grow:1}.OUACk amp-img{height:100%;margin:0 auto}.OUACk img{object-fit:contain}.djMpHY{position:absolute;bottom:0;width:100%;box-sizing:border-box;padding:12px 16px 16px;background:rgba(34,34,34,.65)}@media(min-width:768px){.djMpHY{padding:16px 72px 16px 16px}}.cqzDxK{margin-bottom:12px}.kXiZdG{margin:0;color:#bdbdbd;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:16px;font-style:italic;line-height:48px;opacity:.7}@media(min-width:1000px){.kXiZdG{padding-top:16px;line-height:16px}}.hqcXOd{margin:0 0 27px;color:#fff;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:16px;line-height:inherit}@media(min-width:1000px){.hqcXOd{margin-bottom:16px}}.hqcXOd p{color:#fff;line-height:inherit}.hqcXOd p,.kJLLrQ{font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:16px}.kJLLrQ{margin:0 0 10px;color:#bdbdbd;font-weight:400}@media(min-width:1000px){.kJLLrQ{display:none}}.jMVGfD{position:absolute;z-index:2;top:0;left:0;width:100%;height:100%}@media(min-width:1000px){.jMVGfD{display:none}}.iPRUOP{position:absolute;z-index:10;right:0;width:100%;height:50px}.iPRUOP .close-btn{position:absolute;top:0;right:0;width:48px;height:48px;background:rgba(34,34,34,.65)}.iPRUOP .close-btn svg{fill:#fff}@media(min-width:1000px){.iPRUOP .close-btn{background:0}.iPRUOP{width:316px;height:100%;background:#4e4e4e}}.eXWWKQ{position:relative;width:100%;background:#222}.eXWWKQ,.eXWWKQ amp-carousel{height:100%}@media(min-width:1000px){.eXWWKQ{width:calc(100% - 316px)}}@media(max-width:999px){.eXWWKQ{height:calc(100% - 90px)}}@media(max-width:767px){.eXWWKQ{height:calc(100% - 50px)}}.eXWWKQ .adSlide{display:flex;width:100%;height:100%;flex-direction:column;align-items:center;justify-content:center}.hCmvXK{display:none}@media(min-width:1000px){.hCmvXK{display:block}}.gtmLdv{display:flex;padding:63px 16px 16px;margin:0;color:#fff;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:16px;font-weight:400;line-height:21px}.cCYvxP{width:14px;height:14px;margin:0 auto}.jThjJJ amp-lightbox>div{background:#222}.jThjJJ amp-lightbox{z-index:2147483642}.jThjJJ .amp-carousel-button{display:none;width:48px;height:48px;border-radius:0;margin:0;background:rgba(34,34,34,.8);cursor:pointer;outline:0}.jThjJJ .amp-carousel-button:before{position:absolute;top:18px;left:20px;display:block;width:8px;height:12px;margin-left:1px;background:url(/img/icons/chevron.svg) no-repeat 50%;content:" "}@media(min-width:1000px){.jThjJJ .amp-carousel-button{display:block}}.jThjJJ .amp-carousel-button-prev:before{margin-left:-1px;transform:rotate(180deg)}.jThjJJ .caption-toggle{position:absolute;right:0;bottom:17px;width:48px;height:48px;background:0;font-size:16px;outline:0}.jThjJJ .caption-toggle svg{fill:#fff}@media(min-width:1000px){.jThjJJ .caption-toggle{bottom:0}}.jThjJJ .caption-toggle--open{background:#4e4e4e}.cJShzS{z-index:2147483643;right:8px;width:300px;height:600px;text-align:center}.cJShzS,.cJShzS>div:last-child{position:absolute;bottom:0}@media(max-width:999px){.cJShzS{display:none}}.cLPnBa{position:absolute;z-index:2147483643;bottom:0;display:none;width:100%;height:90px;text-align:center}@media(max-width:999px){.cLPnBa{display:block}}@media(max-width:767px){.cLPnBa{height:50px}}.lkengh{position:absolute;top:0;left:0;padding:1px 12px 0;background:rgba(34,34,34,.65);color:#bdbdbd;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:16px;font-weight:400;line-height:47px}.lkengh span.hide{visibility:hidden}@media(min-width:1000px){.lkengh{top:1px;width:100%;padding:1px 0 0 12px;background:#353533}}.kTVWDe{width:24px;height:24px;margin:0 auto}.dOEIKk{padding:6px 12px;background:#f7f7f7;color:#646464;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:14px;font-weight:400;line-height:18px;text-align:left}.dOEIKk>span:nth-child(2){margin-left:.2em}@media(min-width:1000px){.dOEIKk{padding:6px 10px}header.parallax .dOEIKk{position:absolute;right:0;width:calc((100% - 832px) / 2)}}.dOEIKk p{margin:0;font-size:inherit;line-height:inherit}.fEbdnl{padding:12px 12px 6px}@media(min-width:1000px){.fEbdnl{padding:12px 12px 6px}}.blgRkD{position:relative;margin:0;clear:both}@media(min-width:768px) and (max-width:999px){header .blgRkD.image{padding:0 16px}.article-infact header .blgRkD.image{padding:0}}.blgRkD img{object-fit:cover}.blgRkD amp-img{outline:0}.blgRkD amp-img[data-gallery-length]:hover{cursor:pointer}.blgRkD amp-img[data-gallery-length]:after{position:absolute;right:6px;bottom:6px;padding:10px 9px 10px 41px;background:hsla(0,0%,93%,.666) url(/img/icons/icon-gallery.svg) 10px 50%/24px auto no-repeat;content:attr(data-gallery-length);font:19px Indy Sans,Adjusted Indy Sans Fallback,sans-serif}.blgRkD.align-left,.blgRkD.align-right{width:50%;padding:0;margin-bottom:16px}.blgRkD.align-left{width:100%;margin-left:0}@media(min-width:768px){.blgRkD.align-left{width:174px;margin-right:16px;float:left}}@media(min-width:1000px){.blgRkD.align-left{width:318px}.blgRkD.align-left.subscribed{margin-left:-16%}}.blgRkD.align-right{width:100%}@media(min-width:768px){.blgRkD.align-right{width:174px;margin-left:24px;float:right}}@media(min-width:1000px){.blgRkD.align-right{width:318px}.blgRkD.align-right.subscribed{margin-right:-16%}}@media(min-width:768px){.article-feature .main-wrapper .blgRkD.subscribed.align-center .caption,.article-feature .main-wrapper .blgRkD.subscribed.align-center amp-img[data-gallery-length],.article-feature .main-wrapper .blgRkD.subscribed.align-none .caption,.article-feature .main-wrapper .blgRkD.subscribed.align-none amp-img[data-gallery-length]{margin-right:42px;margin-left:42px}.article-premium header .blgRkD{margin:0}}@media(min-width:1000px){.article-feature .main-wrapper .blgRkD.subscribed.align-center .caption,.article-feature .main-wrapper .blgRkD.subscribed.align-center amp-img[data-gallery-length],.article-feature .main-wrapper .blgRkD.subscribed.al ign-none .caption,.article-feature .main-wrapper .blgRkD.subscribed.al ign-none amp-img[data-gallery-length]{margin-right:-84px;margin-left:-84px}}.bmKSdr{font-style:italic}.bmKSdr,.gPjNLO{display:inline}.fVGmLw{display:block;width:78px;height:53px;flex-shrink:0;margin-right:8px}@media(min-width:768px){.fVGmLw{width:82px;height:56px;margin-right:16px}}.cPmoFX{display:flex}.dpqZFH{padding:0;margin:0}.exvjLG{padding:12px 0;border-bottom:1px solid hsla(0,0%,74.1%,.5);list-style-type:none}.efBret{font-size:14px;line-height:1.29}@media(min-width:768px){.efBret{font-size:17px;line-height:1.24}}.fQYmej{padding-top:12px;border-top:1px solid hsla(0,0%,74.1%,.5);margin:16px 0 0;color:#646464;font-size:19px;font-weight:700;line-height:1.21}.gAYACI{width:100%;max-width:100%;min-height:400px;clear:both}.iYDkPy .video-top-container-inner{position:relative}.iYDkPy .video-popout-close{display:none}.iYDkPy .video-hero-wrapper-inner{display:block}.iYDkPy .video-hero-video{width:100%;margin:0;transition:height .2s}.iYDkPy .video-hero-wrapper.sticky-video{position:fixed;top:95px;width:400px;margin-left:-332px;transition:margin-left .3s,top .3s .1s}.iYDkPy .video-top-container.video.sticky:not(.closed) .video-hero-video{position:static;right:0;left:auto;width:100%}.iYDkPy .video-top-container.video.sticky:not(.closed) .video-hero-video.liveblog{margin-left:-12px}@media(min-width:768px){.iYDkPy .video-top-container.video.sticky:not(.closed) .video-hero-video{position:absolute;width:400px}}@media(min-width:1000px){.iYDkPy .video-top-container.video.sticky:not(.closed) .video-hero-video{top:94px;right:-56px}.iYDkPy .video-top-container.video.sticky:not(.closed) .video-hero-video.liveblog{right:-400px}}.iYDkPy .video-top-container.video.sticky:not(.closed) .video-hero-video .video-sticky-video{position:fixed;z-index:9;top:0;left:auto;width:100%;background-color:#fff;box-shadow:0 0 40px 10px rgba(0,0,0,.3)}@media(min-width:768px){.iYDkPy .video-top-container.video.sticky:not(.closed) .video-hero-video .video-sticky-video{width:400px;animation:slidedown-video .4s}}@media(min-width:1000px){.iYDkPy .video-top-container.video.sticky:not(.closed) .video-hero-video .video-sticky-video{top:auto;bottom:0;animation:slideup-video .4s}}.iYDkPy .video-top-container.video.sticky:not(.closed) .video-popout-close{display:none;width:100%;box-sizing:border-box;align-items:center;justify-content:flex-end;padding:4px 8px 3px;color:#222;cursor:pointer;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:14px;line-height:14px}@media(min-width:1000px){.iYDkPy .video-top-container.video.sticky:not(.closed) .video-popout-close{justify-content:flex-start}}.iYDkPy .video-top-container.video.sticky:not(.closed) .video-popout-close:after{display:flex;align-items:center;padding-left:4px;content:"\2715";font-size:12px}.iYDkPy .video-top-container.video.sticky:not(.closed) .video-popout-close.shown{display:flex}.jueGdi{max-width:100%}.dmDXE,.jxtUZN{position:relative}.dmDXE{width:100%;padding-top:56.25%;background:#000}.bVpnQZ{position:absolute;top:0;left:0;display:flex;width:100%;height:100%;align-items:center;justify-content:center}.koMjKP{width:10%}.jmdwlH{position:absolute;top:20px;right:20px;width:88px;height:29px}.hgZMJq.fullscreen{position:fixed;z-index:3000000000;top:0;left:0;width:100%;height:100%;background:#000}.hgZMJq .closebtn{position:absolute;top:0;right:0;display:none;width:100px;height:100px}.hgZMJq .closebtn.show{display:block}.hgZMJq .btn{position:absolute;top:5px;right:5px;width:25px;height:25px;color:#fff;font-family:helvetica,sans-serif;font-size:20px;line-height:25px;text-align:center}.bFGtAn{width:100%;max-width:100%;clear:both}.hXNGfC{padding:6px 12px 16px;margin:0}@media(min-width:1000px){.hXNGfC{padding-right:0;padding-left:0}}.hXNGfC p{padding:0;margin:0}.hXNGfC p,.sc-fcguo0-2{color:#fff;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:14px;font-weight:400}.bBCFeI{width:16px;height:16px}.bBCFeI,.bBDdIk{display:block;color:currentColor}.bBDdIk{width:24px;height:24px}.bBBEMk{display:block;width:32px;height:32px;color:currentColor}.cvxlbh{padding:0;margin:0;list-style:none}.ccDdFO{display:flex;height:62px;align-items:center}.ihcyKs{display:inline-block;width:32px;height:32px;border-radius:50%;margin:0 15px 0 0;background:#222;cursor:pointer;text-decoration:none}.ihcyKs svg{width:60%;height:60%;margin:20%;fill:#fff}.ihcyKs.fb-link{background:#3b5998}.ihcyKs.tw-link{background:#4a90e2}.jlmzvl{padding:0;margin:0;list-style:none}.crhoPB{display:block;padding:6px 0;color:#222;cursor:pointer;font-size:14px;font-weight:400;line-height:1.28;text-decoration:none}.cbqUcb{position:relative;display:flex;box-sizing:border-box;flex-wrap:wrap;justify-content:space-between;padding:32px 20px;border-top:1px solid #d3d3d3;margin:32px 12px;background-color:#fff;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif}@media(min-width:768px){.cbqUcb{margin:32px 16px 72px}}@media(min-width:1000px){.cbqUcb{padding-right:40px;padding-left:40px;margin:32px 16px}.wrapped_by_ads .cbqUcb{margin:32px 0}}.cbqUcb.hidden{display:none}.loRgiS{display:flex;width:100%;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:14px}.ktgXmL{display:grid;width:100%;padding:0;margin:0;grid-template-columns:1fr 1fr;list-style:none}@media(min-width:768px){.ktgXmL{grid-template-columns:1fr 1fr 1fr 1fr}}@media(min-width:1000px){.ktgXmL{display:flex;flex-wrap:wrap;align-items:flex-start}}.cRQJnu{width:100%;margin-bottom:20px}.cRQJnu:first-of-type{grid-row:span 2}.cRQJnu:nth-of-type(4){order:5}@media(min-width:768px){.cRQJnu{width:auto;grid-row:span 2}.cRQJnu:nth-of-type(2),.cRQJnu:nth-of-type(3){grid-row:span 1}.cRQJnu:nth-of-type(3){order:5}.cRQJnu:nth-of-type(4){order:0}}@media(min-width:1000px){.cRQJnu{width:50%;flex:1 0 145px;margin-bottom:20px}.cRQJnu:nth-of-type(3){order:0}}.bdKzIg{display:block;padding:0;margin:0 0 8px;color:#222;font-size:14px;font-weight:700;line-height:14px;pointer-events:none;text-decoration:none;text-transform:uppercase}.bmTIXn{display:block;width:72px;height:72px;margin-bottom:30px}.fyRXVg{display:none;visibility:hidden}.fIsDQz,.hsmvrC{display:flex;align-items:center}.hsmvrC{overflow:hidden;height:100%;margin:0}.hLQErB{padding:13px 12px}.hLQErB .logo-text{width:136px;height:13px}.hLQErB .logo-stamp{width:23px;height:23px;margin-right:3px}@media(min-width:375px){.hLQErB{padding:10px 12px}.hLQErB .logo-text{width:167px;height:16px}.hLQErB .logo-stamp{width:29px;height:29px;margin-right:4px}}@media(min-width:768px){.hLQErB{padding:8px 12px}.hLQErB .logo-text{width:229px;height:22px}.hLQErB .logo-stamp{width:39px;height:39px;margin-right:6px}}@media(min-width:1000px){.hLQErB{padding:12px 0}.hLQErB .logo-text{width:293px;height:28px}.hLQErB .logo-stamp{width:52px;height:52px;margin-right:7px}}.vqsEp{position:absolute;z-index:5;top:9px;left:-500px;display:flex;height:36px;align-items:center;padding:0 16px;border:2px solid #222;border-radius:6px;background:#222;color:#fff;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-weight:700;line-height:16px;outline:0}.vqsEp:focus{left:16px}.vqsEp:hover{background:#fff;color:#222}.fzzvLF{padding-bottom:12px;background:#353533;clear:both}.fzzvLF form.gsc-search-box{overflow:hidden;box-sizing:border-box;padding:12px 12px 0;margin:0}.fzzvLF table.gsc-search-box{overflow:hidden;border-radius:24px;margin:0}.fzzvLF table.gsc-search-box td.gsc-input{padding:0}.fzzvLF .gsib_a{padding-left:18px}.fzzvLF .gsc-input-box{padding:0;border:0}.fzzvLF input{height:32px!important}.fzzvLF .gsst_a,.fzzvLF .gsst_b{display:flex;height:100%;align-items:center;padding:0}.fzzvLF .gscb_a{overflow:hidden;width:14px;height:14px;margin:13px;background-image:url(data:image/svg+xml;charset=utf-8,%0A%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2028%2028%22%3E%3Cpath%20d%3D%22M16.8%2014L28%2025.2%2025.2%2028%2014%2016.8%202.9%2028%200%2025.2%2011.2%2014%200%202.8%202.9%200%2014%2011.2%2025.2%200%2028%202.8%2016.8%2014z%22%3E%3C%2Fpath%3E%3C%2Fsvg%3E%0A);text-indent:-9999px}.fzzvLF .gsc-search-button{width:46px;height:40px;padding:0;border:0;border-radius:0;margin:0;background:#ec1a2e}.fzzvLF .gsc-search-button:hover{background:#ec1a2e}.fzzvLF .gsc-search-button svg{width:18px;height:18px}.fzzvLF .quick-searchresults{position:absolute;z-index:7;left:3.75%;width:92.5%}.fzzvLF .quick-searchresults .gsc-control-cse{padding:0;border:0}.fzzvLF .quick-searchresults .gsc-results-wrapper-visible{height:373px;box-shadow:0 2px 4px 0 rgba(0,0,0,.19);overflow-y:scroll}.jToGfW{position:relative;display:none;margin-left:auto;background:0}@media(min-width:1000px){.jToGfW{display:block}}.jToGfW form.gsc-search-box{width:206px;padding:23px 0 0}.jToGfW .gsib_a{padding-top:1px;padding-bottom:1px}.jToGfW .gscb_a{margin:8px 13px}.jToGfW .gsc-search-button{height:32px}.jToGfW input{height:30px!important}.jToGfW table.gsc-input{border:1px solid #bdbdbd;border-radius:24px 0 0 24px;border-right:0}.jToGfW .quick-searchresults{z-index:7000;right:0;left:auto;width:391px;max-height:393px;margin-top:7px}.gagowY{border-left:1px solid #919191}.gagowY:last-child{border-right:1px solid #919191}.dVQVrN{padding-top:24px}.cWePZ{position:relative;z-index:6;margin:0 14px 0 auto}.boJOqU{margin:0 -2px 0 auto}.jbPpJi{position:relative;display:flex;width:176px;align-items:center;padding:4px 20px;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:14px;font-weight:400;line-height:18px}.jbPpJi,.jbPpJi:hover{color:#fff}.jbPpJi:hover:after{position:absolute;bottom:2px;left:20px;width:calc(100% - 40px);height:1px;background:#fff;content:""}.iaRaIH{list-style-type:none}.MedYG{padding:9px 0 20px;margin:0}.SRANI{margin:0 4px 0 20px;float:left}.jTpcOB{position:relative;display:flex;align-items:center;font-family:"Indy Serif","Adjusted Indy Serif Fallback",serif;font-size:20px;font-weight:700}.jTpcOB,.jTpcOB:hover{color:#fff}.jTpcOB:hover:after{position:absolute;bottom:-9px;left:0;width:100%;height:4px;background:#ec1a2e;content:""}.YtckH:hover:after{background:#19d37a}.dzijLJ{z-index:1001;display:none;margin-right:auto;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:14px;font-weight:700}@media(min-width:1000px){.amp-mode-mouse .dzijLJ:hover .primary-link{background:#353533;color:#fff}.amp-mode-mouse .dzijLJ:hover .primary-link:after{content:none}.amp-mode-mouse .dzijLJ:hover .secondary-nav{display:block}body:not(.amp-mode-touch) .dzijLJ:hover .primary-trigger{z-index:1}}.dzijLJ.primary-item__open .primary-trigger{color:#fff}.dzijLJ.primary-item__open .secondary-nav{display:block}.dzijLJ .primary-trigger{position:absolute;z-index:3;overflow:hidden;height:34px;padding:0 20px;border:0;background:0;cursor:default;opacity:0;text-transform:uppercase}.dzijLJ .primary-trigger:focus{opacity:1}@media(min-width:1000px){.dzijLJ{display:block}}.dqBwwc{display:flex;width:1000px;padding:16px 0;margin:0 auto}@media(min-width:1250px){.dqBwwc{width:1250px}}.dSaFKi{position:absolute;left:0;display:none;width:100vw;background:#353533}.dzxppT{position:relative;z-index:2;display:flex;height:34px;align-items:center;justify-content:center;padding:0 20px;color:#222;cursor:pointer;line-height:normal;text-transform:uppercase}.dzxppT:hover{background:#353533;color:#fff}.dzxppT:hover:after{content:none}.primary-item__open .dzxppT{background:#353533;color:#fff}.primary-item__open .dzxppT:after{content:none}.McJkJ{margin-left:auto}.bUhmHb{list-style-type:none}.bUhmHb:first-child{display:none}.amp-mode-keyboard-active .bUhmHb:first-child,.amp-mode-touch .bUhmHb:first-child{display:list-item}.hMLNMx{display:flex;width:200px;align-items:center;padding:10px 12px 10px 20px;background:#fff;color:#222;font-size:16px;font-weight:400}.hMLNMx:hover{background:#353533;color:#fff}.ebkmKG{background:#d6e5e6}.ebkmKG:hover{background:#24585a}.jOeNky{position:absolute;z-index:1002;display:none;padding:1px 0 0;box-shadow:0 2px 2px rgba(0,0,0,.25)}.bPuuOf{position:relative;z-index:2;display:flex;height:34px;align-items:center;justify-content:center;padding:0 10px;letter-spacing:-.2px;line-height:normal;text-transform:uppercase}.bPuuOf,.bPuuOf:hover{color:#222}@media(min-width:1000px){.bPuuOf{padding:0 20px}.amp-mode-touch .bPuuOf{pointer-events:none}.primary-item__open .bPuuOf{background:#f7f7f7}.primary-item__open .bPuuOf:after{position:absolute;bottom:0;left:0;width:100%;height:4px;background:#ec1a2e;content:""}.primary-item__open .bbJHvb{background:#eaf2f2}.primary-item__open .bbJHvb:after{position:absolute;bottom:0;left:0;width:100%;height:4px;background:#24585a;content:""}}.lnqGTl:after{position:absolute;bottom:0;left:0;width:100%;height:4px;background:#ec1a2e;content:""}.fxcHVQ{display:inline-block;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:14px;font-weight:700;list-style-type:none}.fxcHVQ:first-child .sc-12qu2kl-0{justify-content:start;padding:0 12px}@media(min-width:1000px){.fxcHVQ:first-child .sc-12qu2kl-0{padding:0 20px}.amp-mode-mouse .fxcHVQ:hover .sc-12qu2kl-0{background:#f7f7f7}.amp-mode-mouse .fxcHVQ:hover .sc-12qu2kl-0:after{position:absolute;bottom:0;left:0;width:100%;height:4px;background:#ec1a2e;content:""}.amp-mode-mouse .fxcHVQ:hover .sc-12qu2kl-1{background:#eaf2f2}.amp-mode-mouse .fxcHVQ:hover .sc-12qu2kl-1:after{position:absolute;bottom:0;left:0;width:100%;height:4px;background:#24585a;content:""}.amp-mode-mouse .fxcHVQ:hover .sc-12qu2kl-3{background:#eaf2f2}.amp-mode-mouse .fxcHVQ:hover .sc-12qu2kl-3:after{position:absolute;bottom:0;left:0;width:100%;height:4px;background:#24585a;content:""}.amp-mode-mouse .fxcHVQ:hover .secondary-nav{display:block}body:not(.amp-mode-touch) .fxcHVQ:hover .primary-trigger{z-index:1}}.fxcHVQ.primary-item__open .secondary-nav{display:block}.fxcHVQ .primary-trigger{position:absolute;z-index:3;display:none;overflow:hidden;height:34px;padding:0 20px;border:0;background:0;cursor:default;letter-spacing:-.2px;opacity:0;text-transform:uppercase}.fxcHVQ .primary-trigger:focus{opacity:1}@media(min-width:1000px){.fxcHVQ .primary-trigger{display:block}}.eRTTeA{display:flex;overflow:hidden;height:34px;border-top:1px solid #d3d3d3;border-bottom:1px solid #d3d3d3}@media(min-width:1000px){.eRTTeA{overflow:visible}}.cFnnfe,.kTwxSQ{display:none}.cFnnfe{width:128px;height:19px;margin:7px 20px 0 0}@media(min-width:1000px){.cFnnfe{display:flex;align-items:center}}.bSzrFo{align-items:center}.bgxHBY,.bSzrFo{display:flex;width:100%}.bgxHBY{max-width:1000px}@media(min-width:1000px){.bgxHBY{box-sizing:border-box;border-right:1px solid #d3d3d3;border-left:1px solid #d3d3d3;margin:0 auto}}@media(min-width:1250px){.bgxHBY{max-width:1250px}}.llZmZw{height:34px;padding:0 2px 0 0;margin:0;text-align:justify}@media(min-width:768px){.llZmZw{display:flex;flex-direction:row;flex-wrap:wrap;justify-content:flex-start;padding:0}}.fHNybE{width:100%;padding:0 12px;margin:0 auto}@media(min-width:375px){.fHNybE{padding:0 12px}}@media(min-width:768px){.fHNybE{max-width:636px;padding:0}}@media(min-width:1000px){.fHNybE{max-width:1000px;padding:0 16px}}.pWfga{display:inline}@media(max-width:424px){.pWfga{display:none}}.btiFrf{display:none}@media(max-width:424px){.btiFrf{display:inline}}.jwwydX{margin:0;color:#646464;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:18px;font-weight:400;line-height:21px}.eIsROc{display:flex}.elrJha{margin:0;color:#646464;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:21px;font-weight:700;line-height:18px}.dlA-DrN svg,.sc-1tr64o7-0{width:37px;height:37px}.dlA-DrN svg{margin-top:-4px}.leVWoe{display:grid;align-items:center;margin-left:12px;color:#353533;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;grid-gap:12px}@media(max-width:374px){.leVWoe{flex-direction:column;align-items:flex-start}}.TiMxA{position:sticky;z-index:9999999;bottom:0;display:flex;width:100vw;box-sizing:border-box;align-items:center;justify-content:space-between;padding:14px 0;border-top:3px solid #157f1f;margin:0 auto;background:#fff;box-shadow:0 1px 3px rgba(34,34,34,.2);transition:all .3s ease-in-out}.TiMxA.hide{bottom:-100px;opacity:0;visibility:hidden}.jcroEu{position:fixed;top:0;bottom:auto}.jcroEu .sc-govabo-0{box-sizing:border-box}.jcroEu.hide{bottom:auto;transform:translateY(-100%)}.eIMfjf{margin-right:-4px;transition:transform .2s ease-out}.jTdUsP{box-shadow:0 2px 2px rgba(0,0,0,.25)}.kLXlPZ{display:flex;height:22px;align-items:center;padding:5px 24px;border-top:1px solid #d3d3d3;background-color:#f7f7f7;color:#222;font-size:14px}.kLXlPZ:active,.kLXlPZ:hover{background-color:#353533;color:#f7f7f7}.kLXlPZ .sc-1uqhw3c-1{margin-left:auto}.kHyVvc{width:144px;padding-right:12px;padding-left:12px;border:solid #d3d3d3;border-width:0 1px;font-weight:400}.bkIgCs{height:49px;box-sizing:border-box;padding:16px;border:0;background:#fff;font-size:12px;font-weight:700;text-transform:uppercase}.bkIgCs:active{outline:0}.bkIgCs[aria-expanded=true]{background-color:#353533;color:#fff}.bkIgCs[aria-expanded=true] .sc-1uqhw3c-1{transform:rotate(180deg)}@media(min-width:768px){.bkIgCs{height:56px}}.gXEqKW{width:170px;height:34px;padding:0 12px;border-right:1px solid #d3d3d3;border-left:1px solid #d3d3d3;background:0;transition:background .2s}.gXEqKW:hover{background-color:#353533;color:#fff}.gXEqKW .sc-1uqhw3c-1{margin-left:auto}.jdAkWf{display:flex;height:100%;align-items:center}.chBmLP{margin-left:8px;font-weight:400;text-decoration:underline;text-transform:none}.cQUGzI{overflow:hidden;width:0}.cnEOZq{text-align:left}.eHzYby{margin:0 10px 0 0}.erRNmn{display:block;overflow:hidden;max-width:151px;font-size:14px;line-height:normal;text-overflow:ellipsis;white-space:nowrap;color:inherit}.jXtcru{max-width:107px}.dOkLLH{position:absolute;right:12px;display:flex;width:60px;height:24px;box-sizing:border-box;align-items:center;justify-content:center;border:1px solid #337e81;border-radius:6px;margin-top:12px;background:#fff;color:#337e81;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:10px;font-weight:700}.dOkLLH:hover{border-color:#24585a;color:#24585a}.bGdfVn{border:0;background:#337e81;color:#fff}.bGdfVn:hover{background:#24585a;color:#fff}.fVPxmp .register-login-link{display:flex;width:100%;height:49px;box-sizing:border-box;align-items:center;padding:13px 14px 12px;border-bottom:1px solid #d3d3d3;background:#fff;color:#222;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:12px;font-weight:700;text-transform:uppercase;transition:background .2s}.fVPxmp .register-login-link:hover{background:#353533;color:#fff}.fVPxmp .register-login-link:hover .sc-prfj1i-2{color:#fff}.fVPxmp .register-login-link[amp-access][amp-access-hide]{display:none}.fVPxmp .register-profile-link{text-transform:capitalize}.ghdZxy .register-login-link{width:auto;height:34px;padding:0 14px;border-bottom:0;border-left:1px solid #d3d3d3;background:0}.jfBufk{display:none;border-bottom:1px solid #d3d3d3;background:#f7f7f7;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-weight:700}@media(min-width:1000px){.jfBufk{display:block}}.epwUPW{display:flex;width:1000px;height:34px;justify-content:end;border-right:1px solid #d3d3d3;margin:0 auto}@media(min-width:1250px){.epwUPW{width:1250px}}.gersdO{display:none;height:34px;align-items:center;padding:0 12px;border-left:1px solid #d3d3d3;color:#222;font-size:12px;text-transform:uppercase;transition:background .2s}.gersdO:hover{background:#353533;color:#fff}.ixSKdg{display:flex;height:34px;align-items:center;padding:0 12px;border-left:1px solid #d3d3d3;background:#337e81;color:#fff;font-size:12px;text-transform:uppercase;transition:background .2s}.ixSKdg:hover{background:#24585a;color:#fff}.gChsxv{z-index:4;margin-top:-49px}@media(min-width:768px){.gChsxv{margin:0 auto 0 0}}.gChsxv .sc-1ea21ue-4,.gChsxv section{border-bottom:1px solid #d3d3d3}.fLenMP{display:flex;width:55px;height:49px;flex-direction:column;align-items:center;justify-content:center;border-left:1px solid #d3d3d3;margin-left:auto;column-gap:8px;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:10px;font-weight:700;row-gap:4px}.fLenMP:active{background:#222;color:#fff}@media(min-width:768px){.fLenMP{width:88px;height:56px;flex-direction:row-reverse}}@media(min-width:1000px){.fLenMP{display:none}}.jEJUtE{position:absolute;top:12px;right:69px;display:none;width:60px;height:24px;box-sizing:border-box;align-items:center;justify-content:center;border-radius:6px;background:#337e81;color:#fff;font-size:10px;line-height:20px}.jEJUtE:hover{background:#24585a;color:#fff}@media(min-width:320px){.jEJUtE{display:flex}}@media(min-width:375px){.jEJUtE{top:11px;width:70px;height:26px;font-size:12px}}@media(min-width:768px){.jEJUtE{top:16px;right:102px;width:80px;height:28px;font-size:14px}}@media(min-width:1000px){.jEJUtE{display:none}}.fNYtGC{position:absolute;top:16px;right:190px;display:none;box-sizing:border-box;gap:8px}@media(min-width:768px){.fNYtGC{display:flex}}@media(min-width:1000px){.fNYtGC{top:25px;right:222px;gap:16px}}.gLAAho{margin-right:-6px;margin-left:auto}.hjiolG{display:none;width:124px;height:16px;flex:1;align-items:center;padding:5px 7px;border:1px solid #bdbdbd;border-radius:6px;background:#fff;color:#353533;font-size:12px;transition:background .2s}.hjiolG:active,.hjiolG:hover{border-color:#353533;background:#353533;color:#fff}.hjiolG:nth-child(2){display:none;margin-left:auto}@media(min-width:1000px){.hjiolG:nth-child(2){display:flex}}@media(min-width:768px){.hjiolG{display:flex}}.eCgUJi{display:block;overflow:hidden;padding-right:12px;line-height:normal;text-overflow:ellipsis;white-space:nowrap}.iGHllg{z-index:1001;background:#fff}.eWkeaU,.iGHllg{position:relative;margin:0 auto}.eWkeaU{display:flex;max-width:1000px;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-weight:700}@media(min-width:1250px){.eWkeaU{width:1250px;max-width:none}}.fVHJpJ{position:relative;width:100%;max-width:1000px;margin:0 auto;background:#222}@media(min-width:1000px){.fVHJpJ{width:1000px;max-width:none}}@media(min-width:1250px){.fVHJpJ{width:1250px}}.chSjli{position:relative;background:#222}.chSjli:before{position:absolute;display:block;width:50%;height:100%;background-color:#ec1a2e;content:""}@font-face{font-display:swap;font-family:"Indy Serif";font-style:normal;font-weight:400;src:url(https://assets.the-independent.com/fonts/Independent-Serif-Regular.woff2) format("woff2")}@font-face{font-display:swap;font-family:"Indy Serif";font-style:italic;font-weight:400;src:url(https://assets.the-independent.com/fonts/Independent-Serif-Regular-Italic.woff2) format("woff2")}@font-face{font-display:swap;font-family:"Indy Serif";font-style:normal;font-weight:700;src:url(https://assets.the-independent.com/fonts/Independent-Serif-Bold.woff2) format("woff2")}@font-face{font-display:swap;font-family:"Indy Serif";font-style:italic;font-weight:700;src:url(https://assets.the-independent.com/fonts/Independent-Serif-Bold-Italic.woff2) format("woff2")}@font-face{font-display:swap;font-family:Indy Sans;font-style:normal;font-weight:400;src:url(https://assets.the-independent.com/fonts/Independent-Sans-Regular.woff2) format("woff2")}@font-face{font-display:swap;font-family:Indy Sans;font-style:normal;font-weight:700;src:url(https://assets.the-independent.com/fonts/Independent-Sans-Medium.woff2) format("woff2")}@font-face{ascent-override:97%;descent-override:21%;font-family:Adjusted Indy Sans Fallback;line-gap-override:6%;size-adjust:96%;src:local(Arial)}@font-face{ascent-override:normal;descent-override:normal;font-family:Adjusted Indy Sans Fallback;line-gap-override:12%;size-adjust:97%;src:local(Arial)}@font-face{ascent-override:normal;descent-override:normal;font-family:"Adjusted Indy Serif Fallback";line-gap-override:7%;size-adjust:99%;src:local(Georgia)}@font-face{ascent-override:normal;descent-override:normal;font-family:"Adjusted Indy Serif Fallback";line-gap-override:0;size-adjust:106%;src:local(Georgia)}@font-face{ascent-override:normal;descent-override:normal;font-family:"Adjusted Indy Serif Fallback";line-gap-override:4%;size-adjust:102%;src:local(Georgia)}body{color:#222;font-family:"Indy Serif","Adjusted Indy Serif Fallback",serif;-webkit-font-smoothing:antialiased;line-height:1.2;-webkit-print-color-adjust:exact;scroll-padding-top:300px}h1,h2{font-weight:700;letter-spacing:.22px;line-height:normal}h3{line-height:21px}li,p{font-size:19px;line-height:1.44em}a{color:#ec1a2e;text-decoration:none}a:hover{color:#a51220}button{overflow:visible;width:auto;padding:0;border:0;margin:0;appearance:none;background:transparent;color:inherit;cursor:pointer;font:inherit;-webkit-font-smoothing:inherit;line-height:normal}button::-moz-focus-inner{padding:0;border:0}.article-premium h3{font-size:19px}span svg{width:100%;height:auto}.limited-access,.limited-access-non-premium{overflow:hidden}.limited-access-non-premium .social-share,.limited-access .social-share{display:none}.limited-access{max-height:127px}.limited-access-non-premium{max-height:360px}@media(max-width:594px){.limited-access-non-premium{max-height:530px}}.tp-backdrop.tp-active{--bg:#222;--opacity:.2;--page-bg-color:#fff;background:var(--bg)!important;opacity:var(--opacity)!important}.tp-modal{overflow-y:auto!important}.tp-iframe-wrapper{box-shadow:none!important}.tp-body-scroll-prevented{background:var(--page-bg-color)!important}#pixels-player-amp-dock{position:fixed}@media(max-width:767px){#pixels-player-amp-dock{top:0;left:0;width:100%}}@media(max-width:999px){.parallax{transform:none!important;will-change:unset!important}}amp-consent{z-index:2147483647;min-width:100vw;min-height:100vh;background:transparent}amp-ad[sticky]{z-index:2147483646}amp-sidebar{position:relative;width:100%;max-width:100%;height:auto;min-height:100vh;background:0;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:19px}@media(min-width:425px){amp-sidebar{width:auto}}#drawermenu{max-width:320px;background:#f7f7f7}amp-lightbox{z-index:1002}amp-script{opacity:1}amp-selector[multiple] [option][selected]{outline:0}.grecaptcha-badge{visibility:hidden}body #tbl-next-up{z-index:2147483646}.jwplayer.jw-skin-independent-premium .jw-display-icon-container{padding:1em;border-radius:50%;background-color:#337e81}.jwplayer.jw-skin-independent-premium .jw-display-icon-container:hover{opacity:.85}.jwplayer.jw-skin-independent-regular .jw-display-icon-container{padding:1em;border-radius:50%;background-color:rgba(236,26,46,.8)}.jwplayer.jw-skin-independent-regular .jw-button-color{color:#fff}.jwplayer.jw-skin-independent-regular .jw-display-icon-container:hover{opacity:.85}.cwXuNL{margin:20px 0}.bVzkTq{border:2px solid #fff;border-top-color:#ec1a2e}.fCmGpl{display:block;width:145px;height:36px;border-color:#ec1a2e;border-radius:6px;margin:0 auto;background-color:#ec1a2e;color:#fff;font-size:16px;font-weight:700;transition:all .2s ease}.fCmGpl:hover{background-color:#a51220}.fCmGpl:disabled{display:block;background-color:#d3d3d3;cursor:auto;user-select:none}.fCmGpl .btn-loader{position:relative;top:2px;display:none;width:20px;height:20px;border-radius:50%;animation:spin 2s linear infinite}.bcoThH{position:relative;flex:1;text-align:left}.bcoThH a svg{fill:#646464}.bcoThH input.input-password::-webkit-credentials-auto-fill-button{position:relative;top:-2px;left:-32px;background:#646464}.bcoThH input,.bcoThH select{width:100%;height:56px;box-sizing:border-box;align-self:flex-end;padding:5px 16px 0;border:1px solid #bdbdbd;border-radius:4px;appearance:none;background:0;filter:none;font-size:16px;-webkit-font-smoothing:antialiased;outline:0;text-decoration:inherit;text-transform:inherit}.bcoThH input,.bcoThH input~label,.bcoThH select,.bcoThH select~label{color:#353533;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-weight:400;letter-spacing:.009375em}.bcoThH input~label,.bcoThH select~label{position:absolute;top:-8px;left:16px;overflow:hidden;padding:0 4px;background:#fff;font-size:12px;line-height:16px;pointer-events:none;text-align:left;text-overflow:ellipsis;user-select:none;white-space:nowrap}.bcoThH .error-text,.bcoThH .help-text,.bcoThH .submit-error-text{padding-left:16px;margin:5px 0 0;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:12px;letter-spacing:normal;line-height:16px;text-align:left}.bcoThH .error-text,.bcoThH .submit-error-text{color:#a20021}.bcoThH .help-text{color:#353533}.bcoThH .is-touched.user-invalid,.bcoThH select.user-invalid{border-color:#a20021;box-shadow:0 0 0 1px #a20021}.bcoThH .is-touched.user-valid:focus{border-color:#157f1f;box-shadow:0 0 0 1px #157f1f}.bcoThH .is-touched.user-valid~.error-text.visible{display:none}.bcoThH .is-untouched:not(.user-invalid):focus{border-color:#276fbf;box-shadow:0 0 0 1px #276fbf}.bcoThH .is-untouched:not(.form-submitted)~.error-text{display:none}.bcoThH .form-submitted.user-invalid{border-color:#a20021;box-shadow:0 0 0 1px #a20021}.bcoThH .form-submitted.user-invalid~.help-text,.bcoThH .is-touched.user-invalid~.help-text,.bcoThH select.user-invalid~.help-text{display:none}.isWreC{padding:0 36px 24px;background:#fff}.eSMOgS{display:flex;width:100%;height:44px;align-items:center;justify-content:center;padding-left:18px;border:1px solid #919191;border-radius:6px;margin:0;background-color:#fff;background-image:url(/img/icons/google.svg);background-position:58px 10px;background-repeat:no-repeat;color:#919191;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:14px;font-weight:700;text-transform:uppercase}.eSMOgS:hover{border-color:#646464;color:#646464}.gMgils{margin-bottom:24px}.ipyAbk{color:#ec1a2e;font-size:14px;text-decoration:underline}.jUIZPN{flex-grow:0;padding:60px 36px 24px;background:#fff;box-shadow:0 1px 4px 0 rgba(0,0,0,.5)}.jUIZPN .form-errors{margin-top:-4px;margin-bottom:8px;color:#a20021;font-size:14px}.Jqilw{margin:0 0 24px;font-size:22px;font-weight:700;line-height:26px}.dnyzLt{margin:0 0 16px;font-size:16px;font-weight:400;line-height:20px}.kkCskA{display:flex;width:100%;height:44px;align-items:center;justify-content:center;border:1px solid #337e81;border-radius:6px;margin:0;background-color:#fff;color:#337e81;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:14px;font-weight:700;text-transform:uppercase}.kkCskA:hover{border-color:#24585a;color:#24585a}.dtXBCv{display:flex;width:100%;height:44px;align-items:center;justify-content:center;border:1px solid #ec1a2e;border-radius:6px;margin:0;background-color:#fff;color:#ec1a2e;font-size:14px;font-weight:700;text-transform:uppercase}.dtXBCv:hover{border-color:#a51220;color:#a51220}.cIzzlN{margin:22px 0}.cIzzlN .form-submit{width:100%;height:44px;margin:0;font-size:14px;font-weight:700;outline:0;text-transform:uppercase}.jJEIpG{width:100%;height:.5px;margin-bottom:24px;background-color:#222;opacity:.5}.cEcqqz{height:max(830px,100vh);background:#fff;color:#353533}.cEcqqz .google-recaptcha-policy{padding:0 36px;color:#353533;font-size:12px;line-height:16px;text-align:left}.cEcqqz .google-recaptcha-policy a{color:#353533;font-weight:700}.cEcqqz .google-recaptcha-policy a:hover{color:#a51220}.cyngHQ{margin-bottom:24px}.FBWN{display:flex;width:100vw;height:100%;box-sizing:border-box;flex-direction:column;flex-grow:1}@media(min-width:425px){.FBWN{width:375px}}.lnYlpr{position:absolute;left:-9999px;opacity:0;visibility:hidden}.fmECrp{display:inline-block;width:23px;height:23px;margin-right:8px}.fmECrp:nth-of-type(2){width:15px;height:15px;padding:0 0 0 6px}.gnYjfm{position:relative;padding:10px 0 10px 12px;line-height:19px}.gnYjfm:hover:after{width:8px;transition:width .2s ease-in}.gnYjfm:after{position:absolute;top:0;right:0;width:0;height:100%;background-color:#ec1a2e;content:""}.fHAtKc{display:flex;align-items:center;color:#222;font-size:16px}.PaYxf{width:100%;min-width:240px;padding:0;margin:0;list-style:none}.hCClbF{padding:16px 40px;margin:0;font-size:16px;font-weight:700;text-align:center}.gNxrav{position:absolute;top:0;right:0;width:240px;height:auto;padding:0 0 20px;background:#fff}.dxKfWB{height:100vh}.dxKfWB .close{position:absolute;z-index:1;top:15px;right:20px}.fwWOzF{width:100vw}@media(min-width:425px){.fwWOzF{width:240px}}.jWVaUV{margin-left:auto}.MTMxl{display:flex;align-items:center;padding:11px 12px 11px 32px;border-top:1px solid #d3d3d3;font-size:16px;line-height:normal}.MTMxl,.MTMxl:hover{color:#222}.MTMxl:active{background:#353533;color:#fff}.bjfYXV{padding-left:16px;background:#fff}.fdkwGn{padding:0;margin:0}.jDLkFL{border-bottom:1px solid #d3d3d3;margin:12px 0}.evBEac{list-style-type:none}.fQxvDy{position:relative;z-index:6;display:flex;width:24px;align-items:center;margin:15px 15px 0 auto;transition:transform .2s ease-out}.fQxvDy.drawer-nav-arrow__side{margin-top:-35px;margin-left:276px;transform:rotate(270deg)}.jGXgNi{display:block;overflow:hidden;color:#646464;font-size:12px;line-height:16px;text-overflow:ellipsis;white-space:nowrap}.kgSfuY{position:absolute;z-index:5;display:flex;width:calc(100% - 54px);height:51px;box-sizing:border-box;flex-direction:column;justify-content:center;padding:2px 15px 0 10px;border-right:1px solid #d3d3d3;background:#fff}.kgSfuY:active{background:#f7f7f7}.kgSfuY.drawer-nav-link__standalone{position:relative;width:100%;border-right:0}.ihrPPk{width:18px;height:18px;margin-right:4px;float:left}.cyQlnD{display:block;height:18px;margin-bottom:5px;color:#222;font-size:20px;font-weight:700;line-height:20px;text-transform:uppercase}.axobT{overflow:hidden;height:51px;padding:0;border:0;border-left:6px solid #fff;margin:0;background:#fff;font-weight:400}.axobT:active,.axobT[aria-expanded=true]{background:#353533;color:#fff}.axobT[aria-expanded=true] .sc-pk1ym4-0{transform:rotate(180deg)}.axobT.drawer-nav-trigger__active{border-left-color:#ec1a2e}.axobT.drawer-nav-trigger__climate{border-left-color:#19d37a}.axobT.drawer-nav-trigger__premium{border-left-color:#337e81}.fMKyYh{position:relative;width:100%;background:#f7f7f7;clear:both}.fMKyYh .sc-1ea21ue-3,.fQCLtt{border-bottom:1px solid #d3d3d3}.gcGkxy{display:flex;box-sizing:border-box;padding:0 12px 12px;background:#353533;gap:8px}.htMTOZ{margin-right:-6px;margin-left:auto}.fpZipc{display:flex;min-width:0;max-width:126px;height:14px;flex:1;align-items:center;padding:5px 7px;border-radius:6px;background:#fff;color:#353533;font-size:12px}.fpZipc:active,.fpZipc:hover{background:#919191;color:#fff}@media(min-width:1000px){.fpZipc:active,.fpZipc:hover{border-color:#353533;background:#353533}}.fpZipc:nth-child(2){display:none;margin-left:auto}@media(min-width:320px){.fpZipc:nth-child(2){display:flex}}@media(min-width:1000px){.fpZipc{border:1px solid #bdbdbd}}.khSIR{display:block;overflow:hidden;padding-right:12px;text-overflow:ellipsis;white-space:nowrap}.fCUCcU{position:relative;z-index:5;display:flex;width:55px;height:49px;flex-direction:column;align-items:center;justify-content:center;padding-top:0;border-left:1px solid #d3d3d3;margin-left:auto;background:#fff;column-gap:8px;font-size:10px;font-weight:700;row-gap:4px}.fCUCcU:active{background-color:#353533;color:#fff}@media(min-width:768px){.fCUCcU{width:88px;height:56px;flex-direction:row-reverse}}.iEQYIm{margin-top:-49px}@media(min-width:768px){.iEQYIm{margin-top:-56px}}.iEQYIm .sc-1ea21ue-4,.iEQYIm section,.kLITVf{border-bottom:1px solid #d3d3d3}.kLITVf{--bg:#fff;--color:#222;display:flex;width:100vw;max-width:320px;box-sizing:border-box;align-items:center;padding:18px;border-top:1px solid #d3d3d3;background-color:var(--bg);color:var(--color);gap:20px}.kLITVf path,.kLITVf rect{fill:var(--color)}.kLITVf:active,.kLITVf:focus,.kLITVf:hover{--bg:#353533;--color:#fff;color:var(--color)}@media(min-width:320px){.kLITVf{width:320px}}.cEGniE{padding-bottom:200px}.lghPfT{margin-left:auto}.jcWgzW{position:sticky;z-index:1000000;bottom:0;width:100vw}.jcWgzW.hidden{display:none}.jcWgzW.bottom-piano-prompt{position:relative}.jcWgzW.sticky-prompt{position:sticky}.jcWgzW.hide{display:none}.jcWgzW.active{background-color:#fff;box-shadow:0 -29px 65px 35px hsla(0,0%,88%,.7)}.cBSIFs{position:absolute;display:none}@media(min-width:1000px){.cBSIFs{display:block}}.dXoRwa{flex-direction:column}.hIyHZx{position:sticky;z-index:10;top:100px;left:0;height:0;padding:0}.dDuSpD{width:100%;max-width:968px;height:250px;padding:0;margin-right:auto;margin-left:auto;background:transparent;text-align:center;display:none}@media(min-width:1000px){.dDuSpD{display:flex}}.dDuSpD.sticky{position:sticky;z-index:1000;top:0}.dDuSpD #top_banner:not(.sticky){position:sticky;z-index:1;top:0;width:968px}.ebdGSH{display:flex;box-sizing:border-box;flex-direction:row;padding:16px 12px;background-color:#fff}.article-liveblog .ebdGSH{background-color:#f7f7f7}@media(min-width:375px){.ebdGSH{padding:16px 12px}}@media(min-width:768px){.ebdGSH{max-width:636px;padding:16px 0;margin:0 auto}}@media(min-width:1000px){.ebdGSH{max-width:1000px;padding:16px}}.fOsAhc{width:320px;height:50px;margin:0 auto}@media(min-width:768px){.fOsAhc{width:728px;height:90px}}.kgMoKz{position:absolute}@media(min-width:1000px){.kgMoKz{display:none}}.PGa-dj{position:fixed;z-index:2147483641;bottom:0;left:0;width:100%;height:50px;max-height:100px;margin-bottom:0;background-color:#fff;background-image:none;box-shadow:0 0 5px 0 rgba(0,0,0,.2);text-align:center}.PGa-dj .article-best .stickyFooterRoot{display:none}.PGa-dj button{position:fixed;z-index:12;right:0;bottom:50px;width:32px;height:34px;padding:8px;border:0;border-radius:12px 0 0 0;background-color:#fff;box-shadow:0 -1px 1px 0 rgba(0,0,0,.2)}@media(min-width:768px){.PGa-dj button{bottom:89px;width:36px;height:36px}.PGa-dj{height:90px}}@media(min-width:1000px){.PGa-dj{display:none}}.hnsSkg{position:absolute;top:0;left:0}@media(min-width:1000px){.jbbDoJ .taboola{display:none}}.ipncvC{box-sizing:border-box;flex:1;padding:12px 16px 8px 12px}@media(max-width:594px){.ipncvC{padding-bottom:12px}}.dKFyLr{position:relative;display:flex}.jtVwQp{margin:0;color:#222;font-size:16px;font-weight:700;line-height:19.2px}@media(max-width:594px){.jtVwQp{display:none}}.dtSsnq{display:none;margin:0;color:#222;font-size:20px;font-weight:700;line-height:24px}@media(max-width:594px){.dtSsnq{display:block}}.ekygef{display:flex;flex:1;justify-content:flex-end;margin-left:28px}.ekygef svg{width:30px;height:30px}.NoMWN{position:relative;overflow:hidden;width:135px}.NoMWN amp-img{height:100%}.NoMWN amp-img img{object-fit:cover}@media(max-width:594px){.NoMWN{display:none}}.bGufeB{position:relative;color:#646464;cursor:pointer;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:9px}.bGufeB:before{position:absolute;top:-3px;left:-21px;width:14px;height:14px;box-sizing:border-box;border:1px solid #7a7a7a;content:""}@media(max-width:594px){.bGufeB:before{width:24px;height:24px}}.FYUFk{position:relative;display:inline-flex;min-height:14px;align-items:center;padding-left:22px;margin-top:14px;cursor:pointer}.FYUFk a{display:inline;color:#646464;text-decoration:underline}.FYUFk input{position:absolute;width:0;height:0;cursor:pointer;opacity:0}.FYUFk input:checked~.sc-76suco-0:before{content:url(/img/icons/checkboxCheckmark.svg)}@media(max-width:594px){.FYUFk{padding-left:32px;margin-top:22px}}.gSnxzL{display:flex;justify-content:center}.iyxAoq{margin:0 0 28px;color:#7a7a7a;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:18px;font-weight:700;line-height:22px;text-align:center}.AbrpF{--input-height:38px;margin-top:12px}.AbrpF .reg-form{position:relative}.AbrpF .reg-form .error-text,.AbrpF .reg-form .sc-1sk658j-1{position:absolute;z-index:1;top:var(--input-height);width:calc(100% + 77px + 16px);height:28px;margin:3px 0 0;background:#fff}@media(max-width:594px){.AbrpF .reg-form .error-text,.AbrpF .reg-form .sc-1sk658j-1{padding-left:0}}.AbrpF .reg-form .sc-1sk658j-1{width:100%;padding-left:16px;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:12px}.AbrpF .reg-form .not-logged-input:focus~.error-text.visible{display:none}.AbrpF .reg-form.user-invalid.amp-form-verify-error .not-logged-input:focus~.error-text.visible{display:block}.iqOZMY{display:flex;flex:1}.iqOZMY .signup-btn{margin:0 0 0 16px}.iqOZMY .signup-btn.logged-in{width:100%;margin:0}.iqOZMY .signup-btn.logged-in button{width:100%}.iqOZMY .signup-btn button{width:77px;height:var(--input-height);font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:13px}.iqOZMY .form-fields{flex:1}.iqOZMY .not-logged-input{height:var(--input-height)}.iqOZMY .emailInputWrapper:not([amp-access-hide]){display:flex;flex:1}.article-climate .jBbUWT button{border-color:#19d37a;background-color:#19d37a}.article-climate .jBbUWT button:disabled{background-color:#bdbdbd}.article-climate .jBbUWT .btn-loader{border-top-color:#19d37a}.article-sgi .jBbUWT button{border-color:#2dccd3;background-color:#2dccd3}.article-sgi .jBbUWT .btn-loader{border-top-color:#2dccd3}@media(max-width:594px){.ejjAoZ .checkmark:before{top:-6px;left:-32px}}@media(max-width:319px){.ejjAoZ .checkmark:before{top:2px;left:-32px}}.fthweJ{display:flex;width:100%;box-sizing:border-box;border:1px solid #d3d3d3;margin:0 0 16px}.cxXnrR{position:relative;display:flex;max-width:100%;justify-content:center;margin:0 auto;background-color:transparent;clear:both}.teads .cxXnrR{display:block}.izByjr{display:flex;flex-direction:row;flex-wrap:wrap;justify-content:space-around;margin-bottom:16px}.izByjr>div{margin:8px}.jYgqln{color:#222;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-weight:400;line-height:1.2}.jYgqln .lightbox-wrapper{background:hsla(0,0%,100%,.95)}.jYgqln .lightbox-wrapper .lightbox{position:absolute;top:50%;left:50%;display:flex;width:100%;max-width:636px;min-height:50%;box-sizing:border-box;flex-direction:column;align-items:center;padding:90px 60px;background:#f7f7f7;box-shadow:0 1px 1px rgba(0,0,0,.2);text-align:center;transform:translate(-50%,-50%)}.jYgqln .lightbox-wrapper .close{position:absolute;z-index:10;top:15px;right:15px;padding:10px;border:0;background:0;cursor:pointer;font-size:22px;font-weight:700}@media(max-width:767px){.jYgqln .lightbox-wrapper .lightbox{height:100vh}.jYgqln .lightbox-wrapper .close{top:50px}}.jYgqln .lightbox-wrapper h3{margin-bottom:30px;font-family:"Indy Serif","Adjusted Indy Serif Fallback",serif;font-size:31px;font-weight:700;line-height:1.3}.jYgqln .lightbox-wrapper p{display:block;width:100%;padding:0;margin:0 0 30px;font-size:21px;font-weight:400}.jYgqln .lightbox-wrapper .btn{width:145px;height:40px;border:0;border-radius:6px;margin-left:0;background:#337e81;color:#fff;cursor:pointer;font-size:14px;font-weight:700}.jYgqln .lightbox-wrapper span{display:block;margin-top:30px;color:#222;font-size:16px;font-weight:400}.jYgqln .lightbox-wrapper span a{color:#222;cursor:pointer;text-decoration:underline}.cmZcWO.register-wall-style{position:relative;box-shadow:0 -10px 16px 13px hsla(0,0%,100%,.95)}.cmZcWO.closed{display:none}.kRkPwy{display:inline-block;margin:0 12px 0 0}.kRkPwy button{display:block;overflow:hidden;width:34px;height:34px;outline-color:#ec1a2e}.kRkPwy button svg{width:100%;height:100%;margin:0}.kRkPwy button.saved svg circle{fill:#337e81}.kRkPwy button.saved svg path{fill:#fff;stroke:#fff}.sticky .kRkPwy{margin:0 0 16px}.djiwaI{position:fixed;z-index:1002;top:0;right:0;display:none;width:100%;box-sizing:border-box;padding:12px;background-color:rgba(0,0,0,.85);color:#fff;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:8px;opacity:0}@media(min-width:768px){.djiwaI{top:24px;right:22px;width:400px}}.djiwaI.show-notification{display:block;opacity:1;transition:opacity 1s}.djiwaI .close-notification{position:absolute;top:6px;right:10px;cursor:pointer;font-size:14px}.djiwaI h4{margin:0;font-family:"Indy Serif","Adjusted Indy Serif Fallback",serif;font-size:18px;font-weight:700;line-height:1.38}.djiwaI p{margin:5px 0;font-size:14px;line-height:normal}.djiwaI p a{color:#337e81}.djiwaI label{font-size:12px}.eggjSA{position:relative;display:flex;justify-content:center}@media(min-width:768px){.eggjSA{justify-content:flex-end;padding-top:12px;margin:0}}.eggjSA svg{width:60%;height:60%;margin:20%;fill:#fff;stroke:#fff}.eggjSA amp-social-share{border-radius:50%;margin:0 6px;background:0;outline:0}.eggjSA amp-social-share:first-of-type{margin-left:0}.eggjSA amp-social-share:last-of-type{margin-right:0}@media(min-width:768px){.eggjSA .share-mobile-only{display:none}}.eggjSA .amp-social-share-bookmark svg{display:block;width:100%;height:100%;margin:0}.eggjSA .amp-social-share-bookmark:hover{opacity:.85}.eggjSA .amp-social-share-facebook{background:#3b5998}.article-climate .eggjSA .amp-social-share-facebook{background:linear-gradient(180deg,#8ce9bc,#19d37a,#19d37a)}.article-sgi .eggjSA .amp-social-share-facebook{background:#2dccd3}.eggjSA .amp-social-share-facebook:hover{opacity:.85}.eggjSA .amp-social-share-twitter{background:#4a90e2}.article-climate .eggjSA .amp-social-share-twitter{background:linear-gradient(180deg,#8ce9bc,#19d37a,#19d37a)}.article-sgi .eggjSA .amp-social-share-twitter{background:#2dccd3}.eggjSA .amp-social-share-twitter:hover{opacity:.85}.eggjSA .amp-social-share-whatsapp{background:#25d366}.article-climate .eggjSA .amp-social-share-whatsapp{background:linear-gradient(180deg,#8ce9bc,#19d37a,#19d37a)}.article-sgi .eggjSA .amp-social-share-whatsapp{background:#2dccd3}.eggjSA .amp-social-share-whatsapp:hover{opacity:.85}.eggjSA .amp-social-share-whatsapp svg{width:70%;height:auto;margin:15%}.eggjSA .amp-social-share-email{background:#ec1a2e}.eggjSA .amp-social-share-email svg{filter:invert(1)}.article-climate .eggjSA .amp-social-share-email{background:linear-gradient(180deg,#8ce9bc,#19d37a,#19d37a)}.article-sgi .eggjSA .amp-social-share-email{background:#2dccd3}.eggjSA .amp-social-share-email:hover{opacity:.85}.kGERin svg{fill:#fff;stroke:#fff}.ljsEkJ{display:inline-block;flex-shrink:0;margin:0 12px 0 0;font-size:14px;font-weight:700;line-height:normal}.ljsEkJ:after{content:":"}.EpEvG{display:inline-block;margin-right:12px;margin-bottom:4px;color:#222;font-size:14px;line-height:1.29;text-decoration:underline;text-transform:capitalize}.cONOoe{overflow:hidden;height:23px}@media(min-width:768px){.cONOoe{height:25px}}.hmpDFA{overflow:hidden;padding-bottom:8px;border-bottom:0;clear:both;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-weight:400}.bnwzgY{width:100%;flex-grow:1}.bnwzgY .amp-article-content[amp-access][amp-access-hide]{display:block;overflow:hidden;max-height:360px}.bnwzgY .amp-article-content[amp-access][amp-access-hide] .social-share{display:none}.bnwzgY .amp-article-content[amp-access][amp-access-hide].show-all-content{max-height:100%}@media(max-width:594px){.bnwzgY .amp-article-content[amp-access][amp-access-hide]{max-height:530px}}.bnwzgY .amp-newsletter-reg-gate{position:relative;left:-12px;width:calc(100% + 24px)}.bnwzgY .social-share{width:100%;padding-top:10px;padding-bottom:20px}@media(min-width:768px){.bnwzgY .social-share{justify-content:flex-start}}.bnwzgY .social-share.sticky{display:none}@media(min-width:1000px){.bnwzgY .social-share.sticky{position:sticky;top:14px;display:flex;width:auto;flex-direction:column;margin-top:0;margin-left:-25%;float:left}.bnwzgY .social-share.sticky amp-social-share{margin:0 0 16px}.article-feature .bnwzgY .social-share.sticky{margin-top:35%}}.bnwzgY.sponsored-article img,.bnwzgY.sponsored-article video{width:100%;max-width:602px;height:auto}.bnwzgY.sponsored-article iframe{max-width:602px;max-height:400px}.bnwzgY .under-article-prompt-donations{padding-bottom:8px;margin-top:-3px}.bnwzgY .big-letter{position:relative;display:flex;width:0;height:0;align-items:center;justify-content:center;padding:40px;border:1px solid #222;margin-top:22px;margin-right:12px;float:left;font-family:"Indy Serif","Adjusted Indy Serif Fallback",serif;font-size:52px;font-weight:400;line-height:1;text-transform:uppercase}.bnwzgY .big-letter:first-child{margin-top:6px}.bnwzgY .big-letter:before{position:absolute;top:0;left:0;width:100%;height:100%;box-sizing:border-box;border:1px solid #222;border-radius:50%;content:""}.bnwzgY #taboola-below-article-1{min-height:2350px}@media(min-width:768px){.bnwzgY #taboola-below-article-1{min-height:3370px}}.bnwzgY #taboola-below-article-1-split-num-1{min-height:130px}@media(min-width:768px){.bnwzgY #taboola-below-article-1-split-num-1{min-height:415px}.bnwzgY{max-width:636px;margin:0}}@media(min-width:1000px){.bnwzgY{max-width:624px;margin:0}.bnwzgY.subscribed{max-width:636px}}@media(max-width:999px){.bnwzgY{padding-right:0}.bnwzgY .under-article-prompt-donations{margin-top:-18px}}@media(min-width:1000px){.jsmStw{display:none}}.jsmStw[data-mpu1]{min-height:600px}.jsmStw #mpu1{position:sticky;top:16px}.jsmStw.pb-20{padding-bottom:20px}.cviMhi.mobile-only{display:block}@media(min-width:1000px){.cviMhi.mobile-only{display:none}}.cviMhi.desktop-only{display:none}@media(min-width:1000px){.cviMhi.desktop-only{display:block;margin-bottom:16px}}.cviMhi.desktop-only+p{margin-top:0}.dtGykf>p{margin:16px 0}.article-premium .dtGykf>p{line-height:27px}.dtGykf>h2{font-size:21px}.article-climate .dtGykf>h2{color:#19d37a}.article-sgi .dtGykf>h2{color:#2dccd3}.dtGykf>p:first-child,.dtGykf span:first-child~p:first-of-type{margin-top:0}.bFCST{display:flex;justify-content:center}.hmQJAo{max-width:102px}.gTmxyv{display:flex;flex-wrap:wrap;justify-content:flex-start;margin-bottom:8px;color:#646464;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:16px;font-weight:400;line-height:20px}@media(min-width:768px){.gTmxyv{width:70%;align-items:center;justify-content:flex-start;margin-bottom:0;line-height:24px}}@media(min-width:1000px){.gTmxyv{width:70%;margin-bottom:0}}.jsybBv{display:flex;height:20px;margin:0 12px 8px 0}.jsybBv:before{display:inline-block;align-self:center;margin-top:2px;margin-right:12px;content:"·";font-size:34px}.jsybBv:first-child:before{content:none}@media(min-width:768px){.jsybBv{height:24px;margin-bottom:0}}.cCMxAK{color:#fff}.drpUaY{display:inline-block;margin:0 12px 8px 0;color:#ec1a2e;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-style:normal;font-weight:700}.article-climate .drpUaY{color:#19d37a}.article-sgi .drpUaY{color:#2dccd3}.drpUaY:hover{color:#ec1a2e}.article-climate .drpUaY:hover{color:#19d37a}.article-sgi .drpUaY:hover{color:#2dccd3}@media(min-width:768px){.drpUaY{margin-bottom:0}}.cAhZNA{margin:0 12px 8px -8px}@media(min-width:768px){.cAhZNA{margin-bottom:0}}.gfLdqP{color:#fff}.leENUX{display:flex;justify-content:flex-start;padding:0;margin:0 0 16px}@media(min-width:768px){.leENUX{display:flex;width:30%;align-items:center;justify-content:flex-end;margin:0}}@media(min-width:1000px){.leENUX{width:30%}}.kelIft{padding-top:0;border-top:0;border-bottom:0}@media(min-width:768px){.kelIft{display:flex;flex-flow:row wrap;padding-bottom:16px}.kelIft .sc-1qz44j0-0{order:1}.kelIft .sc-1qz44j0-12{order:2}.kelIft .sc-1qz44j0-13{width:100%;flex:0 0 100%;order:3}}@media(min-width:1000px){.kelIft{flex-direction:row}}.cNLouj{padding:16px 12px 12px;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:14px;font-weight:700;line-height:20px;text-align:left}@media(min-width:768px){.cNLouj{padding:16px 16px 12px}}.article-infact .cNLouj{padding:16px 0}@media(min-width:1000px){.cNLouj{padding:24px 0 19px}.article-feature .cNLouj{max-width:968px;margin:0 auto}}.cNLouj a{text-decoration:none}.cNLouj a,.cNLouj a:hover{color:#222}.cNLouj a:after{margin-right:4px;margin-left:4px;content:">"}.cNLouj a:last-child:after{display:none}.eluZQM{margin:0 0 20px;letter-spacing:0}.hnxVMB{margin:0;color:#646464;font:normal 16px/20px Indy Sans,Adjusted Indy Sans Fallback,sans-serif}@media(min-width:768px){.hnxVMB{font:normal 18px/22px Indy Sans,Adjusted Indy Sans Fallback,sans-serif}}@media(min-width:1000px){.hnxVMB{font:normal 20px/24px Indy Sans,Adjusted Indy Sans Fallback,sans-serif}}.hnxVMB p{font:normal 16px/20px Indy Sans,Adjusted Indy Sans Fallback,sans-serif}@media(min-width:768px){.hnxVMB p{font:normal 18px/22px Indy Sans,Adjusted Indy Sans Fallback,sans-serif}}@media(min-width:1000px){.hnxVMB p{font:normal 20px/24px Indy Sans,Adjusted Indy Sans Fallback,sans-serif}}.article-feature .hnxVMB a{font-weight:700}.TEmJc{max-width:968px;margin:0 auto;background:#fff}@media(min-width:1000px){.TEmJc{padding:0 16px}.parallax .TEmJc{max-width:1240px}}.hJuwwK{font:700 32px/36px "Indy Serif","Adjusted Indy Serif Fallback",serif}@media(min-width:768px){.hJuwwK{font:700 44px/48px "Indy Serif","Adjusted Indy Serif Fallback",serif}}@media(min-width:1000px){.hJuwwK{font:700 54px/58px "Indy Serif","Adjusted Indy Serif Fallback",serif}}.hLQQkX{background:#222}.hLQQkX .sc-qvufca-1{max-width:968px;background:#222}.hLQQkX .sc-qvufca-0{margin:0}@media(max-width:999px){.hLQQkX .sc-qvufca-0{margin:0 12px}}.hLQQkX .sc-22qwnu-0,.hLQQkX .sc-22qwnu-0 a,.hLQQkX .sc-aeekvc-0,.hLQQkX .sc-qvufca-2{color:#fff}.hLQQkX .sc-qvufca-2{margin:0 0 20px}.hLQQkX .sc-aeekvc-0{margin-bottom:16px}.erzwRe{display:flex;flex-direction:column}.bHIUjX{overflow:hidden;height:0;color:transparent}.epatyU{max-width:100%;margin:0 0 20px}.epatyU.sticky{position:sticky;top:16px}.cgAKqw{min-height:600px}.cgAKqw #mpu1{position:sticky;top:16px}.gxXJEt{display:flex;padding:8px 3px 6px 0;border-bottom:1px solid #d3d3d3}.jLDXuD img{object-fit:contain}.kkiFyg{padding-left:10px;cursor:pointer}.jZAzet{display:block;color:#ec1a2e;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:11px;font-weight:700;text-decoration:none;text-transform:uppercase}.evlRQF{color:#222;font-family:"Indy Serif","Adjusted Indy Serif Fallback",serif;font-size:14px;font-weight:700}.htXeel{position:relative;height:50px;background-color:#222;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:14px;text-align:center;text-transform:uppercase}.htXeel span{color:#ec1a2e}.eQkdIR{position:absolute;top:50%;left:50%;font-weight:700;transform:translate(-50%,-50%)}.eQkdIR a,.eQkdIR a:hover{color:#fff}.gdULYV{max-width:100%}.bQpovq{margin:0 0 6px;color:#646464;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:15px}.goxolB{display:flex;margin:0 0 12px}.boBcZr{display:flex;flex-direction:row;padding:0 0 12px}.bwJDCQ{box-sizing:border-box;padding-left:10px;color:#222;font-size:14px;font-weight:700;text-decoration:none}.imCGpp{position:relative;width:96px;min-width:96px;height:64px}.imCGpp img{object-fit:cover}.gwyBXa{border-bottom:1px solid rgba(34,34,34,.5);margin-bottom:16px}.dppYLy{display:flex;max-height:57px;align-items:center;margin-right:20px}.jDWKBI{margin-bottom:16px}.jDWKBI [role=listitem]{position:relative;border-bottom:1px solid #bdbdbd;margin-bottom:12px}.jDWKBI [role=listitem] .sc-u4n1j-0{position:absolute;bottom:16px;left:10px;display:flex;width:32px;height:32px;align-items:center;justify-content:center;border-radius:50%;background-color:#ec1a2e}.jDWKBI [role=listitem] .sc-u4n1j-0>svg{width:90%;fill:#fff;stroke:transparent}.jDWKBI [role=listitem]:first-child{display:block;padding-bottom:0;margin-bottom:12px}.jDWKBI [role=listitem]:first-child .sc-u4n1j-0{top:-15px;bottom:auto;left:12px;width:35px;height:35px}.jDWKBI [role=listitem]:first-child>:first-child{display:block;width:100%;height:205px}.jDWKBI [role=listitem]:first-child>:last-child{position:absolute;bottom:0;width:100%;padding:28px 12px 12px;background:rgba(34,34,34,.8);color:#fff;font-size:17px;font-weight:700}.jDWKBI [role=listitem]:last-child{border-bottom:0;margin-bottom:0}@media(max-width:767px){.jKavIZ{display:none}}.iXlXdv{color:#ec1a2e;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;font-size:11px;font-weight:700;text-decoration:none;text-transform:uppercase}.iXlXdv:hover{color:#a51220}.iXlXdv.live-blog:before{padding-left:14px;margin-right:4px;background:url(/img/icons/liveblog.svg) no-repeat;background-size:14px;color:#222;content:" "}.iXlXdv.live-blog--video:before{background-image:url(/img/icons/icon-video-camera.svg);background-position:0 -1px}.erGeju{background:transparent}.hbYksD{display:flex;padding:8px 3px 6px 0;border-bottom:1px solid #d3d3d3}.hfvPRy{border:1px solid #d3d3d3;line-height:0}.hfvPRy img{object-fit:contain}.gioUFd{padding-left:10px}.gioUFd a.title{color:#222;font-family:"Indy Serif","Adjusted Indy Serif Fallback",serif;line-height:16px}.dUztJa,.gioUFd a.title{font-size:14px;font-weight:700}.dUztJa{position:relative;padding:7px 16px 8px;background-color:#222;font-family:Indy Sans,Adjusted Indy Sans Fallback,sans-serif;text-align:center;text-transform:uppercase}.ldzrXA{position:absolute;top:-3px;left:3px;color:inherit}.fGBJbX{display:block;padding:10px;border:1px dashed #ec1a2e}.fGBJbX:hover,.sc-m7coht-3{color:#fff}.cRYIKq{width:308px;flex:0 0 308px;margin-left:36px}.cRYIKq.hidden{display:none}@media(max-width:999px){.cRYIKq{display:none}}.article-liveblog .bLRBTP{background-color:#f7f7f7}.ejVJwM,.iGfIyq{justify-content:center}.amp-form-submitting .form-submit{outline:0}.amp-form-submitting .form-submit .btn-text{display:none}.amp-form-submitting .form-submit .btn-loader{display:inline-block}
+  
+
+   var JSGlobals = {"mode":"production","adTargeting":true,"domain":"independent.co.uk","ga":"","hubspot":"","siteKey":"","searchId":"","gptTag":"","userLogin":true,"userSubscribe":true,"userComments":true,"pianoEnvironment":"production","sailthru":{"customerId":"72a0ec14610b4c0cb7ab1e0c8b11d747"},"showcaseProductId":"independent.co.uk:showcase","prebidEnabled":true,"httpStatusCode":200,"lang":"en","staticHost":"static.independent.co.uk","indexExchange":{"scriptUrl":"//js-sec.indexww.com/ht/p/184658-111437137524152.js"},"ozone":{"publisherId":"OZONEESI0001","siteId":"4204204237","tagId":"4441070001"},"ga4":{"id":"G-S88XNXPY0X"},"MOCK_ENV":false,"ADOBE_ANALYTICS_OBJECT":"s_object","adNetworkId":931398,"manifest":{"registerWall.js":"/_build/registerWall.ae2d2ae9b4ef45818fdc.js","prebid.js":"/_build/prebid.522ca5c9f53b04996094.js","prebid_non_uk.js":"/_build/prebid_non_uk.41c02e2fc0f7cdce63f5.js"},"config":{"mobileAppLinks":{"android":{"us":"https://play.google.com/store/apps/details?id=com.independent.mindsus","uk":"https://play.google.com/store/apps/details?id=com.freerange360.mpp.indy&hl=en_GB"},"ios":{"us":"https://apps.apple.com/us/app/the-independent-breaking-news/id1436169192","uk":"https://apps.apple.com/us/app/independent-premium/id499587380"}}},"reactVersion":"18.2.0","adobe":{"host":"ssc.independent.co.uk","trackingServer":"sc.independent.co.uk","trackingServerSecure":"ssc.independent.co.uk","reportSuiteId":"indepdev"},"featureFlags":{},"mantis_channels":{"lastModified":"2023-06-11T06:34:49.000Z","ratings":[{"customer":"Default","rating":"RED"},{"customer":"COVIDSafe","rating":"RED"},{"customer":"Omnicomdv","rating":"RED"},{"customer":"Facebook","rating":"GREEN"},{"customer":"Sabic_Mobkoi","rating":"RED"},{"customer":"HSBC","rating":"RED"},{"customer":"Intel","rating":"RED"},{"customer":"Microsoft_Main","rating":"RED"},{"customer":"Microsoft_03","rating":"RED"},{"customer":"Saudi_Aramco","rating":"RED"},{"customer":"LG","rating":"RED"},{"customer":"Loop_Me","rating":"RED"},{"customer":"Volkswagen_Main","rating":"RED"},{"customer":"Castrol","rating":"RED"},{"customer":"Hoopla","rating":"RED"},{"customer":"Collective","rating":"RED"},{"customer":"Diageo","rating":"RED"},{"customer":"O2_Havas","rating":"RED"},{"customer":"Sukin","rating":"RED"},{"customer":"Tanqueray","rating":"RED"},{"customer":"Tesco_GroupM_GPS","rating":"RED"},{"customer":"TTD_UK","rating":"RED"},{"customer":"WWF","rating":"RED"},{"customer":"Tier2","rating":"RED"},{"customer":"ukraine_aden","rating":"RED"},{"customer":"war_aden","rating":"RED"},{"customer":"PHD","rating":"RED"},{"customer":"War_BS","rating":"RED"},{"customer":"Positive_RussiaUkraine_BS","rating":"RED"},{"customer":"Apple","rating":"RED"},{"customer":"corgi","rating":"GREEN"},{"customer":"next","rating":"RED"},{"customer":"omnicom_IAS","rating":"RED"},{"customer":"pernodKW","rating":"RED"},{"customer":"McCains_aden","rating":"RED"}],"categories":{"watson":[{"label":"/law, govt and politics","score":0.850646},{"label":"/law, govt and politics/armed forces","score":0.700144},{"label":"/society/crime/personal offense","score":0.65467},{"label":"/law, govt and politics/espionage and intelligence/terrorism","score":0.647644},{"label":"/society/crime/personal offense/homicide","score":0.585317},{"label":"/law, govt and politics/government","score":0.572927},{"label":"/society/crime/personal offense/torture","score":0.55563},{"label":"/real estate/buying and selling homes","score":0.553086}],"mantis":[{"label":"law_govt_politics","score":0.850646},{"label":"armed_forces","score":0.700144},{"label":"society","score":0.65467},{"label":"crime","score":0.65467},{"label":"personal_offense","score":0.65467},{"label":"espionage_intelligence","score":0.647644},{"label":"terrorism","score":0.647644},{"label":"government","score":0.572927},{"label":"real_estate","score":0.553086},{"label":"buying_selling_homes","score":0.553086},{"label":"Business","score":0.693624},{"label":"380","score":0.801469},{"label":"383","score":0.993576},{"label":"386","score":0.92742},{"label":"Property","score":0.693624},{"label":"property_bespoke","score":0.553086},{"label":"ptarmigan","score":0.553086},{"label":"shorthaulcap","score":0.387863},{"label":"propertycap","score":0.553086},{"label":"costofliving","score":0.553086},{"label":"businesscap","score":0.92742},{"label":"travelcap","score":0.387863},{"label":"CapitalExplorers","score":0.504853},{"label":"NewsJunkies","score":0.92742},{"label":"SME","score":0.92742}]},"sentiment":"negative"},"mantis_context":[{"label":"law_govt_politics","score":0.850646},{"label":"armed_forces","score":0.700144},{"label":"society","score":0.65467},{"label":"crime","score":0.65467},{"label":"personal_offense","score":0.65467},{"label":"espionage_intelligence","score":0.647644},{"label":"terrorism","score":0.647644},{"label":"government","score":0.572927},{"label":"real_estate","score":0.553086},{"label":"buying_selling_homes","score":0.553086},{"label":"Business","score":0.693624},{"label":"380","score":0.801469},{"label":"383","score":0.993576},{"label":"386","score":0.92742},{"label":"Property","score":0.693624},{"label":"property_bespoke","score":0.553086},{"label":"ptarmigan","score":0.553086},{"label":"shorthaulcap","score":0.387863},{"label":"propertycap","score":0.553086},{"label":"costofliving","score":0.553086},{"label":"businesscap","score":0.92742},{"label":"travelcap","score":0.387863},{"label":"CapitalExplorers","score":0.504853},{"label":"NewsJunkies","score":0.92742},{"label":"SME","score":0.92742}],"permutive":{"organizationId":"5d79bce7-5d2b-427e-a6c4-b89b6c7bf048","workspaceId":"4cff3edf-5ca9-48ce-a414-44c408710d4f","apiKey":"5076bf62-433c-4f8f-b54a-2826adec00d7","data":{"page":{"content":{"type":"article","mantis_channels":{"lastModified":"2023-06-11T06:34:49.000Z","ratings":[{"customer":"Default","rating":"RED"},{"customer":"COVIDSafe","rating":"RED"},{"customer":"Omnicomdv","rating":"RED"},{"customer":"Facebook","rating":"GREEN"},{"customer":"Sabic_Mobkoi","rating":"RED"},{"customer":"HSBC","rating":"RED"},{"customer":"Intel","rating":"RED"},{"customer":"Microsoft_Main","rating":"RED"},{"customer":"Microsoft_03","rating":"RED"},{"customer":"Saudi_Aramco","rating":"RED"},{"customer":"LG","rating":"RED"},{"customer":"Loop_Me","rating":"RED"},{"customer":"Volkswagen_Main","rating":"RED"},{"customer":"Castrol","rating":"RED"},{"customer":"Hoopla","rating":"RED"},{"customer":"Collective","rating":"RED"},{"customer":"Diageo","rating":"RED"},{"customer":"O2_Havas","rating":"RED"},{"customer":"Sukin","rating":"RED"},{"customer":"Tanqueray","rating":"RED"},{"customer":"Tesco_GroupM_GPS","rating":"RED"},{"customer":"TTD_UK","rating":"RED"},{"customer":"WWF","rating":"RED"},{"customer":"Tier2","rating":"RED"},{"customer":"ukraine_aden","rating":"RED"},{"customer":"war_aden","rating":"RED"},{"customer":"PHD","rating":"RED"},{"customer":"War_BS","rating":"RED"},{"customer":"Positive_RussiaUkraine_BS","rating":"RED"},{"customer":"Apple","rating":"RED"},{"customer":"corgi","rating":"GREEN"},{"customer":"next","rating":"RED"},{"customer":"omnicom_IAS","rating":"RED"},{"customer":"pernodKW","rating":"RED"},{"customer":"McCains_aden","rating":"RED"}],"categories":{"watson":[{"label":"/law, govt and politics","score":0.850646},{"label":"/law, govt and politics/armed forces","score":0.700144},{"label":"/society/crime/personal offense","score":0.65467},{"label":"/law, govt and politics/espionage and intelligence/terrorism","score":0.647644},{"label":"/society/crime/personal offense/homicide","score":0.585317},{"label":"/law, govt and politics/government","score":0.572927},{"label":"/society/crime/personal offense/torture","score":0.55563},{"label":"/real estate/buying and selling homes","score":0.553086}],"mantis":[{"label":"law_govt_politics","score":0.850646},{"label":"armed_forces","score":0.700144},{"label":"society","score":0.65467},{"label":"crime","score":0.65467},{"label":"personal_offense","score":0.65467},{"label":"espionage_intelligence","score":0.647644},{"label":"terrorism","score":0.647644},{"label":"government","score":0.572927},{"label":"real_estate","score":0.553086},{"label":"buying_selling_homes","score":0.553086},{"label":"Business","score":0.693624},{"label":"380","score":0.801469},{"label":"383","score":0.993576},{"label":"386","score":0.92742},{"label":"Property","score":0.693624},{"label":"property_bespoke","score":0.553086},{"label":"ptarmigan","score":0.553086},{"label":"shorthaulcap","score":0.387863},{"label":"propertycap","score":0.553086},{"label":"costofliving","score":0.553086},{"label":"businesscap","score":0.92742},{"label":"travelcap","score":0.387863},{"label":"CapitalExplorers","score":0.504853},{"label":"NewsJunkies","score":0.92742},{"label":"SME","score":0.92742}]},"sentiment":"negative"},"article":{"title":"Jonathan Turley tells Fox News the Trump indictment is ‘extremely damning’ and a ‘hit below the waterline’","description":"<p>Lawyer says Trump legal team ‘have to take out every single count, or you’ve got a 76-year-old man looking at a potentially terminal sentence’ </p>","channel":"news","section":"news/world","subsection":"news/world/americas","topics":["Donald Trump","jonathan turley","Fox News","Mar-a-Lago","Florida","US election 2024"],"authors":["Gustaf Kilander"],"content_type":"jw_player","status":"standard"}}}}},"topictags":["donald-trump","jonathan-turley","fox-news","mar-a-lago","florida","us-election-2024","s_news","s_world","s_americas"],"taboola":{"sectionValues":[{"category":"All","pageType":"homepage","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-ms-hero","placement":"MS Hero","target_type":"mix"},{"category":"Climate","pageType":"homepage","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-climate","placement":"Below Category Climate","target_type":"mix"},{"category":"Sport","pageType":"homepage","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-sport","placement":"Below Category Sport","target_type":"mix"},{"category":"Football","pageType":"homepage","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-football","placement":"Below Category Football","target_type":"mix"},{"category":"Lifestyle","pageType":"homepage","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-lifestyle","placement":"Below Category Lifestyle","target_type":"mix"},{"category":"Culture","pageType":"homepage","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-culture","placement":"Below Category Culture","target_type":"mix"},{"category":"Voices","pageType":"homepage","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-voices","placement":"Below Category Voices","target_type":"mix"},{"category":"All","pageType":"category","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-ms-hero","placement":"MS Hero","target_type":"mix"},{"category":"Sport","pageType":"category","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-sport","placement":"Below Category Sport","target_type":"mix"},{"category":"Football","pageType":"category","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-football","placement":"Below Category Football","target_type":"mix"},{"category":"Brexit","pageType":"category","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-brexit","placement":"Below Category Brexit","target_type":"mix"},{"category":"Culture","pageType":"category","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-culture","placement":"Below Category Culture","target_type":"mix"},{"category":"UK Politics","pageType":"category","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-ukpolitics","placement":"Below Category UK Politics","target_type":"mix"},{"category":"World - US","pageType":"category","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-us","placement":"Below Category US","target_type":"mix"},{"category":"World - US Politics","pageType":"category","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-uspolitics","placement":"Below Category US Politics","target_type":"mix"},{"category":"Asia","pageType":"category","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-asia","placement":"Below Category Asia","target_type":"mix"},{"category":"Cryptocurrency","pageType":"category","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-crypto","placement":"Below Category Crypto","target_type":"mix"},{"category":"World","pageType":"category","mode":"thumbs-feed-hero-1sc-6sc-esi-inde","container":"taboola-below-category-world","placement":"Below Category World","target_type":"mix"},{"category":"Climate","pageType":"category","mode":"thumbnails-climate","container":"taboola-below-category-climate","placement":"Below Category Climate","target_type":"mix"},{"category":"Voices","pageType":"category","mode":"thumbnails-voices","container":"taboola-below-category-voices","placement":"Below Category Voices","target_type":"mix"},{"category":"Lifestyle","pageType":"category","mode":"thumbnails-lifestyle","container":"taboola-below-category-lifestyle","placement":"Below Category Lifestyle","target_type":"mix"},{"category":"Business","pageType":"category","mode":"thumbnails-business","container":"taboola-below-category-business","placement":"Below Category Business","target_type":"mix"}],"accountIds":{"base":1036135},"publisherId":"eslmedia-theindependent","publisherIdIndyBest":"esimedia-indybest","ampBelowArticleMode":"thumbnails-e1","pageType":"article"},"gtm":{"containerId":"GTM-5XT7NPD"},"cmp":{"enabled":false},"cseId":"006663403660930254993:oxhge2zf1ro","chartbeat":{"uid":"62356","domain":"independent.co.uk","title":"Jonathan Turley tells Fox News the Trump indictment is ‘extremely damning’ and a ‘hit below the waterline’","sections":"mediatype_video,article-typenon-premium,news,world,americas,us-politics,topic-donald-trump,topic-jonathan-turley,topic-fox-news,topic-mar-a-lago-0,topic-florida,topic-us-election-2024","authors":"Gustaf Kilander"},"videoAdUnitPath":"/71347885/_main_independent/in_news/in_world/video/hero_player","article":{"title":"Jonathan Turley tells Fox News the Trump indictment is ‘extremely damning’ and a ‘hit below the waterline’","premium":false,"sections":["US politics","US Crime News"],"authors":[{"name":"Gustaf Kilander","id":208276,"remoteId":null,"email":null,"firstName":null,"lastName":null,"jobTitle":"US reporter","imageUrl":"","twitter":"GustafKilander","facebook":null,"location":"Washington DC","path":"/author/gustaf-kilander","description":"Gustaf Kilander is a US reporter based in Washington, DC. Before joining The Independent in late 2020, he worked at The Sun in London and Swedish public service radio and TV in Stockholm. ","firstLetter":"g","bundle":"author","extra":{"instagram":null,"snapchat":null,"linkedin":null,"tiktok":null,"headerImageUrl":null,"authorBioOverride":null}}],"hierarchy":[{"name":"News","path":"/","id":2063,"uuid":"79e22181-b3b2-41ed-85eb-e50748dc642c","sourceId":"11831","sourceName":"News","sourcePath":"news","changed":"1682693762","firstLetter":"n","hierarchy":[{"name":"Independent","id":"45"}],"hierarchicalName":"News","bundle":"section","extra":{"isHideCommenting":false,"isHideNewsletterSignUp":false,"isCommercial":false,"isDisableAllSlots":false,"isDisableSponsoredCapsule":false,"titleSEO":"News | The Independent | Today's headlines and latest breaking news","seoDescription":"The latest breaking news, comment and features from The Independent."}},{"name":"World","path":"/news/world","id":2157,"uuid":"503bd72e-1c07-428f-8057-46ca317a6b0a","sourceId":"11916","sourceName":"World","sourcePath":"world","changed":"1682693521","firstLetter":"w","hierarchy":[{"name":"Independent","id":"45"},{"name":"News","id":"2063"}],"hierarchicalName":"News > World","bundle":"section","extra":{"isHideCommenting":false,"isHideNewsletterSignUp":false,"isCommercial":false,"isDisableAllSlots":false,"isDisableSponsoredCapsule":false,"field_disable_affiliates":true}},{"name":"Americas","path":"/news/world/americas","id":2159,"uuid":"ce2ed8f5-fbc8-4b60-a206-0b2477aca895","sourceId":"11926","sourceName":"Americas","sourcePath":"americas","changed":"1682693521","firstLetter":"a","hierarchy":[{"name":"Independent","id":"45"},{"name":"News","id":"2063"},{"name":"World","id":"2157"}],"hierarchicalName":"News > World > Americas","bundle":"section","extra":{"isHideCommenting":false,"isHideNewsletterSignUp":false,"isCommercial":false,"isDisableAllSlots":false,"isDisableSponsoredCapsule":false,"field_disable_affiliates":true}},{"name":"US politics","path":"/news/world/americas/us-politics","id":2161,"uuid":"9d409070-1d30-4ded-b32c-3c0b60816676","sourceId":"11931","sourceName":"US politics","sourcePath":"us-politics","changed":"1682693521","firstLetter":"u","hierarchy":[{"name":"Independent","id":"45"},{"name":"News","id":"2063"},{"name":"World","id":"2157"},{"name":"Americas","id":"2159"}],"hierarchicalName":"News > World > Americas > US politics","bundle":"section","extra":{"isHideCommenting":false,"isHideNewsletterSignUp":false,"isCommercial":false,"isDisableAllSlots":false,"isDisableSponsoredCapsule":false,"field_disable_affiliates":true,"titleSEO":"US Politics | Latest news, comment and analysis","seoDescription":"Latest updates on Trump, 2020 election, Senate, House and more"}}],"publish":"2023-06-11T13:20:27Z","isArticlePreview":false,"sectionCategory":[{"name":"US politics","path":"/news/world/americas/us-politics","id":2161,"uuid":"9d409070-1d30-4ded-b32c-3c0b60816676","sourceId":"11931","sourceName":"US politics","sourcePath":"us-politics","changed":"1682693521","firstLetter":"u","hierarchy":[{"name":"Independent","id":"45"},{"name":"News","id":"2063"},{"name":"World","id":"2157"},{"name":"Americas","id":"2159"}],"hierarchicalName":"News > World > Americas > US politics","bundle":"section","extra":{"isHideCommenting":false,"isHideNewsletterSignUp":false,"isCommercial":false,"isDisableAllSlots":false,"isDisableSponsoredCapsule":false,"field_disable_affiliates":true,"titleSEO":"US Politics | Latest news, comment and analysis","seoDescription":"Latest updates on Trump, 2020 election, Senate, House and more"},"siteSection":"site home/news/world/americas/us politics","deep":5},{"name":"US Crime News","path":"/news/world/americas/crime","id":209824,"uuid":"0fcb0044-014e-479f-884f-ae17e17cbc43","sourceId":null,"sourceName":null,"sourcePath":"crime","changed":"1682372341","firstLetter":"u","hierarchy":[{"name":"Independent","id":"45"},{"name":"News","id":"2063"},{"name":"World","id":"2157"},{"name":"Americas","id":"2159"}],"hierarchicalName":"News > World > Americas > US Crime News","bundle":"section","extra":{"isHideCommenting":true,"isHideNewsletterSignUp":false,"isCommercial":false,"isDisableAllSlots":false,"isDisableSponsoredCapsule":false},"siteSection":"site home/news/world/americas/crime","deep":5}],"siteSections":[["site home","site home"],["news","news"],["world","world"],["americas","americas"],["us politics","crime"]],"isInfact":false,"isFeature":false,"isCommercial":false,"isService":false,"isFullWidth":false,"isReview":false,"isProduct":false,"topics":[{"name":"Donald Trump","path":"/topic/donald-trump","id":2202,"uuid":"88c5f8f3-f538-4e31-aa27-ed4070f1feb2","changed":"1682693461","firstLetter":"d","bundle":"topic","extra":{"titleSEO":"Donald Trump news | Latest live updates| 2024 election","seoDescription":"Donald Trump latest news, tweets and campaign updates ahead of 2024 election"}},{"name":"jonathan turley","path":"/topic/jonathan-turley","id":53811,"uuid":"1a884168-87d9-43aa-81e2-7e888353e857","changed":"1682598361","firstLetter":"j","bundle":"topic"},{"name":"Fox News","path":"/topic/fox-news","id":2586,"uuid":"6b05d745-d538-4ad9-89bf-6c47d2522514","changed":"1682692622","firstLetter":"f","bundle":"topic"},{"name":"Mar-a-Lago","path":"/topic/mar-a-lago-0","id":7689,"uuid":"209bfe36-5d0f-49cf-b3f2-2854f900e517","changed":"1682682001","firstLetter":"m","bundle":"topic"},{"name":"Florida","path":"/topic/florida","id":2336,"uuid":"ba75a36c-885d-460d-9b5e-697426c5476a","changed":"1682693161","firstLetter":"f","bundle":"topic"},{"name":"US election 2024","path":"/topic/us-election-2024","id":209245,"uuid":"d44c34d6-6710-475f-b54b-393bbc0da645","changed":"1682373181","firstLetter":"u","bundle":"topic"}],"isDugoutHero":false,"heroMediaId":"8rvMD7qv","newsletterKey":"receiveInsideWashingtonNews","sensitive":false},"products":null,"isLiveBlog":false,"isCommercial":false,"isSection":false,"dotmetrics":{"sectionId":6663},"apvConfig":{"url":"https://us-central1-esi-consumer.cloudfunctions.net/apv-score"},"recaptureV3Key":"6LdQFKQUAAAAAALh9h5ypRL_GV19zbD4ZtAmj-pm","piano":{"pianoEndpoint":"https://api.tinypass.com/api/v3","pianoAppId":"SEz5CAOYyJ"},"shop":{"posId":"62ab36ff7b17698f4c07a77c","config":{"lang":"en-GB","primaryColor":"#ec1a2e","modalUi":{"hideSimilarProducts":false,"inheritStyles":true},"customLabels":{"buy":"Buy now","add_to_cart":"Add to basket","added_to_cart":"Added to basket","choose_variant":"Please select","out_of_stock":"Sold out"},"addToCartPopup":{"duration":8000},"prePopulatedAddress":{"delivery":{"phoneNumber":""}},"env":"prod"}},"priceComparisonEmbed":{"provider":"squirrel","lib":"https://omega-live.getsquirrel.co/scripts/7f57b71301766279b860a5712b5f2c97.js"},"addUnitId":"","pageType":"video","pageId":"CF1:2354920To1","sections":[{"name":"US politics","path":"/news/world/americas/us-politics","id":2161,"uuid":"9d409070-1d30-4ded-b32c-3c0b60816676","sourceId":"11931","sourceName":"US politics","sourcePath":"us-politics","changed":"1682693521","firstLetter":"u","hierarchy":[{"name":"Independent","id":"45"},{"name":"News","id":"2063"},{"name":"World","id":"2157"},{"name":"Americas","id":"2159"}],"hierarchicalName":"News > World > Americas > US politics","bundle":"section","extra":{"isHideCommenting":false,"isHideNewsletterSignUp":false,"isCommercial":false,"isDisableAllSlots":false,"isDisableSponsoredCapsule":false,"field_disable_affiliates":true,"titleSEO":"US Politics | Latest news, comment and analysis","seoDescription":"Latest updates on Trump, 2020 election, Senate, House and more"}},{"name":"US Crime News","path":"/news/world/americas/crime","id":209824,"uuid":"0fcb0044-014e-479f-884f-ae17e17cbc43","sourceId":null,"sourceName":null,"sourcePath":"crime","changed":"1682372341","firstLetter":"u","hierarchy":[{"name":"Independent","id":"45"},{"name":"News","id":"2063"},{"name":"World","id":"2157"},{"name":"Americas","id":"2159"}],"hierarchicalName":"News > World > Americas > US Crime News","bundle":"section","extra":{"isHideCommenting":true,"isHideNewsletterSignUp":false,"isCommercial":false,"isDisableAllSlots":false,"isDisableSponsoredCapsule":false}}]}
+  
+
+   digitalData = {"page_url":"https://www.independent.co.uk/news/world/americas/us-politics/jonathan-turley-fox-news-trump-indictment-b2355367.html","actual_url":"https://www.independent.co.uk/news/world/americas/us-politics/jonathan-turley-fox-news-trump-indictment-b2355367.html","page_domain":"independent.co.uk","page_path":"/news/world/americas/us-politics/jonathan-turley-fox-news-trump-indictment-b2355367.html","is_amp_page":false,"page_name":"news/world/americas/us-politics/articleCF1:2354920To1","page_type":"Article","site_sections":"news:world:americas:us-politics","article_premium_status":"free","article_id":"CF1:2354920To1","article_title":"Jonathan Turley tells Fox News the Trump indictment is ‘extremely damning’ and a ‘hit below the waterline’","article_author":"Gustaf Kilander","article_category":"News","article_publication_time":"01:20:27","published_date":"Sunday, 11 June 2023","first_published_date":"Sunday, 11 June 2023","homepage_section":"","article_page_filename":"jonathan-turley-fox-news-trump-indictment-b2355367.html","lead_media_item":"video","article_topic_tags":"Donald Trump,jonathan turley,Fox News,Mar-a-Lago,Florida,US election 2024","word_count":1214,"content_source":"Internal","components_list":"A2,A5,B5,B6","desktop_components_list":"2,3,1,9","mobile_components_list":"A1","internal_links_count":6,"internal_topic_links_count":5,"internal_non_topic_links_count":1,"article_swap":"video"}; (function () {
+  const componentsList = window.digitalData.components_list?.split(',') || [];
+  const referrer = document.referrer ? new URL(document.referrer) : '';
+
+  const getCookie = (name, defaultValue = false) => {
+    const match = document.cookie.match(
+      new RegExp(`(^|;|\\s+)${name}=(.*?)[;|$]`),
+    );
+    return match ? decodeURIComponent(match[2]) : defaultValue;
+  };
+
+  const hasCookie = (name) => getCookie(name) !== false;
+
+  const d = new Date();
+
+  const format = (config) =>
+    new Intl.DateTimeFormat('en', { ...config, timezone: 'UTC' }).format(d);
+
+  const YYYY = format({ year: 'numeric' });
+  const MM = format({ month: '2-digit' });
+  const DD = format({ day: '2-digit' });
+  const hh = format({ hour: '2-digit', hour12: false });
+  const mm = format({ minute: '2-digit' }).padStart(2, '0');
+  const ss = format({ second: '2-digit' }).padStart(2, '0');
+
+  if (window.innerWidth >= 1000) {
+    componentsList.push(
+      ...(window.digitalData.desktop_components_list?.split(',') || []),
+    );
+  } else {
+    componentsList.push(
+      ...(window.digitalData.mobile_components_list?.split(',') || []),
+    );
+  }
+
+  Object.assign(window.digitalData, {
+    components_list: componentsList.join(','),
+    page_title: document.title,
+    page_query: document.location.search,
+    page_name: document.location.pathname,
+    page_previous_url:
+      referrer && `${referrer.protocol}//${referrer.host}${referrer.pathname}`,
+    page_previous_path: referrer?.pathname,
+    page_previous_query: referrer?.search,
+    timestamp: `${YYYY}:${MM}:${DD}:${hh}:${mm}:${ss}`,
+    gigya_logged_in_status: hasCookie('esi_auth') ? 'logged in' : 'not logged in',
+    gigya_uid: getCookie('esi_puid'),
+    gigya_registration_date: getCookie('esi_registration_date'),
+    gigya_share_provider: '',
+    gigya_sign_on_provider: getCookie('esi_sign_on_provider'),
+    gigya_user_status: getCookie('esi_user_status', 'anonymous'),
+  });
+})()
+  
+
+   [{"authorization":"/internal-api/login-authorization.json?rid=READER_ID\u0026url=CANONICAL_URL\u0026ref=DOCUMENT_REFERRER\u0026_=RANDOM","noPingback":"true","login":{"sign-in":"/login?noframe\u0026rid=READER_ID\u0026url=SOURCE_URL\u0026return=RETURN_URL","register-newsletter":"/register?noframe\u0026rid=READER_ID\u0026url=SOURCE_URL\u0026return=RETURN_URL\u0026regSourceSection=US politics\u0026regSourceMethod=Article%2BSignpost\u0026newsletter=receiveInsideWashingtonNews"},"authorizationFallbackResponse":{"error":"true","fullName":"","loggedIn":false,"nickname":false,"subscriber":false},"namespace":"indy"},{"authorization":"https://experience.tinypass.com/xbuilder/experience/executeAmp?protocol_version=1\u0026aid=SEz5CAOYyJ\u0026reader_id=READER_ID\u0026url=SOURCE_URL\u0026referer=DOCUMENT_REFERRER\u0026_=RANDOM\u0026tags=article,receiveInsideWashingtonNews,donald-trump,jonathan-turley,fox-news,mar-a-lago,florida,us-election-2024","noPingback":"true","authorizationFallbackResponse":{"error":true},"namespace":"indyPiano"}]
+  
+
+   {"@type":"Organization","@context":"https://schema.org","name":"The Independent","url":"https://www.independent.co.uk","logo":{"@type":"ImageObject","url":"https://www.independent.co.uk/img/logo.png","width":504,"height":60},"sameAs":["https://twitter.com/Independent","https://www.facebook.com/TheIndependentOnline"],"@id":"independent.co.uk"}
+  
+
+   {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.independent.co.uk/news/world/americas/us-politics/jonathan-turley-fox-news-trump-indictment-b2355367.html"},"headline":"Jonathan Turley tells Fox News the Trump indictment is ‘extremely damning’ and a ‘hit below the waterline’","datePublished":"2023-06-11T13:20:27.000Z","dateModified":"2023-06-11T13:20:27.000Z","description":"Lawyer says Trump legal team ‘have to take out every single count, or you’ve got a 76-year-old man looking at a potentially terminal sentence’ ","thumbnailUrl":["https://static.independent.co.uk/2023/06/09/19/Donald%20Trump%20document%20boxes%20Mar%20a%20Lago%20US%20Justice%20Department%20indictment%20photo%203.png?width=1200","https://static.independent.co.uk/2023/06/09/19/Donald%20Trump%20document%20boxes%20Mar%20a%20Lago%20US%20Justice%20Department%20indictment%20photo%203.png?width=1200\u0026height=630\u0026fit=crop","https://static.independent.co.uk/2023/06/09/19/Donald%20Trump%20document%20boxes%20Mar%20a%20Lago%20US%20Justice%20Department%20indictment%20photo%203.png?width=1200\u0026height=900\u0026fit=crop","https://static.independent.co.uk/2023/06/09/19/Donald%20Trump%20document%20boxes%20Mar%20a%20Lago%20US%20Justice%20Department%20indictment%20photo%203.png?width=1200\u0026height=1200\u0026fit=crop"],"articleSection":"US politics","url":"https://www.independent.co.uk/news/world/americas/us-politics/jonathan-turley-fox-news-trump-indictment-b2355367.html","publisher":{"@type":"Organization","@context":"https://schema.org","name":"The Independent","url":"https://www.independent.co.uk","logo":{"@type":"ImageObject","url":"https://www.independent.co.uk/img/logo.png","width":504,"height":60},"sameAs":["https://twitter.com/Independent","https://www.facebook.com/TheIndependentOnline"],"@id":"independent.co.uk"},"author":{"@type":"Person","name":"Gustaf Kilander","url":"https://www.independent.co.uk/author/gustaf-kilander"},"image":["https://static.independent.co.uk/2023/06/09/19/Donald%20Trump%20document%20boxes%20Mar%20a%20Lago%20US%20Justice%20Department%20indictment%20photo%203.png?width=1200","https://static.independent.co.uk/2023/06/09/19/Donald%20Trump%20document%20boxes%20Mar%20a%20Lago%20US%20Justice%20Department%20indictment%20photo%203.png?width=1200\u0026height=630\u0026fit=crop","https://static.independent.co.uk/2023/06/09/19/Donald%20Trump%20document%20boxes%20Mar%20a%20Lago%20US%20Justice%20Department%20indictment%20photo%203.png?width=1200\u0026height=900\u0026fit=crop","https://static.independent.co.uk/2023/06/09/19/Donald%20Trump%20document%20boxes%20Mar%20a%20Lago%20US%20Justice%20Department%20indictment%20photo%203.png?width=1200\u0026height=1200\u0026fit=crop"],"video":{"@type":"VideoObject","@context":"https://schema.org","name":"Why has Donald Trump been indicted again?","description":"Donald Trump was indicted on seven charges on Thursday evening that could carry a maximum combined sentence of 100 years in prison if he is convicted. \n\nSource: PA, reuters","thumbnailUrl":["https://cdn.jwplayer.com/v2/media/8rvMD7qv/poster.jpg?width=320","https://cdn.jwplayer.com/v2/media/8rvMD7qv/poster.jpg?width=480","https://cdn.jwplayer.com/v2/media/8rvMD7qv/poster.jpg?width=640","https://cdn.jwplayer.com/v2/media/8rvMD7qv/poster.jpg?width=720","https://cdn.jwplayer.com/v2/media/8rvMD7qv/poster.jpg?width=1280","https://cdn.jwplayer.com/v2/media/8rvMD7qv/poster.jpg?width=1920"],"uploadDate":"2023-06-09T09:53:25.000Z","contentUrl":"https://cdn.jwplayer.com/videos/8rvMD7qv-4VHSaSK0.mp4","duration":"PT1M9S"},"isAccessibleForFree":true,"isPartOf":{"@type":["CreativeWork","Product"],"name":"The Independent","productID":"independent.co.uk:showcase"}}
+  
+
+   {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"News","item":"https://www.independent.co.uk/"},{"@type":"ListItem","position":2,"name":"World","item":"https://www.independent.co.uk/news/world"},{"@type":"ListItem","position":3,"name":"Americas","item":"https://www.independent.co.uk/news/world/americas"},{"@type":"ListItem","position":4,"name":"US politics","item":"https://www.independent.co.uk/news/world/americas/us-politics"}]}
+  
+
+
+
+
+
+   let _comscore = window._comscore || [];
+let comscoreTriggered = false;
+
+const checkGdpr = (tcData) => {
+  for (const [key, value] of Object.entries(tcData)) {
+    if (value) return "1";
+  }
+  return "0";
+};
+
+const updateComscore = (gdpr) => {
+  if (!comscoreTriggered) {
+    _comscore.push({ c1: "2", c2: 10476312, cs_ucfr: gdpr });
+    (function() {
+      var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+      s.src="https://sb.scorecardresearch.com/cs/10476312/beacon.js";
+      el.parentNode.insertBefore(s, el);
+    })();
+    comscoreTriggered = true;
+  }
+};
+
+const callback = (tcData, success) => {
+  if(success && tcData.eventStatus === 'tcloaded') {
+    __tcfapi('removeEventListener', 2, (success) => {
+      if(success) {
+        updateComscore(checkGdpr(tcData.purpose.consents));
+      }
+    }, tcData.listenerId);
+  } else {
+    updateComscore("");
+  }
+}
+
+if (window.__tcfapi) {
+  __tcfapi('addEventListener', 2, callback);
+} else {
+  callback();
+}
+  
+
+
+    {"page_url":"https://www.independent.co.uk/news/world/americas/us-politics/jonathan-turley-fox-news-trump-indictment-b2355367.html","actual_url":"https://www.independent.co.uk/news/world/americas/us-politics/jonathan-turley-fox-news-trump-indictment-b2355367.html","page_domain":"independent.co.uk","page_path":"/news/world/americas/us-politics/jonathan-turley-fox-news-trump-indictment-b2355367.html","is_amp_page":true,"page_name":"news/world/americas/us-politics/articleCF1:2354920To1","page_type":"Article","site_sections":"news:world:americas:us-politics","article_premium_status":"free","article_id":"CF1:2354920To1","article_title":"Jonathan Turley tells Fox News the Trump indictment is ‘extremely damning’ and a ‘hit below the waterline’","article_author":"Gustaf Kilander","article_category":"News","article_publication_time":"01:20:27","published_date":"Sunday, 11 June 2023","first_published_date":"Sunday, 11 June 2023","homepage_section":"","article_page_filename":"jonathan-turley-fox-news-trump-indictment-b2355367.html","lead_media_item":"video","article_topic_tags":"Donald Trump,jonathan turley,Fox News,Mar-a-Lago,Florida,US election 2024","word_count":1214,"content_source":"Internal","components_list":"A2,A5,B5,B6","desktop_components_list":"2,3,1,9","mobile_components_list":"A1","internal_links_count":6,"internal_topic_links_count":5,"internal_non_topic_links_count":1,"article_swap":"video"}
+   
+
+
+
+
+
+
+
+
+     Jump to content
+    
+
+
+
+
+
+
+
+
+            US Edition
+            
+             Change
+            
+
+
+
+
+
+
+
+
+            UK Edition
+            
+
+
+
+
+
+            Asia Edition
+            
+
+
+
+
+
+            Edición en Español
+            
+
+
+
+
+
+
+
+
+
+
+       Sign up to our newsletters
+      
+
+       Subscribe
+      
+
+
+
+
+
+
+
+
+
+           {{indy.truncatedName}}
+          
+
+
+
+
+
+
+
+
+        Log in / Register
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Pride Month
+       
+
+
+
+
+
+
+
+      Subscribe
+     
+
+
+
+
+
+      Menu
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         News
+        
+
+
+
+           News
+           
+
+
+
+
+
+
+
+           US
+           
+
+
+
+
+
+
+
+           US election 2024
+           
+
+
+
+
+
+
+
+           UK
+           
+
+
+
+
+
+
+
+           Europe
+           
+
+
+
+
+
+
+
+           World
+           
+
+
+
+
+
+
+
+           US Politics
+           
+
+
+
+
+
+
+
+           UK Politics
+           
+
+
+
+
+
+
+
+           Health
+           
+
+
+
+
+
+
+
+           Business
+           
+
+
+
+
+
+
+
+           Science
+           
+
+
+
+
+
+
+
+           Space
+           
+
+
+
+
+
+
+
+           News Videos
+           
+
+
+
+
+
+
+
+
+
+         Sports
+        
+
+
+
+           Sports
+           
+
+
+
+
+
+
+
+           US Sports
+           
+
+
+
+
+
+
+
+           Soccer
+           
+
+
+
+
+
+
+
+           Formula 1
+           
+
+
+
+
+
+
+
+           UFC
+           
+
+
+
+
+
+
+
+           Rugby Union
+           
+
+
+
+
+
+
+
+           Cricket
+           
+
+
+
+
+
+
+
+           Tennis
+           
+
+
+
+
+
+
+
+           Boxing
+           
+
+
+
+
+
+
+
+           Cycling
+           
+
+
+
+
+
+
+
+           Golf
+           
+
+
+
+
+
+
+
+           Sports Videos
+           
+
+
+
+
+
+
+
+
+
+         Voices
+        
+
+
+
+           Voices
+           
+
+
+
+
+
+
+
+           Editorials
+           
+
+
+
+
+
+
+
+           Letters
+           
+
+
+
+
+
+
+
+
+
+         Culture
+        
+
+
+
+           Culture
+           
+
+
+
+
+
+
+
+           Movies
+           
+
+
+
+
+
+
+
+           TV & Radio
+           
+
+
+
+
+
+
+
+           Music
+           
+
+
+
+
+
+
+
+           Games
+           
+
+
+
+
+
+
+
+           Books
+           
+
+
+
+
+
+
+
+           Art
+           
+
+
+
+
+
+
+
+           Photography
+           
+
+
+
+
+
+
+
+           Theatre & Dance
+           
+
+
+
+
+
+
+
+           Culture Videos
+           
+
+
+
+
+
+
+
+
+
+         Lifestyle
+        
+
+
+
+           Lifestyle
+           
+
+
+
+
+
+
+
+           Tech
+           
+
+
+
+
+
+
+
+           Money
+           
+
+
+
+
+
+
+
+           Food & Drink
+           
+
+
+
+
+
+
+
+           Fashion
+           
+
+
+
+
+
+
+
+           Love & Sex
+           
+
+
+
+
+
+
+
+           Women
+           
+
+
+
+
+
+
+
+           Health & Families
+           
+
+
+
+
+
+
+
+           Royal Family
+           
+
+
+
+
+
+
+
+           Motoring
+           
+
+
+
+
+
+
+
+           Electric Vehicles
+           
+
+
+
+
+
+
+
+           Lifestyle Videos
+           
+
+
+
+
+
+
+
+
+
+         Travel
+        
+
+
+
+           Travel
+           
+
+
+
+
+
+
+
+           News & Advice
+           
+
+
+
+
+
+
+
+           Simon Calder
+           
+
+
+
+
+
+
+
+           USA & Canada
+           
+
+
+
+
+
+
+
+           UK
+           
+
+
+
+
+
+
+
+           Europe
+           
+
+
+
+
+
+
+
+           Asia
+           
+
+
+
+
+
+
+
+           Inspiration
+           
+
+
+
+
+
+
+
+           City Guides
+           
+
+
+
+
+
+
+
+           Sustainable Travel
+           
+
+
+
+
+
+
+
+
+
+         Premium
+        
+
+
+
+           Premium
+           
+
+
+
+
+
+
+
+           Editorials
+           
+
+
+
+
+
+
+
+           Voices
+           
+
+
+
+
+
+
+
+           Long Reads
+           
+
+
+
+
+
+
+
+           Politics Explained
+           
+
+
+
+
+
+
+
+           News Analysis
+           
+
+
+
+
+
+
+
+
+
+
+        More
+       
+
+
+
+
+
+
+
+
+           Best
+           
+
+
+
+
+
+
+
+             Home & Garden
+             
+
+
+
+
+
+
+
+             Tech
+             
+
+
+
+
+
+
+
+             Fashion & Beauty
+             
+
+
+
+
+
+
+
+             Food & Drink
+             
+
+
+
+
+
+
+
+             Kids
+             
+
+
+
+
+
+
+
+             Books
+             
+
+
+
+
+
+
+
+             Travel & Outdoors
+             
+
+
+
+
+
+
+
+             Sports & Fitness
+             
+
+
+
+
+
+
+
+             Deals
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Climate
+           
+
+
+
+
+
+
+
+             News
+             
+
+
+
+
+
+
+
+             Voices
+             
+
+
+
+
+
+
+
+             Sustainable Living
+             
+
+
+
+
+
+
+
+             Explained
+             
+
+
+
+
+
+
+
+             Climate Videos
+             
+
+
+
+
+
+
+
+             Electric vehicles
+             
+
+
+
+
+
+
+
+             SGI
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+           TV
+           
+
+
+
+
+
+
+
+             Behind The Headlines
+             
+
+
+
+
+
+
+
+             On The Ground
+             
+
+
+
+
+
+
+
+             Decomplicated
+             
+
+
+
+
+
+
+
+             You Ask The Questions
+             
+
+
+
+
+
+
+
+             Binge Or Bin
+             
+
+
+
+
+
+
+
+             Millennial Love
+             
+
+
+
+
+
+
+
+             Watch on your TV
+             
+
+
+
+
+
+
+
+
+
+
+
+             Indy100
+             
+
+
+
+
+
+
+
+             Crosswords & Puzzles
+             
+
+
+
+
+
+
+
+             Most Commented
+             
+
+
+
+
+
+
+
+             Newsletters
+             
+
+
+
+
+
+
+
+             Ask Me Anything
+             
+
+
+
+
+
+
+
+             Virtual Events
+             
+
+
+
+
+
+
+
+             Vouchers
+             
+
+
+
+
+
+
+
+             Compare
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Thank you for registering
+        
+
+
+          Please refresh the page or navigate to another page on the site to be automatically logged in
+         
+
+          Please refresh your browser to be logged in
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         News
+        
+
+         World
+        
+
+         Americas
+        
+
+         US politics
+        
+
+
+
+         Jonathan Turley tells Fox News the Trump indictment is ‘extremely damning’ and a ‘hit below the waterline’
+        
+
+
+          Lawyer says Trump legal team ‘have to take out every single count, or you’ve got a 76-year-old man looking at a potentially terminal sentence’
+         
+
+
+
+
+           Gustaf Kilander
+          
+
+           Washington, DC
+          
+
+
+
+             Sunday 11 June 2023 14:20
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Article bookmarked
+            
+
+             Find your bookmarks in your
+             
+
+              Independent Premium
+             
+
+             section, under my profile
+            
+
+
+
+              Don't show me this message again
+             
+
+
+             ✕
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   ✕
+                  
+
+
+
+
+                Close
+               
+
+
+
+
+
+
+
+
+
+          Related video: Why has Donald Trump been indicted again?
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Sign up for the daily Inside Washington email for exclusive US coverage and analysis sent to your inbox
+            
+
+             Get our free Inside Washington email
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Please enter a valid email address
+               
+
+                Please enter a valid email address
+               
+
+
+
+
+
+
+                 SIGN UP
+                
+
+
+
+
+
+
+
+
+               I would like to be emailed about offers, events and updates from The Independent. Read our
+               
+                privacy notice
+               
+
+
+
+
+
+
+
+
+                Thanks for signing up to the
+                
+
+                Inside Washington
+                
+                email
+               
+
+
+
+
+
+
+               {{ #verifyErrors }}
+               
+               {{ message }}
+               
+               {{ /verifyErrors }}
+               
+               {{ ^verifyErrors }}
+               
+               Something went wrong. Please try again later
+               
+               {{ /verifyErrors }}
+              
+
+
+
+
+
+
+
+
+          Fox News
+         
+         legal commentator
+         
+          Jonathan Turley
+         
+         didn’t hold back after the indictment charging former President
+         
+          Donald Trump
+         
+         with
+         
+          37 counts was unsealed.
+         
+
+
+         The indictment, unsealed on Friday afternoon, stems from Mr Trump’s allegedly unlawful retention of hundreds of documents at his
+         
+          Florida
+         
+         residence
+         
+          Mar-a-Lago
+         
+         .
+        
+
+
+
+
+
+
+
+
+
+
+
+         Trump aide Walt Nauta has also been charged after he was apparently spotted on surveillance footage moving boxes at the property. The ex-president stands accused of having moved classified documents from the White House at the end of his presidency despite not having the right to do so.
+        
+
+
+
+
+
+
+
+
+
+         Mr Trump showed classified documents to others twice in 2021, the legal filing states.
+        
+
+         Mr Turley, the Shapiro Chair of Public Interest Law at George Washington University, said on Fox News on Friday afternoon that “it is an extremely damning indictment”.
+        
+
+
+          Recommended
+         
+
+
+
+
+
+
+
+
+
+
+             Hiding documents from the FBI and foreign nuclear plans: Key allegations in Trump’s unsealed indictment
+            
+
+
+
+
+
+
+
+
+
+
+
+             Mystery over female Trump family member allegedly involved in decisions over secret papers
+            
+
+
+
+
+
+
+
+
+
+
+
+             Trump news — latest: Trump ‘plotted to hide documents from FBI after showing military docs to visitors’
+            
+
+
+
+
+
+
+
+
+
+
+
+         “There are indictments that are sometimes called narrative or speaking indictments. These are indictments that are really meant to make a point as to the depth of the evidence, there are some indictments that are just bare bones,” he added.
+        
+
+
+
+
+
+
+
+
+
+         This is not one of those indictments, Mr Turley said.
+        
+
+
+
+
+
+
+
+
+            Photo of document boxes in Former President Donald Trump’s Mar-a-Lago residence released by US Justice Department as part of the indictment
+           
+
+
+           (US Justice Department)
+          
+
+
+
+
+
+
+
+
+
+
+            Photo of document boxes in Former President Donald Trump’s Mar-a-Lago residence released by US Justice Department as part of the indictment
+           
+
+
+           (US Justice Department)
+          
+
+
+
+         “The Special Counsel knew that there would be a lot of people who were going to allege that the Department of Justice was acting in a biased or politically motivated way. This is clearly an indictment that was drafted to answer those questions. It's overwhelming in detail,” he continued. “The Trump team should not fool itself. These are hits below the waterline. These are witnesses who apparently testified under oath [and] gave statements to federal investigators, both of which can be criminally charged, if they're false.”
+        
+
+         “Those witnesses are directly quoting the president in encouraging others not to look for documents or allegedly to conceal them. It's damaging,” Mr Turley said.
+        
+
+         “This is not an indictment that you can dismiss. There are a lot of people who are testifying under oath, and they're saying highly incriminating things,” the attorney added.
+        
+
+
+
+
+
+
+
+
+            Photo of document boxes in Former President Donald Trump’s Mar-a-Lago residence released by US Justice Department as part of the indictment
+           
+
+
+           (US Justice Department)
+          
+
+
+
+
+
+
+
+
+
+
+            Photo of document boxes in Former President Donald Trump’s Mar-a-Lago residence released by US Justice Department as part of the indictment
+           
+
+
+           (US Justice Department)
+          
+
+
+
+         Speaking about the images from
+         
+          Mar-a-Lago
+         
+         of the boxes of documents found in a ballroom and a bathroom, in addition to other less-than-ideal places, Mr Turley said, “It's really breathtaking. Obviously, this is mishandling. Putting the classified documents into ballrooms and bathrooms borders on the bizarre. And these are the types of pictures that hit you below the waterline in a trial.
+        
+
+
+
+
+
+         “It's hard to show a picture of these boxes surrounding a toilet and saying ‘we really acted responsibly,’” he added, going on to note that “the government is bringing dozens of counts – they only have to land one of those punches”.
+        
+
+         “Keep in mind that every one of these counts is coming with a substantial potential sentence,” Mr Turley said.
+        
+
+
+
+
+
+         The lawyer said that the Trump legal team has “to run the table, they have to take out every single count, or you've got a 76-year-old man looking at a potentially terminal sentence”.
+        
+
+         “The visual and the audio tape evidence is really daunting. The audio tape that they transcribe makes it sound like the President was using some of these documents as trophies. And that's likely to be the narrative that comes out of the trial, that he's boasting. That's going to undermine it even further in the eyes of these jurors,” Mr Turley concluded.
+        
+
+
+
+
+
+
+
+
+
+         According to the
+         
+          indictment
+         
+         , “In July 2021, at Trump National Golf Club in Bedminster, New Jersey (‘The Bedminster Club’), during an audio-recorded meeting with a writer, a publisher, and two members of his staff, none of whom possessed a security clearance, TRUMP showed and described a ‘plan of attack’ that TRUMP said was prepared for him by the Department of Defense and a senior military official”.
+        
+
+         “TRUMP told the individuals that the plan was ‘highly confidential’ and ‘secret.’ TRUMP also said, ‘as president I could have declassified it,’ and, ‘Now I can’t, you know, but this is still a secret’,” the filing says.
+        
+
+
+
+
+
+
+
+
+
+         A transcript of the 2021 tape was revealed by
+         
+          CNN
+         
+         on Friday morning, hours after news emerged that Mr Trump had been indicted.
+        
+
+         On the tape, first reported last week, he specifically referenced a classified Department of Defense document regarding an attack on Iran, according to the transcript.
+        
+
+         It was
+         
+          reported
+         
+         last week that prosecutors had procured the audio recording, which was made in 2021 at Mr Trump’s Bedminster, New Jersey, resort with two individuals working on the autobiography of Mr Trump’s final White House Chief of Staff Mark Meadows in addition to aides to the former president, such as Marco Martin, a communications staffer.
+        
+
+         The transcript implies that Mr Trump is showing the document he’s speaking about during the conversation.CNN reported that several sources have said that the sound from the recording includes the rustling of papers, indicating that Mr Trump may have been moving the document around. But it’s not clear if it was the document regarding Iran.
+        
+
+
+
+
+
+
+
+
+
+         “Secret. This is secret information. Look, look at this,” Mr Trump said. “This was done by the military and given to me.”
+        
+
+         At the time, Mr Trump was complaining about the Chairman of the Joint Chiefs of Staff General Mark Milley. The meeting took place not long after a story published by
+         
+          The New Yorker
+         
+         outlined how Gen Milley told the Joint Chiefs during the last days of Mr Trump’s time in office to make sure that the then-president not give any illegal orders and that Gen Milley should be made aware if there were any concerns.
+        
+
+         “Well, with Milley – uh, let me see that, I’ll show you an example. He said that I wanted to attack Iran. Isn’t that amazing? I have a big pile of papers, this thing just came up. Look. This was him,” Mr Trump said, the transcript shows. “They presented me this – this is off the record, but – they presented me this. This was him. This was the Defense Department and him. We looked at some. This was him. This wasn’t done by me, this was him.”
+        
+
+         “All sorts of stuff – pages long, look. Wait a minute, let’s see here. I just found, isn’t that amazing? This totally wins my case, you know. Except it is like, highly confidential. Secret. This is secret information. Look, look at this,” Mr Trump added.
+        
+
+
+
+
+
+
+
+
+
+         “Secret” and “confidential” are both degrees of classified information.
+        
+
+
+
+
+
+
+          More about
+         
+
+          Donald Trump
+         
+
+          jonathan turley
+         
+
+          Fox News
+         
+
+          Mar-a-Lago
+         
+
+          Florida
+         
+
+          US election 2024
+         
+
+
+
+
+
+          {"currentIndex":0}
+         
+
+
+
+
+
+
+
+              1
+             
+             /
+             
+             5
+            
+
+
+            Jonathan Turley tells Fox News Trump indictment is ‘extremely damning’
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Jonathan Turley tells Fox News Trump indictment is ‘extremely damning’
+               
+
+
+
+                Photo of document boxes in Former President Donald Trump’s Mar-a-Lago residence released by US Justice Department as part of the indictment
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Jonathan Turley tells Fox News Trump indictment is ‘extremely damning’
+               
+
+
+
+                Photo of document boxes in Former President Donald Trump’s Mar-a-Lago residence released by US Justice Department as part of the indictment
+               
+
+
+               US Justice Department
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Jonathan Turley tells Fox News Trump indictment is ‘extremely damning’
+               
+
+
+
+                Photo of document boxes in Former President Donald Trump’s Mar-a-Lago residence released by US Justice Department as part of the indictment
+               
+
+
+               US Justice Department
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Jonathan Turley tells Fox News Trump indictment is ‘extremely damning’
+               
+
+
+
+                Photo of document boxes in Former President Donald Trump’s Mar-a-Lago residence released by US Justice Department as part of the indictment
+               
+
+
+               US Justice Department
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Jonathan Turley tells Fox News Trump indictment is ‘extremely damning’
+               
+
+
+
+                Photo of document boxes in Former President Donald Trump’s Mar-a-Lago residence released by US Justice Department as part of the indictment
+               
+
+
+               US Justice Department
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           ✕
+          
+
+           Subscribe to Independent Premium to bookmark this article
+          
+
+           Want to bookmark your favourite articles and stories to read or reference later? Start your Independent Premium subscription today.
+          
+
+
+
+             Subscribe
+            
+
+
+
+
+            Already subscribed?
+            
+             Log in
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Most Popular
+        
+
+         {{#link}}<div data-position="{{index}}" class="sc-zshww1-3 boBcZr"><a href="{{link}}" aria-label="Link to Most Popular" class="sc-zshww1-5 imCGpp"><amp-img src="{{ image }}?quality=75&amp;width=96&amp;auto=webp" alt="{{title}}" layout="fill"></amp-img></a><a href="{{link}}" class="sc-zshww1-4 bwJDCQ">{{title}}</a></div>{{/link}}
+        
+
+
+
+
+
+
+          Popular videos
+         
+
+          {{#link}}<div data-position="{{index}}" class="sc-zshww1-3 boBcZr"><a href="{{link}}" aria-label="Link to Popular videos" class="sc-zshww1-5 imCGpp"><amp-img src="{{ image }}?quality=75&amp;width=308&amp;auto=webp" alt="{{title}}" layout="fill"></amp-img></a><a href="{{link}}" class="sc-zshww1-4 bwJDCQ"><span class="sc-u4n1j-0 dppYLy">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/><path d="M0 0h24v24H0z" fill="none"/></svg>
+</span>{{title}}</a></div>{{/link}}
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          {{#url}}<div data-position="{{index}}" class="sc-zshww1-3 boBcZr"><a href="{{url}}" aria-label="Link to Indy100 Trending" class="sc-zshww1-5 imCGpp"><amp-img src="{{ image }}?quality=75&amp;width=96&amp;auto=webp" alt="{{title}}" layout="fill"></amp-img></a><a href="{{url}}" class="sc-zshww1-4 bwJDCQ">{{short_headline}}</a></div>{{/url}}
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Sponsored Features
+         
+
+          {{#link}}<div data-position="{{index}}" class="sc-zshww1-3 boBcZr"><a href="{{link}}" aria-label="Link to Sponsored Features" class="sc-zshww1-5 imCGpp"><amp-img src="{{ image }}?quality=75&amp;width=96&amp;auto=webp" alt="{{title}}" layout="fill"></amp-img></a><a href="{{link}}" class="sc-zshww1-4 bwJDCQ">{{title}}</a></div>{{/link}}
+         
+
+
+
+
+
+
+
+
+
+
+
+          Voucher Codes
+         
+
+
+
+
+
+
+
+
+
+            Very Discount Code
+           
+
+
+           Extra 20% off selected fashion and sportswear at Very
+          
+
+
+
+
+
+
+
+
+
+
+            Booking.com Promo Code
+           
+
+
+           Get up to 10% off using the Booking.com app
+          
+
+
+
+
+
+
+
+
+
+
+            Expedia Discount Code
+           
+
+
+           Extra 8% off hotel bookings with this Expedia discount code
+          
+
+
+
+
+
+
+
+
+
+
+            Aliexpress Promo Code
+           
+
+
+           $6 off a $50+ order with this AliExpress discount code
+          
+
+
+
+
+
+
+
+
+
+
+            eBay Discount Code
+           
+
+
+           Get 15% off selected purchases £15+ using this eBay voucher code
+          
+
+
+
+
+
+
+
+
+            Indy /
+           
+           Compare
+          
+
+
+
+
+
+
+
+
+
+           Compare UK Broadband Deals
+          
+
+           Compare broadband packages side by side to find the best deal for you
+          
+
+
+
+
+
+
+
+
+
+           Cheap Broadband Deals in 2023
+          
+
+           Find the cheapest broadband deals from providers in your area
+          
+
+
+
+
+
+
+
+
+
+           Fibre Broadband Deals June 2023
+          
+
+           All you need to know about fibre broadband
+          
+
+
+
+
+
+
+
+
+
+           Best Apple iPhone Deals in the UK June 2023
+          
+
+           Compare iPhone contract deals and get the best offer this June
+          
+
+
+
+
+
+
+
+
+
+           Compare Mobile Phone Deals
+          
+
+           Compare the best mobile phone deals from the top networks and brands
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Get in touch
+       
+
+
+
+          Contact us
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Our Products
+       
+
+
+
+          Subscribe
+         
+
+
+
+          Register
+         
+
+
+
+          Newsletters
+         
+
+
+
+          Donate
+         
+
+
+
+          Today’s Edition
+         
+
+
+
+          Install our app
+         
+
+
+
+          Archive
+         
+
+
+
+
+
+        Other publications
+       
+
+
+
+          International editions
+         
+
+
+
+          Independent en Español
+         
+
+
+
+          Independent Arabia
+         
+
+
+
+          Independent Turkish
+         
+
+
+
+          Independent Persian
+         
+
+
+
+          Independent Urdu
+         
+
+
+
+          Evening Standard
+         
+
+
+
+          Novaya Gazeta
+         
+
+
+
+
+
+        Extras
+       
+
+
+
+          Advisor
+         
+
+
+
+          Puzzles
+         
+
+
+
+          All topics
+         
+
+
+
+          Voucher codes
+         
+
+
+
+          Compare
+         
+
+
+
+          Competitions and offers
+         
+
+
+
+          Independent Advertising
+         
+
+
+
+          Syndication
+         
+
+
+
+          Working at The Independent
+         
+
+
+
+
+
+        Legal
+       
+
+
+
+          Code of conduct and complaints
+         
+
+
+
+          Contributors
+         
+
+
+
+          Cookie policy
+         
+
+
+
+          Donations Terms & Conditions
+         
+
+
+
+          Privacy notice
+         
+
+
+
+          User policies
+         
+
+
+
+          Modern Slavery Act
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Thank you for registering
+       
+
+
+         Please refresh the page or navigate to another page on the site to be automatically logged in
+        
+
+         Please refresh your browser to be logged in
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Close
+   
+
+
+
+
+
+        US Edition
+        
+         Change
+        
+
+
+
+
+
+
+
+
+        UK Edition
+        
+
+
+
+
+
+        Asia Edition
+        
+
+
+
+
+
+        Edición en Español
+        
+
+
+
+
+
+
+
+
+
+    Subscribe
+   
+
+
+
+
+
+
+
+
+
+        {{indy.truncatedName}}
+       
+
+
+
+
+
+
+
+
+     Log in / Register
+    
+
+
+
+
+
+
+
+
+
+
+
+
+      Pride Month
+     
+
+
+
+
+
+
+
+
+
+      {"items":[{"title":"News","id":"pgwk3i9a","path":"/us","children":[{"title":"US","id":"grvm7iq4","path":"/news/world/americas"},{"title":"US election 2024 ","id":"1e5auzmp","path":"/topic/us-election-2024"},{"title":"UK","id":"1a1vlxn3","path":"/news/uk"},{"title":"Europe","id":"lvpmqq5b","path":"/news/world/europe"},{"title":"World","id":"d7mnehxz","path":"/news/world"},{"title":"US Politics","id":"5rl70wxz","path":"/news/world/americas/us-politics","active":true},{"title":"UK Politics","id":"f57l6a5f","path":"/news/uk/politics"},{"title":"Health","id":"4bbj3w1i","path":"/news/health"},{"title":"Business","id":"y5axtbk3","path":"/news/business"},{"title":"Science","id":"yxtotall","path":"/news/science"},{"title":"Space","id":"8gg022ue","path":"/space"},{"title":"News Videos","id":"0c5ix48e","path":"/tv/us-news"}],"expanded":false,"active":"drawer-nav-trigger__active","desc":"US, US election 2024  \u0026 more","stampSmall":false,"stampClimate":false,"stampPremium":false,"styledArrow":"","styledLink":""},{"title":"Sports","id":"0pp7ev9p","path":"/sport","children":[{"title":"US Sports","id":"xe5asn11","path":"/sport/us-sport"},{"title":"Soccer","id":"t91g3p9r","path":"/sport/football"},{"title":"Formula 1","id":"ouu2iltt","path":"/f1"},{"title":"UFC","id":"82gq90or","path":"/sport/ufc"},{"title":"Rugby Union","id":"v4gio826","path":"/sport/rugby/rugby-union"},{"title":"Cricket","id":"qwjh0jma","path":"/sport/cricket"},{"title":"Tennis","id":"s2b7xi2y","path":"/sport/tennis"},{"title":"Boxing","id":"r7jare0h","path":"/sport/boxing"},{"title":"Cycling","id":"lfr3m7hh","path":"/sport/cycling"},{"title":"Golf","id":"yiqpop52","path":"/sport/golf"},{"title":"Sports Videos","id":"1xb3l2tt","path":"/tv/sport"}],"expanded":false,"active":"","desc":"US Sports, Soccer \u0026 more","stampSmall":false,"stampClimate":false,"stampPremium":false,"styledArrow":"","styledLink":""},{"title":"Voices","id":"nezh37uc","path":"/us/voices","children":[{"title":"Editorials","id":"s4zhdy07","path":"/voices/editorials"},{"title":"Letters","id":"3dh6ntm8","path":"/voices/letters"}],"expanded":false,"active":"","desc":"Editorials, Letters \u0026 more","stampSmall":false,"stampClimate":false,"stampPremium":false,"styledArrow":"","styledLink":""},{"title":"Culture","id":"90p0c90q","path":"/arts-entertainment","children":[{"title":"Movies","id":"at8grzhm","path":"/arts-entertainment/films"},{"title":"TV \u0026 Radio","id":"jcy9npk3","path":"/arts-entertainment/tv"},{"title":"Music","id":"u7h3t3wy","path":"/arts-entertainment/music"},{"title":"Games","id":"73eq82as","path":"/games"},{"title":"Books","id":"c2cz97gg","path":"/arts-entertainment/books"},{"title":"Art","id":"2hj8d7lc","path":"/arts-entertainment/art"},{"title":"Photography","id":"co4cy5vh","path":"/arts-entertainment/photography"},{"title":"Theatre \u0026 Dance","id":"f4wax0co","path":"/arts-entertainment/theatre-dance"},{"title":"Culture Videos","id":"l4wpz1jh","path":"/tv/culture"}],"expanded":false,"active":"","desc":"Movies, TV \u0026 Radio \u0026 more","stampSmall":false,"stampClimate":false,"stampPremium":false,"styledArrow":"","styledLink":""},{"title":"Lifestyle","id":"0c5prt44","path":"/life-style","children":[{"title":"Tech","id":"20cf9pao","path":"/tech"},{"title":"Money","id":"wubxtrzk","path":"/money"},{"title":"Food \u0026 Drink","id":"gbtn5j6x","path":"/life-style/food-and-drink"},{"title":"Fashion","id":"67nd1wjy","path":"/life-style/fashion"},{"title":"Love \u0026 Sex","id":"jhe7evbm","path":"/life-style/love-sex"},{"title":"Women","id":"kvh0365q","path":"/life-style/women"},{"title":"Health \u0026 Families","id":"uolul7fz","path":"/life-style/health-and-families"},{"title":"Royal Family","id":"idemctn4","path":"/life-style/royal-family"},{"title":"Motoring","id":"d6osgx4n","path":"/life-style/motoring"},{"title":"Electric Vehicles ","id":"38qwt5h0","path":"/life-style/motoring/electric-vehicles"},{"title":"Lifestyle Videos","id":"o4i1hlgq","path":"/tv/lifestyle"}],"expanded":false,"active":"","desc":"Tech, Money \u0026 more","stampSmall":false,"stampClimate":false,"stampPremium":false,"styledArrow":"","styledLink":""},{"title":"Travel","id":"hvur3cei","path":"/us/travel","children":[{"title":"News \u0026 Advice","id":"k2ncl3ye","path":"/travel/news-and-advice"},{"title":"Simon Calder","id":"93bhsga3","path":"/author/simon-calder"},{"title":"USA \u0026 Canada","id":"ixqt6kfy","path":"/travel/north-america"},{"title":"UK","id":"uy2lah7i","path":"/travel/uk"},{"title":"Europe","id":"epp3418m","path":"/travel/europe"},{"title":"Asia","id":"4nqmb112","path":"/travel/asia"},{"title":"Inspiration","id":"96htwfzp","path":"/travel/inspiration"},{"title":"City Guides","id":"lo5erfbr","path":"/travel/48-hours-in"},{"title":"Sustainable Travel","id":"macsl021","path":"/travel/sustainable-travel"}],"expanded":true,"active":"","desc":"News \u0026 Advice, Simon Calder \u0026 more","stampSmall":false,"stampClimate":false,"stampPremium":false,"styledArrow":"","styledLink":""},{"title":"Premium","id":"wpsqem4u","path":"/independentpremium","children":[{"title":"Editorials","id":"avzb7s8b","path":"/voices/editorials"},{"title":"Voices","id":"wrw1c6vx","path":"/independentpremium/voices"},{"title":"Long Reads","id":"s9yq2mug","path":"/independentpremium/long-reads"},{"title":"Politics Explained","id":"52sxm1wi","path":"/independentpremium/politics-explained"},{"title":"News Analysis","id":"z0t8doyo","path":"/independentpremium/news-analysis"}],"expanded":false,"active":"","desc":"Editorials, Voices \u0026 more","stampSmall":false,"stampClimate":false,"stampPremium":true,"styledArrow":"","styledLink":""},{"title":"Best","id":"bmf14i35","path":"/extras/indybest","children":[{"title":"Home \u0026 Garden","id":"xa6bnv3k","path":"/extras/indybest/house-garden"},{"title":"Tech","id":"mpbnj2pf","path":"/extras/indybest/gadgets-tech"},{"title":"Fashion \u0026 Beauty","id":"i54sgobg","path":"/extras/indybest/fashion-beauty"},{"title":"Food \u0026 Drink","id":"9qjtoszu","path":"/extras/indybest/food-drink"},{"title":"Kids","id":"kdzq5w8i","path":"/extras/indybest/kids"},{"title":"Books","id":"miprxski","path":"/extras/indybest/books"},{"title":"Travel \u0026 Outdoors","id":"jqokz0ob","path":"/extras/indybest/travel-outdoors"},{"title":"Sports \u0026 Fitness","id":"5czfp5m0","path":"/extras/indybest/outdoor-activity"},{"title":"Deals","id":"dp08stpv","path":"/extras/indybest/deals"}],"expanded":false,"active":"","desc":"Home \u0026 Garden, Tech \u0026 more","stampSmall":true,"stampClimate":false,"stampPremium":false,"styledArrow":"","styledLink":""},{"title":"Climate","id":"3nilwyxv","path":"/climate-change","children":[{"title":"News","id":"6keufrn7","path":"/climate-change/news"},{"title":"Voices","id":"fx9l7qch","path":"/climate-change/opinion"},{"title":"Sustainable Living","id":"acx5iy8t","path":"/climate-change/sustainable-living"},{"title":"Explained","id":"mg5af6uo","path":"/climate-change/infact"},{"title":"Climate Videos","id":"kupb6bs3","path":"/tv/climate"},{"title":"Electric vehicles ","id":"qdutywyz","path":"/life-style/motoring/electric-vehicles"},{"title":"SGI","id":"79iea32y","path":"/climate-change/sgi"}],"expanded":false,"active":"","desc":"News, Voices \u0026 more","stampSmall":false,"stampClimate":true,"stampPremium":false,"styledArrow":"","styledLink":""},{"title":"TV","id":"e55zuj2p","path":"/tv/editors-picks","children":[{"title":"Behind The Headlines ","id":"ulythkms","path":"/tv/behind-the-headlines"},{"title":"On The Ground","id":"m07wu3mu","path":"/tv/on-the-ground"},{"title":"Decomplicated","id":"lon8o02e","path":"/tv/decomplicated"},{"title":"You Ask The Questions","id":"ofrdi67w","path":"/tv/you-ask-the-questions"},{"title":"Binge Or Bin","id":"jhdzl5kq","path":"/tv/binge-or-bin"},{"title":"Millennial Love","id":"81c9ymfe","path":"/tv/millennial-love"},{"title":"Watch on your TV","id":"tr681eij","path":"/tech/independent-tv-download-smart-tv-how-b2287476.html"}],"expanded":false,"active":"","desc":"Behind The Headlines , On The Ground \u0026 more","stampSmall":true,"stampClimate":false,"stampPremium":false,"styledArrow":"","styledLink":""}]}
+     
+
+
+
+
+       {{#items}}
+       
+
+
+
+           {{#stampSmall}}
+           
+
+
+
+
+
+           {{/stampSmall}}
+           
+           {{#stampClimate}}
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           {{/stampClimate}}
+           
+           {{#stampPremium}}
+           
+
+
+
+
+
+           {{/stampPremium}}
+           
+           {{title}}
+          
+          {{#desc}}
+          
+           {{desc}}
+          
+          {{/desc}}
+         
+
+
+
+
+
+
+
+
+         {{#children}}
+         
+
+           {{title}}
+           
+
+
+
+
+
+         {{/children}}
+        
+
+       {{/items}}
+      
+
+
+
+
+
+       Indy100
+       
+
+
+
+
+
+
+
+       Crosswords & Puzzles
+       
+
+
+
+
+
+
+
+       Most Commented
+       
+
+
+
+
+
+
+
+       Newsletters
+       
+
+
+
+
+
+
+
+       Ask Me Anything
+       
+
+
+
+
+
+
+
+       Virtual Events
+       
+
+
+
+
+
+
+
+       Vouchers
+       
+
+
+
+
+
+
+
+       Compare
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     ✕
+    
+
+
+
+
+
+
+
+          Log in
+         
+
+
+
+
+            Email address
+           
+
+
+
+
+
+
+
+
+            Password
+           
+
+
+
+
+
+          Email and password don't match
+         
+
+
+
+            Submit
+           
+
+
+
+
+
+
+           Forgotten your password?
+          
+
+
+
+
+          New to The Independent?
+         
+
+          Register
+         
+
+
+
+
+         Or if you would prefer:
+        
+
+         SIGN IN WITH GOOGLE
+        
+
+
+
+         Want an ad-free experience?
+        
+
+         View offers
+        
+
+
+
+
+        This site is protected by reCAPTCHA and the Google
+        
+         Privacy notice
+        
+        and
+        
+         Terms of service
+        
+        apply.
+       
+
+
+
+
+
+
+
+
+         Hi {{indy.fullName}}
+        
+
+
+
+
+
+
+
+
+
+
+          My Independent Premium
+         
+
+
+
+
+
+
+
+
+
+
+
+          Account details
+         
+
+
+
+
+
+
+
+
+
+
+
+          Help centre
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Logout
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   window._taboola = window._taboola || [];
+  _taboola.push({flush: true});
+  
+
+   window._ml = window._ml || {};
+        window._ml.eid = '85600';
+  
+
+
+
+
+
+
+
+   @keyframes slidedown-video{0%{transform:translateY(-100%)}to{transform:translateY(0)}}@keyframes slideup-video{0%{transform:translateY(200%)}to{transform:translateY(0)}}@keyframes spin{0%{transform:rotate(0)}to{transform:rotate(1turn)}}
+  
+

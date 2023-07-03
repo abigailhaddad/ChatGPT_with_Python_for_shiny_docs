@@ -1,0 +1,7 @@
+openai
+langchain
+chromadb
+tiktoken
+unstructured[local-inference]
+gradio
+spyder-kernels==2.4.*

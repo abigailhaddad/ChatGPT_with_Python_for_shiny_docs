@@ -1,0 +1,1612 @@
+
+
+
+
+
+
+
+
+
+
+
+
+   Trump allies and critics battle over impact of case, political narratives  - POLITICO
+  
+
+
+
+
+
+
+   body { visibility: hidden !important; }
+  
+
+   (function() {
+
+var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+
+_sf_async_config.uid = 33430;
+
+_sf_async_config.domain = document.domain;
+
+_sf_async_config.useCanonical = true;
+
+window.setTimeout(function() {
+
+    var hider = document.getElementById('chartbeat-flicker-control-style');
+
+    if (hider) {
+
+        hider.parentNode.removeChild(hider);
+
+    }
+
+}, 1000);
+
+})();
+  
+
+
+
+
+
+
+
+   function OptanonWrapper() { }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   window.jQuery || document.write('<script src="https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/external-libraries/jquery-1.11.0.min.09e2302066dc95597682cbcb72b3e5b3.gz.js"><\/script>')
+  
+
+
+
+   try{Typekit.load();}catch(e){}
+  
+
+
+
+
+
+
+
+     Skip to Main Content
+    
+
+
+
+
+
+
+
+
+
+
+
+           POLITICO
+          
+
+           Politico Logo
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Congress Minutes
+           
+
+
+
+            Pro
+           
+
+
+
+            E&E News
+           
+
+
+
+
+
+
+
+              Search
+             
+
+
+
+
+
+
+
+
+                Search
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           SECTIONS
+          
+
+
+
+             Congress
+            
+
+
+
+             Elections
+            
+
+
+
+             Legal
+            
+
+
+
+             White House
+            
+
+
+
+             Magazine
+            
+
+
+
+             Foreign Affairs
+            
+
+
+
+             Video
+            
+
+
+
+             Podcasts
+            
+
+
+
+             Congress Minutes
+            
+
+
+
+
+
+
+
+           SERIES
+          
+
+
+
+             The Fifty
+            
+
+
+
+             Women Rule
+            
+
+
+
+
+
+           POLITICO LIVE
+          
+
+
+
+             About POLITICO Live
+            
+
+
+
+             Upcoming Events
+            
+
+
+
+             Previous Events
+            
+
+
+
+
+
+
+
+           NEWSLETTERS
+          
+
+
+
+             Playbook
+            
+
+
+
+             Playbook PM
+            
+
+
+
+             POLITICO Nightly
+            
+
+
+
+             West Wing Playbook
+            
+
+
+
+             The Recast
+            
+
+
+
+             Huddle
+            
+
+
+
+             All Newsletters
+            
+
+
+
+
+
+
+
+           COLUMNISTS & CARTOONS
+          
+
+
+
+             John Harris
+            
+
+
+
+             Alex Burns
+            
+
+
+
+             Jonathan Martin
+            
+
+
+
+             Michael Schaffer
+            
+
+
+
+             Jack Shafer
+            
+
+
+
+             Rich Lowry
+            
+
+
+
+             Matt Wuerker
+            
+
+
+
+             Cartoon Carousel
+            
+
+
+
+
+
+
+
+           POLICY
+          
+
+
+
+             Agriculture
+            
+
+
+
+             Cannabis
+            
+
+
+
+             Cybersecurity
+            
+
+
+
+             Defense
+            
+
+
+
+             Education
+            
+
+
+
+             Energy & Environment
+            
+
+
+
+             Finance & Tax
+            
+
+
+
+             Health Care
+            
+
+
+
+             Immigration
+            
+
+
+
+             Labor
+            
+
+
+
+             Space
+            
+
+
+
+             Sustainability
+            
+
+
+
+             Technology
+            
+
+
+
+             Trade
+            
+
+
+
+             Transportation
+            
+
+
+
+
+
+
+
+           EDITIONS
+          
+
+
+
+             California
+            
+
+
+
+             Canada
+            
+
+
+
+             Florida
+            
+
+
+
+             New Jersey
+            
+
+
+
+             New York
+            
+
+
+
+
+
+           Europe
+          
+
+
+
+             Brussels
+            
+
+
+
+             United Kingdom
+            
+
+
+
+
+
+
+
+
+          Follow us
+         
+
+
+
+            Twitter
+           
+
+
+
+            Instagram
+           
+
+
+
+            Facebook
+           
+
+
+
+
+
+
+
+            My Account
+           
+
+
+
+            Log In
+           
+
+            Log Out
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Elections
+              
+
+
+
+             Trump allies and critics battle over impact of case, political narratives
+            
+
+             No one is saying the former president didn’t retain some classified documents.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Supporters of former President Donald Trump gather outside Mar-A-Lago on June 11, 2023. In a new CBS poll, Republican primary voters said they are much more concerned about whether the indictment is politically motivated than whether Trump's actions posed a national security risk. | Evan Vucci/AP Photo
+            
+
+
+
+               By
+               
+
+                 Kelly Garrity
+                
+
+               and
+               
+
+                 Alex Isenstadt
+                
+
+
+
+
+                06/11/2023 11:48 AM EDT
+               
+
+
+               Updated:
+               
+                06/11/2023 03:39 PM EDT
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Link Copied
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Whether the 37 felony charges detailed in the federal indictment against Donald Trump are a blow or a boon for the former president’s political standing depends on who’s being asked.
+           
+
+            According to Sen. Lindsey Graham (R-S.C.), Trump is at his most powerful.
+           
+
+
+
+
+
+            “I think Donald Trump is stronger today politically than he was before,” Graham said on Sunday on ABC’s “This Week.” Most Republicans, he added, “believe that the law is used as a weapon against Donald Trump. This double standard is real in the minds of most Republicans.”
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            But both New Hampshire Gov. Chris Sununu and former Attorney General Bill Barr said he could be in deep trouble politically.
+           
+
+            “If even half of [the charges are] true,
+            
+             then he’s toast
+            
+            ,” Barr, who was Trump’s final attorney general and at one time one his fierce defenders, said on “
+            
+             Fox News Sunday
+            
+            .”
+           
+
+            Sununu, a Trump critic who recently announced he wouldn’t run for the Republican nomination in 2024, made similar comments on CBS’ “Face the Nation,” adding: “It’s self-inflicted.”
+           
+
+            The former president broke the news of his indictment Thursday evening on social media. The details of the charges, unveiled Friday, are the result of a months-long investigation that included an initial FBI search of Mar-a-Lago last August. Trump is expected to appear in court in Florida on Tuesday, but on Sunday his case was already being tried in the court of public opinion, with different narratives evolving for partisan and personal reasons.
+           
+
+            What no one really wanted to discuss was the substance of the charges, which allege that the former president stored a massive
+            
+             collection of highly sensitive material
+            
+            — including intelligence about the “defense and weapons capabilities” of the United States and foreign countries — at his Florida estate. None of Trump’s prominent defenders on Sunday denied he possessed those files or even suggested that it seemed like a good idea for him to have them.
+           
+
+            “I don’t like what President Trump did in certain aspects,” said Graham.
+           
+
+            Vivek Ramaswamy, a GOP presidential candidate, said of Trump’s decision, “It is a very bad judgment, no doubt about it.” But he has promised to pardon Trump should he be elected.
+           
+
+            Trump’s allies and critics were divided, however, about the move to store documents at Mar-a-Lago constituted a crime and whether the decision to prosecute him for having that material was politically motivated.
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            “I would not have taken the documents with me and I would have returned them on demand, because it would have set up for a much more constructive discussion,” Ramaswamy said on CNN’s “State of the Union.” “But there is a difference between bad judgment and breaking the law.”
+           
+
+            Graham, however, defended the former president — up to a point: “Whether you like Trump or not, he did not commit espionage. He did not disseminate, leak or provide information to a foreign power or to a news organization to damage this country. He is not a spy. He’s overcharged. Did he do things wrong? Yes, he may have.”
+           
+
+            Many of his supporters said Trump is facing a double standard under the law.
+           
+
+            “If he wants to store material in a box in a bathroom, in a box on the stage, he can do that. That is just what the law and the standard is,” Rep. Jim Jordan (R-Ohio) said on “State of the Union.”
+           
+
+            Jordan called the decision to indict Trump “an affront to consistent application of the law.”
+           
+
+            He and other supporters of the former president have accused the Biden administration of using the Justice Department to tear down Trump, the current front-runner in the GOP primary race, and have claimed that the Justice Department has no intention of prosecuting Biden or members of his family for any misdeeds.
+           
+
+            “What I have been hearing from Republicans that I’ve spoken to is frustration, a growing frustration,” Miami Mayor Francis Suarez said on “Fox News Sunday.” “The trust in our Justice Department has been eroded, as well. These are core institutions in a democracy that must have the people’s trust. When you see things like this that have political overtones, it’s very frustrating for people.”
+           
+
+            Rep. Nancy Mace (R-S.C.) suggested the indictment was strategically timed to cover up Biden’s own alleged misdeeds, and those of his son Hunter, a perennial Republican punching bag.
+           
+
+            “Every time the Oversight Committee has evidence of corruption, bribery, money-laundering on the Biden family, they indict Donald Trump,” Mace said on Fox News’ “Sunday Morning Futures.” “And whether you agree with Donald Trump politically or not, most of America sees this for what it is, as weaponizing the executive branch to take out your political enemies.”
+           
+
+            Mace also described the indictment as a “death sentence” for the former president.
+           
+
+            “Joe Biden wants to give Donald Trump a death sentence for documents. He’s facing hundreds of years for mishandling documents, and they want him to die in jail,” she told host Maria Bartiromo as Rep. Anna Paulina Luna (R-Fla.) nodded in agreement.
+           
+
+            Barr, however, was less willing to cut Trump slack for what he’s accused of in this case.
+           
+
+            “Yes, he’s been a victim in the past. Yes, his adversaries have obsessively pursued him with phony claims. I have been at his side defending against them when he is a victim. But this is much different. He is not a victim here. He was totally wrong that he had the right to have those documents. Those documents are among the most sensitive secrets the country has.”
+           
+
+            Barr also said there was a tremendous difference between a former president retaining personal-use documents, such as notes taken at meetings, and material that has been “prepared by government agencies for the purpose of government action,” including military plans.
+           
+
+            Former Arkansas Gov. Asa Hutchinson, another GOP presidential candidate, noted that Trump is innocent until proved guilty. But the indictment “is bad for our country, bad for the presidency, and it is a legitimate campaign issue,” he said on CNN’s “State of Union.” “We do not need to have our commander in chief of this country not protecting our nation’s secrets.”
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Democrats, who were mostly absent from Sunday-morning shows this week, have largely maintained the evidence Trump committed a crime is clear.
+           
+
+            “There is no question, based on his private recorded conversations, that he did not declassify these documents,” Rep. Dan Goldman (D-N.Y.) said on CNN, pointing to descriptions in the charging document. “Mr. Jordan and Donald Trump and his defense team can try to spin this any way they want. But the evidence based on his own recording, his own voice, says to the contrary.”
+           
+
+            Trump himself has said that he will emerge politically stronger from the indictment and that his fundraising is already doing well off of it. On Saturday, he and his team appeared to be in good spirits. He spoke with a pair of reporters on his plane, both on and off the record. He ordered in Jimmy John’s sandwiches for lunch and McDonald’s quarter-pounders, chicken nuggets and French fries for dinner. He spent part of the ride home to New Jersey blasting songs from, among others, Luciano Pavarotti and James Brown.
+           
+
+            He also appeared eager to engage in the political combat around his legal troubles. He said he believed congressional Republicans should bring special counsel Jack Smith before Congress to testify about the decision to charge him. “They should,” he said. “I think they should.”
+           
+
+            Even Hutchinson, who has called on Trump to drop out of the GOP primary, acknowledged that the legal battle could be a boon for the front-runner.
+           
+
+            “I suspect that he’s going to raise money on the indictment as he did before,” Hutchinson said, referencing a fundraising bump Trump’s team said he saw earlier this year when he was indicted in New York on different charges. “And obviously with a lot of Republican leaders saying that this is selective prosecution, and this is unfair, that there is a sympathy factor that is built in.”
+           
+
+
+
+              Latest News on the Trump Indictment
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Elections
+                   
+
+
+
+
+                   Trump allies and critics battle over impact of case, political narratives
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Elections
+                   
+
+
+
+
+                   To pardon or not to pardon: GOP candidates highlight positions on Trump indictment
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Legal
+                   
+
+
+
+
+                   Bill Barr rips Trump over defense on secret documents
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Congress
+                   
+
+
+
+
+                   Jordan defends Trump: A president can control access to classified material ‘however he wants’
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Legal
+                   
+
+
+
+
+                   Trump lawyer: ‘There is context to everything’
+                  
+
+
+
+
+
+
+
+
+
+
+                Previous Slide
+               
+
+
+
+
+
+
+
+                Next Slide
+               
+
+
+
+
+
+
+
+            That sentiment seems to be backed by a
+            
+             new CBS poll
+            
+            , which found that Republican primary voters are much more concerned about whether the indictment is politically motivated than whether his actions posed a national security risk.
+           
+
+            If he is convicted, 80 percent of those surveyed said, he should still be able to be president, and 75 percent said the charges either did not change their view of Trump or changed them for the better. The poll included answers from 2,480 adults surveyed between June 7 and June 10. The margin of sampling error is plus or minus 2.7 points for the sample overall and plus or minus 5.5 points for likely Republican primary voters
+           
+
+            A second poll showed sharp divisions among Americans. Though nearly half of Americans — 48 percent — think Trump should have been charged in the case, according to an
+            
+             ABC/Ipsos poll
+            
+            out Sunday, 47 percent of Americans believe the charges are politically motivated, compared with 37 percent who do not.
+           
+
+            The ABC poll, which surveyed 910 adults, had a margin of sampling error of plus or minus 3.7 percentage points and was conducted June 9-10.
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               Filed under:
+              
+
+
+                Lindsey Graham
+               
+               ,
+              
+
+
+                Donald Trump
+               
+               ,
+              
+
+
+                Donald Trump 2020
+               
+               ,
+              
+
+
+                Jim Jordan
+               
+               ,
+              
+
+
+                Asa Hutchinson
+               
+               ,
+              
+
+
+                Nancy Mace
+               
+               ,
+              
+
+
+                Chris Sununu
+               
+               ,
+              
+
+
+                William Barr
+               
+               ,
+              
+
+
+                2024 Elections
+               
+               ,
+              
+
+
+                Daniel Goldman
+               
+               ,
+              
+
+
+                Jack Smith
+               
+               ,
+              
+
+
+                Vivek Ramaswamy
+               
+               ,
+              
+
+
+                Trump Indictment
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         POLITICO
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            Link Copied
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      <div class="ad" aria-label="Advertisement">
+                            <div class="ad-slot" aria-hidden="true"></div>
+                        </div>
+     
+
+      <section class="page-content__row page-content__row--story is-full-width-bleed">
+                            <aside class="story-enhancement">
+                                <div class="ad" aria-label="Advertisement">
+                                    <div class="ad-slot placeholder placeholder--250 js-lazy-load" aria-hidden="true"></div>
+                                </div>
+                            </aside>
+                        </section>
+     
+
+      <section class="page-content__row page-content__row--story main-section">
+                        <div class="container container--story story-layout--fixed-fluid">
+                            <div class="container__column container__column--story center-horizontally hide-under-medium"></div>
+                            <div class="container__column container__column--story">
+                                <div class="container__row container__row--story story-layout--fluid-fixed">
+                                    <div class="container__column container__column--story center-horizontally">
+                                        <div class="story-text">
+                                        </div>
+                                    </div>
+                                    <div class="container__column container__column--story center-vertically right-zone hide-under-small" aria-hidden="true">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+     
+
+
+
+
+
+
+
+
+         About Us
+        
+
+
+
+         Advertising
+        
+
+
+
+         Breaking News Alerts
+        
+
+
+
+         Careers
+        
+
+
+
+         Credit Card Payments
+        
+
+
+
+         Digital Edition
+        
+
+
+
+         FAQ
+        
+
+
+
+         Feedback
+        
+
+
+
+         Headlines
+        
+
+
+
+         Photos
+        
+
+
+
+         POWERJobs
+        
+
+
+
+         Press
+        
+
+
+
+         Print Subscriptions
+        
+
+
+
+         Request A Correction
+        
+
+
+
+         Write For Us
+        
+
+
+
+         RSS
+        
+
+
+
+         Site Map
+        
+
+
+
+
+
+         Terms of Service
+        
+
+
+
+         Privacy Policy
+        
+
+
+
+         Do not sell my info
+        
+
+
+
+         Notice to California Residents
+        
+
+
+
+
+
+       © 2023 POLITICO LLC
+      
+
+
+
+
+
+
+
+   window.googletag = {};
+        var scripts = [
+        {'src': 'https://www.google.com/recaptcha/api.js?render=6LfS6L8UAAAAAAHCPhd7CF66ZbK8AyFfk3MslbKV'},
+        {'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/external-libraries/jquery.extra.44586bc43267953fd8fe286a2dd037de.gz.js'},
+        {'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/external-libraries/popup.a78352e55f7ec47b8fd8c4e54e7d8420.gz.js'},
+        {'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/external-libraries/jquery-frame.6ff71685b42ff8b81c0b6ee293a6746d.gz.js'},
+        {'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/external-libraries/slick.min.e4a85fd37adff4e5e99f054e97bebbeb.gz.js'},
+        {'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/main.30478776d625a73bfe956725c01d4b4a.gz.js'},
+        {'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/bsp.09e108525e4adb4a559c7d9793c26b64.gz.js'},
+        {'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/core-default18-delayed.min.0c84667a8ce9487ceed80acd08f25842.gz.js'},
+        {'src': 'https://static.politico.com/resource/0000017e-7fd1-d4e5-adfe-7ff9f1280001/styleguide/assets/js.min/core-article19-delayed.min.89b32024451ba0edc79cf63c7fbfad80.gz.js'}
+        ];
+        POLITICO_Script_Loader.loadScriptsSync(scripts);
+
+        $(document).ready(function(e) {
+            $('#pageProfileSettings').find('[target="_changePassword"]').attr('target', '_blank');
+        });
+  
+
+
+
+   var id = 'gpt'
+    var gptadslots = [];
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function(){
+        if (!document.getElementById(id)) {
+            var gads = document.createElement('script');
+            gads.id = id;
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') + '//securepubads.g.doubleclick.net/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        }
+    })();
+  
+
+   var utag_data = 
+
+{"page_level_1":"news","page_level_2":"2023","page_level_3":"06","page_level_4":"11","page_level_5":"lindsey-graham-trump-stronger-today-00101427","organization_uuid":"anonymous","organization_name":"anonymous","user_login_type":"anonymous","us_em":"anonymous","content_uuid":"0000014b-3270-d4f3-a3cb-f3ffa8610000/00000188-ab05-dc96-a39f-abefecfd0001","distribution_channel":"politico","content_id":"00101427","content_tag":"Lindsey Graham|Trump Indictment|Donald Trump|2024 Elections|Jack Smith|William Barr|Nancy Mace|Francis Suarez|Asa Hutchinson|Vivek Ramaswamy|Daniel Goldman|Jim Jordan|Chris Sununu","free_paid_content":"free","publication_date":"20230611","original_headline":"Lindsey Graham: Trump is stronger today than he was before ","site_section":"Elections","ad_unit_section":"elections","viewport_ads_id":"pol-vp","event_type":"story","page_format":"1 of 1","site_domain":"www.politico.com","site_url":"https://www.politico.com/news/2023/06/11/lindsey-graham-trump-stronger-today-00101427","site_experience":"article-2021","content_topic":"Investigations, Indictments, Arrests|Public Corruption and Allegations|Primaries|National Intelligence|Presidential Elections|The White House|U.S. Federal Courts|Election Polls|United States Congress|Death Penalty","internal_site_id":"politico","page_type":"story","content_byline":"By Kelly Garrity and Alex Isenstadt","content_author":"Kelly Garrity|Alex Isenstadt","content_source":"POLITICO","current_headline":"Trump allies and critics battle over impact of case, political narratives","page_name":"story - 00101427 - 20230611 - Lindsey Graham: Trump is stronger today than he was before ","enable_prebid":"true","enable_anchor_ad":"true","primary_vertical":"","originating_platform":"politico","cms_site_name":"politico","story_content_type":null,"story_sub_brand":"None (POLITICO)","parent_UUID":"00000188-ab05-dc96-a39f-abefecfd0001","story_original_syndicated":"original","publication_hour":"10AM"};
+
+
+
+if (typeof(Storage) !== 'undefined') {
+
+ if (localStorage.uId !== undefined && localStorage.uId !== '') {
+
+utag_data["us_id"] = localStorage.uId;
+
+}
+
+ if (localStorage.uStatus !== undefined && localStorage.uStatus !== '') {
+
+utag_data["us_st"] = localStorage.uStatus;} else {
+
+utag_data["us_st"] = "anonymous";
+
+}
+
+ if (localStorage.uCid !== undefined && localStorage.uCid !== '') {
+
+utag_data["us_co"] = localStorage.uCid;
+
+}
+
+}
+
+;(function(a,b,c,d){
+
+a='//tags.tiqcdn.com/utag/politico/main/prod/utag.js';
+
+b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+
+a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+
+})();
+  
+
+
+
+

@@ -1,0 +1,2468 @@
+
+
+
+
+   Ben Affleck, Matt Damon's production company slams Donald Trump's campaign ad with 'Air' audio | Fox News
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   (function(h,o,u,n,d) {
+            h=h[d]=h[d]||{q:[],onReady:function(c){h.q.push(c)}}
+            d=o.createElement(u);d.async=1;d.src=n
+            n=o.getElementsByTagName(u)[0];n.parentNode.insertBefore(d,n)
+          })(window,document,'script','https://www.datadoghq-browser-agent.com/datadog-rum-v4.js','DD_RUM')
+          DD_RUM.onReady(function() {
+            DD_RUM.init({
+              clientToken: 'pubc5794d5f3bcb446a2c16a37a20423236',
+              applicationId: '5932e398-c53f-4964-bbbd-fea737be8819',
+              site: 'datadoghq.com',
+              service: 'www.foxnews.com',
+              env: 'prod',
+              // Specify a version number to identify the deployed version of your application in Datadog 
+              version: '1.0.0',
+              sampleRate: 1,
+              sessionReplaySampleRate: 0,
+              trackInteractions: true,
+              trackResources: true,
+              trackLongTasks: true,
+              defaultPrivacyLevel: 'mask-user-input',
+            });
+        
+            // DD_RUM.startSessionReplayRecording();
+          })
+  
+
+
+
+   var fennecInstance = new window.Fennec('fnc');
+        fennecInstance.initFennec();
+  
+
+
+
+
+
+
+
+   {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://www.foxnews.com/entertainment/ben-affleck-matt-damons-production-company-slams-donald-trumps-campaign-ad-air-audio",
+        "headline": "Ben Affleck, Matt Damon's production company slams Donald Trump's campaign ad with 'Air' audio",
+        "articleBody": "Ben Affleck and Matt Damon would like to exit stage left from former President Trump's presidential campaign. In a statement given to Fox News Digital, a representative for Artists Equity, the production company founded by the two Massachusetts natives, condemned Trump's recent use of audio from their film \"Air,\" which tells the story of the partnership between basketball great Michael Jordan and Nike. \"We had no foreknowledge of, did not consent to and do not endorse or approve any footage or audio from ‘Air' being repurposed by the Trump campaign as a political advertisement or for any other use,\" the statement began. \"Specifically in terms of any and all rights available to us under US copyright and intellectual property law, we hereby, expressly give notice that in the case of any use of material from Air by the Trump campaign where approval or consent is required, we do not grant such consent.\"  BEN AFFLECK REVEALS MICHAEL JORDAN'S BIG ASK FOR 'AIR': 'HAS TO BE VIOLA DAVIS' A representative for the 45th president sent Fox News Digital a \"hang loose\" emoji, in response to our request for comment. The post also shared Trump's fundraising link. The advertisement begins with a sequence of Trump deplaning a helicopter, while Damon's character, Sonny Vaccaro, the Nike executive who signed Jordan to his first sneaker brand deal, says, \"Money can buy you almost anything. It can't buy you immortality, that you have to earn.\"  CLICK HERE TO SIGN UP FOR THE ENTERTAINMENT NEWSLETTER The video continues with footage of Trump's candidacy prior to the 2016 election. Damon's voice can be heard saying, \"But you know what? Once they've built you as high as they possibly can, they're going to tear you back down. It's the most predictable pattern, we build you into something that doesn't exist and that means you have to be that thing, all day, every day,' Damon says, as the montage of Trump support transitions into indictment footage. \"You're gonna be remembered, forever, because some things are eternal. And your story is gonna make us fight and never give up,\" Damon says, with chants of ‘USA’ heard as the video concludes.  CLICK HERE TO GET THE FOX NEWS APP At the time of publication, the advertisement still remained on Trump's social media platform, Truth Social. \"Air\" was released on April 5, and has raked in big numbers since, earning nearly $90 million.",
+        "datePublished": "2023-06-11T15:52:20-04:00",
+        "dateModified": "2023-06-11T15:52:20-04:00",
+        "description": "Ben Affleck and Matt Damon want no part in former President Trump's political campaigns, condemning the use of audio from their movie \"Air\" in one of his advertisements.",
+        "author": [ {
+          "@type": "Person",
+          "name": "Caroline Thayer"
+          ,"url": "https://www.foxnews.com/person/t/caroline-thayer"
+      } ],
+        "publisher": {
+          "@type": "Organization",
+          "name": "Fox News",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://static.foxnews.com/static/orion/styles/img/fox-news/amp/fox-news-logo.png",
+            "width": 360,
+            "height": 60
+          }
+        },
+        "image": {
+          "@type": "ImageObject",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/06/931/523/ben-affleck-matt-damon-trump.jpg?ve=1&tl=1",
+          "width": 931,
+          "height": 523
+        }
+      }
+  
+
+   {
+        "@context": "http://schema.org/",
+        "@type": "WebPage",
+        "name": "Ben Affleck, Matt Damon's production company slams Donald Trump's campaign ad with 'Air' audio",
+        "speakable": {"@type": "SpeakableSpecification","cssSelector": [".head1", ".speakable"]},
+        "url": "https://www.foxnews.com/entertainment/ben-affleck-matt-damons-production-company-slams-donald-trumps-campaign-ad-air-audio"
+      }
+  
+
+   {
+        "@context": "http://schema.org",
+        "@type": "VideoObject",
+        "contentUrl": "http://vod.foxnews.com/media/v1/pmp4/static/clear/694940094001/92e2bc8b-6719-4356-990b-0d828f190dfc/6da217c3-7b27-43cb-8baa-873c40d3572b/main.mp4",
+        "description": "Affleck, Chris Tucker, Jason Bateman and Chris Messina on new film about Michael Jordan's shoe deal with Nike, his impact, and how the story resonated with them.",
+        "name": "Ben Affleck and cast on game-changing partnership in 'Air'",
+        "uploadDate": "2023-04-06T20:17:29-04:00",
+        "duration": "PT1M55S",
+        
+        "thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92e2bc8b-6719-4356-990b-0d828f190dfc/fafe5770-ddb4-4623-98d2-30bbcbac6412/1280x720/match/image.jpg"
+      }
+  
+
+
+
+
+
+
+
+   .video-player[data-v-b8a95802]{width:100%;height:100%}
+  
+
+
+
+
+
+
+
+
+
+
+
+           Fox News Media
+          
+
+
+
+
+
+
+            Fox News Media
+           
+
+
+
+
+
+
+
+            Fox Business
+           
+
+
+
+
+
+
+
+            Fox Nation
+           
+
+
+
+
+
+
+
+            Fox News Audio
+           
+
+
+
+
+
+
+
+            Fox Weather
+           
+
+
+
+
+
+
+
+            Outkick
+           
+
+
+
+
+
+
+
+            Books
+           
+
+
+
+
+
+
+
+
+
+        Fox News
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             U.S.
+            
+
+
+
+             Politics
+            
+
+
+
+             World
+            
+
+
+
+             Opinion
+            
+
+
+
+             Media
+            
+
+
+
+             Entertainment
+            
+
+
+
+             Sports
+            
+
+
+
+             Lifestyle
+            
+
+
+
+             Video
+            
+
+
+
+             AI
+            
+
+
+
+             More
+            
+
+
+
+
+
+
+
+           Expand / Collapse search
+          
+
+
+
+
+            Login
+           
+
+
+
+
+           Watch TV
+          
+
+
+
+           Menu
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            U.S.
+           
+
+
+
+
+             Crime
+            
+
+
+
+             Military
+            
+
+
+
+             Education
+            
+
+
+
+             Terror
+            
+
+
+
+             Immigration
+            
+
+
+
+             Economy
+            
+
+
+
+             Personal Freedoms
+            
+
+
+
+             Fox News Investigates
+            
+
+
+
+
+
+
+            World
+           
+
+
+
+
+             U.N.
+            
+
+
+
+             Conflicts
+            
+
+
+
+             Terrorism
+            
+
+
+
+             Disasters
+            
+
+
+
+             Global Economy
+            
+
+
+
+             Environment
+            
+
+
+
+             Religion
+            
+
+
+
+             Scandals
+            
+
+
+
+
+
+
+            Opinion
+           
+
+
+
+
+
+
+
+            Politics
+           
+
+
+
+
+             Executive
+            
+
+
+
+             Senate
+            
+
+
+
+             House
+            
+
+
+
+             Judiciary
+            
+
+
+
+             Foreign Policy
+            
+
+
+
+             Polls
+            
+
+
+
+             Elections
+            
+
+
+
+
+
+
+            Entertainment
+           
+
+
+
+
+             Celebrity News
+            
+
+
+
+             Movies
+            
+
+
+
+             TV News
+            
+
+
+
+             Music News
+            
+
+
+
+             Style News
+            
+
+
+
+             Entertainment Video
+            
+
+
+
+
+
+
+            Business
+           
+
+
+
+
+             Personal Finance
+            
+
+
+
+             Economy
+            
+
+
+
+             Markets
+            
+
+
+
+             Watchlist
+            
+
+
+
+             Lifestyle
+            
+
+
+
+             Real Estate
+            
+
+
+
+             Tech
+            
+
+
+
+
+
+
+            Lifestyle
+           
+
+
+
+
+             Food + Drink
+            
+
+
+
+             Cars + Trucks
+            
+
+
+
+             Travel + Outdoors
+            
+
+
+
+             House + Home
+            
+
+
+
+             Fitness + Well-being
+            
+
+
+
+             Style + Beauty
+            
+
+
+
+             Family
+            
+
+
+
+             Faith
+            
+
+
+
+
+
+
+            Science
+           
+
+
+
+
+             Archaeology
+            
+
+
+
+             Air & Space
+            
+
+
+
+             Planet Earth
+            
+
+
+
+             Wild Nature
+            
+
+
+
+             Natural Science
+            
+
+
+
+             Dinosaurs
+            
+
+
+
+
+
+
+            Tech
+           
+
+
+
+
+             Security
+            
+
+
+
+             Innovation
+            
+
+
+
+             Drones
+            
+
+
+
+             Computers
+            
+
+
+
+             Video Games
+            
+
+
+
+             Military Tech
+            
+
+
+
+
+
+
+            Health
+           
+
+
+
+
+             Coronavirus
+            
+
+
+
+             Healthy Living
+            
+
+
+
+             Medical Research
+            
+
+
+
+             Mental Health
+            
+
+
+
+             Cancer
+            
+
+
+
+             Heart Health
+            
+
+
+
+             Children's Health
+            
+
+
+
+
+
+
+            TV
+           
+
+
+
+
+             Shows
+            
+
+
+
+             Personalities
+            
+
+
+
+             Watch Live
+            
+
+
+
+             Full Episodes
+            
+
+
+
+             Show Clips
+            
+
+
+
+             News Clips
+            
+
+
+
+
+
+
+            About
+           
+
+
+
+
+             Contact Us
+            
+
+
+
+             Careers
+            
+
+
+
+             Fox Around the World
+            
+
+
+
+             Advertise With Us
+            
+
+
+
+             Media Relations
+            
+
+
+
+             Corporate Information
+            
+
+
+
+             Compliance
+            
+
+
+
+
+
+           Other
+          
+
+
+
+             Fox Business
+            
+
+
+
+             Fox Weather
+            
+
+
+
+             Fox Nation
+            
+
+
+
+             Fox News Shop
+            
+
+
+
+             Fox News Go
+            
+
+
+
+             Fox News Radio
+            
+
+
+
+             Outkick
+            
+
+
+
+             Newsletters
+            
+
+
+
+             Podcasts
+            
+
+
+
+             Apps & Products
+            
+
+
+
+
+
+
+
+
+
+           Fox News
+          
+
+
+
+
+
+             New Terms of Use
+            
+
+
+
+             New Privacy Policy
+            
+
+
+
+             Your Privacy Choices
+            
+
+
+
+             Closed Captioning Policy
+            
+
+
+
+             Help
+            
+
+
+
+             Contact Us
+            
+
+
+
+           This material may not be published, broadcast, rewritten,
+      or redistributed. ©2023 FOX News Network, LLC. All rights reserved.
+      Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by
+           
+            Factset
+           
+           . Powered and implemented by
+           
+            FactSet Digital Solutions
+           
+           .
+           
+            Legal Statement
+           
+           . Mutual Fund and ETF data provided by
+           
+            Refinitiv Lipper
+           
+           .
+          
+
+
+
+
+
+             Facebook
+            
+
+
+
+             Twitter
+            
+
+
+
+             Instagram
+            
+
+
+
+             RSS
+            
+
+
+
+             Email
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Ben Affleck
+            
+
+
+
+             Published
+            
+
+             June 11, 2023 3:52pm EDT
+            
+
+
+
+           Ben Affleck, Matt Damon's production company slams Donald Trump's campaign ad with 'Air' audio
+          
+
+           Donald Trump posted a campaign video to Truth Social which featured audio from the movie "Air," which follows the partnership between Nike and Michael Jordan
+          
+
+
+
+
+
+             By
+             
+
+               Caroline Thayer
+              
+
+
+
+                | Fox News
+               
+
+
+
+
+
+
+
+
+
+
+                Facebook
+               
+
+
+
+                Twitter
+               
+
+
+
+                Flipboard
+               
+
+
+
+
+                 Comments
+                
+
+
+
+
+                Print
+               
+
+
+
+                Email
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                close
+               
+
+
+
+
+
+
+
+
+
+
+
+
+                  Video
+                 
+
+
+
+
+
+
+
+                  Ben Affleck and cast on game-changing partnership in 'Air'
+                 
+
+
+                 Affleck, Chris Tucker, Jason Bateman and Chris Messina on new film about Michael Jordan's shoe deal with Nike, his impact, and how the story resonated with them.
+                
+
+
+
+
+
+
+              Ben Affleck
+             
+             and Matt Damon would like to exit stage left from former President Trump's presidential campaign.
+            
+
+
+
+
+
+              if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban1', 'mobile-mw-ad-ban1');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+             
+
+
+
+
+
+
+
+
+             In a statement given to Fox News Digital, a representative for Artists Equity, the production company founded by the two Massachusetts natives, condemned Trump's recent use of audio from
+             
+              their film "Air,"
+             
+             which tells the story of the partnership between basketball great Michael Jordan and Nike.
+            
+
+             "We had no foreknowledge of, did not consent to and do not endorse or approve any footage or audio from ‘Air' being repurposed by the
+             
+              Trump campaign
+             
+             as a political advertisement or for any other use," the statement began.
+            
+
+
+
+
+
+
+
+             "Specifically in terms of any and all rights available to us under US copyright and intellectual property law, we hereby, expressly give notice that in the case of any use of material from Air by the Trump campaign where approval or consent is required, we do not grant such consent."
+            
+
+
+
+
+
+              if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban2', 'mobile-mw-ad-ban2');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Ben Affleck and Matt Damons production company slammed former President Trump's use of any footage from "Air" in his advertisement on Truth Social.
+                
+
+                 (Thos Robinson/Rob Carr/Gary Gershoff)
+                
+
+
+
+
+
+
+
+               BEN AFFLECK REVEALS MICHAEL JORDAN'S BIG ASK FOR 'AIR': 'HAS TO BE VIOLA DAVIS'
+              
+
+
+
+
+
+
+
+
+
+             A representative for the 45th president sent Fox News Digital a "hang loose" emoji, in response to our request for comment.
+            
+
+             The post also shared Trump's fundraising link.
+            
+
+
+
+
+
+              if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban3', 'mobile-mw-ad-ban3');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+             
+
+
+             The advertisement begins with a sequence of Trump deplaning a helicopter, while Damon's character, Sonny Vaccaro, the Nike executive who signed Jordan to his first sneaker brand deal, says, "Money can buy you almost anything. It can't buy you immortality, that you have to earn."
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Ben Affleck both starred and directed in the film "Air" alongside Matt Damon.
+                
+
+                 (JC Olivera/GA/The Hollywood Reporter)
+                
+
+
+
+
+
+
+
+               CLICK HERE TO SIGN UP FOR THE ENTERTAINMENT NEWSLETTER
+              
+
+
+
+
+
+
+
+
+
+             The video continues with footage of Trump's candidacy prior to the 2016 election.
+            
+
+
+
+
+
+              if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban4', 'mobile-mw-ad-ban4');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+             
+
+
+
+
+
+
+
+
+             Damon's voice can be heard saying, "But you know what? Once they've built you as high as they possibly can, they're going to tear you back down. It's the most predictable pattern, we build you into something that doesn't exist and that means you have to be that thing, all day, every day,' Damon says, as the montage of Trump support transitions into indictment footage.
+            
+
+             "You're gonna be remembered, forever, because some things are eternal. And your story is gonna make us fight and never give up," Damon says, with chants of ‘USA’ heard as the video concludes.
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 The film, which was fronted by Viola Davis Matt Damon and Ben Affleck debuted well in April.
+                
+
+                 (JC Olivera/GA/The Hollywood Reporter)
+                
+
+
+
+
+
+
+
+               CLICK HERE TO GET THE FOX NEWS APP
+              
+
+
+
+
+
+
+
+              if (window && window.foxstrike && Array.isArray(window.foxstrike.cmd)) {
+          window.foxstrike.cmd.push(function(Strike) {
+            Strike.insertAd('mobile', 'ban5', 'mobile-mw-ad-ban5');
+          });
+        } else {
+          console.error('Error: window.foxstrike not found');
+        }
+             
+
+
+
+
+
+
+
+
+             At the time of publication, the advertisement still remained on Trump's social media platform, Truth Social.
+            
+
+
+              "Air" was released on April 5
+             
+             , and has raked in big numbers since, earning nearly $90 million.
+            
+
+
+
+
+               Caroline Thayer is an entertainment writer for Fox News Digital. Follow Caroline Thayer on Twitter at @carolinejthayer. Story tips can be sent to caroline.thayer@fox.com.
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Trending
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      ENTERTAINMENT
+                     
+
+
+
+
+
+
+                    Lupita Nyong'o wears daring silver breastplate on Tony Awards red carpet
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      ENTERTAINMENT
+                     
+
+
+
+
+
+
+                    Marlon Wayans speaks out after being cited for disturbing the peace, removed from United Airlines flight
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      ENTERTAINMENT
+                     
+
+
+
+
+
+
+                    Jennifer Garner reflects on 'mess of parenting' with ex-husband Ben Affleck: 'It's a gift'
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      ENTERTAINMENT
+                     
+
+
+
+
+
+
+                    Jessie James Decker wipes a tear, struts her stuff during swimsuit runway show
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      Ben Affleck
+                     
+
+
+
+
+
+
+                    Ben Affleck, Matt Damon's production company slams Donald Trump's campaign ad with 'Air' audio
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                      CMA Fest
+                     
+
+
+
+
+
+
+                    CMA country music festival suspends concerts due to severe weather
+                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Get the best of Fox News' entertainment coverage, right in your inbox.
+                
+
+                 Arrives
+                 
+                  Weekly
+                 
+
+
+
+                  Subscribe
+                 
+
+
+                 Subscribed
+                
+
+
+
+
+
+
+
+                  Subscribe
+                 
+
+
+                 You've successfully subscribed to this newsletter!
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            U.S.
+           
+
+
+
+
+             Crime
+            
+
+
+
+             Military
+            
+
+
+
+             Education
+            
+
+
+
+             Terror
+            
+
+
+
+             Immigration
+            
+
+
+
+             Economy
+            
+
+
+
+             Personal Freedoms
+            
+
+
+
+             Fox News Investigates
+            
+
+
+
+
+
+
+            World
+           
+
+
+
+
+             U.N.
+            
+
+
+
+             Conflicts
+            
+
+
+
+             Terrorism
+            
+
+
+
+             Disasters
+            
+
+
+
+             Global Economy
+            
+
+
+
+             Environment
+            
+
+
+
+             Religion
+            
+
+
+
+             Scandals
+            
+
+
+
+
+
+
+            Opinion
+           
+
+
+
+
+
+
+
+            Politics
+           
+
+
+
+
+             Executive
+            
+
+
+
+             Senate
+            
+
+
+
+             House
+            
+
+
+
+             Judiciary
+            
+
+
+
+             Foreign Policy
+            
+
+
+
+             Polls
+            
+
+
+
+             Elections
+            
+
+
+
+
+
+
+            Entertainment
+           
+
+
+
+
+             Celebrity News
+            
+
+
+
+             Movies
+            
+
+
+
+             TV News
+            
+
+
+
+             Music News
+            
+
+
+
+             Style News
+            
+
+
+
+             Entertainment Video
+            
+
+
+
+
+
+
+            Business
+           
+
+
+
+
+             Personal Finance
+            
+
+
+
+             Economy
+            
+
+
+
+             Markets
+            
+
+
+
+             Watchlist
+            
+
+
+
+             Lifestyle
+            
+
+
+
+             Real Estate
+            
+
+
+
+             Tech
+            
+
+
+
+
+
+
+            Lifestyle
+           
+
+
+
+
+             Food + Drink
+            
+
+
+
+             Cars + Trucks
+            
+
+
+
+             Travel + Outdoors
+            
+
+
+
+             House + Home
+            
+
+
+
+             Fitness + Well-being
+            
+
+
+
+             Style + Beauty
+            
+
+
+
+             Family
+            
+
+
+
+             Faith
+            
+
+
+
+
+
+
+            Science
+           
+
+
+
+
+             Archaeology
+            
+
+
+
+             Air & Space
+            
+
+
+
+             Planet Earth
+            
+
+
+
+             Wild Nature
+            
+
+
+
+             Natural Science
+            
+
+
+
+             Dinosaurs
+            
+
+
+
+
+
+
+            Tech
+           
+
+
+
+
+             Security
+            
+
+
+
+             Innovation
+            
+
+
+
+             Drones
+            
+
+
+
+             Computers
+            
+
+
+
+             Video Games
+            
+
+
+
+             Military Tech
+            
+
+
+
+
+
+
+            Health
+           
+
+
+
+
+             Coronavirus
+            
+
+
+
+             Healthy Living
+            
+
+
+
+             Medical Research
+            
+
+
+
+             Mental Health
+            
+
+
+
+             Cancer
+            
+
+
+
+             Heart Health
+            
+
+
+
+             Children's Health
+            
+
+
+
+
+
+
+            TV
+           
+
+
+
+
+             Shows
+            
+
+
+
+             Personalities
+            
+
+
+
+             Watch Live
+            
+
+
+
+             Full Episodes
+            
+
+
+
+             Show Clips
+            
+
+
+
+             News Clips
+            
+
+
+
+
+
+
+            About
+           
+
+
+
+
+             Contact Us
+            
+
+
+
+             Careers
+            
+
+
+
+             Fox Around the World
+            
+
+
+
+             Advertise With Us
+            
+
+
+
+             Media Relations
+            
+
+
+
+             Corporate Information
+            
+
+
+
+             Compliance
+            
+
+
+
+
+
+           Other
+          
+
+
+
+             Fox Business
+            
+
+
+
+             Fox Weather
+            
+
+
+
+             Fox Nation
+            
+
+
+
+             Fox News Shop
+            
+
+
+
+             Fox News Go
+            
+
+
+
+             Fox News Radio
+            
+
+
+
+             Outkick
+            
+
+
+
+             Newsletters
+            
+
+
+
+             Podcasts
+            
+
+
+
+             Apps & Products
+            
+
+
+
+
+
+
+
+
+
+
+
+           Facebook
+          
+
+
+
+           Twitter
+          
+
+
+
+           Instagram
+          
+
+
+
+           Youtube
+          
+
+
+
+           Flipboard
+          
+
+
+
+           LinkedIn
+          
+
+
+
+           Slack
+          
+
+
+
+           RSS
+          
+
+
+
+           Newsletters
+          
+
+
+
+           Spotify
+          
+
+
+
+           iHeartRadio
+          
+
+
+
+
+
+         Fox News
+        
+
+
+
+
+
+           New Terms of Use
+          
+
+
+
+           New Privacy Policy
+          
+
+
+
+           Your Privacy Choices
+          
+
+
+
+           Closed Captioning Policy
+          
+
+
+
+           Help
+          
+
+
+
+           Contact Us
+          
+
+
+
+           Accessibility Statement
+          
+
+
+
+         This material may not be published, broadcast, rewritten, or redistributed. ©2023 FOX News Network, LLC. All rights reserved. Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by
+         
+          Factset
+         
+         . Powered and implemented by
+         
+          FactSet Digital Solutions
+         
+         .
+         
+          Legal Statement
+         
+         . Mutual Fund and ETF data provided by
+         
+          Refinitiv Lipper
+         
+         .
+        
+
+
+
+
+
+
+
+   window.__NUXT__=(function(a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,_,$,aa,ab,ac,ad,ae,af,ag,ah,ai,aj,ak,al,am,an,ao,ap,aq,ar,as,at,au,av,aw,ax,ay,az,aA,aB,aC,aD,aE,aF,aG,aH,aI,aJ,aK,aL,aM,aN,aO,aP,aQ,aR,aS,aT,aU,aV,aW,aX,aY,aZ,a_,a$,ba,bb,bc,bd,be,bf,bg,bh,bi,bj,bk,bl,bm,bn,bo,bp,bq,br,bs,bt,bu,bv,bw,bx,by,bz,bA,bB,bC,bD,bE){return {layout:"dynamic-route",data:[{}],fetch:{"0":{videoData:{id:aP,autoplay:b,component_type:$,content_topic:a,content_type:"external_brightcove_clip",spark_id:aP,external_id:aQ,thumbnail:{alt:a,caption:a,copyright:a,url:aa,content_type:l,spark_id:a},title:aR,description:aS,last_modified_date:"2023-04-07T04:40:13Z",last_published_date:"2023-04-07T00:17:29Z",post_status:s,source:{url:a,spark_id:a,fn__type:a,slug:a,label:aT},spark_shows:{description:"A look at the latest news and headlines with Sandra Smith and John Roberts",fn__airtime:a,episodes_playlist_id:a,clips_playlist_id:"1688785533249985879",airtime:"weekdays",airtime_days:{weekdays:{start:"13:00",end:"15:00"},monday:{start:a,end:a},tuesday:{start:a,end:a},wednesday:{start:a,end:a},thursday:{start:a,end:a},friday:{start:a,end:a},saturday:{start:a,end:a},sunday:{start:a,end:a}},facebook_url:a,twitter_username:a,email:a,podcast_url:a,fn__tags:[],wp__tags:[],media_tags:[],sort_order:"240",fn__hosts:[{uuidv5:"edb6ae81-d1da-545a-8683-c2bf1dd6b53c",fn__type:M,person_id:"content\u002Ffnc\u002Fperson\u002Fr\u002Fjohn-roberts",name_id:"john-roberts",canonical_url:aU,page_url:aU,first_name:"John",last_name:"Roberts",full_name:N,middle_initial:a,personality_name:N,prefix:a,role:aV,job_title:aW,title:N,blog_urls:[],full_bio_url:"http:\u002F\u002Fwww.foxnews.com\u002Fon-air\u002Fpersonalities\u002Fjohn-roberts\u002Fbio",company_name:a,short_bio:a},{uuidv5:"051c7812-d732-555e-a4a7-6fdc76fa21b1",fn__type:M,person_id:"content\u002Ffnc\u002Fperson\u002Fs\u002Fsandra-smith",name_id:"sandra-smith",canonical_url:aX,page_url:aX,first_name:"Sandra",last_name:"Smith",full_name:O,middle_initial:a,personality_name:O,prefix:a,role:aV,job_title:aW,title:O,blog_urls:[],full_bio_url:"http:\u002F\u002Fwww.foxbusiness.com\u002Fwatch\u002Fanchors-reporters\u002Fsandra-smith-bio\u002F",company_name:a,short_bio:a}],tagboard_id:a,image:{content:{alt:a,caption:a,url:aY,wp__origin:{post_id:4704349,blog_id:d,environment:e,post_type:m,site:g,source:f}},content_type:l,uuidv5:"8d1fde80-88eb-5a63-97aa-ec52b641508c",url:aY},mobile_poster_image:{content:{alt:a,caption:a,url:aZ,wp__origin:{post_id:3767107,blog_id:d,environment:e,post_type:m,site:g,source:f}},content_type:l,uuidv5:"5915bbc5-ec9d-5c37-a8c3-6d5199504e1c",url:aZ},mobile_banner_image:{content:{alt:a,caption:a,url:a_,wp__origin:{post_id:3767106,blog_id:d,environment:e,post_type:m,site:g,source:f}},content_type:l,uuidv5:"5d8623be-b971-58e4-afb9-bef5359b82ed",url:a_},show_top_parallax:{headshot_image:{content:{alt:a,caption:a,url:a$,wp__origin:{post_id:3767113,blog_id:d,environment:e,post_type:m,site:g,source:f}},content_type:l,uuidv5:"a697b115-a0bd-5bb4-937c-05de4965b9cb",url:a$},logo_image:{content:{alt:a,caption:a,url:ba,wp__origin:{post_id:3767111,blog_id:d,environment:e,post_type:m,site:g,source:f}},content_type:l,uuidv5:"5f0dc7ec-392c-5b19-ac2d-3774cd84ea1c",url:ba},background_image:{content:{alt:a,caption:a,url:bb,wp__origin:{post_id:3767110,blog_id:d,environment:e,post_type:m,site:g,source:f}},content_type:l,uuidv5:"210e989c-70a7-5d7f-b60d-c4de69772494",url:bb}},delta_show_code:a,vanity_urls:[],canonical_url:"foxnews.com\u002Fshows\u002Famerica-reports",id:ab,spark_id:ab,uuidv5:ab,fn__type:bc,last_modified_date:"2022-09-07T13:40:08-04:00",last_published_date:ac,created_date:ac,publication_date:ac,origination_station:a,origination_modified_date:"2022-09-07T13:40:10-04:00",wp__origin:{source:f,site:g,environment:e,blog_id:d,post_id:3767103,post_type:bd,post_status:s},post_status:s,published:c,title:ad,short_urls:[],show_slug:"america-reports",meta:{chartbeat:{title:ad,viewID:"shows\u002Famerica-reports",authors:[N,O]},segment:{title:ad,page_content_type:bc,page_content_type_of_story:bd}}},external_source:aT,canonical_url:be,vanity_urls:[be],playback_url:a,brightcove:{domain:P,duration:"0:01:55",end_date:a,streams:[{url:"http:\u002F\u002Fmanifest.prod.boltdns.net\u002Fmanifest\u002Fv1\u002Fhls\u002Fv4\u002Fclear\u002F694940094001\u002F92e2bc8b-6719-4356-990b-0d828f190dfc\u002F10s\u002Fmaster.m3u8?fastly_token=NjUyNWExM2VfZTVjZDdhMGQ5ZWNmNTA5MmQwYjI0MGUyNGE3OTJlNzM1YmRiZTU2MjJlNTE4ODAyZTMyMjc1N2Y4NmFlNTI3OA%3D%3D",mime_type:a,width:k,height:k,file_size:k},{url:"https:\u002F\u002Fmanifest.prod.boltdns.net\u002Fmanifest\u002Fv1\u002Fhls\u002Fv4\u002Fclear\u002F694940094001\u002F92e2bc8b-6719-4356-990b-0d828f190dfc\u002F10s\u002Fmaster.m3u8?fastly_token=NjUyNWExM2VfZTVjZDdhMGQ5ZWNmNTA5MmQwYjI0MGUyNGE3OTJlNzM1YmRiZTU2MjJlNTE4ODAyZTMyMjc1N2Y4NmFlNTI3OA%3D%3D",mime_type:a,width:k,height:k,file_size:k},{url:"http:\u002F\u002Fmanifest.prod.boltdns.net\u002Fmanifest\u002Fv1\u002Fdash\u002Flive-baseurl\u002Fclear\u002F694940094001\u002F92e2bc8b-6719-4356-990b-0d828f190dfc\u002F6s\u002Fmanifest.mpd?fastly_token=NjUyNWExM2VfYmJkZWIzYWEwYTQ0ZTEzYWNkYzM1ODg2OTJjMmZhMjFlNDkxMjc3MmVjMzRkOGJiYzY0ZjRhNjkzYzlhY2MzMw%3D%3D",mime_type:a,width:k,height:k,file_size:k},{url:"https:\u002F\u002Fmanifest.prod.boltdns.net\u002Fmanifest\u002Fv1\u002Fdash\u002Flive-baseurl\u002Fclear\u002F694940094001\u002F92e2bc8b-6719-4356-990b-0d828f190dfc\u002F6s\u002Fmanifest.mpd?fastly_token=NjUyNWExM2VfYmJkZWIzYWEwYTQ0ZTEzYWNkYzM1ODg2OTJjMmZhMjFlNDkxMjc3MmVjMzRkOGJiYzY0ZjRhNjkzYzlhY2MzMw%3D%3D",mime_type:a,width:k,height:k,file_size:k},{url:"http:\u002F\u002Fvod.foxnews.com\u002Fmedia\u002Fv1\u002Fpmp4\u002Fstatic\u002Fclear\u002F694940094001\u002F92e2bc8b-6719-4356-990b-0d828f190dfc\u002F6da217c3-7b27-43cb-8baa-873c40d3572b\u002Fmain.mp4",mime_type:bf,width:ae,height:af,file_size:bg},{url:"https:\u002F\u002Fvod.foxnews.com\u002Fmedia\u002Fv1\u002Fpmp4\u002Fstatic\u002Fclear\u002F694940094001\u002F92e2bc8b-6719-4356-990b-0d828f190dfc\u002F6da217c3-7b27-43cb-8baa-873c40d3572b\u002Fmain.mp4",mime_type:bf,width:ae,height:af,file_size:bg}],thumbnail:{thumbnail:{src:bh,sources:[{src:bh,height:90,width:160}]},poster:{src:aa,sources:[{src:aa,height:af,width:ae}]}},media_tags:[bi,i,"personality|ashley_dvorkin","3play_processed"],start_air_date:a,bc_account_id:"694940094001"},tags:[],category:{page_url:bj,spark_id:J,historical_paths:[],description:"Celebrity gossip and entertainment news from FOXNews.com. Celebrity gossip, fashion, travel, lifestyle and arts and entertainment news headlines plus in-depth features and video clips.",last_modified_date:"2018-09-25T11:06:24-04:00",wp__origin:{site:"pre-cms.foxnews.com",environment:e,blog_id:d,source:f,term_id:1441,taxonomy_type:"category"},label:Q,media_tags:[bi],published:c,title:Q,canonical_url:bj,fn__type:"sections",path:v,last_published_date:"2018-07-17T16:19:54-04:00",isa_value:i,created_date:"2018-09-25T13:48:56-04:00",id:J,post_status:s,slug:i,historical_slugs:[]},comments:b,expiration_date:a,original_import_date:"2023-04-10T18:51:33Z"}}},error:n,state:{ActualContent:{actualContent:"articleLayout"},Articles:{fullArticles:{"foxnews.com/entertainment/ben-affleck-matt-damons-production-company-slams-donald-trumps-campaign-ad-air-audio":{meta_description:a,meta_title:a,fn__distribution_platforms:{google_news:{amp:c,live_coverage:c,standout:c},android:{enabled:c},apple_news:{enabled:c,notification_dates:[],enabled_date:"2023-06-11T23:52:20Z"},automated_alerts:{enabled:b},facebook_news:{suppress:b,opinion:b},facebook_instant_articles:{enabled:c},ios:{enabled:c},search_engines:{enabled:c},distribution_true_anthem:{enabled:b},distribution_yahoo:{enabled:b},distribution_msn:{enabled:b},wire_override:b,web:{enabled:c}},distribution_site_search:c,thumbnail:{content:{alt:R,caption:ag,url:o,wp__origin:{post_id:ah,blog_id:d,environment:e,post_type:m,site:g,source:f},copyright:S,source:{uuidv5:ai,label:w,url:aj,canonical_url:ak,wp__origin:{source:f,site:g,environment:e,blog_id:d,post_id:al,post_type:T}}},content_type:l,uuidv5:am,url:o},fn__image:{content:{alt:R,caption:ag,url:o,wp__origin:{post_id:ah,blog_id:d,environment:e,post_type:m,site:g,source:f},copyright:S,source:{uuidv5:ai,label:w,url:aj,canonical_url:ak,wp__origin:{source:f,site:g,environment:e,blog_id:d,post_id:al,post_type:T}}},content_type:l,uuidv5:am,url:o},social_image:{content:{alt:R,caption:ag,url:o,wp__origin:{post_id:ah,blog_id:d,environment:e,post_type:m,site:g,source:f},copyright:S,source:{uuidv5:ai,label:w,url:aj,canonical_url:ak,wp__origin:{source:f,site:g,environment:e,blog_id:d,post_id:al,post_type:T}}},content_type:l,uuidv5:am,url:o},fox_bet:b,full_span_image:n,livefyre__:{storify:b},local_tags:[],pill:a,fn__contributors:[{uuidv5:U,fn__type:M,person_id:bk,name_id:an,canonical_url:ao,page_url:ao,first_name:bl,last_name:bm,full_name:t,middle_initial:a,personality_name:a,prefix:a,role:bn,job_title:bo,title:t,blog_urls:[],full_bio_url:bp,company_name:a,short_bio:a}],share:[],shared_category:[],wp__shared_category:n,shared_tags:[],wp__shared_tags:[],short_title:j,show_advertisements:b,spark_persons:[],spark_shows:[],spotim:{event_code:a,id:a},stock_tickers:a,storycard_description:a,storycard_image:n,storycard_image_format:a,storycard_tag:[],storycard_title:j,sync_description:b,sync_image:b,branding:{fn__disclaimer:a,fn__indicator:a,fn__campaign_id:a,fn__sponsor_logo:n,fn__sponsor_name:a,advertorial:b},fn__breaking_news:b,fn__sections:[{uuidv5:J,path:v,isa_value:i}],wp__category:{title:Q,slug:i,uuidv5:J,path:v,isa_value:i},fn__shows:[],comments:{enabled:c},dateline:a,dek:bq,fn__section_description:a,social_description:a,fn__external_feeds_title:j,fn__featured:b,fn__footer:a,fn__app_title:j,fn__apple_news_title:j,export_headline:a,fn__fbia_title:j,fn__section_title:j,social_title:j,slug:ap,fn__sources:[{uuidv5:"da0f7f21-6535-5be9-82c4-469d7c765f30",fn__type:"sources",label:aq,slug:"fox-news",url:P,canonical_url:"foxnews.com\u002Fsource\u002Ffox-news",wp__origin:{source:f,site:g,environment:e,blog_id:d,post_id:189,post_type:T}}],standfirst:br,fn__tags:[{spark_id:x,uuidv5:x,title:K,slug:y,path:ar,isa_value:y,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:z,uuidv5:z,title:as,slug:A,path:at,isa_value:A,type:p,tag_type:q,external_uri:a,external_id:a},{spark_id:B,uuidv5:B,title:au,slug:C,path:av,isa_value:C,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:D,uuidv5:D,title:aw,slug:E,path:ax,isa_value:E,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:F,uuidv5:F,title:ay,slug:az,path:aA,isa_value:aB,type:p,tag_type:q,external_uri:a,external_id:a},{spark_id:G,uuidv5:G,title:u,slug:i,path:v,isa_value:i,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:H,uuidv5:H,title:aC,slug:I,path:aD,isa_value:I,type:p,tag_type:q,external_uri:a,external_id:a}],wp__tags:[{spark_id:x,uuidv5:x,title:K,slug:y,path:ar,isa_value:y,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:z,uuidv5:z,title:as,slug:A,path:at,isa_value:A,type:p,tag_type:q,external_uri:a,external_id:a},{spark_id:B,uuidv5:B,title:au,slug:C,path:av,isa_value:C,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:D,uuidv5:D,title:aw,slug:E,path:ax,isa_value:E,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:F,uuidv5:F,title:ay,slug:az,path:aA,isa_value:aB,type:p,tag_type:q,external_uri:a,external_id:a},{spark_id:G,uuidv5:G,title:u,slug:i,path:v,isa_value:i,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:H,uuidv5:H,title:aC,slug:I,path:aD,isa_value:I,type:p,tag_type:q,external_uri:a,external_id:a}],tags:[{spark_id:x,uuidv5:x,title:K,slug:y,path:ar,isa_value:y,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:z,uuidv5:z,title:as,slug:A,path:at,isa_value:A,type:p,tag_type:q,external_uri:a,external_id:a},{spark_id:B,uuidv5:B,title:au,slug:C,path:av,isa_value:C,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:D,uuidv5:D,title:aw,slug:E,path:ax,isa_value:E,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:F,uuidv5:F,title:ay,slug:az,path:aA,isa_value:aB,type:p,tag_type:q,external_uri:a,external_id:a},{spark_id:G,uuidv5:G,title:u,slug:i,path:v,isa_value:i,type:a,tag_type:a,external_uri:a,external_id:a},{spark_id:H,uuidv5:H,title:aC,slug:I,path:aD,isa_value:I,type:p,tag_type:q,external_uri:a,external_id:a}],fn__legacy_type:aE,fn__story_type:bs,third_party_canonical_url:a,origination_station:"FN",original_post_canonical_url:a,fn__additional_authors:[],shared_shows:[],vanity_urls:[],short_urls:[a],original_post:{original_post_id:a,original_post_uuidv5:a,original_post_share:a,original_external_post_type:a},urls:{url:bt,category:{slug:i,spark_id:J},slug:ap,original_publisher:a,original_url:a,original_publish_date:a},id:aF,spark_id:aF,uuidv5:aF,fn__type:aG,last_modified_date:r,last_published_date:r,created_date:"2023-06-11T15:44:56-04:00",publication_date:r,origination_modified_date:r,wp__origin:{source:f,site:g,environment:e,blog_id:d,post_id:5343831,post_type:"post",post_status:s},post_status:s,published:c,articleId:a,components:[{is:"VideoInline",props:{type:$,title:aR,caption:aS,videoId:aQ,imageUrl:o,originalImageUrl:o,url:"http:\u002F\u002Fvideo.foxnews.com\u002Fv\u002F6324105339112",videoDomain:"foxnews",isFeatured:c}},{is:h,props:{text:"\u003Ca href=\"https:\u002F\u002Fwww.foxnews.com\u002Fentertainment\u002Fben-affleck-turns-50-reinvented-himsef-found-love-jennifer-lopez\" target=\"_blank\"\u003EBen Affleck\u003C\u002Fa\u003E and Matt Damon would like to exit stage left from former President Trump's presidential campaign."}},{is:h,props:{text:"In a statement given to Fox News Digital, a representative for Artists Equity, the production company founded by the two Massachusetts natives, condemned Trump's recent use of audio from \u003Ca href=\"https:\u002F\u002Fwww.foxnews.com\u002Fentertainment\u002Fben-affleck-matt-damon-air-reunion-why-feel-good-movie-almost-didnt-happen\" target=\"_blank\"\u003Etheir film \"Air,\"\u003C\u002Fa\u003E which tells the story of the partnership between basketball great Michael Jordan and Nike."}},{is:h,props:{text:"\"We had no foreknowledge of, did not consent to and do not endorse or approve any footage or audio from ‘Air' being repurposed by the \u003Ca href=\"https:\u002F\u002Fwww.foxnews.com\u002Fpolitics\u002Fdonald-trump-announces-2024-re-election-run-president\" target=\"_blank\"\u003ETrump campaign\u003C\u002Fa\u003E as a political advertisement or for any other use,\" the statement began."}},{is:h,props:{text:"\"Specifically in terms of any and all rights available to us under US copyright and intellectual property law, we hereby, expressly give notice that in the case of any use of material from Air by the Trump campaign where approval or consent is required, we do not grant such consent.\""}},{is:aH,props:{type:aI,caption:"Ben Affleck and Matt Damons production company slammed former President Trump's use of any footage from \"Air\" in his advertisement on Truth Social.",imageAlt:R,url:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F640\u002F320\u002Fben-affleck-matt-damon-trump.jpg?ve=1&tl=1",baseImage:o,externalUrl:a,copyright:S,source:w,isFeatured:b,isSpotlight:b,responsiveImages:[{media:aJ,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F343\u002F192\u002Fben-affleck-matt-damon-trump.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F686\u002F384\u002Fben-affleck-matt-damon-trump.jpg?ve=1&tl=1 2x"},{media:aK,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F672\u002F378\u002Fben-affleck-matt-damon-trump.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F1344\u002F756\u002Fben-affleck-matt-damon-trump.jpg?ve=1&tl=1 2x"},{media:aL,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F931\u002F523\u002Fben-affleck-matt-damon-trump.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F1862\u002F1046\u002Fben-affleck-matt-damon-trump.jpg?ve=1&tl=1 2x"},{media:aM,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F720\u002F405\u002Fben-affleck-matt-damon-trump.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F1440\u002F810\u002Fben-affleck-matt-damon-trump.jpg?ve=1&tl=1 2x"}]}},{is:h,props:{text:"\u003Ca href=\"https:\u002F\u002Fwww.foxnews.com\u002Fentertainment\u002Fben-affleck-reveals-michael-jordans-big-ask-air-viola-davis\" target=\"_blank\"\u003E\u003Cstrong\u003EBEN AFFLECK REVEALS MICHAEL JORDAN'S BIG ASK FOR 'AIR': 'HAS TO BE VIOLA DAVIS'\u003C\u002Fstrong\u003E\u003C\u002Fa\u003E"}},{is:h,props:{text:"A representative for the 45th president sent Fox News Digital a \"hang loose\" emoji, in response to our request for comment."}},{is:h,props:{text:"The post also shared Trump's fundraising link."}},{is:h,props:{text:"The advertisement begins with a sequence of Trump deplaning a helicopter, while Damon's character, Sonny Vaccaro, the Nike executive who signed Jordan to his first sneaker brand deal, says, \"Money can buy you almost anything. It can't buy you immortality, that you have to earn.\""}},{is:aH,props:{type:aI,caption:"Ben Affleck both starred and directed in the film \"Air\" alongside Matt Damon.",imageAlt:"Ben Affleck and Matt Damon on the carpet for the world premiere of \"Air\" in Los Angeles",url:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F640\u002F320\u002FGettyImages-1477334162.jpg?ve=1&tl=1",baseImage:"https:\u002F\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002FGettyImages-1477334162.jpg",externalUrl:a,copyright:bu,source:w,isFeatured:b,isSpotlight:b,responsiveImages:[{media:aJ,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F343\u002F192\u002FGettyImages-1477334162.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F686\u002F384\u002FGettyImages-1477334162.jpg?ve=1&tl=1 2x"},{media:aK,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F672\u002F378\u002FGettyImages-1477334162.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F1344\u002F756\u002FGettyImages-1477334162.jpg?ve=1&tl=1 2x"},{media:aL,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F931\u002F523\u002FGettyImages-1477334162.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F1862\u002F1046\u002FGettyImages-1477334162.jpg?ve=1&tl=1 2x"},{media:aM,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F720\u002F405\u002FGettyImages-1477334162.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F1440\u002F810\u002FGettyImages-1477334162.jpg?ve=1&tl=1 2x"}]}},{is:h,props:{text:"\u003Ca href=\"https:\u002F\u002Fwww.foxnews.com\u002Fnewsletters?cmpid=fnfirstnl\" target=\"_blank\"\u003E\u003Cstrong\u003ECLICK HERE TO SIGN UP FOR THE ENTERTAINMENT NEWSLETTER\u003C\u002Fstrong\u003E\u003C\u002Fa\u003E"}},{is:h,props:{text:"The video continues with footage of Trump's candidacy prior to the 2016 election."}},{is:h,props:{text:"Damon's voice can be heard saying, \"But you know what? Once they've built you as high as they possibly can, they're going to tear you back down. It's the most predictable pattern, we build you into something that doesn't exist and that means you have to be that thing, all day, every day,' Damon says, as the montage of Trump support transitions into indictment footage."}},{is:h,props:{text:"\"You're gonna be remembered, forever, because some things are eternal. And your story is gonna make us fight and never give up,\" Damon says, with chants of ‘USA’ heard as the video concludes."}},{is:aH,props:{type:aI,caption:"The film, which was fronted by Viola Davis Matt Damon and Ben Affleck debuted well in April.",imageAlt:"Marlon Wayans, Ben Affleck, Viola Davis, Matt Damon, Julius Tennon, Jason Bateman, and Chris Tucker pose at the \"Air\" premiere in Los Angeles",url:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F03\u002F640\u002F320\u002FGettyImages-1477349465.jpg?ve=1&tl=1",baseImage:"https:\u002F\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F03\u002FGettyImages-1477349465.jpg",externalUrl:a,copyright:bu,source:w,isFeatured:b,isSpotlight:b,responsiveImages:[{media:aJ,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F03\u002F343\u002F192\u002FGettyImages-1477349465.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F03\u002F686\u002F384\u002FGettyImages-1477349465.jpg?ve=1&tl=1 2x"},{media:aK,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F03\u002F672\u002F378\u002FGettyImages-1477349465.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F03\u002F1344\u002F756\u002FGettyImages-1477349465.jpg?ve=1&tl=1 2x"},{media:aL,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F03\u002F931\u002F523\u002FGettyImages-1477349465.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F03\u002F1862\u002F1046\u002FGettyImages-1477349465.jpg?ve=1&tl=1 2x"},{media:aM,srcset:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F03\u002F720\u002F405\u002FGettyImages-1477349465.jpg?ve=1&tl=1, https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F03\u002F1440\u002F810\u002FGettyImages-1477349465.jpg?ve=1&tl=1 2x"}]}},{is:h,props:{text:"\u003Ca href=\"https:\u002F\u002Fwww.foxnews.com\u002Fapps-products\" target=\"_blank\"\u003E\u003Cstrong\u003ECLICK HERE TO GET THE FOX NEWS APP\u003C\u002Fstrong\u003E\u003C\u002Fa\u003E"}},{is:h,props:{text:"At the time of publication, the advertisement still remained on Trump's social media platform, Truth Social."}},{is:h,props:{text:"\u003Ca href=\"https:\u002F\u002Fwww.foxnews.com\u002Fentertainment\u002Fmatt-damon-rare-appearance-daughters-ben-affleck-jennifer-lopez-heat-up-air-premiere\" target=\"_blank\"\u003E\"Air\" was released on April 5\u003C\u002Fa\u003E, and has raked in big numbers since, earning nearly $90 million."}}],title:j,canonical_url:bt,article_slug:ap,vanity_slugs:[],presentation_type:aE,fn__syndication_info:[],fn__stock_ticker_symbols:a,post_version:1048576,component_type:"news_article",content_type:"spark_post",fn__site_search:c,stocks:[],meta:{chartbeat:{title:j,viewID:V,section:i,authors:[t]},segment:{title:j,page_content_type:aG,page_content_type_of_story:bs}},isAMP:b,originalCanonical_url:V,header:{headline:j,subHeadline:br,authors:[{shortBio:bv,firstName:bl,middleInitial:a,lastName:bm,personalityName:a,prefix:a,suffix:a,role:bn,jobTitle:bo,mediaTags:[],thumbnail:" ",blogUrls:[],companyName:a,social:{twitter:"https:\u002F\u002Ftwitter.com\u002Fcarolinejthayer",email:"mailto:Caroline.Thayer@fox.com"},fullBioUrl:bp,googlePlusUrl:a,showPageUrl:"https:\u002F\u002Fwww.foxbusiness.com\u002Fperson\u002Ft\u002Fcaroline-thayer",personFoxNationUrl:a,personUri:a,tagboardId:a,bannerImage:n,vanityUrls:[],shortUrls:[a],canonicalUrl:ao,id:U,sparkId:U,uuidv5:U,fnType:M,lastModifiedDate:bw,lastPublishedDate:aN,createdDate:aN,publicationDate:aN,originationStation:a,originationModifiedDate:bw,wpOrigin:{source:f,site:g,environment:e,blog_id:d,post_id:4615415,post_type:"person",post_status:s},postStatus:s,published:c,personId:bk,nameId:an,vanitySlugs:[],title:t,fullName:t,fullBio:[{content:{alignment:W,format:X,text:"\u003Cp\u003ECaroline Thayer is an entertainment writer for Fox News Digital.\u003C\u002Fp\u003E"},content_type:Y},{content:{alignment:W,format:X,text:"\u003Cp\u003EStudying broadcast journalism and political science, Caroline has worked in several newsrooms both on-camera and behind-the-scenes. With a passion for pop culture and sports as well as general world news, she enjoys covering stories that overlap multiple verticals.\u003C\u002Fp\u003E"},content_type:Y},{content:{alignment:W,format:X,text:"\u003Cp\u003EHer work at Fox News has predominately centered around \u003Ca href=\"https:\u002F\u002Fwww.foxnews.com\u002Fcategory\u002Fentertainment\u002Fcelebrity-news\" target=\"_blank\"\u003EHollywood’s elite\u003C\u002Fa\u003E as she has helped to break news on Adam Levine, \u003Ca href=\"https:\u002F\u002Fwww.foxnews.com\u002Fcategory\u002Fperson\u002Ftom-brady\" target=\"_blank\"\u003ETom Brady\u003C\u002Fa\u003E, and Anne Heche. \u003C\u002Fp\u003E"},content_type:Y},{content:{alignment:W,format:X,text:"\u003Cp\u003ECaroline is proud to be Armenian and loves sharing her heritage with people.  Follow Caroline Thayer on Twitter at @\u003Ca href=\"https:\u002F\u002Ftwitter.com\u002Fcarolinejthayer\" target=\"_blank\"\u003Ecarolinejthayer\u003C\u002Fa\u003E. Story tips can be sent to caroline.thayer@fox.com.\u003C\u002Fp\u003E"},content_type:Y}],personSlug:an,url:"\u002Fperson\u002Ft\u002Fcaroline-thayer",name:t,timeSlot:bx,description:bv,avatar:a}],source:{name:aq,url:P},allowComments:c,publicationDate:r,modifiedDate:r,lastPublishedDate:r,headerCategory:{name:K,url:by},category:{name:Q,url:"\u002Fentertainment"},organizationName:aq,organizationUrl:P},overlayType:aE}},ampCSS:a,spotIMData:bx},Category:{fullCategory:{},currentPage:d,numPages:8,isFetching:b,category:n},ClientSideEnvVars:{vars:{version:"v74",qa:a,beta:a,ISADomain:"global.fncstatic.com",staticDomain:"static.foxnews.com",domainName:"foxnews.com",layoutEnv:"develop",assetsPath:"static.foxnews.com\u002Fstatic\u002Forion\u002F",strikePath:"static.foxnews.com\u002Fstatic\u002Fstrike\u002F",facebookArticleAppId:"113186182048399",envStage:"www",a57Url:"https:\u002F\u002Fa57.foxnews.com\u002F",videoPrefix:$,spotImId:"sp_ANQXRpqH"}},Layouts:{articleLayout:{preContent:[{is:L,props:{id:a,iu:bz,device:Z}},{is:L,props:{id:a,iu:bz,device:"tablet"}}],leftRail:[],main:[],rightRail:[{is:L,props:{id:a,iu:"ban1",device:Z}},{is:L,props:{id:a,iu:"hot\u002Fhtu-unit",device:Z}},{is:bA,props:{uid:"ar-4"}},{is:"article-list",props:{contentTypes:[aG,"videos"],title:"Trending",hasCategory:c,hasHero:b,hasMore:b,hasMulti:c,pillsPosition:l,metaPosition:"header",hasDescription:b,hasTime:b,adPosition:-1,queryParams:{isSection:b},button:{text:a,url:a},showImage:c,items:[{imageUrl:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F348\u002F196\u002FGettyImages-1497733005.jpg?ve=1&tl=1",title:"Lupita Nyong'o wears daring silver breastplate on Tony Awards red carpet",description:"Oscar-winner Lupita Nyong'o walked the Tony Awards red carpet wearing a silver breastplate modeled after her own chest.",url:"\u002Fentertainment\u002Flupita-nyongo-wears-daring-silver-breastplate-tony-awards-red-carpet",publicationDate:bB,lastPublishedDate:bB,category:{name:u,url:_},isBreaking:b,isLive:b,duration:a,authors:[{name:aO}]},{imageUrl:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F348\u002F196\u002F836dfd73-Untitled-4.jpg?ve=1&tl=1",title:"Marlon Wayans speaks out after being cited for disturbing the peace, removed from United Airlines flight",description:"Marlon Wayans vented his frustration on social media after being removed from a United Airlines flight and receiving a citation for disturbing the peace from the Denver Police Department.",url:"\u002Fentertainment\u002Fmarlon-wayans-speaks-out-cited-disturbing-peace-removed-united-airlines-flight",publicationDate:"2023-06-10T21:07:32-04:00",lastPublishedDate:"2023-06-11T19:31:55-04:00",category:{name:u,url:_},isBreaking:b,isLive:b,duration:a,authors:[{name:"Ashley Hume"}]},{imageUrl:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F348\u002F196\u002FGettyImages-1258416452.jpg?ve=1&tl=1",title:"Jennifer Garner reflects on 'mess of parenting' with ex-husband Ben Affleck: 'It's a gift'",description:"Jennifer Garner and Sheryl Lee Ralph spoke about parenting and relationships with their exes in a new interview, there they realized they had a lot in common.",url:"\u002Fentertainment\u002Fjennifer-garner-reflects-mess-parenting-ex-husband-ben-affleck-gift",publicationDate:bC,lastPublishedDate:bC,category:{name:u,url:_},isBreaking:b,isLive:b,duration:a,authors:[{name:aO}]},{imageUrl:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F348\u002F196\u002FJessieJamesDeckerTears.jpg?ve=1&tl=1",title:"Jessie James Decker wipes a tear, struts her stuff during swimsuit runway show",description:"Jessie James Decker debuted a new swimwear collection with her clothing brand, and walked the runway, wiping away tears of emotion as she did so.",url:"\u002Fentertainment\u002Fjessie-james-decker-wipes-tear-struts-her-stuff-during-swimsuit-runway-show",publicationDate:bD,lastPublishedDate:bD,category:{name:u,url:_},isBreaking:b,isLive:b,duration:a,authors:[{name:aO}]},{imageUrl:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F348\u002F196\u002Fben-affleck-matt-damon-trump.jpg?ve=1&tl=1",title:j,description:bq,url:V,publicationDate:r,lastPublishedDate:r,category:{name:K,url:by},isBreaking:b,isLive:b,duration:a,authors:[{name:t}]},{imageUrl:"https:\u002F\u002Fa57.foxnews.com\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002F348\u002F196\u002Fluke-bryan-country-cmafest.jpg?ve=1&tl=1",title:"CMA country music festival suspends concerts due to severe weather",description:"CMAFest organizers suspended outdoor concerts Sunday due to severe weather concerns in Nashville, Tennessee. Country music fans were asked to seek shelter.",url:"\u002Fentertainment\u002Fcma-country-music-festival-suspends-concerts-severe-weather",publicationDate:bE,lastPublishedDate:bE,category:{name:"CMA Fest",url:"\u002Fcategory\u002Fentertainment\u002Fevents\u002Fcma-fest"},isBreaking:b,isLive:b,duration:a,authors:[{name:"Tracy Wright"}]}],extraFixedItems:[],renderByline:b}},{is:bA,props:{uid:"ar-11"}},{is:L,props:{id:a,iu:"ban2",device:Z}},{is:"advanced-media",props:{content:"\u003Cdiv class=\"item item-newsletter fox 411\" data-slid=\"3DC725E303A24F8DE8DB8BD2CA76E43D\"\u003E\n        \u003Cdiv class=\"m logo\"\u003E\n            \u003Cimg data-cke-saved-src=\"\u002F\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2022\u002F11\u002FNEWSLETTER_ENT-532x120.png\" src=\"\u002F\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2022\u002F11\u002FNEWSLETTER_ENT-532x120.png\" alt=\"Best of Fox 411\"\u002F\u003E\n        \u003C\u002Fdiv\u003E\n        \u003Cdiv class=\"info\"\u003E\n             \u003Cp class=\"dek\"\u003EGet the best of Fox News' entertainment coverage, right in your inbox.\u003C\u002Fp\u003E\n            \u003Cdiv class=\"arrive\"\u003EArrives \u003Cspan\u003EWeekly\u003C\u002Fspan\u003E\u003C\u002Fdiv\u003E\n            \u003Cdiv class=\"button subscribe\"\u003E\n                \u003Ca data-cke-saved-href=\"#\" href=\"#\"\u003ESubscribe\u003C\u002Fa\u003E\n            \u003C\u002Fdiv\u003E\n            \u003Cp class=\"subscribed hide\"\u003ESubscribed\u003C\u002Fp\u003E\n        \u003C\u002Fdiv\u003E\n        \u003Cdiv class=\"user-input hide\"\u003E\n            \u003Cdiv class=\"input-wrap\"\u003E\n                \u003Cinput data-cke-saved-name=\"email\" name=\"email\" placeholder=\"Type your email\" type=\"email\" class=\"input-email\" \u002F\u003E\n            \u003C\u002Fdiv\u003E\n            \u003Cdiv class=\"button enter\"\u003E\n                \u003Ca data-cke-saved-href=\"#\" href=\"#\"\u003ESubscribe\u003C\u002Fa\u003E\n            \u003C\u002Fdiv\u003E\n            \u003Cp class=\"success hide\"\u003EYou've successfully subscribed to this newsletter!\u003C\u002Fp\u003E\n        \u003C\u002Fdiv\u003E\n    \u003C\u002Fdiv\u003E"}}],postContent:[]}},LiveEventPages:{id:a,title:a,description:a,rawData:n},OffsetManager:{offsetData:{"9b694313-1fcb-59e7-82d0-10677d7fb9fb":6}},Persons:{persons:[],person:{},personArticles:[],personComponents:[]},Shows:{shows:[],show:{},articles:[],persons:[],tag:a,fetchCount:d,showByUrl:{}},StaticPages:{title:a,description:a,components:[],scripts:[],stylesheets:[],canonicalUrl:a,metadata:{}},Tags:{tag:{}},Video:{auth:{},mvpd:{},theme:a,isCommentsEnabled:c,isCommentsVisible:b,schedule:{timestamp:a,data:[]}}},serverRendered:c,routePath:V,config:{_app:{basePath:"\u002F",assetsPath:"\u002F_wzln\u002F",cdnURL:n}}}}("",false,true,1,"production","tiger-cms","cms.foxnews.com","paragraph","entertainment","Ben Affleck, Matt Damon's production company slams Donald Trump's campaign ad with 'Air' audio",0,"image","attachment",null,"https:\u002F\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2023\u002F06\u002Fben-affleck-matt-damon-trump.jpg","spark_tags","keyword","2023-06-11T15:52:20-04:00","publish","Caroline Thayer","ENTERTAINMENT","fox-news\u002Fentertainment","Getty Images","618276ec-f8fc-57f2-9e7b-11e3253dca33","ben-affleck","7088c064-4107-516c-9667-b5061cc5b53a","donald-trump","a998990c-6197-51be-9b5f-512862065d10","political","1f1efd58-7285-5fc3-b750-c1bfd77657f5","movies","f0e1f98b-a7e3-5401-871d-2d44804ea937","b9beaf03-4e4d-5c21-b5b5-59fb1b1452a8","2e695a06-b2b9-53b5-a6b2-87d0f7e7e9f4","politics","9b694313-1fcb-59e7-82d0-10677d7fb9fb","Ben Affleck","StrikeGam","persons","John Roberts","Sandra Smith","https:\u002F\u002Fwww.foxnews.com","Entertainment","Ben Affleck in a grey suit looks heated split Donald Trump in a white shirt and MAGA hat, split Matt Damon in black looking to his right","Thos Robinson\u002FRob Carr\u002FGary Gershoff","source","3abecc7d-3656-5d94-96ed-246b7e377673","\u002Fentertainment\u002Fben-affleck-matt-damons-production-company-slams-donald-trumps-campaign-ad-air-audio","left","html","text","desktop","\u002Fcategory\u002Fentertainment","video","https:\u002F\u002Fcf-images.us-east-1.prod.boltdns.net\u002Fv1\u002Fstatic\u002F694940094001\u002F92e2bc8b-6719-4356-990b-0d828f190dfc\u002Ffafe5770-ddb4-4623-98d2-30bbcbac6412\u002F1280x720\u002Fmatch\u002Fimage.jpg","98894fe8-8d62-5bbe-b5b3-cdfdf2414222","2021-01-17T09:37:22-05:00","America Reports",1280,720,"Ben Affleck and Matt Damons production company slammed former President Trumps use of any footage from \"Air\" in his advertisement on Truth Social.",5343852,"4936f2b9-e633-59e6-913b-651f07508184","https:\u002F\u002Fwww.gettyimages.com\u002F","foxnews.com\u002Fsource\u002Fgetty-images",3986766,"c26d7e29-c710-57d8-98a6-194c820a0ecc","caroline-thayer","foxnews.com\u002Fperson\u002Ft\u002Fcaroline-thayer","ben-affleck-matt-damons-production-company-slams-donald-trumps-campaign-ad-air-audio","Fox News","fox-news\u002Fperson\u002Fben-affleck","Donald Trump","fox-news\u002Fperson\u002Fdonald-trump","Political","fox-news\u002Fentertainment\u002Fgenres\u002Fpolitical","Movies","fox-news\u002Fentertainment\u002Fmovies","Celebrity News","celebrity-news","fox-news\u002Fentertainment\u002Fcelebrity-news","celebrity","POLITICS","fox-news\u002Fpolitics","article","b7ecd70a-2bce-5938-ad4e-aac130129866","articles","ArticleImage","inline","(max-width: 767px)","(min-width: 767px) and (max-width: 1023px)","(min-width: 1024px) and (max-width: 1279px)","(min-width: 1280px)","2022-07-25T19:38:53-04:00","Elizabeth Stanton","87d14bef-74e9-5477-9a38-1b14c7e2b95e","6324105339112","Ben Affleck and cast on game-changing partnership in 'Air'","Affleck, Chris Tucker, Jason Bateman and Chris Messina on new film about Michael Jordan's shoe deal with Nike, his impact, and how the story resonated with them.","Brightcove","foxnews.com\u002Fperson\u002Fr\u002Fjohn-roberts","Personality","Co-Anchor of 'America Reports with John Roberts & Sandra Smith'","foxnews.com\u002Fperson\u002Fs\u002Fsandra-smith","https:\u002F\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2022\u002F09\u002FAmerica-Reports.png","https:\u002F\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2021\u002F01\u002Famerica-reports-poster.png","https:\u002F\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2021\u002F01\u002Famerica-reports-banner.png","https:\u002F\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2021\u002F01\u002Fa6e4a2ba-talent.png","https:\u002F\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2021\u002F01\u002F41625d0a-logo.png","https:\u002F\u002Fstatic.foxnews.com\u002Ffoxnews.com\u002Fcontent\u002Fuploads\u002F2021\u002F01\u002F4057901f-bg.png","shows","show","foxnews.com\u002Fvideo\u002F6324105339112","MP4",38377594,"https:\u002F\u002Fcf-images.us-east-1.prod.boltdns.net\u002Fv1\u002Fstatic\u002F694940094001\u002F92e2bc8b-6719-4356-990b-0d828f190dfc\u002F3ee04249-92a0-4650-93d6-30c0d7e704ca\u002F160x90\u002Fmatch\u002Fimage.jpg","primary_entertainment","foxnews.com\u002Fentertainment","content\u002Ffn\u002Fperson\u002Ft\u002Fcaroline-thayer","Caroline","Thayer","Author","Entertainment Writer","https:\u002F\u002Fwww.linkedin.com\u002Fin\u002Fcarolinejthayer\u002F","Ben Affleck and Matt Damon want no part in former President Trump's political campaigns, condemning the use of audio from their movie \"Air\" in one of his advertisements.","Donald Trump posted a campaign video to Truth Social which featured audio from the movie \"Air,\" which follows the partnership between Nike and Michael Jordan","Original","foxnews.com\u002Fentertainment\u002Fben-affleck-matt-damons-production-company-slams-donald-trumps-campaign-ad-air-audio","JC Olivera\u002FGA\u002FThe Hollywood Reporter","\u003Cp\u003ECaroline Thayer is an entertainment writer for Fox News Digital. Follow Caroline Thayer on Twitter at @carolinejthayer. Story tips can be sent to caroline.thayer@fox.com.\u003C\u002Fp\u003E","2023-05-16T10:16:03-04:00",void 0,"\u002Fcategory\u002Fperson\u002Fben-affleck","lb1","sponsor-ad-placement","2023-06-11T20:49:53-04:00","2023-06-11T19:12:38-04:00","2023-06-11T16:43:02-04:00","2023-06-11T15:33:55-04:00"));
+  
+
+
+
+
+
+
+
+
+
+   !function(i){i.Loader&&i.Loader.init()}(window.FNC||{})
+  
+
+

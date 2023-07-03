@@ -1,0 +1,2638 @@
+
+
+
+
+
+
+   Brooks and Marcus on the Trump indictment and the political fallout to come | PBS NewsHour
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {"@context":"http:\/\/schema.org","@type":"VideoObject","publisher":{"@type":"Organization","name":"PBS NewsHour","url":"https:\/\/www.pbs.org\/newshour\/","logo":{"@type":"ImageObject","url":"https:\/\/d3i6fh83elv35t.cloudfront.net\/static\/assets\/images\/logo-600x60.png","width":600,"height":60}},"headline":"Brooks and Marcus on the Trump indictment and the political fallout to come","name":"Brooks and Marcus on Trump indictment and political fallout","description":"New York Times columnist David Brooks and Washington Post associate editor and columnist Ruth Marcus join Geoff Bennett to discuss the historic federal indictment of former President Trump and the political fallout that's to come.","datePublished":"2023-06-09T18:40:01-04:00","uploadDate":"2023-06-09T18:40:01-04:00","thumbnailUrl":"https:\/\/d3i6fh83elv35t.cloudfront.net\/static\/2023\/06\/brooksandmarcus-1024x576.jpg","embedUrl":"https:\/\/player.pbs.org\/viralplayer\/3081399130","duration":"PT11M32S","transcript":"Geoff Bennett: The news of today's indictment of former President Donald Trump raises questions about the political fallout that's to come. For that, we turn to the analysis tonight of Brooks and Marcus. That's New York Times columnist David Brooks, and Ruth Marcus, associate editor and columnist at The Washington Post. It's good to have you both here. So, before we jump into the details of this case and dissect and distill the political impact, I'd like to just have you reflect on the gravity of this moment, starting with you, Ruth. Ruth Marcus, Columnist, The Washington Post: I think gravity is really the right word to use. It's a somber, sobering moment for the country. We have never been to this place before. We have been on the brink. We almost -- Nixon was almost indicted. People forget Bill Clinton faced the prospect of indictment and reached a plea deal. But we have never crossed this Rubicon. I think it's important that we did it on this set of facts. I thought that was true before I saw the indictment. Having seen the indictment, I think it's even more true. As Jack Smith said, there can't be one set of -- the one set of laws has to cover everybody. That said, my -- and so I find I'm relieved that the rule of law looks like it's prevailing here, but that relief is really tempered by sadness, sadness that we had a president of the United States and a potential future president of the United States that has brought us to this terrible state, and also real apprehension, sadness about the volcanic response, just inherent, instinctive, supportiveness, political polarization from his party, and what that's going to mean for an already divided country that's going to be further polarized here. Geoff Bennett: A somber day, a sad day. How do you view it? David Brooks: Yes, I think this -- this morning, I was blase. I said, OK, he had these documents. We knew it. We saw the pictures from Mar-a-Lago. And then, when the indictment came out, I was like, oh, there's always another layer down with this guy. What shocked me in particular was the nuclear programs, our own vulnerabilities. He's sharing our Iran plans with buddies at a golf course. And I don't see those as documents. Those are human beings. Those are American lives. Those are people who are helping the United States around the world who are put at risk. Those are American soldiers and Marines and airmen and seamen who are put at risk. And so the lack of reverence, lack of sense of responsibility for the people who were serving under his command is just so offensive. And then the just the -- he -- I had this thought. I -- he's just a mean boy. He's like an 8-year-old boy who wanted these documents for some willful reason, who could not admit error. And my friend Andrew Sullivan made the point today that, whenever there's a situation where Donald Trump has to be equal with everybody, the rules have to apply equally, he will ride roughshod over that system and behave in a way so, I'm not equal to everybody else. It's just me. The rules don't apply to me. And it's Greek in its exposure of his character flaws. Geoff Bennett: Ruth, it was a South Florida grand jury that brought this indictment. Special counsel Jack Smith's decision to bring charges in what effectively is Donald Trump's home turf, there are legal reasons for that, but what do you see as the political significance of that? Ruth Marcus: Well, I think there's actually potential legal and political significance that combine, which is, here's what we know about Donald Trump. When Donald Trump is cornered, he yells, rigged. It's a rigged jury. It's a rigged election. It's a rigged judge. This actually won't stop him from yelling that here, but when he has this Judge Aileen Cannon, who was clearly not just a Trump appointee, but so Trump-empathetic in her previous pass at this case, it's going to be harder for him to try to smear her as some apparatchik of the Justice Department. And similarly, with the jury, this is not going to be a D.C. jury. It's a South Florida jury. It's going to be harder for him to complain, although he will, about unfair treatment from them. And so I think that actually, strangely, helps prosecutors tamp down some of the public, -- hopefully, some of the public reaction to the case. Geoff Bennett: What about that, that it makes it harder for Donald Trump to make the argument -- of course, he will make the argument -- but it's harder for him to make a convincing argument that he's being railroaded when it's happening in -- on his home turf, as I said? David Brooks: You went to law school. I didn't. But I don't know how you get a fair jury. Like, does anybody in this country not have an opinion about Donald Trump? So I don't know how that's going to work. He's going to make the argument. And from the judgment from today, a lot of people are going to accept the argument. We looked at the tweets already. If you're running in Donald Trump for president, your job is to take this day and say, see, that guy's not qualified to be president. That's like, simple. Does Ron DeSantis do that? No. Does Tim Scott do that? No. They're all -- they're all jumping on the, it's prosecutive -- it's weaponizing the justice system. They're jumping on that, Mike Lee in the Senate. Glenn Youngkin, the supposedly mature and moderate governor of Virginia, he was like, selective prosecution. And so the party is rallying around. And one of the things Donald Trump has been having trouble doing is raising money. And the thing he knows that can help him raise money is getting indicted. And so he got indicted in New York, and he raised like -- something like $12 million. As soon as the indictment comes down, he's got a video, he's got the direct mail. He's making hay while the sun shines. And so he's using this as a political gift, which, for the time being, it seems to be, at least in the Republican Party. Ruth Marcus: But we knew he would. But the really sickening thing is what you say about the rest of the party rallying around him. I know -- we all know why they're doing it. We all know they're doing it not because they believe it, but because they understand it to be in their political self-interest. But, boy, if I had a superpower right now, I would wield it to ban the word weaponization, because what's going on here is the opposite of the weaponization of the Justice Department. Merrick Garland, the attorney general, stepped aside from this case. He brought in a career prosecutor to take a look at it. The weaponization of the Justice Department happened under the former guy, not under this guy. Geoff Bennett: Well, on that point, I mean, the potential offenses, the alleged offenses strike at the core of some of the most somber duties of the presidency, including the protection of the country's most vital secrets. That Donald Trump's rivals are willing to overlook that and not call that out, one, how do they make an argument for their candidacies? But what does that say about the field, given that this is the job to which they are applying, the presidency, or hoping to win? Ruth Marcus: I think it does -- it says something about the field, but it also simultaneously says something about the base, and it says something about Donald Trump's hold on the base, a significant part of his party's voters. We're going to find out. He could get indicted in the middle of Fifth Avenue and continue to hold and be Teflon Don and not be affected by this. I think there's an interesting question -- I'm really curious what David thinks about this -- about whether the sheer weight of these numerous indictments -- I'm not a fan of the Manhattan indictment, but that's there. There's this indictment, which I think is very, very serious. We're going to probably see something from Fani Willis in Georgia relating to January 6 and the election, and there could be more after that. At some point, will the Republican Party base say, enough is enough, we can't risk a third try with this guy, we want to get the White House back? There's no evidence of that so far. And as the rest of the party just reflexively rallies around Trump, the leaders, I think that makes it less likely that we will see that more healthy reaction. Geoff Bennett: How do you think this will play out in the race? I mean, of course, we have never seen an American president face federal criminal charges, and we have never seen one face those charges as he's trying to recapture the White House. David Brooks: Yes,the Republican Party is always about to tire of Donald Trump, and then that day never arrives. I mean, he's clearly stronger now than he was six months ago. And so the first indictment, which was a bit of a dodgy one, clearly helped him. Will this one help him? I don't think it'll help him, in part because there are a lot of military folks in the Republican Party, and a lot of military folks have handled classified information, and they know how serious it is. They take it seriously. And so I think this will -- there will be some lingering effect. The only way it could possibly hurt Donald Trump is not somebody saying, see, he's a bad guy. That's not going to work. You could -- somebody could make the case, he's just got so much baggage. He's a great guy, but he just can't win the fall. And I think that argument, you can make that argument without going personally after Donald Trump and without getting in the way of the core Trump narrative, they're out to get us. And that \"They're out to get us\" sense is thick in the Republican Party, with a lot of justification, by the way. And so, if he can turn this into \"They're out to get us,\" then it's the narrative. That's his favorite narrative. Geoff Bennett: Meantime, the White House was taking a business-as-usual approach to these decidedly abnormal circumstances. President Biden was in North Carolina giving a speech about his legislative agenda when word of this indictment came down. Does the White House risk having their message drowned out potentially yet again by all of the things surrounding and swirling around Donald Trump? Ruth Marcus: If you had asked me what President Biden was doing today, I could -- if you had a gun to my head, I could not have answered that question. (LAUGHTER) Ruth Marcus: Of course, their message is going to get drowned out on a day like today. And I -- is it terrible for a White House to have its message drowned out by the news that its chief opponent is being indicted on very serious charges, on mishandling the most highly classified information, on obstructing justice, on lying to federal investigators? That's not a bad news day for the White House to have whatever it was doing, infrastructure or whatever, being talked about. I think the president, President Biden, is doing precisely the right thing by business as usual, head down. This is not his thing. He's not commenting on it. He's not anywhere near it. Geoff Bennett: And, to that point, President Biden told reporters today that he has not talked to the attorney general about this case and will not talk to him about it. David Brooks: And that's utterly appropriate. I would say, even longer term, though, I do think Biden is still underexposed. I think his staff is still overprotective of him. And he's much smarter in public than a lot of people think in private. And so I do think they need to let him get out more, because it's just not good for the presidency for him to be that much in the shadow of Donald Trump. And that's been even without the indictment. Geoff Bennett: Couldn't he tell them that? Couldn't he tell his staff that if he felt that way? It's been said to me that the president believes that, when you empower people to do their jobs, you listen to their vice. But if he agreed with you, couldn't you tell them, hey, I don't need to be so protected? David Brooks: You would think so. And I will say, from what I hear inside the White House, he's not a doddering old grandpa either. (LAUGHTER) David Brooks: He's like -- can be a very tough, mean guy and a very harsh boss sometimes. So he could say that. But he might be trusting. And maybe he wants to be as quiet and, frankly, as closed in as he's been. Geoff Bennett: David Brooks and Ruth Marcus, thank you for being with us on this historic weekend -- or end to the week, rather."}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    document.createElement("picture");
+   
+
+
+
+    var GTMDataLayer = window.GTMDataLayer = window.GTMDataLayer || [];
+                GTMDataLayer.push({"customDimension2":"Geoff Bennett | David Brooks","customDimension4":"20230609","customDimension5":"Brooks and Capehart, brooks and marcus, espionage, presidential election, Sedition Act","customDimension6":"Nation"});
+   
+
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','GTMDataLayer','GTM-TWTDGH');
+   
+
+    (function() {
+                var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+                _sf_async_config.uid = 7166;
+                _sf_async_config.domain = 'pbs.org';
+                _sf_async_config.flickerControl = false;
+                _sf_async_config.useCanonical = true;
+                _sf_async_config.useCanonicalDomain = true;
+                _sf_async_config.articleBlockSelector = "article, .home__hero"
+                                    _sf_async_config.section = 'Nation';
+                                                    _sf_async_config.authors = 'Geoff Bennett,David Brooks';
+                                function loadChartbeat() {
+                    var e = document.createElement('script');
+                    var n = document.getElementsByTagName('script')[0];
+                    e.type = 'text/javascript';
+                    e.async = true;
+                    e.src = '//static.chartbeat.com/js/chartbeat.js';
+                    n.parentNode.insertBefore(e, n);
+                }
+                loadChartbeat();
+            })();
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Full Episode
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Sunday, Jun 11
+         
+
+
+
+
+
+
+
+
+
+
+
+        Close Menu
+       
+
+
+
+
+
+
+
+
+         PBS NewsHour
+        
+
+
+
+
+
+
+
+
+
+         Episodes
+        
+
+
+
+
+
+
+
+         Podcasts
+        
+
+
+
+
+
+
+
+         Newsletters
+        
+
+
+
+
+
+
+
+         The Latest
+        
+
+
+
+
+
+
+
+
+
+         Politics
+        
+
+
+
+
+
+
+
+
+
+            Brooks and Capehart
+           
+
+
+
+            Politics Monday
+           
+
+
+
+            Supreme Court
+           
+
+
+
+
+
+
+
+
+         Arts
+        
+
+
+
+
+
+
+
+
+
+            CANVAS
+           
+
+
+
+            Poetry
+           
+
+
+
+            Now Read This
+           
+
+
+
+
+
+
+
+
+         Nation
+        
+
+
+
+
+
+
+
+
+
+            Supreme Court
+           
+
+
+
+            Race Matters
+           
+
+
+
+            Essays
+           
+
+
+
+            Brief But Spectacular
+           
+
+
+
+
+
+
+
+
+         World
+        
+
+
+
+
+
+
+
+
+
+            Agents for Change
+           
+
+
+
+
+
+
+
+
+         Economy
+        
+
+
+
+
+
+
+
+
+
+            Making Sen$e
+           
+
+
+
+            Paul Solman
+           
+
+
+
+
+
+
+
+
+         Science
+        
+
+
+
+
+
+
+
+
+
+            The Leading Edge
+           
+
+
+
+            ScienceScope
+           
+
+
+
+            Basic Research
+           
+
+
+
+            Innovation and Invention
+           
+
+
+
+
+
+
+
+
+         Health
+        
+
+
+
+
+
+
+
+
+
+            Long-Term Care
+           
+
+
+
+
+
+
+
+
+         Education
+        
+
+
+
+
+
+
+
+
+
+
+            Teachers' Lounge
+           
+
+
+
+            Student Reporting Labs
+           
+
+
+
+
+
+
+
+
+         For Teachers
+        
+
+
+
+
+
+
+
+
+
+            Newshour Classroom
+           
+
+
+
+
+
+
+
+
+         NewsHour Shop
+        
+
+
+
+
+
+
+
+
+
+         About
+        
+
+
+
+
+
+
+
+
+            Feedback
+           
+
+
+
+            Funders
+           
+
+
+
+            Support
+           
+
+
+
+            Jobs
+           
+
+
+
+
+
+
+
+
+       Close Menu
+      
+
+
+
+
+
+
+
+
+
+
+      Educate your inbox
+     
+
+      Subscribe to Here’s the Deal, our politics
+                 newsletter for analysis you won’t find anywhere else.
+     
+
+
+
+
+
+
+
+
+
+
+           Email Address
+          
+
+
+
+
+
+
+
+           Subscribe
+          
+
+
+
+         Form error message goes here.
+        
+
+
+          Thank you. Please check your inbox to confirm.
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Close Popup
+     
+
+
+
+
+
+
+
+
+
+
+     PBS NewsHour
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Menu
+        
+
+
+
+
+
+
+
+
+
+
+
+
+          Notifications
+         
+
+
+
+          Get news alerts from PBS NewsHour
+         
+
+          Turn on desktop notifications?
+         
+
+          Yes
+         
+
+          Not now
+         
+
+
+
+
+
+
+
+
+
+
+
+        Full Episodes
+       
+
+
+
+
+
+
+
+        Podcasts
+       
+
+
+
+
+
+
+
+        Newsletters
+       
+
+
+
+        Live
+       
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Brooks and Marcus on the Trump indictment and the political fallout to come
+        
+
+         Jun 9, 2023 6:40 PM EDT
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            By —
+           
+
+
+
+              Geoff Bennett
+             
+
+
+             Geoff Bennett
+            
+
+
+
+
+
+
+            By —
+           
+
+
+
+              David Brooks
+             
+
+
+             David Brooks
+            
+
+
+
+
+
+
+
+
+
+             Leave your feedback
+            
+
+
+
+
+
+
+
+             Share
+            
+
+
+
+
+
+
+
+
+              Copy URL
+             
+
+              https://www.pbs.org/newshour/show/brooks-and-marcus-on-the-trump-indictment-and-the-political-fallout-to-come
+             
+
+
+
+              Email
+              
+
+
+
+
+
+
+
+              Facebook
+              
+
+
+
+
+
+
+
+              Twitter
+              
+
+
+
+
+
+
+
+              LinkedIn
+              
+
+
+
+
+
+
+
+              Pinterest
+              
+
+
+
+
+
+
+
+              Tumblr
+              
+
+
+
+
+
+
+
+
+
+
+             Share on Facebook
+            
+
+
+
+
+
+
+
+             Share on Twitter
+            
+
+
+
+
+
+
+
+
+
+
+
+
+          Transcript
+         
+
+          Audio
+         
+
+
+
+
+
+            New York Times columnist David Brooks and Washington Post associate editor and columnist Ruth Marcus join Geoff Bennett to discuss the historic federal indictment of former President Trump and the political fallout that’s to come.
+           
+
+
+           Read the Full Transcript
+          
+
+
+
+
+
+               Geoff Bennett:
+              
+
+
+              The news of today's indictment of former President Donald Trump raises questions about the political fallout that's to come.
+             
+
+              For that, we turn to the analysis tonight of Brooks and Marcus. That's New York Times columnist David Brooks, and Ruth Marcus, associate editor and columnist at The Washington Post.
+             
+
+              It's good to have you both here.
+             
+
+              So, before we jump into the details of this case and dissect and distill the political impact, I'd like to just have you reflect on the gravity of this moment, starting with you, Ruth.
+             
+
+
+
+
+
+
+               Ruth Marcus, Columnist, The Washington Post:
+              
+
+
+              I think gravity is really the right word to use.
+             
+
+              It's a somber, sobering moment for the country. We have never been to this place before. We have been on the brink. We almost — Nixon was almost indicted. People forget Bill Clinton faced the prospect of indictment and reached a plea deal. But we have never crossed this Rubicon.
+             
+
+              I think it's important that we did it on this set of facts. I thought that was true before I saw the indictment. Having seen the indictment, I think it's even more true. As Jack Smith said, there can't be one set of — the one set of laws has to cover everybody.
+             
+
+              That said, my — and so I find I'm relieved that the rule of law looks like it's prevailing here, but that relief is really tempered by sadness, sadness that we had a president of the United States and a potential future president of the United States that has brought us to this terrible state, and also real apprehension, sadness about the volcanic response, just inherent, instinctive, supportiveness, political polarization from his party, and what that's going to mean for an already divided country that's going to be further polarized here.
+             
+
+
+
+
+
+
+               Geoff Bennett:
+              
+
+
+              A somber day, a sad day.
+             
+
+              How do you view it?
+             
+
+
+
+
+
+
+               David Brooks:
+              
+
+
+              Yes, I think this — this morning, I was blase. I said, OK, he had these documents. We knew it. We saw the pictures from Mar-a-Lago.
+             
+
+              And then, when the indictment came out, I was like, oh, there's always another layer down with this guy. What shocked me in particular was the nuclear programs, our own vulnerabilities. He's sharing our Iran plans with buddies at a golf course.
+             
+
+              And I don't see those as documents. Those are human beings. Those are American lives. Those are people who are helping the United States around the world who are put at risk. Those are American soldiers and Marines and airmen and seamen who are put at risk. And so the lack of reverence, lack of sense of responsibility for the people who were serving under his command is just so offensive.
+             
+
+              And then the just the — he — I had this thought. I — he's just a mean boy. He's like an 8-year-old boy who wanted these documents for some willful reason, who could not admit error.
+             
+
+              And my friend Andrew Sullivan made the point today that, whenever there's a situation where Donald Trump has to be equal with everybody, the rules have to apply equally, he will ride roughshod over that system and behave in a way so, I'm not equal to everybody else. It's just me. The rules don't apply to me.
+             
+
+              And it's Greek in its exposure of his character flaws.
+             
+
+
+
+
+
+
+               Geoff Bennett:
+              
+
+
+              Ruth, it was a South Florida grand jury that brought this indictment. Special counsel Jack Smith's decision to bring charges in what effectively is Donald Trump's home turf, there are legal reasons for that, but what do you see as the political significance of that?
+             
+
+
+
+
+
+
+               Ruth Marcus:
+              
+
+
+              Well, I think there's actually potential legal and political significance that combine, which is, here's what we know about Donald Trump.
+             
+
+              When Donald Trump is cornered, he yells, rigged. It's a rigged jury. It's a rigged election. It's a rigged judge. This actually won't stop him from yelling that here, but when he has this Judge Aileen Cannon, who was clearly not just a Trump appointee, but so Trump-empathetic in her previous pass at this case, it's going to be harder for him to try to smear her as some apparatchik of the Justice Department.
+             
+
+              And similarly, with the jury, this is not going to be a D.C. jury. It's a South Florida jury. It's going to be harder for him to complain, although he will, about unfair treatment from them. And so I think that actually, strangely, helps prosecutors tamp down some of the public, — hopefully, some of the public reaction to the case.
+             
+
+
+
+
+
+
+               Geoff Bennett:
+              
+
+
+              What about that, that it makes it harder for Donald Trump to make the argument — of course, he will make the argument — but it's harder for him to make a convincing argument that he's being railroaded when it's happening in — on his home turf, as I said?
+             
+
+
+
+
+
+
+               David Brooks:
+              
+
+
+              You went to law school. I didn't. But I don't know how you get a fair jury. Like, does anybody in this country not have an opinion about Donald Trump? So I don't know how that's going to work.
+             
+
+              He's going to make the argument. And from the judgment from today, a lot of people are going to accept the argument. We looked at the tweets already. If you're running in Donald Trump for president, your job is to take this day and say, see, that guy's not qualified to be president. That's like, simple.
+             
+
+              Does Ron DeSantis do that? No. Does Tim Scott do that? No. They're all — they're all jumping on the, it's prosecutive — it's weaponizing the justice system. They're jumping on that, Mike Lee in the Senate. Glenn Youngkin, the supposedly mature and moderate governor of Virginia, he was like, selective prosecution.
+             
+
+              And so the party is rallying around. And one of the things Donald Trump has been having trouble doing is raising money. And the thing he knows that can help him raise money is getting indicted. And so he got indicted in New York, and he raised like — something like $12 million.
+             
+
+              As soon as the indictment comes down, he's got a video, he's got the direct mail. He's making hay while the sun shines. And so he's using this as a political gift, which, for the time being, it seems to be, at least in the Republican Party.
+             
+
+
+
+
+
+
+               Ruth Marcus:
+              
+
+
+              But we knew he would. But the really sickening thing is what you say about the rest of the party rallying around him.
+             
+
+              I know — we all know why they're doing it. We all know they're doing it not because they believe it, but because they understand it to be in their political self-interest.
+             
+
+              But, boy, if I had a superpower right now, I would wield it to ban the word weaponization, because what's going on here is the opposite of the weaponization of the Justice Department. Merrick Garland, the attorney general, stepped aside from this case. He brought in a career prosecutor to take a look at it.
+             
+
+              The weaponization of the Justice Department happened under the former guy, not under this guy.
+             
+
+
+
+
+
+
+               Geoff Bennett:
+              
+
+
+              Well, on that point, I mean, the potential offenses, the alleged offenses strike at the core of some of the most somber duties of the presidency, including the protection of the country's most vital secrets.
+             
+
+              That Donald Trump's rivals are willing to overlook that and not call that out, one, how do they make an argument for their candidacies? But what does that say about the field, given that this is the job to which they are applying, the presidency, or hoping to win?
+             
+
+
+
+
+
+
+               Ruth Marcus:
+              
+
+
+              I think it does — it says something about the field, but it also simultaneously says something about the base, and it says something about Donald Trump's hold on the base, a significant part of his party's voters.
+             
+
+              We're going to find out. He could get indicted in the middle of Fifth Avenue and continue to hold and be Teflon Don and not be affected by this. I think there's an interesting question — I'm really curious what David thinks about this — about whether the sheer weight of these numerous indictments — I'm not a fan of the Manhattan indictment, but that's there.
+             
+
+              There's this indictment, which I think is very, very serious. We're going to probably see something from Fani Willis in Georgia relating to January 6 and the election, and there could be more after that. At some point, will the Republican Party base say, enough is enough, we can't risk a third try with this guy, we want to get the White House back?
+             
+
+              There's no evidence of that so far. And as the rest of the party just reflexively rallies around Trump, the leaders, I think that makes it less likely that we will see that more healthy reaction.
+             
+
+
+
+
+
+
+               Geoff Bennett:
+              
+
+
+              How do you think this will play out in the race? I mean, of course, we have never seen an American president face federal criminal charges, and we have never seen one face those charges as he's trying to recapture the White House.
+             
+
+
+
+
+
+
+               David Brooks:
+              
+
+
+              Yes,the Republican Party is always about to tire of Donald Trump, and then that day never arrives.
+             
+
+              I mean, he's clearly stronger now than he was six months ago. And so the first indictment, which was a bit of a dodgy one, clearly helped him. Will this one help him? I don't think it'll help him, in part because there are a lot of military folks in the Republican Party, and a lot of military folks have handled classified information, and they know how serious it is. They take it seriously.
+             
+
+              And so I think this will — there will be some lingering effect. The only way it could possibly hurt Donald Trump is not somebody saying, see, he's a bad guy. That's not going to work. You could — somebody could make the case, he's just got so much baggage. He's a great guy, but he just can't win the fall.
+             
+
+              And I think that argument, you can make that argument without going personally after Donald Trump and without getting in the way of the core Trump narrative, they're out to get us. And that "They're out to get us" sense is thick in the Republican Party, with a lot of justification, by the way.
+             
+
+              And so, if he can turn this into "They're out to get us," then it's the narrative. That's his favorite narrative.
+             
+
+
+
+
+
+
+               Geoff Bennett:
+              
+
+
+              Meantime, the White House was taking a business-as-usual approach to these decidedly abnormal circumstances.
+             
+
+              President Biden was in North Carolina giving a speech about his legislative agenda when word of this indictment came down. Does the White House risk having their message drowned out potentially yet again by all of the things surrounding and swirling around Donald Trump?
+             
+
+
+
+
+
+
+               Ruth Marcus:
+              
+
+
+              If you had asked me what President Biden was doing today, I could — if you had a gun to my head, I could not have answered that question.
+             
+
+              (LAUGHTER)
+             
+
+
+
+
+
+
+               Ruth Marcus:
+              
+
+
+              Of course, their message is going to get drowned out on a day like today.
+             
+
+              And I — is it terrible for a White House to have its message drowned out by the news that its chief opponent is being indicted on very serious charges, on mishandling the most highly classified information, on obstructing justice, on lying to federal investigators? That's not a bad news day for the White House to have whatever it was doing, infrastructure or whatever, being talked about.
+             
+
+              I think the president, President Biden, is doing precisely the right thing by business as usual, head down. This is not his thing. He's not commenting on it. He's not anywhere near it.
+             
+
+
+
+
+
+
+               Geoff Bennett:
+              
+
+
+              And, to that point, President Biden told reporters today that he has not talked to the attorney general about this case and will not talk to him about it.
+             
+
+
+
+
+
+
+               David Brooks:
+              
+
+
+              And that's utterly appropriate.
+             
+
+              I would say, even longer term, though, I do think Biden is still underexposed. I think his staff is still overprotective of him. And he's much smarter in public than a lot of people think in private. And so I do think they need to let him get out more, because it's just not good for the presidency for him to be that much in the shadow of Donald Trump.
+             
+
+              And that's been even without the indictment.
+             
+
+
+
+
+
+
+               Geoff Bennett:
+              
+
+
+              Couldn't he tell them that? Couldn't he tell his staff that if he felt that way?
+             
+
+              It's been said to me that the president believes that, when you empower people to do their jobs, you listen to their vice. But if he agreed with you, couldn't you tell them, hey, I don't need to be so protected?
+             
+
+
+
+
+
+
+               David Brooks:
+              
+
+
+              You would think so.
+             
+
+              And I will say, from what I hear inside the White House, he's not a doddering old grandpa either.
+             
+
+              (LAUGHTER)
+             
+
+
+
+
+
+
+               David Brooks:
+              
+
+
+              He's like — can be a very tough, mean guy and a very harsh boss sometimes. So he could say that.
+             
+
+              But he might be trusting. And maybe he wants to be as quiet and, frankly, as closed in as he's been.
+             
+
+
+
+
+
+
+               Geoff Bennett:
+              
+
+
+              David Brooks and Ruth Marcus, thank you for being with us on this historic weekend — or end to the week, rather.
+             
+
+
+
+
+
+
+           Listen to this Segment
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Watch
+             
+
+
+
+
+
+
+
+
+
+             Watch the Full Episode
+            
+
+
+
+             PBS NewsHour from Jun 09, 2023
+            
+
+
+
+
+
+
+
+
+
+           Related
+          
+
+
+
+
+
+               Jun 09
+              
+
+
+
+
+
+
+
+
+
+                 Watch
+                 
+                  9:32
+                 
+
+
+
+
+
+
+
+
+
+
+
+
+                DOJ accuses Trump of showing off classified documents and defying order to return them
+               
+
+
+
+                By
+               
+               Amna Nawaz, Lisa Desjardins, Kyle Midura, Alexis Cox, Jonah Anderson
+              
+
+
+
+
+
+
+
+               Jun 09
+              
+
+
+
+
+
+
+
+
+
+
+
+                Photos from Trump indictment show boxes of classified documents stored in Mar-a-Lago shower, ballroom
+               
+
+
+
+                By
+               
+               Associated Press
+              
+
+
+
+
+
+
+
+               Jun 09
+              
+
+
+
+
+
+
+
+
+
+
+
+                Secret Service prepares for Trump federal court appearance after indictment
+               
+
+
+
+                By
+               
+               Associated Press
+              
+
+
+
+
+
+
+
+               Jun 09
+              
+
+
+
+
+
+
+
+
+
+
+
+                Trump picks lawyer from NY criminal case for classified documents charges
+               
+
+
+
+                By
+               
+               Michael Sisak, Associated Press
+              
+
+
+
+
+
+
+
+               Jun 09
+              
+
+
+
+
+
+
+
+
+
+
+
+                Read the full Trump indictment on mishandling of classified documents
+               
+
+
+
+                By
+               
+               News Desk
+              
+
+
+
+
+
+
+
+           Go Deeper
+          
+
+
+
+             brooks and capehart
+            
+
+
+
+             brooks and marcus
+            
+
+
+
+             espionage
+            
+
+
+
+             presidential election
+            
+
+
+
+             sedition act
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+          By —
+         
+
+
+
+            Geoff Bennett
+           
+
+
+           Geoff Bennett
+          
+
+
+
+           Geoff Bennett serves as co-anchor of PBS NewsHour. He also serves as an NBC News and MSNBC political contributor.
+          
+
+
+
+
+
+
+
+          @GeoffRBennett
+         
+
+
+
+
+
+          By —
+         
+
+
+
+            David Brooks
+           
+
+
+           David Brooks
+          
+
+
+
+           David Brooks became an Op-Ed columnist for The New York Times in September 2003.  He has been a senior editor at The Weekly Standard, a contributing editor at Newsweek and the Atlantic Monthly, and he is currently a commentator on “The PBS Newshour.” He is the author of “Bobos In Paradise: The New Upper Class and How They Got There” and “On Paradise Drive: How We Live Now (And Always Have) in the Future Tense,” both published by Simon & Schuster.
+          
+
+
+
+
+
+
+
+
+
+
+
+         Support Provided By:
+        
+
+         Learn more
+        
+
+
+
+
+
+
+
+
+
+
+        More Ways to Watch
+       
+
+
+
+
+
+
+
+
+
+
+           PBS Video
+          
+
+
+
+
+
+
+
+
+
+
+
+           PBS iPhone App
+          
+
+
+
+
+
+
+
+
+
+
+
+           PBS iPad App
+          
+
+
+
+
+
+
+
+
+
+
+
+           YouTube
+          
+
+
+
+
+
+
+
+
+
+
+
+           Facebook
+          
+
+
+
+
+
+
+
+         Educate your inbox
+        
+
+         Subscribe to Here’s the Deal, our politics
+                 newsletter for analysis you won’t find anywhere else.
+        
+
+
+
+
+
+
+
+
+            Email Address
+           
+
+
+
+
+
+
+
+            Subscribe
+           
+
+
+
+          Form error message goes here.
+         
+
+
+           Thank you. Please check your inbox to confirm.
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         PBS NewsHour
+        
+
+
+        © 1996 - 2023 NewsHour Productions LLC. All Rights Reserved.
+       
+
+
+
+        Sections
+       
+
+
+
+          The Latest
+         
+
+
+
+          Politics
+         
+
+
+
+          Arts
+         
+
+
+
+          Nation
+         
+
+
+
+          World
+         
+
+
+
+          Economy
+         
+
+
+
+          Science
+         
+
+
+
+          Health
+         
+
+
+
+          Education
+         
+
+
+
+
+
+        About
+       
+
+
+
+          About Us
+         
+
+
+
+          TV Schedule
+         
+
+
+
+          Press
+         
+
+
+
+          Feedback
+         
+
+
+
+          Funders
+         
+
+
+
+          Support
+         
+
+
+
+          Newsletters
+         
+
+
+
+          Podcasts
+         
+
+
+
+          Jobs
+         
+
+
+
+          Privacy
+         
+
+
+
+
+
+        Stay Connected
+       
+
+
+
+
+           Facebook
+          
+
+
+
+
+
+
+
+
+
+           Twitter
+          
+
+
+
+
+
+
+
+
+
+           YouTube
+          
+
+
+
+
+
+
+
+
+
+           RSS
+          
+
+
+
+
+
+
+
+
+
+         Subscribe to ‘Here's the Deal,’ our politics newsletter
+        
+
+
+
+
+
+
+
+
+
+             Email Address
+            
+
+
+
+
+
+
+
+             Subscribe
+            
+
+
+
+           Form error message goes here.
+          
+
+
+            Thank you. Please check your inbox to confirm.
+           
+
+
+
+
+
+
+
+
+       Support our journalism
+      
+
+       Learn more about Friends of the NewsHour.
+      
+
+
+
+
+
+
+
+
+
+
+      Support for NewsHour Provided By
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   /* <![CDATA[ */
+var scriptvars = {"ajax_url":"https:\/\/www.pbs.org\/newshour\/ajax-controller","base_path":"\/newshour\/"};
+/* ]]> */
+  
+
+
+
+
+
+   var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+
+(function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+})();
+
+googletag.cmd.push(function() {
+    googletag.defineSlot('/22540141786/n6735.pbs/news_general_NewsHour', [300, 250], 'div-gpt-ad-300-250').addService(googletag.pubads());
+    googletag.enableServices();
+});
+
+googletag.cmd.push(function() {
+    googletag.display('div-gpt-ad-300-250');
+});
+  
+
+   var PBS_CHROME_CONFIG = {'api_key': 'd59a8dbf-1f1c-43aa-9e1a-deaad0ff679f'};
+  
+
+
+
+

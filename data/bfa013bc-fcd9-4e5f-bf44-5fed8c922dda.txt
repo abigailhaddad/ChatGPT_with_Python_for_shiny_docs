@@ -1,0 +1,822 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {"@context":"https://schema.org","@type":"WebSite","name":"The Atlantic","url":"https://www.theatlantic.com","inLanguage":"en-US","issn":"1072-7825","potentialAction":{"@type":"SearchAction","target":"https://www.theatlantic.com/search/?q={q}","query-input":"required name=q"}}
+  
+
+   {"@context":"https://schema.org","@type":"Organization","@id":"https://www.theatlantic.com/#publisher","name":"The Atlantic","url":"https://www.theatlantic.com","logo":{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":224},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":224},"url":"https://cdn.theatlantic.com/assets/media/files/atlantic-logo--224x224.png"},"sameAs":["https://www.facebook.com/TheAtlantic","https://twitter.com/theatlantic"]}
+  
+
+   #paywall,#nonMeteredNudge,#gate {opacity:0;}
+  
+
+   The Congressman Telling Trump Supporters to ‘Buckle Up’ - The Atlantic
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {"@context":"https://schema.org","@type":"NewsArticle","headline":"The Congressman Telling Trump Supporters to ‘Buckle Up’","alternativeHeadline":"The Congressman Telling Trump Supporters to ‘Buckle Up’","description":"Their civil war is imaginary, but there really are men with guns, more now than I’ve seen in 20 years of reporting on the right.","url":"https://www.theatlantic.com/ideas/archive/2023/06/the-congressman-telling-trump-supporters-to-buckle-up/674367/","datePublished":"2023-06-11T17:16:00Z","dateModified":"2023-06-11T18:13:00Z","isAccessibleForFree":false,"hasPart":{"@type":"WebPageElement","isAccessibleForFree":false,"cssSelector":".article-content-body"},"publisher":{"@id":"https://www.theatlantic.com/#publisher"},"mainEntityOfPage":{"@type":"WebPage","@id":"https://www.theatlantic.com/ideas/archive/2023/06/the-congressman-telling-trump-supporters-to-buckle-up/674367/"},"image":[{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":720},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":405},"url":"https://cdn.theatlantic.com/thumbor/d5XidTc0KzyvS5__8IA85enxKZc=/0x0:2000x1125/720x405/media/img/mt/2023/06/hickson_militia/original.jpg"},{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":1080},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":1080},"url":"https://cdn.theatlantic.com/thumbor/Dh0uqg92m7vSlti4mQWXqZx4xi8=/438x0:1563x1125/1080x1080/media/img/mt/2023/06/hickson_militia/original.jpg"},{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":1200},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":900},"url":"https://cdn.theatlantic.com/thumbor/C5DI47a6KIGqYTFm8-5Iu5dKPX0=/249x0:1749x1125/1200x900/media/img/mt/2023/06/hickson_militia/original.jpg"},{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":1600},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":900},"url":"https://cdn.theatlantic.com/thumbor/T4EJpiZPbvbgCiUz38CuTjR4VW4=/0x0:2000x1125/1600x900/media/img/mt/2023/06/hickson_militia/original.jpg"},{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":960},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":540},"url":"https://cdn.theatlantic.com/thumbor/C80V1P0O3n4gfecjCL4yQEX5YGE=/0x0:2000x1125/960x540/media/img/mt/2023/06/hickson_militia/original.jpg"},{"@type":"ImageObject","width":{"@type":"QuantitativeValue","unitCode":"E37","value":540},"height":{"@type":"QuantitativeValue","unitCode":"E37","value":540},"url":"https://cdn.theatlantic.com/thumbor/deWXK4rrjcwNLqxP5glM2LLp_mQ=/438x0:1563x1125/540x540/media/img/mt/2023/06/hickson_militia/original.jpg"}],"author":[{"@type":"Person","name":"Jeff Sharlet","sameAs":"https://www.theatlantic.com/author/jeff-sharlet/"}],"articleSection":"Ideas"}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Skip to content
+     
+
+      Site Navigation
+     
+
+
+
+
+
+
+           The Atlantic
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Popular
+            
+
+             Latest
+            
+
+             Newsletters
+            
+
+
+
+
+
+             Sections
+            
+
+
+
+               Politics
+              
+
+
+
+               Ideas
+              
+
+
+
+               Fiction
+              
+
+
+
+               Technology
+              
+
+
+
+               Science
+              
+
+
+
+               Photo
+              
+
+
+
+               Business
+              
+
+
+
+               Culture
+              
+
+
+
+               Planet
+              
+
+
+
+               Global
+              
+
+
+
+               Books
+              
+
+
+
+               Podcasts
+              
+
+
+
+               Health
+              
+
+
+
+               Education
+              
+
+
+
+               Projects
+              
+
+
+
+               Features
+              
+
+
+
+               Family
+              
+
+
+
+               Events
+              
+
+
+
+               Shadowland
+              
+
+
+
+               Progress
+              
+
+
+
+               Newsletters
+              
+
+
+
+
+
+
+
+
+
+                Explore The Atlantic Archive
+               
+
+
+
+
+
+
+                Play The Atlantic crossword
+               
+
+
+
+
+
+
+             The Print Edition
+            
+
+
+
+
+
+
+
+                Latest Issue
+               
+
+                Past Issues
+               
+
+
+
+               Give a Gift
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Search The Atlantic
+             
+
+
+
+
+
+
+
+
+
+
+
+             Quick Links
+            
+
+
+
+
+
+                Dear Therapist
+               
+
+
+
+
+
+
+                Crossword Puzzle
+               
+
+
+
+
+
+
+                Magazine Archive
+               
+
+
+
+
+
+
+                Your Subscription
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Popular
+        
+
+
+
+         Latest
+        
+
+
+
+         Newsletters
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          Sign In
+         
+
+
+
+          Subscribe
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Ideas
+          
+
+
+
+
+          The Congressman Telling Trump Supporters to ‘Buckle Up’
+         
+
+
+
+          Their civil war is imaginary, but there really are men with guns, more now than I’ve seen in 20 years of reporting on the right.
+         
+
+
+
+
+           By
+           
+            Jeff Sharlet
+           
+
+
+
+
+
+
+
+
+
+
+
+
+          The Atlantic / Getty
+         
+
+
+
+
+
+
+         June 11, 2023, 1:16 PM ET
+        
+
+
+
+
+          Share
+         
+
+
+
+          Saved Stories
+          
+
+
+
+
+
+          Save
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       The night that Donald Trump was indicted, Republican politicians again swore their allegiance to the man and the base for which he stands. Most invoked banana republics, but a bolder faction suggested retaliation. “We have now reached a war phase,” wrote Representative Andy Biggs on Twitter.
+       
+        “Eye for an eye.”
+       
+       Speaking in Georgia, Arizona’s failed gubernatorial candidate Kari Lake—continuing her audition for VP on Trump’s ticket—promised that 75 million armed Americans stood between Trump and prosecution. “That’s not a threat,” she smirked. “That’s a
+       
+        public-service announcement
+       
+       .” But Representative Clay Higgins of Louisiana, a former sheriff’s deputy, issued the most strident statement of all. He advised followers
+       
+        on Twitter
+       
+       :
+      
+
+
+
+         President Trump said he has “been summoned to appear at the Federal Courthouse in Miami on Tuesday, at 3 PM.”
+        
+
+         This is a perimeter probe from the oppressors. Hold. rPOTUS has this.
+        
+
+         Buckle up. 1/50K know your bridges. Rock steady calm. That is all.
+        
+
+
+
+       What? Liberals on Twitter at first delighted in what they saw as sputtering incoherence and reacted in their own cinematic vernacular: Monty Python memes, GIFs from
+       
+        Austin Powers
+       
+       and
+       
+        Anchorman
+       
+       . Then there was the ready-made response of the Trumpocene, the faux expression of concern for the speaker’s mental health. “Do you need help?”
+      
+
+       Such are the means by which some imagine the center still holds. “Humor,” they hope, is the best antidote to fascism, a term that more and more historians and political scientists say at last applies to a mass American movement, even as many news organizations still shy away from it. But the idea that liberals can or should just laugh off the threat is painfully naive.
+      
+
+       Higgins is a savvy digital soldier with real-world paramilitary credibility. He began his career at 18 as a military policeman in the Louisiana National Guard and later became a member of a SWAT team before gaining fame for viral videos in which he derided the masculinity of wanted criminals. “What you fellas are is the Virginia Slim gang,”
+       
+        he drawls
+       
+       in one. “You’re certainly not Marlboro Men.” Local and national press adored the routine: “We hear things about law enforcement and the excessive force that they use,” a Louisiana news anchor told
+       
+
+         The Washington Post
+        
+
+       in 2015, “but the only weapon Clay Higgins uses are his words.” The
+       
+        Post
+       
+       praised him as “the most irresistibly intimidating man in America.” “His future is certainly bright,” trilled CBS News.
+      
+
+       In fact, Higgins had resigned from a police force in 2007 to avoid being demoted after lying about
+       
+        striking
+       
+       a handcuffed prisoner. In 2016, he resigned from the St. Landry Parish Sheriff’s department rather than be “reigned in” after posting a video declaring his intention to
+       
+        “hunt” the “animals”
+       
+       of a local gang, mostly Black men whose faces and names he featured. That fall, he won his first race for Congress. He does not claim to be a saint. He refers often to his
+       
+        past
+       
+       . Last May, he posted a
+       
+        video
+       
+       of himself lifting a protester off his feet at a press conference and heaving him away. His fans know about the times he’s crossed the line; that’s why they like him. A “straight from central casting” type, as Trump might say, Higgins has cultivated the veneer of a man who’s seen, and done, dark things. Necessary things.
+      
+
+       Which was why, perhaps, shortly after entering Congress, his name showed up on a speaking bill with the white nationalist
+       
+        Richard Spencer
+       
+       . Higgins claimed that it was a mistake, but a month later he took the stage at a Washington, D.C., Oath Keepers rally, organized by Stewart Rhodes, who is now serving 18 years for seditious conspiracy and evidence tampering related to the January 6 insurrection. Gripping a red Bible he called the “rule book,” Higgins lamented the loss of an America in which “everybody had guns … guns in every vehicle … any child could buy a gun from any seller if Daddy sent them with the money.” This time, the press didn’t pay attention. “Hunting” young Black men may make you a media star, but standing with a group that much of the press even now insists is fringe didn’t make the news.
+      
+
+       But Lamar White Jr., a reporter for the small, independent online publication
+       
+
+         Bayou Brief,
+        
+
+       noticed that Higgins spoke in front of a flag featuring the ranch brand of the militia martyr LaVoy Finicum, who was killed in a standoff with police in 2016. Higgins didn’t win much attention when he told a gas-industry conference he was a
+       
+        “Three Percenter,”
+       
+       part of a militia movement that believes the U.S. government is tyrannical and must be confronted in the spirit of the Revolutionary War. In 2020, responding on Facebook to armed Black Lives Matter protesters, Higgins “promised” to shoot them on sight:
+       
+        “I’d drop any 10 of you where you stand.”
+       
+       “1450 fps fast,” he added, another bit of numerology some deemed cryptic. It refers to ammunition speed: 1,450 feet per second.
+      
+
+       Let’s revisit the Higgins tweet, then.
+      
+
+       Note that Higgins begins with “President Trump,” not “former President Trump.” That Trump is still president has been a Higgins claim since at least 2021, when he mourned Trump’s Facebook ban in a post of his own describing Joe Biden as
+       
+        “iPOTUS”
+       
+       controlled by a “cabal.”
+       
+        Cabal
+       
+       is a QAnon term;
+       
+        iPOTUS
+       
+       appears to be Higgins’s own coinage, possibly for “imposter POTUS.”
+      
+
+       “This is a perimeter probe from the oppressors,” Higgins’s tweet continues. The “oppressors,” of course, are members of the “cabal,” the tyranny decried by Three Percenters. Higgins has also referred to them as “Leviathan.” A
+       
+        perimeter probe
+       
+       is reconnaissance meant to determine your force’s strength.
+      
+
+       “Hold,” Higgins writes. Another way of putting that is “Stand back and stand by.” The term
+       
+        rPOTUS
+       
+       translates as “the real president, Trump.” “rPOTUS has this” will be read by some QAnon adherents—and the many more Trumpists who don’t identify with Q even as its mythology has seeped into standard GOP rhetoric—as “Trust the plan.” Trump has it under control. Everything is happening for a reason. “God wins.”
+      
+
+       “Buckle up”: Get ready. Remember what rPOTUS said in January after he stood for the J6 Prison Choir’s hit single “Justice for All”? That “2024 is the final battle.”
+      
+
+       Then comes the phrase that mystified those who don’t spend their weekends “training” for insurrection or doomsday: “1/50K know your bridges.” 1:50,000 is a scale used on military maps. It’s also used on some
+       
+        U.S. Geological Survey maps
+       
+       , largely in relation to areas surrounding military installations.
+       
+        Know your bridges
+       
+       isn’t jargon or metaphor. For the militia-minded, it means knowing the approaches to your location—especially bridges, which can be seized, much the way Canadian far-right truckers
+       
+        blockaded
+       
+       the Ambassador Bridge to Detroit in 2022.  And it can mean more than that. The liberal nightmare of militias marching on government institutions—realized on January 6—doesn’t match the fascist fantasy of retreating to strongholds. That is, of closing off counties under the authority of the “Constitutional sheriffs,” a popular movement that devolves—or escalates—from states’ rights to counties’ rights, with sheriffs empowered to enforce or not enforce laws as they see fit.
+      
+
+       “Rock steady calm,” writes Higgins. The moment, he is saying, is not now. Not yet. Hold your fire. Hold the line. Necessary rhetoric, because Higgins and the whole Freedom Caucus put together don’t have the status to actually summon the armed masses into action. So Higgins—like Andy Biggs, like Kari Lake, like Trump himself—alludes to the threat that fascism may yet pose. It’s a tidy maneuver: They spook liberals into mocking them. That mockery feeds their own base.
+      
+
+       Do they believe what they’re saying? Do they mean their violent implications? Does it matter? Their civil war is imaginary, but there really are men with guns, more now than I’ve seen in 20 years of reporting on the right.
+      
+
+       Two days after his bridges tweet, Higgins—who wouldn’t respond to my inquiries—
+       
+        posted this
+       
+       :
+      
+
+
+
+         “Patriots, we’ve manipulated the MSM to establish deep commo, now copy this … do NOT trip the wire they’ve laid for you. Maintain your family. Live your life. Know your bridges. Hold.
+        
+
+         Let Trump handle Trump, he’s got this. We use the Constitution as our only weapon. Peace. Hold.”
+        
+
+
+
+       Maybe you can translate it yourself now. “Deep commo”: psyops. “Do NOT trip the wire”: Don’t take the bait.
+      
+
+       There are, of course, “Feds” everywhere, as every militia member knows. Since January 6, it’s become conventional wisdom on the right that public displays of force are most likely antifa in disguise or FBI trolls, trying to make patriots simply fighting the cabal look crazy. The patriots aren’t. You are. You thought this was funny. That’s what they
+       
+        wanted
+       
+       you to think. Or so they tell themselves, communicating on a frequency that they believe the libs—the demon-crats—the globalists—the
+       
+        cabal
+       
+       —can’t hear. Too often, they’re right.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {"props":{"isLoggedIn":false,"hasPaywallAccess":false,"hasAdFree":false,"pageProps":{"id":"BlogArticle:674367","isTnfCompatible":true,"layout":"standard","hasMeter":true,"url":"https://www.theatlantic.com/ideas/archive/2023/06/the-congressman-telling-trump-supporters-to-buckle-up/674367/","dateModified":"2023-06-11T18:13:00Z","__typename":"BlogArticle","urqlState":{"2021745665":{"data":"{\"breakingNews\":null}"},"2380117496":{"data":"{\"article\":{\"primaryCategory\":{\"__typename\":\"Channel\"},\"editorialProject\":null,\"__typename\":\"BlogArticle\"}}"},"2393133985":{"data":"{\"article\":{\"id\":\"BlogArticle:674367\",\"isTnfCompatible\":true,\"layout\":\"standard\",\"hasMeter\":true,\"url\":\"https://www.theatlantic.com/ideas/archive/2023/06/the-congressman-telling-trump-supporters-to-buckle-up/674367/\",\"dateModified\":\"2023-06-11T18:13:00Z\",\"__typename\":\"BlogArticle\"}}"},"3674951690":{"data":"{\"article\":{\"__typename\":\"BlogArticle\",\"id\":\"BlogArticle:674367\",\"categories\":[{\"slug\":\"top-20\",\"__typename\":\"Category\"},{\"slug\":\"top-40\",\"__typename\":\"Category\"},{\"slug\":\"top-60\",\"__typename\":\"Category\"}],\"content\":[{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"The night that Donald Trump was indicted, Republican politicians again swore their allegiance to the man and the base for which he stands. Most invoked banana republics, but a bolder faction suggested retaliation. “We have now reached a war phase,” wrote Representative Andy Biggs on Twitter. \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://twitter.com/RepAndyBiggsAZ/status/1667241900938502146\\\"\u003e“Eye for an eye.”\u003c/a\u003e Speaking in Georgia, Arizona’s failed gubernatorial candidate Kari Lake—continuing her audition for VP on Trump’s ticket—promised that 75 million armed Americans stood between Trump and prosecution. “That’s not a threat,” she smirked. “That’s a \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.mediaite.com/politics/kari-lake-warns-biden-doj-will-have-to-go-through-card-carrying-members-of-the-nra-to-get-to-trump/\\\"\u003epublic-service announcement\u003c/a\u003e.” But Representative Clay Higgins of Louisiana, a former sheriff’s deputy, issued the most strident statement of all. He advised followers \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://twitter.com/RepClayHiggins/status/1666978397027803142\\\"\u003eon Twitter\u003c/a\u003e:\"},{\"__typename\":\"ArticleLegacyHtml\",\"tagName\":\"BLOCKQUOTE\",\"idAttr\":\"\",\"className\":\"\",\"style\":\"\",\"innerHtml\":\"\u003cp\u003ePresident Trump said he has “been summoned to appear at the Federal Courthouse in Miami on Tuesday, at 3 PM.”\u003c/p\u003e \u003cp\u003eThis is a perimeter probe from the oppressors. Hold. rPOTUS has this.\u003c/p\u003e \u003cp\u003eBuckle up. 1/50K know your bridges. Rock steady calm. That is all.\u003c/p\u003e\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"What? Liberals on Twitter at first delighted in what they saw as sputtering incoherence and reacted in their own cinematic vernacular: Monty Python memes, GIFs from \u003cem\u003eAustin Powers\u003c/em\u003e and \u003cem\u003eAnchorman\u003c/em\u003e. Then there was the ready-made response of the Trumpocene, the faux expression of concern for the speaker’s mental health. “Do you need help?”\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Such are the means by which some imagine the center still holds. “Humor,” they hope, is the best antidote to fascism, a term that more and more historians and political scientists say at last applies to a mass American movement, even as many news organizations still shy away from it. But the idea that liberals can or should just laugh off the threat is painfully naive.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Higgins is a savvy digital soldier with real-world paramilitary credibility. He began his career at 18 as a military policeman in the Louisiana National Guard and later became a member of a SWAT team before gaining fame for viral videos in which he derided the masculinity of wanted criminals. “What you fellas are is the Virginia Slim gang,” \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.cbsnews.com/news/cajun-john-wayne-clay-higgins-resigns-sheriffs-department-louisiana/\\\"\u003ehe drawls\u003c/a\u003e in one. “You’re certainly not Marlboro Men.” Local and national press adored the routine: “We hear things about law enforcement and the excessive force that they use,” a Louisiana news anchor told \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.washingtonpost.com/news/morning-mix/wp/2015/05/06/americas-most-intimidating-cop-may-be-a-la-deputy-known-as-the-cajun-john-wayne/\\\"\u003e\u003cem\u003eThe Washington Post\u003c/em\u003e\u003c/a\u003e in 2015, “but the only weapon Clay Higgins uses are his words.” The \u003cem\u003ePost\u003c/em\u003e praised him as “the most irresistibly intimidating man in America.” “His future is certainly bright,” trilled CBS News.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"In fact, Higgins had resigned from a police force in 2007 to avoid being demoted after lying about \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.nola.com/news/politics/under-congress-police-reform-package-clay-higgins-own-policing-career-mightve-drawn-closer-scrutiny/article_59bbcfaa-b8bc-11ea-a62c-b3fcb0471028.html\\\"\u003estriking\u003c/a\u003e a handcuffed prisoner. In 2016, he resigned from the St. Landry Parish Sheriff’s department rather than be “reigned in” after posting a video declaring his intention to \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.youtube.com/watch?v=KjtGkrxnKA8\\\"\u003e“hunt” the “animals”\u003c/a\u003e of a local gang, mostly Black men whose faces and names he featured. That fall, he won his first race for Congress. He does not claim to be a saint. He refers often to his \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.cbsnews.com/news/cajun-john-wayne-clay-higgins-resigns-sheriffs-department-louisiana/\\\"\u003epast\u003c/a\u003e. Last May, he posted a \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://twitter.com/i/status/1659276989469949952\\\"\u003evideo\u003c/a\u003e of himself lifting a protester off his feet at a press conference and heaving him away. His fans know about the times he’s crossed the line; that’s why they like him. A “straight from central casting” type, as Trump might say, Higgins has cultivated the veneer of a man who’s seen, and done, dark things. Necessary things.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Which was why, perhaps, shortly after entering Congress, his name showed up on a speaking bill with the white nationalist \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.theatlantic.com/magazine/archive/2017/06/his-kampf/524505/\\\"\u003eRichard Spencer\u003c/a\u003e. Higgins claimed that it was a mistake, but a month later he took the stage at a Washington, D.C., Oath Keepers rally, organized by Stewart Rhodes, who is now serving 18 years for seditious conspiracy and evidence tampering related to the January 6 insurrection. Gripping a red Bible he called the “rule book,” Higgins lamented the loss of an America in which “everybody had guns … guns in every vehicle … any child could buy a gun from any seller if Daddy sent them with the money.” This time, the press didn’t pay attention. “Hunting” young Black men may make you a media star, but standing with a group that much of the press even now insists is fringe didn’t make the news.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"But Lamar White Jr., a reporter for the small, independent online publication \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.bayoubrief.com/2018/08/13/captain-of-the-militia/\\\"\u003e\u003cem\u003eBayou Brief,\u003c/em\u003e\u003c/a\u003e noticed that Higgins spoke in front of a flag featuring the ranch brand of the militia martyr LaVoy Finicum, who was killed in a standoff with police in 2016. Higgins didn’t win much attention when he told a gas-industry conference he was a \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.desmog.com/2018/10/18/congressman-clay-higgens-gas-industry-three-percenters/\\\"\u003e“Three Percenter,”\u003c/a\u003e part of a militia movement that believes the U.S. government is tyrannical and must be confronted in the spirit of the Revolutionary War. In 2020, responding on Facebook to armed Black Lives Matter protesters, Higgins “promised” to shoot them on sight: \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.klfy.com/local/congressman-post-suggesting-he-would-shoot-and-drop-any-10-of-you-where-you-stand-goes-viral-sparks-mixed-reaction/\\\"\u003e“I’d drop any 10 of you where you stand.”\u003c/a\u003e “1450 fps fast,” he added, another bit of numerology some deemed cryptic. It refers to ammunition speed: 1,450 feet per second.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Let’s revisit the Higgins tweet, then.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Note that Higgins begins with “President Trump,” not “former President Trump.” That Trump is still president has been a Higgins claim since at least 2021, when he mourned Trump’s Facebook ban in a post of his own describing Joe Biden as \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.facebook.com/captclayhiggins/posts/3423659354403719/?paipv=0\u0026amp;eav=AfYeeyxD2DB8-s12twCKg_WPRBErydPF4TMJ_Mdyi0UjhNTFmgkVZ2qCMhInO-yHajI\u0026amp;_rdr\\\"\u003e“iPOTUS”\u003c/a\u003e controlled by a “cabal.” \u003cem\u003eCabal\u003c/em\u003e is a QAnon term; \u003cem\u003eiPOTUS\u003c/em\u003e appears to be Higgins’s own coinage, possibly for “imposter POTUS.”\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"“This is a perimeter probe from the oppressors,” Higgins’s tweet continues. The “oppressors,” of course, are members of the “cabal,” the tyranny decried by Three Percenters. Higgins has also referred to them as “Leviathan.” A \u003cem\u003eperimeter probe\u003c/em\u003e is reconnaissance meant to determine your force’s strength.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"“Hold,” Higgins writes. Another way of putting that is “Stand back and stand by.” The term \u003cem\u003erPOTUS\u003c/em\u003e translates as “the real president, Trump.” “rPOTUS has this” will be read by some QAnon adherents—and the many more Trumpists who don’t identify with Q even as its mythology has seeped into standard GOP rhetoric—as “Trust the plan.” Trump has it under control. Everything is happening for a reason. “God wins.”\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"“Buckle up”: Get ready. Remember what rPOTUS said in January after he stood for the J6 Prison Choir’s hit single “Justice for All”? That “2024 is the final battle.”\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Then comes the phrase that mystified those who don’t spend their weekends “training” for insurrection or doomsday: “1/50K know your bridges.” 1:50,000 is a scale used on military maps. It’s also used on some \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.usgs.gov/faqs/does-usgs-have-150000-scale-maps-military-uses-united-states\\\"\u003eU.S. Geological Survey maps\u003c/a\u003e, largely in relation to areas surrounding military installations. \u003cem\u003eKnow your bridges\u003c/em\u003e isn’t jargon or metaphor. For the militia-minded, it means knowing the approaches to your location—especially bridges, which can be seized, much the way Canadian far-right truckers \u003ca data-event-element=\\\"inline link\\\" href=\\\"https://www.youtube.com/watch?v=kOXaagR4Jvc\\\"\u003eblockaded \u003c/a\u003ethe Ambassador Bridge to Detroit in 2022.  And it can mean more than that. The liberal nightmare of militias marching on government institutions—realized on January 6—doesn’t match the fascist fantasy of retreating to strongholds. That is, of closing off counties under the authority of the “Constitutional sheriffs,” a popular movement that devolves—or escalates—from states’ rights to counties’ rights, with sheriffs empowered to enforce or not enforce laws as they see fit.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"“Rock steady calm,” writes Higgins. The moment, he is saying, is not now. Not yet. Hold your fire. Hold the line. Necessary rhetoric, because Higgins and the whole Freedom Caucus put together don’t have the status to actually summon the armed masses into action. So Higgins—like Andy Biggs, like Kari Lake, like Trump himself—alludes to the threat that fascism may yet pose. It’s a tidy maneuver: They spook liberals into mocking them. That mockery feeds their own base.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Do they believe what they’re saying? Do they mean their violent implications? Does it matter? Their civil war is imaginary, but there really are men with guns, more now than I’ve seen in 20 years of reporting on the right.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Two days after his bridges tweet, Higgins—who wouldn’t respond to my inquiries—\u003ca data-event-element=\\\"inline link\\\" href=\\\"https://twitter.com/RepClayHiggins/status/1667557694163632128\\\"\u003eposted this\u003c/a\u003e:\"},{\"__typename\":\"ArticleLegacyHtml\",\"tagName\":\"BLOCKQUOTE\",\"idAttr\":\"\",\"className\":\"\",\"style\":\"\",\"innerHtml\":\"\u003cp\u003e“Patriots, we’ve manipulated the MSM to establish deep commo, now copy this … do NOT trip the wire they’ve laid for you. Maintain your family. Live your life. Know your bridges. Hold.\u003c/p\u003e \u003cp\u003eLet Trump handle Trump, he’s got this. We use the Constitution as our only weapon. Peace. Hold.”\u003c/p\u003e\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"Maybe you can translate it yourself now. “Deep commo”: psyops. “Do NOT trip the wire”: Don’t take the bait.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"There are, of course, “Feds” everywhere, as every militia member knows. Since January 6, it’s become conventional wisdom on the right that public displays of force are most likely antifa in disguise or FBI trolls, trying to make patriots simply fighting the cabal look crazy. The patriots aren’t. You are. You thought this was funny. That’s what they \u003cem\u003ewanted\u003c/em\u003e you to think. Or so they tell themselves, communicating on a frequency that they believe the libs—the demon-crats—the globalists—the \u003cem\u003ecabal\u003c/em\u003e—can’t hear. Too often, they’re right.\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"\"},{\"__typename\":\"ArticleParagraphContent\",\"subtype\":null,\"idAttr\":\"\",\"innerHtml\":\"\"}],\"editorialProject\":null,\"primaryCategory\":{\"__typename\":\"Channel\",\"displayName\":\"Ideas\",\"url\":\"https://www.theatlantic.com/ideas/\",\"slug\":\"ideas\"},\"reviews\":[],\"embeds\":[],\"authors\":[{\"id\":\"Author:38370\",\"displayName\":\"Jeff Sharlet\",\"url\":\"https://www.theatlantic.com/author/jeff-sharlet/\",\"biography\":{\"default\":\"\u003ca href=\\\"https://www.theatlantic.com/author/jeff-sharlet/\\\" class=\\\"author-link\\\" data-label=\\\"https://www.theatlantic.com/author/jeff-sharlet/\\\" data-action=\\\"click author - name\\\"  \u003eJeff Sharlet\u003c/a\u003e’s most recent book is The Undertow: Scenes From a Slow Civil War. He is Professor in the Art of Writing at Dartmouth College.\",\"__typename\":\"Biography\"},\"socialMedia\":[{\"platform\":\"TWITTER\",\"url\":\"https://twitter.com/JeffSharlet\",\"__typename\":\"SocialMedia\"}],\"__typename\":\"Author\",\"slug\":\"jeff-sharlet\"}],\"preview\":null,\"layout\":\"standard\",\"secondaryByline\":\"\",\"dek\":\"Their civil war is imaginary, but there really are men with guns, more now than I’ve seen in 20 years of reporting on the right.\",\"url\":\"https://www.theatlantic.com/ideas/archive/2023/06/the-congressman-telling-trump-supporters-to-buckle-up/674367/\",\"title\":\"The Congressman Telling Trump Supporters to ‘Buckle Up’\",\"seoTitle\":\"The Congressman Telling Trump Supporters to ‘Buckle Up’\",\"dateModified\":\"2023-06-11T18:13:00Z\",\"datePublished\":\"2023-06-11T17:16:00Z\",\"hasMeter\":true,\"primaryChannel\":{\"displayName\":\"Ideas\",\"__typename\":\"Channel\",\"slug\":\"ideas\"},\"shareImage1x1\":{\"width\":1080,\"height\":1080,\"url\":\"https://cdn.theatlantic.com/thumbor/Dh0uqg92m7vSlti4mQWXqZx4xi8=/438x0:1563x1125/1080x1080/media/img/mt/2023/06/hickson_militia/original.jpg\",\"__typename\":\"BasicImage\"},\"shareImage16x9\":{\"width\":1600,\"height\":900,\"url\":\"https://cdn.theatlantic.com/thumbor/T4EJpiZPbvbgCiUz38CuTjR4VW4=/0x0:2000x1125/1600x900/media/img/mt/2023/06/hickson_militia/original.jpg\",\"__typename\":\"BasicImage\"},\"shareImage4x3\":{\"width\":1200,\"height\":900,\"url\":\"https://cdn.theatlantic.com/thumbor/C5DI47a6KIGqYTFm8-5Iu5dKPX0=/249x0:1749x1125/1200x900/media/img/mt/2023/06/hickson_militia/original.jpg\",\"__typename\":\"BasicImage\"},\"shareImageDefault\":{\"width\":960,\"height\":540,\"url\":\"https://cdn.theatlantic.com/thumbor/C80V1P0O3n4gfecjCL4yQEX5YGE=/0x0:2000x1125/960x540/media/img/mt/2023/06/hickson_militia/original.jpg\",\"__typename\":\"BasicImage\"},\"shareImageSquareDefault\":{\"width\":540,\"height\":540,\"url\":\"https://cdn.theatlantic.com/thumbor/deWXK4rrjcwNLqxP5glM2LLp_mQ=/438x0:1563x1125/540x540/media/img/mt/2023/06/hickson_militia/original.jpg\",\"__typename\":\"BasicImage\"},\"shareImageLeadArt\":{\"image\":{\"width\":720,\"height\":405,\"url\":\"https://cdn.theatlantic.com/thumbor/d5XidTc0KzyvS5__8IA85enxKZc=/0x0:2000x1125/720x405/media/img/mt/2023/06/hickson_militia/original.jpg\",\"__typename\":\"BasicImage\"},\"__typename\":\"LeadArtImage\"},\"shareDek\":\"Their civil war is imaginary, but there really are men with guns, more now than I’ve seen in 20 years of reporting on the right.\",\"shareText\":\"Representative Clay Higgins \\\"is a savvy digital soldier with real-world paramilitary credibility,\\\" writes @JeffSharlet:\",\"shareTitle\":\"The Congressman Telling Trump Supporters to ‘Buckle Up’\",\"editorsNote\":null,\"leadArt\":{\"__typename\":\"LeadArtImage\",\"image\":{\"url\":\"https://cdn.theatlantic.com/thumbor/C80V1P0O3n4gfecjCL4yQEX5YGE=/0x0:2000x1125/960x540/media/img/mt/2023/06/hickson_militia/original.jpg\",\"width\":960,\"height\":540,\"srcSet\":\"https://cdn.theatlantic.com/thumbor/v7H6ns5W4Yku3Dw_JjcjDwDxhM8=/0x0:2000x1125/750x422/media/img/mt/2023/06/hickson_militia/original.jpg 750w, https://cdn.theatlantic.com/thumbor/d9Na1gqghfACI1ClM_2GSg2knpk=/0x0:2000x1125/828x466/media/img/mt/2023/06/hickson_militia/original.jpg 828w, https://cdn.theatlantic.com/thumbor/C80V1P0O3n4gfecjCL4yQEX5YGE=/0x0:2000x1125/960x540/media/img/mt/2023/06/hickson_militia/original.jpg 960w, https://cdn.theatlantic.com/thumbor/M4Xwd52sQbwGS3pIQxEx-FCSu6M=/0x0:2000x1125/976x549/media/img/mt/2023/06/hickson_militia/original.jpg 976w, https://cdn.theatlantic.com/thumbor/BjbyNjnVIYWPWTie5njmFX1GjgE=/0x0:2000x1125/1952x1098/media/img/mt/2023/06/hickson_militia/original.jpg 1952w\",\"reducedMotionSrcSet\":null,\"altText\":\"Representative Clay Higgins and the image of a soldier in outline.\",\"captionText\":\"\",\"attributionText\":\"The Atlantic / Getty\",\"attributionUrl\":\"\",\"__typename\":\"BasicImage\"}},\"narratedAudio\":null,\"narratedAudioImage\":{\"url\":\"https://cdn.theatlantic.com/thumbor/ZtvYSNBsh3o9t-60GjaFyXBjDSM=/438x0:1563x1125/80x80/media/img/mt/2023/06/hickson_militia/original.jpg\",\"srcSet\":\"https://cdn.theatlantic.com/thumbor/ZtvYSNBsh3o9t-60GjaFyXBjDSM=/438x0:1563x1125/80x80/media/img/mt/2023/06/hickson_militia/original.jpg 80w, https://cdn.theatlantic.com/thumbor/XsrnEvGbEQBjxxL9RutqdhwOc8U=/438x0:1563x1125/96x96/media/img/mt/2023/06/hickson_militia/original.jpg 96w, https://cdn.theatlantic.com/thumbor/VRImt_fy_VrhdhXkKGe_qO_1pSM=/438x0:1563x1125/128x128/media/img/mt/2023/06/hickson_militia/original.jpg 128w, https://cdn.theatlantic.com/thumbor/Md4B6EDUqLGEOxip40bKM0xmRgw=/438x0:1563x1125/160x160/media/img/mt/2023/06/hickson_militia/original.jpg 160w, https://cdn.theatlantic.com/thumbor/C-rxeLVjdZvVRnaWvpnMMuzSlNc=/438x0:1563x1125/192x192/media/img/mt/2023/06/hickson_militia/original.jpg 192w, https://cdn.theatlantic.com/thumbor/PuRN2vbQ5P1aTRyCgI54mLRrra4=/438x0:1563x1125/256x256/media/img/mt/2023/06/hickson_militia/original.jpg 256w, https://cdn.theatlantic.com/thumbor/IHIfPIqWlTkeDb4ad_U1hAwfNa0=/438x0:1563x1125/384x384/media/img/mt/2023/06/hickson_militia/original.jpg 384w, https://cdn.theatlantic.com/thumbor/kP-S0VkBq3k-27N6feo92W_zBuU=/438x0:1563x1125/512x512/media/img/mt/2023/06/hickson_militia/original.jpg 512w\",\"width\":80,\"height\":80,\"altText\":\"Representative Clay Higgins and the image of a soldier in outline.\",\"__typename\":\"BasicImage\"},\"fbiaUrl\":\"https://www.theatlantic.com/facebook-instant/article/674367/\",\"canonicalUrl\":\"https://www.theatlantic.com/ideas/archive/2023/06/the-congressman-telling-trump-supporters-to-buckle-up/674367/\",\"syndication\":\"ALL\",\"shareImage2x1\":{\"url\":\"https://cdn.theatlantic.com/thumbor/M9GifpWNZyCOLkXPW_q7izP-c5M=/0x43:2000x1085/1200x625/media/img/mt/2023/06/hickson_militia/original.jpg\",\"height\":625,\"width\":1200,\"__typename\":\"BasicImage\"},\"shareImageSmall\":{\"url\":\"https://cdn.theatlantic.com/thumbor/-QblVQWZtj2hcETHXO4clfOd5Mk=/4x41:1996x1087/960x504/media/img/mt/2023/06/hickson_militia/original.jpg\",\"height\":504,\"width\":960,\"__typename\":\"BasicImage\"},\"channels\":[{\"slug\":\"ideas\",\"__typename\":\"Channel\"}],\"watsonInfo\":{\"keywords\":[\"Representative Clay Higgins of Louisiana\",\"only weapon Clay Higgins uses\",\"Donald Trump\",\"most strident statement\",\"perimeter probe\",\"Washington Post\",\"excessive force\",\"ready-made response of the Trumpocene\",\"national press\",\"viral videos\",\"speaking bill\",\"Louisiana National Guard\",\"Higgins claim\",\"local gang\",\"independent online publication Bayou Brief\",\"Canadian far-right truckers\",\"Higgins tweet\",\"St. Landry Parish Sheriff’s department\",\"news.But Lamar White Jr.\",\"Necessary things.Which\",\"CBS News.In fact\",\"most irresistibly intimidating man\",\"QAnon term\",\"news organizations\",\"press conference\",\"part of a militia movement\",\"conventional wisdom\",\"tidy maneuver\",\"political scientists\",\"President Trump\",\"law enforcement\",\"police force\",\"Last May\",\"mass American movement\",\"Trump’s ticket\",\"Higgins’s own coinage\",\"rule book\",\"popular movement\",\"deep commo\",\"U.S. Geological Survey\",\"member of a SWAT team\",\"war phase\",\"gubernatorial candidate Kari Lake\",\"former sheriff’s deputy\",\"best antidote\",\"still president\",\"military policeman\",\"liberal nightmare of militias\",\"Oath Keepers rally\",\"Higgins\"],\"__typename\":\"WatsonInfo\"},\"slug\":\"the-congressman-telling-trump-supporters-to-buckle-up\",\"grapeshot\":{\"segments\":[\"shadow9hu7_pos_bofa-kwlist\",\"shadow9hu7_pos_lexus_fy23\",\"politics_tbs_anyrisk\",\"gs_politics\",\"shadow9hu7_pos_safe_strict\",\"tbs_anyrisk\",\"shadow9hu7_pos_customtopics\",\"gt_negative\",\"gs_politics_issues_policy\",\"gs_politics_misc\",\"gs_law\",\"shadow9hu7_pos_safe_core\",\"gb_arms_edu\",\"gs_politics_american\",\"gv_military\",\"elections\",\"gs_tech_compute_net_social\"],\"__typename\":\"Grapeshot\"},\"advertisingInfo\":{\"disableHouseAd\":false,\"__typename\":\"AdvertisingInfo\"}}}"}},"urqlClient":null}},"page":"/[channel]/archive/[year]/[month]/[slug]/[id]","query":{"channel":"ideas","year":"2023","month":"06","slug":"the-congressman-telling-trump-supporters-to-buckle-up","id":"674367"},"buildId":"d9bea7393d","assetPrefix":"https://cdn.theatlantic.com","runtimeConfig":{"GTM_CONTAINER_ID":"GTM-NTQTB9V","GTM_CONTAINER_ID_NONCONSENTED":"GTM-5839GV7","GRAPHQL_API_URL":"https://graphql.theatlantic.com","GRAPHQL_API_KEY":"JakhyMEXwa9odtB8gBxFI63ITyKqDGkn7ciGVIJf","ADS_LIB_URL":"https://www.theatlantic.com/packages/adsjs/ads.min.js","ACCOUNTS_FRONTEND_URL":"https://accounts.theatlantic.com","ENABLE_FEATURE_ARTICLE_RENDER":"false","RECAPTCHA_SITE_KEY":"6Lc9Z7AUAAAAAEYS1dgAG2_6tT3KLqZQ1z4kbDRc"},"isFallback":false,"dynamicIds":[40487,91860],"gip":true,"appGip":true,"scriptLoader":[]}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

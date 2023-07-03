@@ -1,0 +1,3465 @@
+
+
+
+
+
+
+
+
+
+
+
+    (function(){var p = document.getElementsByTagName('script')[0],s = document.createElement('script');s.async = 1;s.src = '/6zcfGH4h/init.js';p.parentNode.insertBefore(s,p);}());
+   
+
+
+
+
+
+
+    function OptanonWrapper() { }
+   
+
+
+
+
+    window.addEventListener("load", function() {
+			const oneTrustAccept = document.getElementById("onetrust-accept-btn-handler");
+			oneTrustAccept?.addEventListener("click", function() {
+				permutive.consent({"opt_in": true, "token": window.NXSTdata.identity.blueconicId});
+			});
+		});
+   
+
+    window.addEventListener("load", function() {
+        // Promise that check if the user has consented or not
+        window.consentGranted = () => new Promise((resolve) => {
+            if (window.__uspapi && 'function' === typeof __uspapi) {
+                __uspapi('getUSPData', 1, (uspData, success) => {
+                    if(success) {
+                        const consent = uspData.uspString.split('')[2];
+                        if (consent === 'N') {
+                            resolve(true);
+                        } else {
+                            resolve(false);
+                        }
+                    } else {
+                        resolve(false);
+                    }
+                });
+            } else {
+                resolve(false);
+            }
+        });
+
+        // Dispatch event for user consent
+        window.OneTrust?.OnConsentChanged(({ detail }) => {
+            const nxsConsentEvent = new CustomEvent('nxsConsent', { detail });
+            dispatchEvent(nxsConsentEvent);
+        });
+
+        // groups the user has consented to
+        window.nxsConsentGroups = window.OnetrustActiveGroups;
+    })
+   
+
+
+
+    window.NXSTdata = window.NXSTdata || {};
+			window.NXSTdata.content = window.NXSTdata.content || {};
+			window.NXSTdata.page = window.NXSTdata.page || {};
+			window.NXSTdata.site = window.NXSTdata.site || {};
+			window.NXSTdata.ads = window.NXSTdata.ads || {};
+			window.NXSTdata.layout = window.NXSTdata.layout || {};
+			window.NXSTdata.privacy = window.NXSTdata.privacy || {};
+			window.NXSTdata.alerts = window.NXSTdata.alerts || {};
+			window.NXSTdata.location = window.NXSTdata.location || {};
+			window.NXSTdata.content = Object.assign( window.NXSTdata.content, {"title":"Christie: Details of Trump indictment \u2018devastating\u2019","homepageTitle":"","metaKeywords":"","socialTitle":"","pageType":"article","authorName":"Jared Gans","authorNonByline":"","description":"Former New Jersey Gov. Chris Christie (R), a GOP presidential candidate for 2024, said the details of the federal indictment against former President Trump are &ldquo;devastating.&rdquo;&nbsp; &ldquo;The fact is that these facts are devastating,&rdquo; Christie told CNN&rsquo;s Jake Tapper in an interview on Friday.&nbsp; Christie noted that the indictment accuses Trump of directing what documents&hellip;","publicationDate":"2023-06-10T09:40:38-04:00","lastModifiedDate":"2023-06-10T09:51:25-04:00","publicationDayOfWeek":"Saturday","categoryList":["Campaign","News"],"primaryCategory":"Campaign","tagList":["indictment","Mar-a-Lago","Trump classified documents"],"wordCount":404,"paragraphCount":11,"imageCount":0,"videoCount":0,"slideshowCount":0,"pageId":4043710,"providerName":"TheHill","isShared":false,"originalSource":"","sharingMode":"","pageDcode":["308","301","303","304","306","307","289","271","299","278","297","294","295","292","290"],"localId":"thehill-2-article-4043710","seoTitle":"","iabGenre":["politics"],"iabCategory":["IAB11-4 "],"initialCreator":"jgans","newsletterTitle":"","primaryCategoryId":1077,"persistentId":"thehill-2-article-4043710","nlpSentiment":{"score":-0.5,"magnitude":7.9},"nlpCategories":{"\/News\/Politics":0.97},"nlpOther":{"Trump":0.1,"Details":0.06,"indictment":0.02,"information":0.02,"type":0.01,"facts":0.01,"fact":0.01,"documents":0.01},"nlpPerson":{"Chris Christie":0.05,"Christie":0.02,"government recordkeepers":0.01,"investigators":0.01,"Jake Tapper":0.01,"individuals":0.01},"nlpLocation":{"Mar-a-Lago":0.02},"subCategory1":"","subCategory2":"","subCategory1Id":"","subCategory2Id":""} )
+			window.NXSTdata.page = Object.assign( window.NXSTdata.page, {"canonicalUrl":"https:\/\/thehill.com\/homenews\/campaign\/4043710-christie-details-of-trump-indictment-devastating\/","ampUrl":"https:\/\/thehill.com\/homenews\/campaign\/4043710-christie-details-of-trump-indictment-devastating\/amp\/","urlHostname":"https:\/\/thehill.com","urlSlug":"4043710-christie-details-of-trump-indictment-devastating","directoryPath":["homenews","campaign"]} )
+			window.NXSTdata.site = Object.assign( window.NXSTdata.site, {"activeTheme":"thehill.com","appVersion":"wp","brandName":"The Hill","callSign":"hill","domainName":"thehill.com","timeZone":"America\/New_York","segmentKey":"7pQqdpSKE8rc12w83fBiAoQVD4llInQJ","gaId":"","networkId":"thehill-2"} )
+			window.NXSTdata.ads = Object.assign( window.NXSTdata.ads, {"adSlots":[],"adUnitPath":"news\/campaign","a9Enabled":true,"confiantEnabled":true,"indexExchangeEnabled":false,"nativoEnabled":true,"revContentEnabled":true,"prebidEnabled":true,"teadsEnabled":true,"isSponsored":false,"sponsor":"","companionsEnabled":true,"htlbidEnabled":false,"magniteEnabled":false} )
+			window.NXSTdata.layout = Object.assign( window.NXSTdata.layout, {"mainModule":""} )
+			window.NXSTdata.location = Object.assign( window.NXSTdata.location, {"publicIp":"67.162.254.000"} )
+   
+
+
+
+
+    !function(n,e,i){if(!n){n=n||{},window.permutive=n,n.q=[],n.config=i||{},n.config.apiKey=e,n.config.environment=n.config.environment||"production";for(var o=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],r=0;r<o.length;r++){var t=o[r];n[t]=function(e){return function(){var i=Array.prototype.slice.call(arguments,0);n.q.push({functionName:e,arguments:i})}}(t)}}}(window.permutive,"fc894c11-5ec8-48d7-b952-0a3aefdb3968", { "consentRequired": true });
+			window.googletag=window.googletag||{},window.googletag.cmd=window.googletag.cmd||[],window.googletag.cmd.push(function(){if(0===window.googletag.pubads().getTargeting("permutive").length){var g=window.localStorage.getItem("_pdfps");window.googletag.pubads().setTargeting("permutive",g?JSON.parse(g):[])}});
+
+			// Consent the user on permutive based on the user consent
+			window.addEventListener("load", async function() {
+				// Listen for change in user consent and enable the SDK accordingly
+				addEventListener('nxsConsent', async () => {
+					window.permutive.consent({
+						"opt_in": await window.consentGranted(),
+						"token": "GRANTED",
+					});
+				});
+
+				// Enable Permutive SDK by default is consent not required according to OneTrust
+				if (window.nxsConsentGroups?.includes('Notice_Only')) {
+					window.permutive.consent({
+						"opt_in": false,
+						"token": "none"
+					});
+				// Enable SDK if user has submitted consent
+				} else if (await window.consentGranted()) {
+					window.permutive.consent({
+						"opt_in": true,
+						"token": "GRANTED",
+					});
+				}
+			});
+
+			if (window.NXSTdata.identity.blueconicId) {
+				permutive.identify([
+					{
+						id: NXSTdata.identity.nexstarId,
+						tag: "nexstar_id",
+						priority: 0
+					}
+				]);
+				permutive.identify([
+					{
+						id: window.NXSTdata.identity.blueconicId,
+						tag: "blueconic_id",
+						priority: 1
+					}
+				]);
+			}
+			var isNlpCategoriesAnObject = 'object' === typeof window.NXSTdata.content.nlpCategories && null !== window.NXSTdata.content.nlpCategories;
+			var isNlpSentimentAnObject = 'object' === typeof window.NXSTdata.content.nlpSentiment && null !== window.NXSTdata.content.nlpSentiment;
+			var pageVars = {
+					"content": {
+					"pageType": window.NXSTdata.content.pageType,
+					"authorName": window.NXSTdata.content.authorName,
+					"providerName": window.NXSTdata.content.providerName,
+					"categoryList": window.NXSTdata.content.categoryList,
+					"primaryCategory": window.NXSTdata.content.primaryCategory,
+					"wordCount": window.NXSTdata.content.wordCount,
+					"paragraphCount": window.NXSTdata.content.paragraphCount,
+					"tagList": window.NXSTdata.content.tagList,
+					"nlpCategories1": isNlpCategoriesAnObject ? Object.keys(window.NXSTdata.content.nlpCategories)[0] : '',
+					"nlpCategories2": isNlpCategoriesAnObject ? Object.keys(window.NXSTdata.content.nlpCategories)[1] : '',
+					"nlpCategories3": isNlpCategoriesAnObject ? Object.keys(window.NXSTdata.content.nlpCategories)[2] : '',
+					"nlpConsumerGood": 'object' === typeof window.NXSTdata.content.nlpConsumerGood && null !== window.NXSTdata.content.nlpConsumerGood ? Object.keys(window.NXSTdata.content.nlpConsumerGood).toString() : '',
+					"nlpEvent": 'object' === typeof window.NXSTdata.content.nlpEvent && null !== window.NXSTdata.content.nlpEvent ? Object.keys(window.NXSTdata.content.nlpEvent).toString() : '',
+					"nlpLocation": 'object' === typeof window.NXSTdata.content.nlpLocation && null !== window.NXSTdata.content.nlpLocation ? Object.keys(window.NXSTdata.content.nlpLocation).toString() : '',
+					"nlpOrganization": 'object' === typeof window.NXSTdata.content.nlpOrganization && null !== window.NXSTdata.content.nlpOrganization ? Object.keys(window.NXSTdata.content.nlpOrganization).toString() : '',
+					"nlpPerson": 'object' === typeof window.NXSTdata.content.nlpPerson && null !== window.NXSTdata.content.nlpPerson ? Object.keys(window.NXSTdata.content.nlpPerson).toString() : '',
+					},
+					"page": {
+						"utmCampaign": window.NXSTdata.page.queryParams.utm_campaign,
+						"utmMedium": window.NXSTdata.page.queryParams.utm_medium,
+						"utmSource": window.NXSTdata.page.queryParams.utm_source,
+					},
+				};
+				if ( isNlpSentimentAnObject ) {
+					pageVars['content']['nlpSentimentScore'] = window.NXSTdata.content.nlpSentiment.score;
+				}
+				if ( isNlpSentimentAnObject ) {
+					pageVars['content']['nlpSentimentMag'] = window.NXSTdata.content.nlpSentiment.magnitude;
+				}
+
+			permutive.addon('web', {
+				page: pageVars,
+			});
+   
+
+
+
+
+
+
+
+
+    var page_url = "https:\/\/thehill.com\/homenews\/campaign\/4043710-christie-details-of-trump-indictment-devastating\/" || "";
+var cats = "Campaign,News" || "";
+var bob_kw = "indictment,Mar-a-Lago,Trump classified documents" || "";
+var bob_desc = "Former New Jersey Gov. Chris Christie (R), a GOP presidential candidate for 2024, said the details of the federal indictment against former President Trump are \u201cdevastating.\u201d\u00a0 \u201cThe fact is that these facts are devastating,\u201d Christie told CNN\u2019s Jake Tapper in an interview on Friday.\u00a0 Christie noted that the indictment accuses Trump of directing what documents\u2026" || "";
+var bob_story_author = "Jared Gans" || "";
+var cat_data = "&cats=" + encodeURIComponent(cats) + "&bob_kw=" + encodeURIComponent(bob_kw) + "&bob_desc=" + encodeURIComponent(bob_desc) + "&story_author=" + encodeURIComponent(bob_story_author) + "&page_url=" + encodeURIComponent(page_url);
+var bob_base = "bob.dmpxs.com";
+
+var bob_cb = '1';
+bob_cb = ((new Date()).getTime() + "" + Math.floor(Math.random() * 1000000)).substr(0, 16);
+(function () {
+var bob_tag = document.createElement('script');
+bob_tag.type = 'text/javascript';
+bob_tag.async = true;
+bob_tag.id = "bob_tag";
+bob_tag.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + bob_base + '/static/bob_001.js?bob_cb=' + bob_cb + cat_data;
+var bts = document.getElementsByTagName('script')[0];
+bts.parentNode.insertBefore(bob_tag, bts);
+})();
+   
+
+    var page_url = "https:\/\/thehill.com\/homenews\/campaign\/4043710-christie-details-of-trump-indictment-devastating\/" || "";
+	var video_asset_url = "https:\/\/tkx.mp.lura.live\/rest\/v2\/mcp\/video\/8721143?anvack=q261XAmOMdqqRf1p7eCo7IYmO1kyPmMB&token=%7E5i%2B7cJIDbkS%2BMCtUbliiXbloGseZvo70MQ%3D%3D" || "";
+
+	var bob_cb = '1';
+	bob_cb = ((new Date()).getTime() + "" + Math.floor(Math.random() * 1000000)).substr(0, 16);
+	(function() {
+	var bob_tag_003 = document.createElement('script');
+	bob_tag_003.type = 'text/javascript';
+	bob_tag_003.id = "bob_tag_003";
+	bob_tag_003.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + bob_base + '/static/bob_003.js?bob_cb=' + bob_cb + '&page_url=' + page_url  + '&vid_asset_url=' + video_asset_url;
+	var bts_003 = document.getElementsByTagName('script')[0];
+	bts_003.parentNode.insertBefore(bob_tag_003,bts_003);
+	})();
+   
+
+    function setupS2NApi(getS2NApiForPlayer) {
+const s2nApi = getS2NApiForPlayer(document.querySelector('.s2nFriendlyFrame'));
+if(document.querySelectorAll(".article-featured-media .media-wrapper").length){
+	s2nApi.float = false;
+}
+};
+   
+
+
+    window.isPrebidEnabled = true;
+	window.isPrebidVideoEnabled = false;
+   
+
+
+
+    window.prebidData = {
+		priceGranularity: {
+			buckets: [
+				{
+					precision: 2,
+					min: 0.01,
+					max: 3,
+					increment: 0.01,
+				},
+				{
+					precision: 2,
+					min: 3,
+					max: 8,
+					increment: 0.05,
+				},
+				{
+					precision: 2,
+					min: 8,
+					max: 20,
+					increment: 0.5,
+				},
+				{
+					precision: 2,
+					min: 20,
+					max: 35,
+					increment: 1,
+				},
+			],
+		},
+		sizeConfig: [{
+				labels: ['billboard_large_desktop'],
+				mediaQuery: '(min-width: 1024px)',
+				sizesSupported: [
+					[0, 0],
+					[728, 90],
+					[970, 250],
+				],
+			}, {
+				labels: ['billboard_desktop'],
+				mediaQuery: '(min-width: 768px)',
+				sizesSupported: [
+					[0, 0],
+					[728, 90],
+				],
+			}, {
+				labels: ['billboard_mobile'],
+				mediaQuery: '(max-width: 767px)',
+				sizesSupported: [
+					[0, 0],
+					[320, 50],
+				],
+			},
+			{
+				labels: ['leaderboard_desktop'],
+				mediaQuery: '(min-width: 768px)',
+				sizesSupported: [
+					[0, 0],
+					[728, 90],
+				],
+			}, {
+				labels: ['leaderboard_mobile'],
+				mediaQuery: '(max-width: 767px)',
+				sizesSupported: [
+					[0, 0],
+					[320, 50],
+				],
+			},
+			{
+				labels: ['mr_combo_desktop'],
+				mediaQuery: '(min-width: 1024px)',
+				sizesSupported: [
+					[0, 0],
+					[300, 250],
+					[300, 600],
+				],
+			}, {
+				labels: ['mr_combo_mobile'],
+				mediaQuery: '(max-width: 1023px)',
+				sizesSupported: [
+					[0, 0],
+					[300, 250],
+				],
+			}, {
+				labels: ['mr_desktop'],
+				mediaQuery: '(min-width: 1024px)',
+				sizesSupported: [
+					[0, 0],
+					[300, 250],
+				],
+			}, {
+				labels: ['mr_mobile'],
+				mediaQuery: '(max-width: 1023px)',
+				sizesSupported: [
+					[0, 0],
+					[300, 250],
+				],
+			}, {
+				labels: ['mr_ab_desktop'],
+				mediaQuery: '(min-width: 1024px)',
+				sizesSupported: [
+					[0, 0],
+					[300, 250],
+					[620, 366],
+				],
+			}, {
+				labels: ['mr_ab_mobile'],
+				mediaQuery: '(max-width: 1023px)',
+				sizesSupported: [
+					[0, 0],
+					[300, 250],
+					[325, 508],
+					[325, 204],
+				],
+			}, {
+				labels: ['mr_mobile_mobile'],
+				mediaQuery: '(min-width: 0px) and (max-width: 900px)',
+				sizesSupported: [
+					[0, 0],
+					[300, 250],
+				],
+			},
+			{
+				labels: ['leader_mr_desktop'],
+				mediaQuery: '(min-width: 1152px)',
+				sizesSupported: [
+					[0, 0],
+					[728, 90],
+				],
+			}, {
+				labels: ['leader_mr_mobile'],
+				mediaQuery: '(max-width: 1151px)',
+				sizesSupported: [
+					[0, 0],
+					[300, 250],
+				],
+			}, {
+				labels: ['adhesion_desktop'],
+				mediaQuery: '(min-width: 768px)',
+				sizesSupported: [
+					[0, 0],
+					[728, 90],
+				],
+			}, {
+				labels: ['adhesion_mobile'],
+				mediaQuery: '(max-width: 767px)',
+				sizesSupported: [
+					[0, 0],
+					[320, 50],
+				],
+			},
+		],
+		slotMap: {"adhesion":[{"bidder":"appnexus","labelAny":["adhesion_desktop"],"params":{"placementId":"24115478"}},{"bidder":"appnexus","labelAny":["adhesion_mobile"],"params":{"placementId":"24115484"}},{"bidder":"criteo","labelAny":["adhesion_desktop"],"params":{"zoneId":"1662548"}},{"bidder":"criteo","labelAny":["adhesion_mobile"],"params":{"zoneId":"1662549"}},{"bidder":"gumgum","labelAny":["adhesion_desktop"],"params":{"zone":"ffyai1xx"}},{"bidder":"gumgum","labelAny":["adhesion_mobile"],"params":{"zone":"tvggj2em"}},{"bidder":"ix","labelAny":["adhesion_desktop"],"params":{"siteId":"778864","size":[728,90]}},{"bidder":"ix","labelAny":["adhesion_mobile"],"params":{"siteId":"778865","size":[320,50]}},{"bidder":"rubicon","labelAny":["adhesion_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304054"}},{"bidder":"rubicon","labelAny":["adhesion_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304056"}},{"bidder":"triplelift","labelAny":["adhesion_desktop"],"params":{"inventoryCode":"theHill_desktop_adhesion_728x90"}},{"bidder":"triplelift","labelAny":["adhesion_mobile"],"params":{"inventoryCode":"theHill_mobile_adhesion_320x50"}},{"bidder":"yahoossp","labelAny":["adhesion_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f1017f7f023e3809f168f7023e"}},{"bidder":"yahoossp","labelAny":["adhesion_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f16b680242"}},{"bidder":"yieldmo","labelAny":["adhesion_desktop"],"params":{"placementId":"3092360677516321377"}},{"bidder":"yieldmo","labelAny":["adhesion_mobile"],"params":{"placementId":"3092360677600207458"}}],"billboard1":[{"bidder":"appnexus","labelAny":["billboard_desktop","billboard_large_desktop"],"params":{"placementId":"24115455"}},{"bidder":"appnexus","labelAny":["billboard_mobile"],"params":{"placementId":"24115456"}},{"bidder":"criteo","labelAny":["billboard_desktop","billboard_large_desktop"],"params":{"zoneId":"1662526"}},{"bidder":"criteo","labelAny":["billboard_mobile"],"params":{"zoneId":"1662528"}},{"bidder":"ix","labelAny":["billboard_desktop","billboard_large_desktop"],"params":{"siteId":"778845","size":[728,90]}},{"bidder":"ix","labelAny":["billboard_mobile"],"params":{"siteId":"778846","size":[320,50]}},{"bidder":"kargo","labelAny":["billboard_desktop"],"params":{"placementId":"_qB2XyTfayH"}},{"bidder":"kargo","labelAny":["billboard_mobile"],"params":{"placementId":"_pjqrsDHnHh"}},{"bidder":"rubicon","labelAny":["billboard_desktop","billboard_large_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304012"}},{"bidder":"rubicon","labelAny":["billboard_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304016"}},{"bidder":"triplelift","labelAny":["billboard_desktop","billboard_large_desktop"],"params":{"inventoryCode":"theHill_desktop_billboard1_970x250"}},{"bidder":"triplelift","labelAny":["billboard_mobile"],"params":{"inventoryCode":"theHill_mobile_billboard1_320x50"}},{"bidder":"yahoossp","labelAny":["billboard_desktop","billboard_large_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f13bef023c"}},{"bidder":"yahoossp","labelAny":["billboard_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9698cd017f7f02392709f13e33023a"}}],"leader_mr1":[{"bidder":"appnexus","labelAny":["leader_mr_desktop"],"params":{"placementId":"24115492"}},{"bidder":"appnexus","labelAny":["leader_mr_mobile"],"params":{"placementId":"24115493"}},{"bidder":"criteo","labelAny":["leader_mr_desktop"],"params":{"zoneId":"1662550"}},{"bidder":"criteo","labelAny":["leader_mr_mobile"],"params":{"zoneId":"1662551"}},{"bidder":"ix","labelAny":["leader_mr_desktop"],"params":{"siteId":"778866","size":[728,90]}},{"bidder":"ix","labelAny":["leader_mr_mobile"],"params":{"siteId":"778867","size":[300,250]}},{"bidder":"kargo","labelAny":["leader_mr_desktop"],"params":{"placementId":"_qB2XyTfayH"}},{"bidder":"kargo","labelAny":["leader_mr_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["leader_mr_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304058"}},{"bidder":"rubicon","labelAny":["leader_mr_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304060"}},{"bidder":"triplelift","labelAny":["leader_mr_desktop"],"params":{"inventoryCode":"theHill_desktop_LeaderMr1_728x90"}},{"bidder":"triplelift","labelAny":["leader_mr_mobile"],"params":{"inventoryCode":"theHill_mobile_LeaderMr1_300x250"}},{"bidder":"yahoossp","labelAny":["leader_mr_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9698cd017f7f02392709f16df60241"}},{"bidder":"yahoossp","labelAny":["leader_mr_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f1017f7f023e3809f16ffb023f"}}],"leader_mr2":[{"bidder":"appnexus","labelAny":["leader_mr_desktop"],"params":{"placementId":"24115494"}},{"bidder":"appnexus","labelAny":["leader_mr_mobile"],"params":{"placementId":"24115495"}},{"bidder":"criteo","labelAny":["leader_mr_desktop"],"params":{"zoneId":"1662552"}},{"bidder":"criteo","labelAny":["leader_mr_mobile"],"params":{"zoneId":"1662553"}},{"bidder":"ix","labelAny":["leader_mr_desktop"],"params":{"siteId":"778868","size":[728,90]}},{"bidder":"ix","labelAny":["leader_mr_mobile"],"params":{"siteId":"778869","size":[300,250]}},{"bidder":"kargo","labelAny":["leader_mr_desktop"],"params":{"placementId":"_qB2XyTfayH"}},{"bidder":"kargo","labelAny":["leader_mr_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["leader_mr_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304064"}},{"bidder":"rubicon","labelAny":["leader_mr_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304066"}},{"bidder":"triplelift","labelAny":["leader_mr_desktop"],"params":{"inventoryCode":"theHill_desktop_LeaderMr2_728x90"}},{"bidder":"triplelift","labelAny":["leader_mr_mobile"],"params":{"inventoryCode":"theHill_mobile_LeaderMr2_300x250"}},{"bidder":"yahoossp","labelAny":["leader_mr_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f172720243"}},{"bidder":"yahoossp","labelAny":["leader_mr_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9698cd017f7f02392709f1752f0242"}}],"leader_mr3":[{"bidder":"appnexus","labelAny":["leaderboard_desktop"],"params":{"placementId":"24115496"}},{"bidder":"appnexus","labelAny":["leaderboard_mobile"],"params":{"placementId":"24115497"}},{"bidder":"criteo","labelAny":["leader_mr_desktop"],"params":{"zoneId":"1662554"}},{"bidder":"criteo","labelAny":["leader_mr_mobile"],"params":{"zoneId":"1662555"}},{"bidder":"ix","labelAny":["leaderboard_desktop"],"params":{"siteId":"778870","size":[728,90]}},{"bidder":"ix","labelAny":["leaderboard_mobile"],"params":{"siteId":"778871","size":[320,50]}},{"bidder":"kargo","labelAny":["leaderboard_desktop"],"params":{"placementId":"_qB2XyTfayH"}},{"bidder":"kargo","labelAny":["leaderboard_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["leaderboard_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304068"}},{"bidder":"rubicon","labelAny":["leaderboard_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304070"}},{"bidder":"triplelift","labelAny":["leaderboard_desktop"],"params":{"inventoryCode":"theHill_desktop_LeaderMr3_728x90"}},{"bidder":"triplelift","labelAny":["leaderboard_mobile"],"params":{"inventoryCode":"theHill_mobile_LeaderMr3_300x250"}},{"bidder":"yahoossp","labelAny":["leaderboard_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f1017f7f023e3809f177950240"}},{"bidder":"yahoossp","labelAny":["leaderboard_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f17a3a0244"}}],"leaderboard1":[{"bidder":"appnexus","labelAny":["leaderboard_desktop"],"params":{"placementId":"24115457"}},{"bidder":"appnexus","labelAny":["leaderboard_mobile"],"params":{"placementId":"24115459"}},{"bidder":"criteo","labelAny":["leaderboard_desktop"],"params":{"zoneId":"1662529"}},{"bidder":"criteo","labelAny":["leaderboard_mobile"],"params":{"zoneId":"1662530"}},{"bidder":"ix","labelAny":["leaderboard_desktop"],"params":{"siteId":"778847","size":[728,90]}},{"bidder":"ix","labelAny":["leaderboard_mobile"],"params":{"siteId":"778848","size":[320,50]}},{"bidder":"kargo","labelAny":["leaderboard_desktop"],"params":{"placementId":"_qB2XyTfayH"}},{"bidder":"kargo","labelAny":["leaderboard_mobile"],"params":{"placementId":"_pjqrsDHnHh"}},{"bidder":"rubicon","labelAny":["leaderboard_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304018"}},{"bidder":"rubicon","labelAny":["leaderboard_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304020"}},{"bidder":"triplelift","labelAny":["leaderboard_desktop"],"params":{"inventoryCode":"theHill_desktop_leaderboard1_728x90"}},{"bidder":"triplelift","labelAny":["leaderboard_mobile"],"params":{"inventoryCode":"theHill_mobile_leaderboard1_320x50"}},{"bidder":"yahoossp","labelAny":["leaderboard_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9698cd017f7f02392709f1406e023b"}},{"bidder":"yahoossp","labelAny":["leaderboard_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f1017f7f023e3809f142600238"}}],"leaderboard3":[{"bidder":"appnexus","labelAny":["leaderboard_desktop"],"params":{"placementId":"24115460"}},{"bidder":"appnexus","labelAny":["leaderboard_mobile"],"params":{"placementId":"24115461"}},{"bidder":"criteo","labelAny":["leaderboard_desktop"],"params":{"zoneId":"1662531"}},{"bidder":"criteo","labelAny":["leaderboard_mobile"],"params":{"zoneId":"1662532"}},{"bidder":"ix","labelAny":["leaderboard_desktop"],"params":{"siteId":"778849","size":[728,90]}},{"bidder":"ix","labelAny":["leaderboard_mobile"],"params":{"siteId":"778850","size":[320,50]}},{"bidder":"kargo","labelAny":["leaderboard_desktop"],"params":{"placementId":"_qB2XyTfayH"}},{"bidder":"kargo","labelAny":["leaderboard_mobile"],"params":{"placementId":"_pjqrsDHnHh"}},{"bidder":"rubicon","labelAny":["leaderboard_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304022"}},{"bidder":"rubicon","labelAny":["leaderboard_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304024"}},{"bidder":"triplelift","labelAny":["leaderboard_desktop"],"params":{"inventoryCode":"theHill_desktop_leaderboard3_728x90"}},{"bidder":"triplelift","labelAny":["leaderboard_mobile"],"params":{"inventoryCode":"theHill_mobile_leaderboard3_300x250"}},{"bidder":"yahoossp","labelAny":["leaderboard_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f1017f7f023e3809f1445f0239"}},{"bidder":"yahoossp","labelAny":["leaderboard_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f146a7023d"}}],"mr_combo1":[{"bidder":"appnexus","labelAny":["mr_combo_desktop"],"params":{"placementId":"24115462"}},{"bidder":"appnexus","labelAny":["mr_combo_mobile"],"params":{"placementId":"24115463"}},{"bidder":"criteo","labelAny":["mr_combo_desktop"],"params":{"zoneId":"1662534"}},{"bidder":"criteo","labelAny":["mr_combo_mobile"],"params":{"zoneId":"1662535"}},{"bidder":"ix","labelAny":["mr_combo_desktop"],"params":{"siteId":"778851","size":[300,250]}},{"bidder":"ix","labelAny":["mr_combo_desktop"],"params":{"siteId":"778851","size":[300,600]}},{"bidder":"ix","labelAny":["mr_combo_mobile"],"params":{"siteId":"778852","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_combo_desktop"],"params":{"placementId":"_w42lbbT7Mr"}},{"bidder":"kargo","labelAny":["mr_combo_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_combo_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304026"}},{"bidder":"rubicon","labelAny":["mr_combo_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304028"}},{"bidder":"triplelift","labelAny":["mr_combo_desktop"],"params":{"inventoryCode":"theHill_desktop_MrCombo1_300x600"}},{"bidder":"triplelift","labelAny":["mr_combo_mobile"],"params":{"inventoryCode":"theHill_mobile_MrCombo1_300x250"}},{"bidder":"yahoossp","labelAny":["mr_combo_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9698cd017f7f02392709f148f1023c"}},{"bidder":"yahoossp","labelAny":["mr_combo_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f1017f7f023e3809f14af6023a"}}],"mr_combo2":[{"bidder":"appnexus","labelAny":["mr_combo_desktop"],"params":{"placementId":"24115464"}},{"bidder":"appnexus","labelAny":["mr_combo_mobile"],"params":{"placementId":"24115465"}},{"bidder":"criteo","labelAny":["mr_combo_desktop"],"params":{"zoneId":"1662536"}},{"bidder":"criteo","labelAny":["mr_combo_mobile"],"params":{"zoneId":"1662538"}},{"bidder":"ix","labelAny":["mr_combo_desktop"],"params":{"siteId":"778853","size":[300,250]}},{"bidder":"ix","labelAny":["mr_combo_desktop"],"params":{"siteId":"778853","size":[300,600]}},{"bidder":"ix","labelAny":["mr_combo_mobile"],"params":{"siteId":"778854","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_combo_desktop"],"params":{"placementId":"_w42lbbT7Mr"}},{"bidder":"kargo","labelAny":["mr_combo_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_combo_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304030"}},{"bidder":"rubicon","labelAny":["mr_combo_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304032"}},{"bidder":"triplelift","labelAny":["mr_combo_desktop"],"params":{"inventoryCode":"theHill_desktop_MrCombo2_300x600"}},{"bidder":"triplelift","labelAny":["mr_combo_mobile"],"params":{"inventoryCode":"theHill_mobile_MrCombo2_300x250"}},{"bidder":"yahoossp","labelAny":["mr_combo_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f14d2c023e"}},{"bidder":"yahoossp","labelAny":["mr_combo_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9698cd017f7f02392709f14f7f023d"}}],"mr1":[{"bidder":"appnexus","labelAny":["mr_desktop"],"params":{"placementId":"24115466"}},{"bidder":"appnexus","labelAny":["mr_mobile"],"params":{"placementId":"24115467"}},{"bidder":"criteo","labelAny":["mr_desktop"],"params":{"zoneId":"1662539"}},{"bidder":"criteo","labelAny":["mr_mobile"],"params":{"zoneId":"1662540"}},{"bidder":"ix","labelAny":["mr_desktop"],"params":{"siteId":"778855","size":[300,250]}},{"bidder":"ix","labelAny":["mr_mobile"],"params":{"siteId":"778856","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_desktop"],"params":{"placementId":"_ntekP69gKO"}},{"bidder":"kargo","labelAny":["mr_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304034"}},{"bidder":"rubicon","labelAny":["mr_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304038"}},{"bidder":"triplelift","labelAny":["mr_desktop"],"params":{"inventoryCode":"theHill_desktop_mr1_300x250"}},{"bidder":"triplelift","labelAny":["mr_mobile"],"params":{"inventoryCode":"theHill_mobile_Mr1_300x250"}},{"bidder":"yahoossp","labelAny":["mr_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f1017f7f023e3809f15187023b"}},{"bidder":"yahoossp","labelAny":["mr_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f153cc023f"}}],"mr1_mobile":[{"bidder":"appnexus","labelAny":["mr_mobile_mobile"],"params":{"placementId":"24115475"}},{"bidder":"criteo","labelAny":["mr_mobile_mobile"],"params":{"zoneId":"1662547"}},{"bidder":"ix","labelAny":["mr_mobile_mobile"],"params":{"siteId":"778863","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_mobile_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_mobile_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304052"}},{"bidder":"triplelift","labelAny":["mr_mobile_mobile"],"params":{"inventoryCode":"theHill_mr1_mobile_300x250"}},{"bidder":"yahoossp","labelAny":["mr_mobile_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9698cd017f7f02392709f1669e0240"}}],"mr2":[{"bidder":"appnexus","labelAny":["mr_desktop"],"params":{"placementId":"24115468"}},{"bidder":"appnexus","labelAny":["mr_mobile"],"params":{"placementId":"24115469"}},{"bidder":"criteo","labelAny":["mr_desktop"],"params":{"zoneId":"1662541"}},{"bidder":"criteo","labelAny":["mr_mobile"],"params":{"zoneId":"1662542"}},{"bidder":"ix","labelAny":["mr_desktop"],"params":{"siteId":"778857","size":[300,250]}},{"bidder":"ix","labelAny":["mr_mobile"],"params":{"siteId":"778858","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_desktop"],"params":{"placementId":"_ntekP69gKO"}},{"bidder":"kargo","labelAny":["mr_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304040"}},{"bidder":"rubicon","labelAny":["mr_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304042"}},{"bidder":"triplelift","labelAny":["mr_desktop"],"params":{"inventoryCode":"theHill_desktop_mr2_300x250"}},{"bidder":"triplelift","labelAny":["mr_mobile"],"params":{"inventoryCode":"theHill_mobile_Mr2_300x250"}},{"bidder":"yahoossp","labelAny":["mr_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945f017f7f47411147bb8a310008"}},{"bidder":"yahoossp","labelAny":["mr_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945f017f7f47411147be4f93000a"}}],"mr3":[{"bidder":"appnexus","labelAny":["mr_desktop"],"params":{"placementId":"24115470"}},{"bidder":"appnexus","labelAny":["mr_mobile"],"params":{"placementId":"24115471"}},{"bidder":"criteo","labelAny":["mr_desktop"],"params":{"zoneId":"1662543"}},{"bidder":"criteo","labelAny":["mr_mobile"],"params":{"zoneId":"1662544"}},{"bidder":"ix","labelAny":["mr_desktop"],"params":{"siteId":"787506","size":[300,250]}},{"bidder":"ix","labelAny":["mr_mobile"],"params":{"siteId":"787512","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_desktop"],"params":{"placementId":"_ntekP69gKO"}},{"bidder":"kargo","labelAny":["mr_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304044"}},{"bidder":"rubicon","labelAny":["mr_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304046"}},{"bidder":"triplelift","labelAny":["mr_desktop"],"params":{"inventoryCode":"theHill_desktop_mr3_300x250"}},{"bidder":"triplelift","labelAny":["mr_mobile"],"params":{"inventoryCode":"theHill_mobile_Mr3_300x250"}},{"bidder":"yahoossp","labelAny":["mr_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f15a9c0240"}},{"bidder":"yahoossp","labelAny":["mr_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9698cd017f7f02392709f15d55023f"}}],"mr4":[{"bidder":"appnexus","labelAny":["mr_desktop"],"params":{"placementId":"24115472"}},{"bidder":"appnexus","labelAny":["mr_mobile"],"params":{"placementId":"24115474"}},{"bidder":"criteo","labelAny":["mr_desktop"],"params":{"zoneId":"1662545"}},{"bidder":"criteo","labelAny":["mr_mobile"],"params":{"zoneId":"1662546"}},{"bidder":"ix","labelAny":["mr_desktop"],"params":{"siteId":"778861","size":[300,250]}},{"bidder":"ix","labelAny":["mr_mobile"],"params":{"siteId":"778862","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_desktop"],"params":{"placementId":"_ntekP69gKO"}},{"bidder":"kargo","labelAny":["mr_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304048"}},{"bidder":"rubicon","labelAny":["mr_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304050"}},{"bidder":"triplelift","labelAny":["mr_desktop"],"params":{"inventoryCode":"theHill_desktop_mr4_300x250"}},{"bidder":"triplelift","labelAny":["mr_mobile"],"params":{"inventoryCode":"theHill_mobile_Mr4_300x250"}},{"bidder":"yahoossp","labelAny":["mr_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f1017f7f023e3809f161b4023d"}},{"bidder":"yahoossp","labelAny":["mr_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f164180241"}}],"preroll":[{"bidder":"appnexus","labelAny":["preroll_desktop"],"params":{"placementId":"24115500"}},{"bidder":"appnexus","labelAny":["preroll_mobile"],"params":{"placementId":"24115501"}},{"bidder":"ix","labelAny":["preroll_desktop"],"params":{"siteId":"778874","size":[640,480],"video":{"w":640,"h":480,"maxduration":30,"minduration":5,"mimes":["video\/mp4","application\/javascript"],"protocols":[3,5,6,7],"api":2}}},{"bidder":"ix","labelAny":["preroll_mobile"],"params":{"siteId":"778875","size":[400,300],"video":{"w":400,"h":300,"maxduration":30,"minduration":5,"mimes":["video\/mp4","application\/javascript"],"protocols":[3,5,6,7],"api":2}}},{"bidder":"rubicon","labelAny":["preroll_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304076","video":{"language":"en"}}},{"bidder":"rubicon","labelAny":["preroll_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304078","video":{"language":"en"}}},{"bidder":"triplelift","labelAny":["preroll_desktop"],"params":{"inventoryCode":"theHill_desktop_preroll_instream_video"}},{"bidder":"triplelift","labelAny":["preroll_mobile"],"params":{"inventoryCode":"theHill_mobile_preroll_instream_video"}},{"bidder":"yahoossp","labelAny":["preroll_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f389070245"}},{"bidder":"yahoossp","labelAny":["preroll_desktop"],"params":{"dcn":"8a969143017c7c55eca156dbc6410030","pos":"8a969440017c7c55f14056f26aa1004a"}},{"bidder":"yahoossp","labelAny":["preroll_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f1017f7f023e3809f38b970242"}},{"bidder":"yahoossp","labelAny":["preroll_mobile"],"params":{"dcn":"8a969143017c7c55eca156dbc6410030","pos":"8a969440017c7c55f14056f2f0ca004b"}}],"postroll":[{"bidder":"appnexus","labelAny":["postroll_desktop"],"params":{"placementId":"24115502"}},{"bidder":"appnexus","labelAny":["postroll_mobile"],"params":{"placementId":"24115503"}},{"bidder":"ix","labelAny":["postroll_desktop"],"params":{"siteId":"778876","size":[640,480],"video":{"w":640,"h":480,"maxduration":30,"minduration":5,"mimes":["video\/mp4","application\/javascript"],"protocols":[3,5,6,7],"api":2}}},{"bidder":"ix","labelAny":["postroll_mobile"],"params":{"siteId":"778877","size":[400,300],"video":{"w":400,"h":300,"maxduration":30,"minduration":5,"mimes":["video\/mp4","application\/javascript"],"protocols":[3,5,6,7],"api":2}}},{"bidder":"rubicon","labelAny":["postroll_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304080","video":{"language":"en"}}},{"bidder":"rubicon","labelAny":["postroll_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304082","video":{"language":"en"}}},{"bidder":"triplelift","labelAny":["postroll_desktop"],"params":{"inventoryCode":"theHill_desktop_postroll_instream_video"}},{"bidder":"triplelift","labelAny":["postroll_mobile"],"params":{"inventoryCode":"theHill_mobile_postroll_instream_video"}},{"bidder":"yahoossp","labelAny":["postroll_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f38e3d0246"}},{"bidder":"yahoossp","labelAny":["postroll_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9698cd017f7f02392709f391440244"}}],"leader_mr4":[{"bidder":"appnexus","labelAny":["leader_mr_desktop"],"params":{"placementId":"24115498"}},{"bidder":"appnexus","labelAny":["leader_mr_mobile"],"params":{"placementId":"24115499"}},{"bidder":"criteo","labelAny":["leader_mr_desktop"],"params":{"zoneId":"1662556"}},{"bidder":"criteo","labelAny":["leader_mr_mobile"],"params":{"zoneId":"1662557"}},{"bidder":"ix","labelAny":["leader_mr_desktop"],"params":{"siteId":"778872","size":[728,90]}},{"bidder":"ix","labelAny":["leader_mr_mobile"],"params":{"siteId":"778873","size":[300,250]}},{"bidder":"kargo","labelAny":["leader_mr_desktop"],"params":{"placementId":"_qB2XyTfayH"}},{"bidder":"kargo","labelAny":["leader_mr_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["leader_mr_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304072"}},{"bidder":"rubicon","labelAny":["leader_mr_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2304074"}},{"bidder":"triplelift","labelAny":["leader_mr_desktop"],"params":{"inventoryCode":"theHill_desktop_LeaderMr4_728x90"}},{"bidder":"triplelift","labelAny":["leader_mr_mobile"],"params":{"inventoryCode":"theHill_mobile_LeaderMr4_300x250"}},{"bidder":"yahoossp","labelAny":["leader_mr_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9698cd017f7f02392709f17d1d0243"}},{"bidder":"yahoossp","labelAny":["leader_mr_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f1017f7f023e3809f17f300241"}}],"mr1_ab":[{"bidder":"appnexus","labelAny":["mr_ab_desktop"],"params":{"placementId":"24438184"}},{"bidder":"appnexus","labelAny":["mr_ab_mobile"],"params":{"placementId":"24438197"}},{"bidder":"criteo","labelAny":["mr_ab_desktop"],"params":{"zoneId":"1663264"}},{"bidder":"criteo","labelAny":["mr_ab_mobile"],"params":{"zoneId":"1663440"}},{"bidder":"ix","labelAny":["mr_ab_desktop"],"params":{"siteId":"787504","size":[300,250]}},{"bidder":"ix","labelAny":["mr_ab_mobile"],"params":{"siteId":"787510","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_ab_desktop"],"params":{"placementId":"_ntekP69gKO"}},{"bidder":"kargo","labelAny":["mr_ab_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_ab_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2326164"}},{"bidder":"rubicon","labelAny":["mr_ab_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2326172"}},{"bidder":"triplelift","labelAny":["mr_ab_desktop"],"params":{"inventoryCode":"theHill_desktop_mr1_ab_300x250"}},{"bidder":"triplelift","labelAny":["mr_ab_mobile"],"params":{"inventoryCode":"theHill_mobile_mr1_ab_300x250"}},{"bidder":"yahoossp","labelAny":["mr_ab_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945f017f7f474111477d80070003"}},{"bidder":"yahoossp","labelAny":["mr_ab_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9699c1017f7f47361247bd781c0001"}}],"mr2_ab":[{"bidder":"appnexus","labelAny":["mr_ab_desktop"],"params":{"placementId":"24438187"}},{"bidder":"appnexus","labelAny":["mr_ab_mobile"],"params":{"placementId":"24438202"}},{"bidder":"concert","labelAny":["mr_ab_desktop"],"params":{"partnerId":"thehill"}},{"bidder":"concert","labelAny":["mr_ab_mobile"],"params":{"partnerId":"thehill"}},{"bidder":"criteo","labelAny":["mr_ab_desktop"],"params":{"zoneId":"1663265"}},{"bidder":"criteo","labelAny":["mr_ab_mobile"],"params":{"zoneId":"1663441"}},{"bidder":"ix","labelAny":["mr_ab_desktop"],"params":{"siteId":"787506","size":[300,250]}},{"bidder":"ix","labelAny":["mr_ab_mobile"],"params":{"siteId":"787512","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_ab_desktop"],"params":{"placementId":"_ntekP69gKO"}},{"bidder":"kargo","labelAny":["mr_ab_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_ab_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2326168"}},{"bidder":"rubicon","labelAny":["mr_ab_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2326174"}},{"bidder":"triplelift","labelAny":["mr_ab_desktop"],"params":{"inventoryCode":"theHill_desktop_mr2_ab_300x250"}},{"bidder":"triplelift","labelAny":["mr_ab_mobile"],"params":{"inventoryCode":"theHill_mobile_mr2_ab_300x250"}},{"bidder":"yahoossp","labelAny":["mr_ab_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945c017f7f0242b609f15a9c0240"}},{"bidder":"yahoossp","labelAny":["mr_ab_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9698cd017f7f02392709f15d55023f"}}],"mr3_ab":[{"bidder":"appnexus","labelAny":["mr_ab_desktop"],"params":{"placementId":"24438190"}},{"bidder":"appnexus","labelAny":["mr_ab_mobile"],"params":{"placementId":"24438206"}},{"bidder":"criteo","labelAny":["mr_ab_desktop"],"params":{"zoneId":"1663266"}},{"bidder":"criteo","labelAny":["mr_ab_mobile"],"params":{"zoneId":"1663442"}},{"bidder":"ix","labelAny":["mr_ab_desktop"],"params":{"siteId":"778859","size":[300,250]}},{"bidder":"ix","labelAny":["mr_ab_mobile"],"params":{"siteId":"778860","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_ab_desktop"],"params":{"placementId":"_ntekP69gKO"}},{"bidder":"kargo","labelAny":["mr_ab_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_ab_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2326170"}},{"bidder":"rubicon","labelAny":["mr_ab_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2326176"}},{"bidder":"triplelift","labelAny":["mr_ab_desktop"],"params":{"inventoryCode":"theHill_desktop_mr3_ab_300x250"}},{"bidder":"triplelift","labelAny":["mr_ab_mobile"],"params":{"inventoryCode":"theHill_mobile_mr3_ab_300x250"}},{"bidder":"yahoossp","labelAny":["mr_ab_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96945f017f7f47411147bcd0080009"}},{"bidder":"yahoossp","labelAny":["mr_ab_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a96903a017f7f473b0b47c094f90006"}}],"mr4_ab":[{"bidder":"concert","labelAny":["mr_ab_desktop"],"params":{"partnerId":"thehill"}},{"bidder":"concert","labelAny":["mr_ab_mobile"],"params":{"partnerId":"thehill"}},{"bidder":"criteo","labelAny":["mr_ab_desktop"],"params":{"zoneId":"1663267"}},{"bidder":"criteo","labelAny":["mr_ab_mobile"],"params":{"zoneId":"1663443"}}],"mr5_ab":[{"bidder":"appnexus","labelAny":["mr_desktop"],"params":{"placementId":"27377547"}},{"bidder":"appnexus","labelAny":["mr_mobile"],"params":{"placementId":"27377548"}},{"bidder":"criteo","labelAny":["mr_desktop"],"params":{"zoneId":"1683966"}},{"bidder":"criteo","labelAny":["mr_mobile"],"params":{"zoneId":"1683967"}},{"bidder":"ix","labelAny":["mr_desktop"],"params":{"siteId":"881380","size":[300,250]}},{"bidder":"ix","labelAny":["mr_mobile"],"params":{"siteId":"881381","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_desktop"],"params":{"placementId":"_ntekP69gKO"}},{"bidder":"kargo","labelAny":["mr_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2565456"}},{"bidder":"rubicon","labelAny":["mr_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2565464"}},{"bidder":"triplelift","labelAny":["mr_desktop"],"params":{"inventoryCode":"HILL_mr5_Desktop"}},{"bidder":"triplelift","labelAny":["mr_mobile"],"params":{"inventoryCode":"HILL_mr5_Mobile"}},{"bidder":"yahoossp","labelAny":["mr_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f4018383565c1a5b68210c0052"}},{"bidder":"yahoossp","labelAny":["mr_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9695f10183835661c65b6db42e0039"}}],"mr6_ab":[{"bidder":"concert","labelAny":["mr_ab_desktop"],"params":{"partnerId":"thehill"}},{"bidder":"concert","labelAny":["mr_ab_mobile"],"params":{"partnerId":"thehill"}}],"mr7_ab":[{"bidder":"appnexus","labelAny":["mr_desktop"],"params":{"placementId":"27377551"}},{"bidder":"appnexus","labelAny":["mr_mobile"],"params":{"placementId":"27377552"}},{"bidder":"criteo","labelAny":["mr_desktop"],"params":{"zoneId":"1683970"}},{"bidder":"criteo","labelAny":["mr_mobile"],"params":{"zoneId":"1683971"}},{"bidder":"ix","labelAny":["mr_desktop"],"params":{"siteId":"881384","size":[300,250]}},{"bidder":"ix","labelAny":["mr_mobile"],"params":{"siteId":"881385","size":[300,250]}},{"bidder":"kargo","labelAny":["mr_desktop"],"params":{"placementId":"_ntekP69gKO"}},{"bidder":"kargo","labelAny":["mr_mobile"],"params":{"placementId":"_o2IMbcs3hW"}},{"bidder":"rubicon","labelAny":["mr_desktop"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2565500"}},{"bidder":"rubicon","labelAny":["mr_mobile"],"params":{"accountId":"10043","siteId":"410222","zoneId":"2565510"}},{"bidder":"triplelift","labelAny":["mr_desktop"],"params":{"inventoryCode":"HILL_mr7_Desktop"}},{"bidder":"triplelift","labelAny":["mr_mobile"],"params":{"inventoryCode":"HILL_mr7_Mobile"}},{"bidder":"yahoossp","labelAny":["mr_desktop"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9695f10183835661c65b704c98003a"}},{"bidder":"yahoossp","labelAny":["mr_mobile"],"params":{"dcn":"8a9694c5017c7c5b0d0d5b5f9e1c0018","pos":"8a9690f4018383565c1a5b72641d0056"}}]},
+		userSync: {
+			userIds: [],
+			syncDelay: 3000,
+		},
+		analytics: [{
+            provider: 'concert', 
+        }],
+        realTimeData: {
+            dataProviders: [],
+        },
+	};
+   
+
+    var clientID = decodeURIComponent( '67' );
+	window.prebidData?.realTimeData?.dataProviders?.push({
+        name: 'optimeraRTD',
+        waitForIt: true,
+        params: {
+            clientID: clientID,
+            optimeraKeyName: 'hb_deal_optimera',
+            device: (window.innerWidth || document.documentElement.clientWidth) >= 768 ? 'de' : 'mo',
+        }
+    });
+   
+
+    window.prebidData?.userSync?.userIds?.push({
+	name: "identityLink",
+	params: {
+		pid: "1262",
+	},
+	storage: {
+		type: "cookie",
+		name: "idl_env",
+		expires: 7,
+        refreshInSeconds: 1800
+	}
+});
+   
+
+    window.prebidData?.analytics?.push({
+	provider: 'atsAnalytics',
+	options: {
+		pid: "1262",
+		host: 'https://analytics.openlog.in',
+	}
+});
+   
+
+
+    window.isAdRefreshEnabled     = true;
+	window.isAdLazyloadEnabled    = false;
+	window.isAdSponsorshipEnabled = true;
+	window.adRefreshConfig        = {"index\/adhesion\/desktop":30,"index\/adhesion\/mobile":30,"index\/adhesion\/tablet":30,"index\/billboard1\/desktop":30,"index\/billboard1\/mobile":30,"index\/billboard1\/tablet":30,"index\/leaderboard1\/desktop":30,"index\/leaderboard1\/mobile":30,"index\/leaderboard1\/tablet":30,"index\/leaderboard3\/desktop":30,"index\/leaderboard3\/mobile":30,"index\/leaderboard3\/tablet":30,"index\/mr1\/desktop":30,"index\/mr1\/mobile":30,"index\/mr1\/tablet":30,"index\/mr1_mobile\/desktop":30,"index\/mr1_mobile\/mobile":30,"index\/mr1_mobile\/tablet":30,"index\/mr_combo1\/desktop":30,"index\/mr_combo1\/mobile":30,"index\/mr_combo1\/tablet":30,"index\/mr_combo2\/desktop":30,"index\/mr_combo2\/mobile":30,"index\/mr_combo2\/tablet":30,"other\/adhesion\/desktop":30,"other\/adhesion\/mobile":30,"other\/adhesion\/tablet":30,"other\/billboard1\/desktop":30,"other\/billboard1\/mobile":30,"other\/billboard1\/tablet":30,"other\/leaderboard3\/desktop":30,"other\/leaderboard3\/mobile":30,"other\/leaderboard3\/tablet":30,"other\/mr1\/desktop":30,"other\/mr1\/mobile":30,"other\/mr1\/tablet":30,"other\/mr1_mobile\/desktop":30,"other\/mr1_mobile\/mobile":30,"other\/mr1_mobile\/tablet":30,"other\/mr_combo1\/desktop":30,"other\/mr_combo1\/mobile":30,"other\/mr_combo1\/tablet":30,"other\/mr_combo2\/desktop":30,"other\/mr_combo2\/mobile":30,"other\/mr_combo2\/tablet":30,"story\/adhesion\/desktop":30,"story\/adhesion\/mobile":30,"story\/adhesion\/tablet":30,"story\/billboard1\/desktop":30,"story\/billboard1\/mobile":30,"story\/billboard1\/tablet":30,"story\/leader_mr1\/mobile":30,"story\/leader_mr2\/mobile":30,"story\/leaderboard3\/desktop":30,"story\/leaderboard3\/mobile":30,"story\/leaderboard3\/tablet":30,"story\/mr1\/desktop":30,"story\/mr1\/mobile":30,"story\/mr1\/tablet":30,"story\/mr1_ab\/desktop":30,"story\/mr1_ab\/mobile":30,"story\/mr1_ab\/tablet":30,"story\/mr1_mobile\/desktop":30,"story\/mr1_mobile\/mobile":30,"story\/mr1_mobile\/tablet":30,"story\/mr2_ab\/desktop":30,"story\/mr2_ab\/mobile":30,"story\/mr2_ab\/tablet":30,"story\/mr3_ab\/desktop":30,"story\/mr3_ab\/mobile":30,"story\/mr3_ab\/tablet":30,"story\/mr4_ab\/desktop":30,"story\/mr4_ab\/mobile":30,"story\/mr4_ab\/tablet":30,"story\/mr_combo1\/desktop":30,"story\/mr_combo1\/mobile":30,"story\/mr_combo1\/tablet":30,"story\/mr_combo2\/desktop":30,"story\/mr_combo2\/mobile":30,"story\/mr_combo2\/tablet":30,"subindex\/adhesion\/desktop":30,"subindex\/adhesion\/mobile":30,"subindex\/adhesion\/tablet":30,"subindex\/billboard1\/desktop":30,"subindex\/billboard1\/mobile":30,"subindex\/billboard1\/tablet":30,"subindex\/leaderboard3\/desktop":30,"subindex\/leaderboard3\/mobile":30,"subindex\/leaderboard3\/tablet":30,"subindex\/mr1\/desktop":30,"subindex\/mr1\/mobile":30,"subindex\/mr1\/tablet":30,"subindex\/mr1_mobile\/desktop":30,"subindex\/mr1_mobile\/mobile":30,"subindex\/mr1_mobile\/tablet":30,"subindex\/mr_combo1\/desktop":30,"subindex\/mr_combo1\/mobile":30,"subindex\/mr_combo1\/tablet":30,"subindex\/mr_combo2\/desktop":30,"subindex\/mr_combo2\/mobile":30,"subindex\/mr_combo2\/tablet":30,"story\/mr5_ab\/desktop":30,"story\/mr6_ab\/desktop":30,"story\/mr7_ab\/desktop":30,"story\/mr7_ab\/tablet":30,"story\/mr6_ab\/tablet":30,"story\/mr5_ab\/tablet":30,"story\/mr5_ab\/mobile":30,"story\/mr6_ab\/mobile":30,"story\/mr7_ab\/mobile":30};
+	window.adLazyloadConfig       = [];
+	window.adExclusionIds         = [4755262763,5996337063,6089536501,6090349859,6292261830,6292261830,6292261830,6294838241,6294838241,6294838241,6294855056,6294855056,6294855056,6298553013,6302563815,6302563815,6309953700,6309953700,6309953700,6318010799];
+   
+
+
+    window.apsPubID = "3410";
+	window.isApsEnabled = true;
+   
+
+
+    !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+let initArgs = {"pubID":"3410","adServer":"googletag","deals":true};
+if (window.__uspapi && 'function' === typeof __uspapi) {
+	__uspapi('getUSPData', 1, (uspData, success) => {
+		if(success) {
+			initArgs.params = { us_privacy: uspData?.uspString };
+		}
+	});
+}
+apstag.init({
+	...initArgs,
+	params: initArgs?.params || { us_privacy: window.NXSTdata?.privacy?.usPrivacyString || '1---' },
+});
+   
+
+
+
+
+    (function() {
+	var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+	_sf_async_config.uid = "23192";
+	_sf_async_config.domain = "thehill.com";
+	_sf_async_config.flickerControl = false; 	_sf_async_config.useCanonical = true;
+	_sf_async_config.useCanonicalDomain = true;
+})();
+   
+
+
+
+
+
+
+    var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+   
+
+
+
+    var dataLayer = window.dataLayer || [];
+if ('function' === typeof dataLayer.push) {
+	dataLayer.push({"fireGTM":true,"propID":"","event":"dlReady","paragraphCount":11,"wordCount":404,"authorName":"Jared Gans","imageCount":0,"siteName":"The Hill","publishDateString":"Sat Jun 10 2023","publishTimeString":"09:40 AM EDT","originalContent":true,"classifyText":[],"categories":"Campaign,News","primaryCategory":"Campaign","topics":"indictment,Mar-a-Lago,Trump classified documents"});
+}
+   
+
+
+
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer',"GTM-KJJZHXD");
+   
+
+
+
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer',"GTM-KJJZHXD");
+   
+
+
+
+
+    // Blockthrough is enabled
+		window.NXSTdata.ads.blockthroughStatus = 'enabled';
+   
+
+
+
+
+
+
+    var OneSignal = window.OneSignal || [];
+	OneSignal.push(["init", {
+		appId: "45b13753-6440-4aca-963d-85dc2ea8679d",
+		httpPermissionRequest: {
+			enable: true
+		},
+		notifyButton: {
+			enable: false /* Set to false to hide */
+		},
+		promptOptions: {
+			customlink: {
+				enabled: true, /* Required to use the Custom Link */
+				style: "button", /* Has value of 'button' or 'link' */
+				size: "medium", /* One of 'small', 'medium', or 'large' */
+				color: {
+					button: '#E12D30', /* Color of the button background if style = "button" */
+					text: '#FFFFFF', /* Color of the prompt's text */
+				},
+				text: {
+					subscribe: "Subscribe to push notifications", /* Prompt's text when not subscribed */
+					unsubscribe: "Unsubscribe from push notifications", /* Prompt's text when subscribed */
+					explanation: "Get updates from all sorts of things that matter to you", /* Optional text appearing before the prompt button */
+				},
+				unsubscribeEnabled: true, /* Controls whether the prompt is visible after subscription */
+			}
+		}
+	}]);
+   
+
+
+    {"@context":"https:\/\/schema.org","@type":"NewsArticle","publisher":{"@type":"Organization","name":"The Hill"},"name":"The Hill","description":"Former New Jersey Gov. Chris Christie (R), a GOP presidential candidate for 2024, said the details of the federal indictment against former President Trump are \u201cdevastating.\u201d\u00a0 \u201cThe fact is that these facts are devastating,\u201d Christie told CNN\u2019s Jake Tapper in an interview on Friday.\u00a0 Christie noted that the indictment accuses Trump of directing what documents\u2026","potentialAction":{"@type":"SearchAction","target":"https:\/\/thehill.com\/search\/{search_term_string}\/","query-input":"required name=search_term_string"},"url":"https:\/\/thehill.com\/homenews\/campaign\/4043710-christie-details-of-trump-indictment-devastating\/","author":[{"@type":"Person","name":"Jared Gans","url":"https:\/\/thehill.com\/?post_type=profile&#038;p=3499449"}],"headline":"Christie: Details of Trump indictment \u2018devastating\u2019","datePublished":"2023-06-10T13:40:38+00:00","dateModified":"2023-06-10T13:51:25+00:00","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/thehill.com\/homenews\/campaign\/4043710-christie-details-of-trump-indictment-devastating\/"},"image":{"@type":"ImageObject","url":"https:\/\/thehill.com\/wp-content\/uploads\/sites\/2\/2022\/12\/christiechris_111922_ap_.jpg","name":"Former New Jersey Gov. Chris Christie speaks at an annual leadership meeting of the Republican Jewish Coalition Saturday, Nov. 19, 2022, in Las Vegas. (AP Photo\/John Locher)"},"articleSection":"Campaign","genre":["Campaign","News"],"keywords":["indictment","Mar-a-Lago","Trump classified documents"],"associatedMedia":[{"@context":"https:\/\/schema.org","@type":"VideoObject","name":"Rising Clip: Trump indicted, charged on 7 counts","description":"Rising Clip: Trump indicted, charged on 7 counts","thumbnailUrl":"https:\/\/h104216-fcdn.mp.lura.live\/1\/938892\/pvw_lin\/764\/45E\/76445E88DBACF0BAD06EA02888F17AB6_2_160x90.jpg?aktaexp=2082787200&aktasgn=a5c68ad1e6298c6ed622ad554b76b759","contentUrl":"https:\/\/tkx.mp.lura.live\/rest\/v2\/mcp\/video\/8721143\/master.m3u8?anvack=q261XAmOMdqqRf1p7eCo7IYmO1kyPmMB&eud=E%2FBmU%2BO9HAnSGtxABgfG1vEo7oo6Tnh%2BfnyWX5dTt4Jtp7c95XfgjnJ%2FY9ymqJhRyiiK9NWC9wr3eQXYw9pjZg%3D%3D","uploadDate":"2023-06-09T11:14:00-04:00","duration":"P0DT0H1M20S","bitrate":4500,"width":1920,"height":1080}]}
+   
+
+    window.preloadAnvato = [];
+	window.loadAnvato = window.loadAnvato || function (json) {
+		window.preloadAnvato.push(json);
+	};
+   
+
+    window.SecondStreetSDK = {
+					version: '1.0.0',
+					ready: function (secondstreet) {
+						window.SecondStreetSDK.secondstreet = secondstreet;
+					}
+				}
+   
+
+    Christie: Details of Trump indictment ‘devastating’ | The Hill
+   
+
+
+     window.isGdprPrebidEnabled = false;
+    
+
+
+
+
+
+
+
+
+
+     window.amScripts = window.amScripts || {}; window.amScripts["ad_referral_source_inline"] = {"socialSites":["12seconds.tv","4travel.jp","advogato.org","ameba.jp","anobii.com","answers.yahoo.com","asmallworld.net","avforums.com","badoo.com","bebo.com","biip.no","blackplanet.com","blog.seesaa.jp","blogspot.com","blomotion.jp","boards.qwant.com","bolt.com","brightkite.com","buzznet.com","cafemom.com","care2.com","classmates.com","cyworld.co.kr","dailymotion.com","delicious.com","deviantart.com","digg.com","diigo.com","disqus.com","draugiem.lv","l.facebook.com","www.facebook.com","faceparty.com","fc2.com","flickr.com","fotolog.com","foursquare.com","friendfeed.com","friendsreunited.com","fubar.com","gaiaonline.com","geni.com","goodreads.com","plus.google.com","grono.net","habbo.com","hatena.ne.jp","hi5.com","hyves.nl","ibibo.com","identi.ca","t.ifeng.com","instagram.com","intensedebate.com","irc-galleria.net","jp.myspace.com","kaixin001.com","kakaku.com","last.fm","www.linkedin.com","livejournal.com","lnkd.in","meetup.com","mister-wong.com","mixi.jp","mixx.com","mouthshut.com","mp.weixin.qq.com","multiply.com","mumsnet.com","myheritage.com","myspace.com","nasza-klasa.pl","matome.naver.jp","netlog.com","netvibes.com","nextdoor.com","nicovideo.jp","ning.com","odnoklassniki.ru","ok.ru","orkut.com","pakila.jp","photobucket.com","pinterest.com","pinterest.co.uk","pinterest.ca","pinterest.fr","pinterest.es","pinterest.de","pinterest.se","pinterest.pt","pinterest.dk","pinterest.ie","pinterest.co.kr","pinterest.ch","pinterest.at","pinterest.nz","pinterest.ph","pinterest.cl","pinterest.hu","pinterest.be","pinterest.in","pinterest.co","plurk.com","po.st","reddit.com","renren.com","skyrock.com","slideshare.net","smcb.jp","smugmug.com","snapchat.com","stumbleupon.com","t.co","t.ifeng.com","t.sina.com.cn","t.sohu.com","tabelog.com","tagged.com","taringa.net","thefancy.com","tiktok.com","toutiao.com","tripit.com","trombi.com","trytrend.jp","tumblr.com","twitter.com","uhuru.jp","viadeo.com","vimeo.com","vk.com","wayn.com","weibo.com","wordpress.com","xanga.com","xing.com","answers.yahoo.com","yammer.com","yaplog.jp","yelp.com","yelp.co.uk","youku.com","youtube.com","yozm.daum.net","yuku.com","zooomr.com","zhihu.com","m.badoo.com","m.blogspot.com","m.brightkite.com","m.classmates.com","m.cyworld.co.kr","m.dailymotion.com","m.deviantart.com","m.diigo.com","m.disqus.com","m.draugiem.lv","m.facebook.com","m.flickr.com","m.foursquare.com","m.fubar.com","m.gaiaonline.com","m.plus.google.com","m.hatena.ne.jp","m.hi5.com","m.ibibo.com","m.ifeng.com","m.instagram.com","m.irc-galleria.net","m.kaixin001.com","m.last.fm","m.linkedin.com","m.livejournal.com","m.mixi.jp","m.mixx.com","m.mouthshut.com","m.myheritage.com","m.mylife.com","m.myspace.com","m.nasza-klasa.pl","m.odnoklassniki.ru","m.ok.ru","m.reddit.com","m.renren.com","m.slideshare.net","m.smugmug.com","m.co","m.ifeng.com","m.qq.com","m.sina.com.cn","m.sohu.com","m.tagged.com","m.taringa.net","m.tiktok.com","m.toutiao.com","m.tripit.com","m.tumblr.com","m.twitter.com","m.vk.com","m.weibo.com","m.wordpress.com","m.xanga.com","m.xing.com","m.answers.yahoo.com","m.youku.com","m.youtube.com","m.yuku.com","m.zhihu.com","www.12seconds.tv","www.advogato.org","www.anobii.com","www.answers.yahoo.com","www.asmallworld.net","www.avforums.com","www.badoo.com","www.bebo.com","www.blackplanet.com","www.blogspot.com","www.bolt.com","www.brightkite.com","www.buzznet.com","www.cafemom.com","www.care2.com","www.classmates.com","www.cyworld.co.kr","www.dailymotion.com","www.delicious.com","www.deviantart.com","www.digg.com","www.diigo.com","www.disqus.com","www.draugiem.lv","www.faceparty.com","www.fc2.com","www.flickr.com","www.flixster.com","www.fotolog.com","www.foursquare.com","www.friendsreunited.com","www.fubar.com","www.gaiaonline.com","www.goodreads.com","www.plus.google.com","www.grono.net","www.habbo.com","www.hatena.ne.jp","www.hi5.com","www.hyves.nl","www.ibibo.com","www.identi.ca","www.instagram.com","www.intensedebate.com","www.kaixin001.com","www.kakaku.com","www.last.fm","www.livejournal.com","www.meetup.com","www.mister-wong.com","www.mixi.jp","www.mixx.com","www.mouthshut.com","www.multiply.com","www.mumsnet.com","www.myheritage.com","www.myspace.com","www.nasza-klasa.pl","www.netlog.com","www.netvibes.com","www.nextdoor.com","www.nicovideo.jp","www.ning.com","www.odnoklassniki.ru","www.ok.ru","www.orkut.com","www.photobucket.com","www.pinterest.com","www.pinterest.co.uk","www.pinterest.ca","www.pinterest.fr","www.pinterest.es","www.pinterest.de","www.pinterest.se","www.pinterest.pt","www.pinterest.dk","www.pinterest.ie","www.pinterest.co.kr","www.pinterest.ch","www.pinterest.at","www.pinterest.nz","www.pinterest.ph","www.pinterest.cl","www.pinterest.hu","www.pinterest.be","www.pinterest.in","www.pinterest.co","www.plurk.com","www.po.st","www.reddit.com","www.renren.com","www.skyrock.com","www.slideshare.net","www.smugmug.com","www.snapchat.com","www.stumbleupon.com","www.t.ifeng.com","www.tabelog.com","www.tagged.com","www.taringa.net","www.thefancy.com","www.tiktok.com","www.toutiao.com","www.tripit.com","www.trombi.com","www.tumblr.com","www.twitter.com","www.uhuru.jp","www.viadeo.com","www.vimeo.com","www.vk.com","www.wayn.com","www.weibo.com","www.wordpress.com","www.xanga.com","www.xing.com","www.answers.yahoo.com","www.yammer.com","www.youku.com","www.youtube.com","www.zooomr.com","www.zhihu.com"],"nxstDomains":["www.nxsttv.com","www.kget.com","www.wavy.com","www.abc4.com","www.ktalnews.com","www.cnyhomepage.com","www.counton2.com","www.khon2.com","www.klfy.com","www.koin.com","www.kron4.com","www.krqe.com","www.ksn.com","www.dcnewsnow.com","www.myarklamiss.com","www.kxnet.com","www.mystateline.com","www.nbc4i.com","www.ourquadcities.com","www.wfxrtv.com","www.wane.com","www.wbtw.com","www.wpri.com","www.wrbl.com","www.wtrf.com","www.wwlp.com","www.yourerie.com","www.borderreport.com","www.cbs17.com","www.cenlanow.com","www.wdhn.com","www.ketk.com","www.everythinglubbock.com","www.fourstateshomepage.com","www.fox21news.com","www.ktsm.com","www.valleycentral.com","www.kxan.com","www.texomashomepage.com","www.wate.com","www.wboy.com","www.wcia.com","www.wdtn.com","www.wiproud.com","www.wjbf.com","www.wkbn.com","www.wkrg.com","www.wlns.com","www.woodtv.com","www.wowktv.com","www.wspa.com","www.yourcentralvalley.com","www.abc27.com","www.bigcountryhomepage.com","www.centralillinoisproud.com","www.informnny.com","www.8newsnow.com","www.localmemphis.com","www.mychamplainvalley.com","www.mywabashvalley.com","www.localsyr.com","www.news10.com","www.ozarksfirst.com","www.rochesterfirst.com","www.rocketcitynow.com","www.siouxlandproud.com","www.wtaj.com","www.wearegreenbay.com","www.wfla.com","www.wjtv.com","www.wkrn.com","www.wric.com","www.wsav.com","www.wvnstv.com","www.wytv.com","www.yourbasin.com","www.binghamtonhomepage.com","www.brproud.com","www.cbs42.com","www.fox44news.com","www.conchovalleyhomepage.com","www.fox16.com","www.kark.com","www.ksnt.com","www.myhighplains.com","www.mypanhandle.com","www.mytwintiers.com","www.nwahomepage.com","www.pahomepage.com","www.tristatehomepage.com","www.upmatters.com","www.weareiowa.com","www.westernslopenow.com","www.wishtv.com","www.wivb.com","www.wjhl.com","www.wnct.com","www.wtnh.com","www.yourbigsky.com","www.yourphx.com","www.keloland.com","www.wvillustrated.com","www.channel4000.com","www.mysterywire.com","www.newsnationnow.com","www.qcnews.com","nxstrib.com","wgno.com","kfor.com","ktla.com","wgntv.com","wgnradio.com","phl17.com","cw33.com","dcw50.com","cw39.com","kdvr.com","fox8.com","fox40.com","fox2now.com","fox5sandiego.com","fox4kc.com","myfox8.com","wreg.com","who13.com","whnt.com","fox59.com","cbs4indy.com","fox56news.com","pix11.com","digital-network.thehill.com","thehill.com"]}
+    
+
+     !function(e){function n(n){for(var i,a,s=n[0],d=n[1],l=n[2],u=0,p=[];u<s.length;u++)a=s[u],Object.prototype.hasOwnProperty.call(o,a)&&o[a]&&p.push(o[a][0]),o[a]=0;for(i in d)Object.prototype.hasOwnProperty.call(d,i)&&(e[i]=d[i]);for(c&&c(n);p.length;)p.shift()();return r.push.apply(r,l||[]),t()}function t(){for(var e,n=0;n<r.length;n++){for(var t=r[n],i=!0,s=1;s<t.length;s++){var d=t[s];0!==o[d]&&(i=!1)}i&&(r.splice(n--,1),e=a(a.s=t[0]))}return e}var i={},o={3:0},r=[];function a(n){if(i[n])return i[n].exports;var t=i[n]={i:n,l:!1,exports:{}};return e[n].call(t.exports,t,t.exports,a),t.l=!0,t.exports}a.m=e,a.c=i,a.d=function(e,n,t){a.o(e,n)||Object.defineProperty(e,n,{enumerable:!0,get:t})},a.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},a.t=function(e,n){if(1&n&&(e=a(e)),8&n)return e;if(4&n&&"object"==typeof e&&e&&e.__esModule)return e;var t=Object.create(null);if(a.r(t),Object.defineProperty(t,"default",{enumerable:!0,value:e}),2&n&&"string"!=typeof e)for(var i in e)a.d(t,i,function(n){return e[n]}.bind(null,i));return t},a.n=function(e){var n=e&&e.__esModule?function(){return e.default}:function(){return e};return a.d(n,"a",n),n},a.o=function(e,n){return Object.prototype.hasOwnProperty.call(e,n)},a.p="/wp-content/themes/the-hill/client/build/";var s=window.wpJsonpNxsApp=window.wpJsonpNxsApp||[],d=s.push.bind(s);s.push=n,s=s.slice();for(var l=0;l<s.length;l++)n(s[l]);var c=d;r.push([94,0]),t()}({13:function(e,n,t){"use strict";var i,o,r,a,s,d,l,c,u,p="";if(null!=(null===(i=window)||void 0===i||null===(o=i.NXSTdata)||void 0===o||null===(r=o.identity)||void 0===r?void 0:r.nexstarId))p=null===(l=window)||void 0===l||null===(c=l.NXSTdata)||void 0===c||null===(u=c.identity)||void 0===u?void 0:u.nexstarId;else if(null!==(a=window)&&void 0!==a&&null!==(s=a.NXSTdata)&&void 0!==s&&null!==(d=s.identity)&&void 0!==d&&d.blueconicId){var f,h,v;p=null===(f=window)||void 0===f||null===(h=f.NXSTdata)||void 0===h||null===(v=h.identity)||void 0===v?void 0:v.blueconicId}n.a=String(p)},178:function(e,n,t){"use strict";t.r(n);var i=function(){return(/iPad|iPhone|iPod/.test(navigator.platform)||"MacIntel"===navigator.platform&&1<navigator.maxTouchPoints)&&!window.MSStream},o=t(35),r=t(6),a=t(13);function s(e,n){var t=Object.keys(e);if(Object.getOwnPropertySymbols){var i=Object.getOwnPropertySymbols(e);n&&(i=i.filter((function(n){return Object.getOwnPropertyDescriptor(e,n).enumerable}))),t.push.apply(t,i)}return t}function d(e){for(var n=1;n<arguments.length;n++){var t=null!=arguments[n]?arguments[n]:{};n%2?s(Object(t),!0).forEach((function(n){l(e,n,t[n])})):Object.getOwnPropertyDescriptors?Object.defineProperties(e,Object.getOwnPropertyDescriptors(t)):s(Object(t)).forEach((function(n){Object.defineProperty(e,n,Object.getOwnPropertyDescriptor(t,n))}))}return e}function l(e,n,t){return n in e?Object.defineProperty(e,n,{value:t,enumerable:!0,configurable:!0,writable:!0}):e[n]=t,e}function c(e,n){for(var t=0;t<n.length;t++){var i=n[t];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}var u=function(){function e(n){!function(e,n){if(!(e instanceof n))throw new TypeError("Cannot call a class as a function")}(this,e),this.json={},this.queuePosition="01",this.setJSON(n),this.updateAdTagUrl=this.updateAdTagUrl.bind(this),this.load=this.load.bind(this),this.setComscoreCcpa=this.setComscoreCcpa.bind(this),this.addDFPServerSideParams=this.addDFPServerSideParams.bind(this),this.addPlayerName=this.addPlayerName.bind(this),this.addGoogleAnalyticsPlugin(),this.addNielsenPlugin(),this.addPlayerName()}var n,t,s;return n=e,(t=[{key:"addPlayerName",value:function(){this.json.plugins&&this.json.plugins.segmentCustom&&(this.json.widgetName?this.json.plugins.segmentCustom.playerName=this.json.widgetName:this.json.plugins.segmentCustom.playerName=this.json.isLeadMedia?"Lead Media":"Story Embed")}},{key:"load",value:function(){var e,n,t,i,o,r,a,s,l,c,u,p,f,h,v,b,y,g,w,m,S,j,T;this.setComscoreCcpa();var I,P=this.json||{},_=P.video,A=P.playlist,E=encodeURIComponent(JSON.parse(localStorage._pdfps||"[]").slice(0,250).join(",")),O=String(null===(e=window)||void 0===e||null===(n=e.NXSTdata)||void 0===n||null===(t=n.content)||void 0===t?void 0:t.persistentId),k=Array.isArray(null===(i=window)||void 0===i||null===(o=i.NXSTdata)||void 0===o||null===(r=o.content)||void 0===r?void 0:r.iabCategory)?window.NXSTdata.content.iabCategory[0]:"",U=Array.isArray(null===(a=window)||void 0===a||null===(s=a.NXSTdata)||void 0===s||null===(l=s.content)||void 0===l?void 0:l.iabGenre)?window.NXSTdata.content.iabGenre[0]:"",N="other";window.getCookie&&"function"==typeof getCookie&&(N=null!==(I=window.getCookie("referralId"))&&void 0!==I?I:"other");var V,L,D,C=d(d(d({},this.getPlayerSizing()),this.getHeroType()),{},{upid:String(null!==(c=null===(u=window)||void 0===u||null===(p=u.NXSTdata)||void 0===p||null===(f=p.page)||void 0===f?void 0:f.uniqueId)&&void 0!==c?c:""),content_cat:String(k),content_genre:String(U),refid:String(N)},O&&{pers_cid:O}),x={content_channel:null===(h=window.NXSTdata)||void 0===h||null===(v=h.site)||void 0===v||null===(b=v.brandName)||void 0===b?void 0:b.replace(/\s/g,""),content_livestream:String(0)};null!==(y=window)&&void 0!==y&&null!==(g=y.NXSTdata)&&void 0!==g&&null!==(w=g.content)&&void 0!==w&&null!==(m=w.pageDcode)&&void 0!==m&&m.length&&(C.d_code=null===(V=window)||void 0===V||null===(L=V.NXSTdata)||void 0===L||null===(D=L.content)||void 0===D?void 0:D.pageDcode.join(",")),(A||parseInt(_,10))&&(C=d(d({},C),x)),this.json.isPermutiveEnabled&&(C.permutive=E),this.updateAdTagUrl(C),this.updateAdTagPpid(),0<(null===(S=this.json)||void 0===S||null===(j=S.recommendations)||void 0===j||null===(T=j.items)||void 0===T?void 0:T.length)||(this.json.recommendationsAdTagUrl=""),this.addDFPServerSideParams(),AnvatoPlayer(this.pInstance()).init(this.json)}},{key:"setJSON",value:function(e){if(this.json=e,!this.json.pInstance)throw new Error("pInstance is required");"0"===new URLSearchParams(window.location.search).get("anvplayer-autoplay")&&i()&&(this.json.autoplay=!1),this.json.styleNativeCaptions=!0,this.json.plugins=this.json.plugins||{}}},{key:"pInstance",value:function(){return this.json.pInstance}},{key:"setPinstance",value:function(e){this.json.pInstance=e}},{key:"setAutoplay",value:function(e){this.json.autoplay=e}},{key:"addGoogleAnalyticsPlugin",value:function(){var e=this.json.plugins.googleAnalytics||{};e.trackingId||(e.trackingId=window.NXSTdata.site.gaId),e.events||(e.events={AD_STARTED:{alias:"Video-Ad",category:"Video",label:"[[TITLE]]"},VIDEO_STARTED:{alias:"Video-Play",category:"Video",label:"[[TITLE]]"},VIDEO_FIRST_QUARTILE:{alias:"Video-25%",category:"Video",label:"[[TITLE]]"},VIDEO_MID_POINT:{alias:"Video-50%",category:"Video",label:"[[TITLE]]"},VIDEO_THIRD_QUARTILE:{alias:"Video-75%",category:"Video",label:"[[TITLE]]"},VIDEO_COMPLETED:{alias:"Video-100%",category:"Video",label:"[[TITLE]]"},USER_PAUSE:{alias:"Pause",category:"Video",label:"[[TITLE]]"},USER_RESUME:{alias:"Resume",category:"Video",label:"[[TITLE]]"}}),this.json.plugins.googleAnalytics=e}},{key:"addNielsenPlugin",value:function(){var e=this.json.plugins.nielsen||{};e.optOut=!1,this.json.plugins.nielsen=e}},{key:"updateAdTagPpid",value:function(){if(a.a){var e;try{e=new URL(this.json.plugins.dfp.adTagUrl)}catch(e){return}e.searchParams.set("ppid",a.a),this.json.plugins.dfp.adTagUrl=e,this.json.recommendationsAdTagUrl=e}}},{key:"updateAdTagUrl",value:function(e){var n;try{n=new URL(this.json.plugins.dfp.adTagUrl)}catch(e){return void console.warn("Anvato: Missing vast url for ".concat(this.json.video),"Error: ".concat(e))}Object.keys(e).length?(this.json.plugins.dfp.adTagUrl=String(Object(r.a)(e,n)),this.json.recommendationsAdTagUrl=String(Object(r.a)(e,n))):console.warn("Anvato: No params to add to VAST for ".concat(this.json.video))}},{key:"addDFPServerSideParams",value:function(){var e;try{e=new URL(this.json.plugins.dfp.adTagUrl)}catch(e){return void console.warn("Anvato: Missing vast url for ".concat(this.json.video),"Error: ".concat(e))}var n=["permutive","playerwidth","playerheight","upid"],t=Object(o.a)(new URLSearchParams(Object.entries(d({},Object.fromEntries(new URLSearchParams(e.searchParams.get("cust_params")).entries()))).reduce((function(e,t){return n.includes(t[0])&&t[1]?d(d({},e),{},l({},t[0],t[1])):e}),{})).toString(),{"=":"%3D","&":"%26",",":"%2C"}),i={ppid:a.a||e.searchParams.get("ppid"),descriptionUrl:encodeURIComponent(window.document.location.href),params:t},r={clientSide:d({},this.json.plugins.dfp),serverSide:i};this.json.plugins.dfp=r}},{key:"getPlayerSizing",value:function(){var e=document.getElementById(this.json.pInstance),n=window.getComputedStyle(e).width,t=parseFloat(n.replace("px",""));return{playerwidth:t,playerheight:Math.round(9*t/16)}}},{key:"getHeroType",value:function(){var e=function e(n){var t,i;return"videoPlaylist"===(null===(t=n.dataset)||void 0===t?void 0:t.component)?null===(i=n.dataset)||void 0===i?void 0:i.layout:!!n.parentNode&&e(n.parentNode)}(document.getElementById(this.json.pInstance));return["daily_news_video","daily_news_main_video","big_story_video"].includes(e)?{hero:e.replace(/_/g,"-")}:{}}},{key:"hasAdPreroll",value:function(){var e=this.json.expectPreroll;return e||console.warn("Anvato: ".concat(this.json.video," expectPreroll disabled")),Boolean(e)}},{key:"setComscoreCcpa",value:function(){var e,n=null!==(e=this.json.plugins.comscore.mapping)&&void 0!==e?e:{};n&&(window.__uspapi||"function"==typeof __uspapi)&&__uspapi("getUSPData",1,(function(e,t){if(t)switch(e.uspString){case"1YNN":n.cs_ucfr=1;break;case"1YYN":n.cs_ucfr=0;break;case"1NNN":default:n.cs_ucfr=""}}))}}])&&c(n.prototype,t),s&&c(n,s),e}();function p(e){return(p="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e})(e)}var f=function(){return"object"===("undefined"==typeof apstag?"undefined":p(apstag))?window.apstag:{}};function h(e,n){for(var t=0;t<n.length;t++){var i=n[t];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}var v=function(){function e(n){!function(e,n){if(!(e instanceof n))throw new TypeError("Cannot call a class as a function")}(this,e),this.pInstance="",this.bids={},this.pInstance=n,this.slotID=null,this.leadID=null,this.beforeVideoLoad=this.beforeVideoLoad.bind(this),this.refreshBids=this.refreshBids.bind(this),this.getLeadId=this.getLeadId.bind(this),AnvatoPlayer(this.pInstance).on("beforeVideoLoad",this.beforeVideoLoad),AnvatoPlayer(this.pInstance).on("VAST_REQUESTED",this.refreshBids),this.refreshBids()}var n,t,i;return n=e,(t=[{key:"beforeVideoLoad",value:function(e,n){var t=n.pInstance,i=n.plugins,o=(i=void 0===i?{}:i).dfp,a=(o=void 0===o?{}:o).clientSide,s=(a=void 0===a?{}:a).adTagUrl;if(t!==this.pInstance)return n;var d=this.pInstance===this.getLeadId();this.slotID=d?"preroll":"instreamVideo";var l=n;return s&&(l.plugins.dfp.clientSide.adTagUrl=String(Object(r.a)(this.bids,new URL(s)))),l}},{key:"refreshBids",value:function(){var e,n=this;(e=this.slotID,new Promise((function(n,t){var i=f(),o=window.amazonVideoTimeout||2e3;if(window.isApsEnabled&&"function"==typeof i.fetchBids){var r=["amznbid","amzniid","amznp"];i.fetchBids({slots:[{slotID:e||"instreamVideo",mediaType:"video"}],timeout:o},(function(e){if(!e.length)return console.warn("Anvato: No A9 bids"),void n({});var t=e.filter((function(e){return"video"===e.mediaType})),i={};t.forEach((function(e){if(e.targeting){var n=e.targeting;Object.keys(n).forEach((function(e){i[e]=n[e]}))}else r.forEach((function(n){n in e&&(i[n]=e[n])}))})),n(i)}))}else t()}))).then((function(e){n.bids=e}))}},{key:"getLeadId",value:function(){var e;if(this.leadID)return this.leadID;var n=null,t="category"===window.NXSTdata.content.pageType,i="article"===window.NXSTdata.content.pageType,o=!!document.querySelector(".article__featured-media.hilltv__article__player_playlist");t?n=document.querySelector(".video-playlist__player-intrinsic-sizer"):i?null==(n=o?document.querySelector(".video-playlist__player-intrinsic-sizer"):document.querySelector(".article__featured-media .ns-block-embed__wrapper"))&&(n=document.querySelector(".video-playlist__player-intrinsic-sizer")):n=document.querySelector(".ns-block-embed__wrapper");var r=null===(e=n)||void 0===e?void 0:e.querySelector("iframe");return this.leadID=null==r?void 0:r.id,this.leadID}}])&&h(n.prototype,t),i&&h(n,i),e}(),b=function(e){if(!["preroll","postroll"].includes(e))return{};var n=768<=(window.innerWidth||document.documentElement.clientWidth)?"desktop":"mobile",t="".concat(e,"_").concat(n);return{code:e,mediaTypes:{video:{context:"instream",playerSize:"desktop"===n?[[640,480]]:[[400,300]],mimes:["video/mp4","video/webm"],protocols:[3,7],playbackmethod:[2,3,6],api:[2],minduration:5,maxduration:30,linearity:1,skip:1,skipafter:15}},bids:(window.prebidData.slotMap[e]||{}).filter((function(e){return e.labelAny&&e.labelAny[0]===t}))}},y=!1,g=function(){return new Promise((function(e,n){var t=window.prebidVideoTimeout||2e3;window.isPrebidEnabled&&window.isPrebidVideoEnabled&&void 0!==window.pbjs?window.pbjs.cmd.push((function(){!function(){if(!y){y=!0;var e=b("preroll"),n=b("postroll");e.bids&&0<e.bids.length&&window.pbjs.addAdUnits(e),n.bids&&0<n.bids.length&&window.pbjs.addAdUnits(n),window.pbjs.setConfig({cache:{url:"https://prebid.adnxs.com/pbc/v1/cache"}})}}();var n=["preroll","postroll"];window.pbjs.requestBids({timeout:t,adUnitCodes:n,bidsBackHandler:function(){var t={};n.forEach((function(e){var n=window.pbjs.getHighestCpmBids(e);if(n.length){window.pbjs.markWinningBidAsUsed({adId:n[0].adId});var i=n[0].adserverTargeting;Object.keys(i).forEach((function(n){var o=function(e,n,t){var i=e.hb_bidder;"triplelift"===i&&(i="3lift");var o="preroll"===t?"pre":"pst";return"".concat(n,"_").concat(i,"_").concat(o)}(i,n,e);t[o]=i[n]}))}})),e(t)}})})):n()}))};function w(e,n){for(var t=0;t<n.length;t++){var i=n[t];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}var m=function(){function e(n){!function(e,n){if(!(e instanceof n))throw new TypeError("Cannot call a class as a function")}(this,e),this.pInstance="",this.bids={},this.pInstance=n,this.beforeVideoLoad=this.beforeVideoLoad.bind(this),this.refreshBids=this.refreshBids.bind(this),AnvatoPlayer(this.pInstance).on("beforeVideoLoad",this.beforeVideoLoad),AnvatoPlayer(this.pInstance).on("VAST_REQUESTED",this.refreshBids),this.refreshBids()}var n,t,i;return n=e,(t=[{key:"beforeVideoLoad",value:function(e,n){var t=n.pInstance,i=n.plugins,o=(i=void 0===i?{}:i).dfp,a=(o=void 0===o?{}:o).clientSide,s=(a=void 0===a?{}:a).adTagUrl;if(t!==this.pInstance)return n;var d=n;return s&&(d.plugins.dfp.clientSide.adTagUrl=String(Object(r.a)(this.bids,new URL(s)))),d}},{key:"refreshBids",value:function(){var e=this;g().then((function(n){e.bids=n}))}}])&&w(n.prototype,t),i&&w(n,i),e}();function S(e){return function(e){if(Array.isArray(e))return j(e)}(e)||function(e){if("undefined"!=typeof Symbol&&null!=e[Symbol.iterator]||null!=e["@@iterator"])return Array.from(e)}(e)||function(e,n){if(!e)return;if("string"==typeof e)return j(e,n);var t=Object.prototype.toString.call(e).slice(8,-1);"Object"===t&&e.constructor&&(t=e.constructor.name);if("Map"===t||"Set"===t)return Array.from(e);if("Arguments"===t||/^(?:Ui|I)nt(?:8|16|32)(?:Clamped)?Array$/.test(t))return j(e,n)}(e)||function(){throw new TypeError("Invalid attempt to spread non-iterable instance.\nIn order to be iterable, non-array objects must have a [Symbol.iterator]() method.")}()}function j(e,n){(null==n||n>e.length)&&(n=e.length);for(var t=0,i=new Array(n);t<n;t++)i[t]=e[t];return i}var T=function(e){if(!["preroll","postroll"].includes(e))return{};var n=768<=(window.innerWidth||document.documentElement.clientWidth)?"desktop":"mobile",t="".concat(e,"_").concat(n);return{code:e,mediaTypes:{video:{context:"instream",playerSize:"desktop"===n?[[640,480]]:[[400,300]],mimes:["video/mp4"],protocols:[3,7],playbackmethod:[2,3,6],api:[2],placement:1,minduration:5,maxduration:30,linearity:1,skip:1,skipafter:15}},bids:window.htlbid.config.prebidGroups[t]||{}}},I=!1,P=function(){return new Promise((function(e,n){var t=window.prebidVideoTimeout||2e3;window.isHtlbidEnabled?window.htlbid.cmd.push((function(){window.pbjs.cmd.push((function(){!function(){if(!I){I=!0;var e=T("preroll"),n=T("postroll");e.bids&&0<e.bids.length&&window.pbjs.addAdUnits(e),n.bids&&0<n.bids.length&&window.pbjs.addAdUnits(n),window.pbjs.setConfig({cache:{url:"https://prebid.adnxs.com/pbc/v1/cache"}})}}();var n=["preroll","postroll"];window.pbjs.requestBids({timeout:t,adUnitCodes:n,bidsBackHandler:function(t){var i={};n.forEach((function(e){var n,o=function(){var e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:[];return S(e).reduce((function(e,n){return parseFloat(e.pbCg)>parseFloat(n.pbCg)?e:n}),{})}(null==t||null===(n=t[e])||void 0===n?void 0:n.bids);if(null!=o&&o.adserverTargeting){var r=o.adserverTargeting;r.hb_bidder=o.bidderCode,Object.keys(r).forEach((function(n){var t=function(e,n,t){var i=e.hb_bidder;"triplelift"===i&&(i="3lift");var o="preroll"===t?"pre":"pst";return"".concat(n,"_").concat(i,"_").concat(o)}(r,n,e);i[t]=r[n]}))}})),e(i)}})}))})):n()}))};function _(e,n){for(var t=0;t<n.length;t++){var i=n[t];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}var A=function(){function e(n){!function(e,n){if(!(e instanceof n))throw new TypeError("Cannot call a class as a function")}(this,e),this.pInstance="",this.bids={},this.pInstance=n,this.beforeVideoLoad=this.beforeVideoLoad.bind(this),this.refreshBids=this.refreshBids.bind(this),AnvatoPlayer(this.pInstance).on("beforeVideoLoad",this.beforeVideoLoad),AnvatoPlayer(this.pInstance).on("VAST_REQUESTED",this.refreshBids),this.refreshBids()}var n,t,i;return n=e,(t=[{key:"beforeVideoLoad",value:function(e,n){var t=n.pInstance,i=n.plugins,o=(i=void 0===i?{}:i).dfp,a=(o=void 0===o?{}:o).clientSide,s=(a=void 0===a?{}:a).adTagUrl;if(t!==this.pInstance)return n;var d=n;return s&&(d.plugins.dfp.clientSide.adTagUrl=String(Object(r.a)(this.bids,new URL(s)))),d}},{key:"refreshBids",value:function(){var e=this;P().then((function(n){e.bids=n}))}}])&&_(n.prototype,t),i&&_(n,i),e}();window.nexstarA9=window.nexstarA9||{},window.nexstarPrebid=window.nexstarPrebid||{},window.nexstarHtlbid=window.nexstarHtlbid||{},window.loadAnvato=function(e){try{var n=window,t=n.nexstarA9,i=n.nexstarPrebid,o=n.nexstarHtlbid,r=new u(e),a=r.pInstance();t[a]||(t[a]=new v(a)),i[a]||(i[a]=new m(a)),o[a]||(o[a]=new A(a)),r.load()}catch(e){console.warn(e)}},window.preloadAnvato.forEach(window.loadAnvato)},94:function(e,n,t){e.exports=t(178)}});
+//# sourceMappingURL=anvato-loader.bundle.min.js.map
+    
+
+     !function(e){var t={};function n(r){if(t[r])return t[r].exports;var o=t[r]={i:r,l:!1,exports:{}};return e[r].call(o.exports,o,o.exports,n),o.l=!0,o.exports}n.m=e,n.c=t,n.d=function(e,t,r){n.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,t){if(1&t&&(e=n(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(n.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var o in e)n.d(r,o,function(t){return e[t]}.bind(null,o));return r},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="/wp-content/themes/nexstar/client/build/",n(n.s=241)}({241:function(e,t,n){e.exports=n(242)},242:function(e,t){window.setCookie=function(e,t){var n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:1,r=arguments.length>3&&void 0!==arguments[3]?arguments[3]:"/",o=new Date(Date.now()+60*n*60*1e3).toUTCString();document.cookie=e+"="+t+"; expires="+o+"; path="+r},window.getCookie=function(e){for(var t=e+"=",n=document.cookie.split(";"),r=0;r<n.length;r++){for(var o=n[r];" "==o.charAt(0);)o=o.substring(1);if(0==o.indexOf(t))return o.substring(t.length,o.length)}return""},window.isAutoPlay=function(e){return e.closest(".video-player--hero")||e.closest(".video-center-content")||e.closest(".article-featured-media--lakanaanvplayer")}}});
+//# sourceMappingURL=global-utils.bundle.min.js.map
+    
+
+     window.amScripts = window.amScripts || {}; window.amScripts["page_attributes"] = {"page_url":"https:\/\/thehill.com\/homenews\/campaign\/4043710-christie-details-of-trump-indictment-devastating\/","page_slug":"4043710-christie-details-of-trump-indictment-devastating","page_type":"story","page_category":"campaign","article_id":4043710,"subpath":"\/news\/campaign"}
+    
+
+     window.amScripts = window.amScripts || {}; window.amScripts["gpt"] = {"ab_test":{"min":1,"max":101,"storage_key":"ns.gpt.sessiontest"}}
+    
+
+     window.amScripts = window.amScripts || {}; window.amScripts["bob"] = {"base_host":"bob.dmpxs.com"}
+    
+
+     :root{--flow-space:1.49625rem}body{background:#fff;color:#263147;font-size:1.3725rem;line-height:1.5;font-family:Graphik Web,sans-serif}a{text-decoration:none}a:not([class]){color:currentColor;-webkit-text-decoration-color:#fa576e;text-decoration-color:#fa576e}main:focus{outline:none}h1{font-size:50px}h1,h2,h3,h4{font-weight:900;line-height:1.1}.screen-reader-text{border:0;clip:rect(0,0,0,0);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px}::-moz-selection{background:rgba(38,49,71,.99);color:#f9f4e3}::selection{background:rgba(38,49,71,.99);color:#f9f4e3}.wp-block-embed-youtube .wp-block-embed__wrapper{height:0!important;overflow:hidden!important;padding-bottom:56.25%!important}.article-list>*{margin-bottom:1rem}.article-list--is-infinite .article-list__content,.article-list>:last-child{margin-bottom:0}.article-list-infinite{margin-top:1rem}.article-list__blanketing-link{color:#000;display:block}.article-list__blanketing-link:hover{color:#000}.article-list__heading{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:1rem;font-weight:700;line-height:1.2;text-transform:uppercase}@media(min-width:64rem){.article-list__heading{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:1.25rem;font-weight:700;line-height:1.2;text-transform:uppercase}}.article-list__heading--notched{text-align:center;width:100%}.article-list__heading--notched:before{background-color:#000;content:"";display:block;height:.3333333333rem;margin:1rem auto;width:1rem}.article-list__heading--dot-block{text-align:center;width:100%}.article-list__heading--dot-block:after{background:-o-linear-gradient(left,#fff 3px,rgba(0,0,0,0) 1%) 50%,-o-linear-gradient(#fff 3px,rgba(0,0,0,0) 1%) 50%,#000;background:linear-gradient(90deg,#fff 3px,rgba(0,0,0,0) 1%) 50%,linear-gradient(#fff 3px,rgba(0,0,0,0) 1%) 50%,#000;background-position:bottom;background-size:4px 4px;content:"";display:block;height:.625rem;margin:.5rem auto 1rem;padding:1px;width:50%}.article-list__heading--bottom-divider,.article-list__heading--bottom-divider-flush{text-align:center;width:100%;border-bottom:2px solid #000;padding-bottom:1rem}.article-list__heading--bottom-divider-flush{margin-bottom:0}.article-list__heading--bottom-divider-half-sized{text-align:center;width:100%}.article-list__heading--bottom-divider-half-sized:after{background-color:#000;content:"";display:block;height:1px;margin:1rem auto;width:50%}.article-list__heading--small{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:1rem;font-weight:700;line-height:1.2;text-transform:uppercase}@media(min-width:64rem){.article-list__heading--small{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:1rem;font-weight:700;line-height:1.2;text-transform:uppercase}}.article-list__heading--dotted-thick-full-rule{text-align:center;width:100%;line-height:1.7;position:relative}.article-list__heading--dotted-thick-full-rule:before{left:50%;margin-right:-50%;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%);background-color:#fff;content:"";display:block;height:100%;width:25%;z-index:-1}.article-list__heading--dotted-thick-full-rule:after{background:-o-linear-gradient(left,#fff 3px,rgba(0,0,0,0) 1%) 50%,-o-linear-gradient(#fff 3px,rgba(0,0,0,0) 1%) 50%,#000;background:linear-gradient(90deg,#fff 3px,rgba(0,0,0,0) 1%) 50%,linear-gradient(#fff 3px,rgba(0,0,0,0) 1%) 50%,#000;background-position:bottom;background-size:4px 4px;content:"";display:block;height:.625rem;margin:.5rem auto 1rem;padding:1px;width:50%;position:absolute;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);top:0;width:100%;z-index:-2}.article-list__heading--hidden{visibility:hidden}.article-list__content>*{margin-bottom:1rem}.article-list__content>:last-child{margin-bottom:0}.article-list__article--is-stacked{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}.article-list__article--is-stacked .article-list__article-thumb{-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1}.article-list__article--is-stacked .article-list__article-text{-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2}.article-list__article--is-slat{display:-webkit-box;display:-ms-flexbox;display:flex}.article-list__article--is-slat:not(:last-of-type){border-bottom:1px dotted #000;padding-bottom:1rem}.article-list__article--is-slat-top-border{border-bottom:unset;border-top:1px dotted #000;padding-bottom:unset;padding-top:1rem}.article-list__article--is-slat .article-list__article-thumb{margin-right:1rem;min-width:8.25rem;-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1;width:8.25rem}.article-list__article--is-slat .article-list__article-text{-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2;width:100%}.article-list__article--is-media-type .article-list__article-thumb img{display:block}.article-list__article--is-media-type .article-list__article-thumb a{color:#fff;text-decoration:none}.article-list__article--is-media-type .article-list__article-thumb a:hover{color:#fff}@media(min-width:48rem){.article-list__article--is-media-type .article-list__article-thumb a{display:block}}.article-list__article--is-media-type .article-list__article-mediaicon{-webkit-box-align:center;-ms-flex-align:center;align-items:center;background:#2d5ea8;display:-webkit-box;display:-ms-flexbox;display:flex;padding:.5rem}.article-list__article--is-media-type .article-list__article-mediaicon--livestream{background:#cc1f3b}.article-list__article--is-media-type .article-list__article-mediaicon-svg{height:1.5rem;position:relative;width:1.5rem}.article-list__article--is-media-type .article-list__article-mediaicon-svg svg{left:50%;margin-right:-50%;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.article-list__article--is-media-type .article-list__article-mediaicon-svg path{fill:#fff}.article-list__article--is-media-type .article-list__article-mediaicon-text{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:.6875rem;font-weight:700;line-height:1;text-transform:uppercase;display:none;margin-left:.5rem}.article-list__article--is-media-type:active .article-list__article-mediaicon,.article-list__article--is-media-type:hover .article-list__article-mediaicon{background:#000}.article-list__article--is-media-type:active .article-list__article-mediaicon-text,.article-list__article--is-media-type:hover .article-list__article-mediaicon-text{color:#fff}@media(min-width:900px){.article-list__article--is-media-type:active .article-list__article-mediaicon-text,.article-list__article--is-media-type:hover .article-list__article-mediaicon-text{display:block}}.article-list__article--is-media-type .article-list__article-image-wrapper{position:relative}.article-list__article--is-media-type .article-list__article-image-wrapper .article-list__article-mediaicon{bottom:0;left:0;position:absolute}.article-list__article--is-media-type.article-list__article--is-slat:not(.article-list__article--has-thumb) .article-list__article-text{padding-right:3rem;position:relative}.article-list__article--is-media-type.article-list__article--is-slat:not(.article-list__article--has-thumb) .article-list__article-mediaicon{position:absolute;right:0;top:-1rem}.article-list__article.article-list__article--is-stacked:not(.article-list__article--has-thumb){position:relative}.article-list__article.article-list__article--is-stacked:not(.article-list__article--has-thumb) .article-list__article-text{padding-right:3rem}.article-list__article.article-list__article--is-stacked:not(.article-list__article--has-thumb) .article-list__article-mediaicon{position:absolute;right:0;top:0}.article-list__article:not(.article-list__article--is-media-type) .article-list__article-mediaicon{display:none}.article-list__article-text{overflow-wrap:break-word}.article-list__article-text>*{margin-bottom:.5rem}.article-list__article-text>:last-child{margin-bottom:0}.article-list__article-title{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:1rem;font-weight:700;line-height:1.3;text-transform:none}.article-list__article-title a{color:#000;text-decoration:none}.article-list__article-title a:hover{color:#2d5ea8}.article-list__article-thumb{margin-bottom:.5rem}.article-list__article-thumb>a{font-size:0}.article-list__article-thumb:hover{opacity:.85}@media(max-width:899px){.article-list__article-thumb--is-fullbleed-on-mobile{margin-left:-1rem;width:100vw}}.article-list__article-thumb-caption{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:.8125rem;font-weight:400;line-height:1.3;text-transform:none}.article-list__article-excerpt a,.article-list__article-excerpt a:hover{color:#000}.article-list__article-meta{font-family:arial,helvetica,verdana,sans-serif;font-size:.75rem;font-weight:700;line-height:2}@media(min-width:64rem){.article-list__article-meta{font-size:.875rem}}.article-list__read-more a,.article-list__read-more span{color:#2d5ea8;text-decoration:none;font-family:arial,helvetica,verdana,sans-serif;font-size:.875rem;font-weight:700;line-height:1.3}.article-list__read-more a:hover,.article-list__read-more span:hover{color:#000}.article-list__read-more--w-arrow .icon--arrow{display:inline-block;font-size:1rem;height:.625rem;margin-left:.5rem;width:1.0625rem}.article-list__read-more--w-arrow .icon--arrow path{fill:currentColor}.article-list__read-more--align-right{text-align:right}.article-list__read-more--dotted-top-rule:before{border-top:1px dotted #000;content:"";display:block;height:2rem;width:3rem}.article-list__article-excerpt--is-faded{position:relative}.article-list__article-excerpt--is-faded:after{background:-webkit-gradient(linear,left top,left bottom,from(hsla(0,0%,100%,0)),to(#fff));background:-o-linear-gradient(top,hsla(0,0%,100%,0) 0,#fff 100%);background:linear-gradient(180deg,hsla(0,0%,100%,0),#fff);bottom:0;content:"";display:block;height:100%;position:absolute;width:100%}.article-list__link-below-excerpt{display:inline-block;font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:.95rem;font-weight:700;margin-top:.5rem}@media(max-width:899px){.article-list__link-below-excerpt{margin-bottom:.5rem!important;margin-top:.5rem}}.article-list__link-below-excerpt:hover .icon--arrow svg{fill:#000}.article-list__link-below-excerpt .icon--arrow{display:inline-block;font-size:1rem;height:.625rem;margin-left:.5rem;width:1rem}.article-list__link-below-excerpt .icon--arrow svg{fill:#2d5ea8}.article-list__load-more-cta{margin:1rem 0;min-height:2rem;position:relative;width:100%}.article-list__load-more-cta:after{position:absolute;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);border-top:1px dotted #000;content:"";display:block;width:100%;z-index:-1}.article-list__load-more-cta__button{left:50%;margin-right:-50%;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%);-webkit-appearance:none;-moz-appearance:none;appearance:none;background-color:rgba(0,0,0,0);border:none;border-radius:0;cursor:pointer;overflow:visible;text-decoration:none;font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:.75rem;font-weight:400;line-height:32px;text-transform:uppercase;padding:0 22px;width:auto;background-color:var(--primary_color);color:#fff;-webkit-transition:background-color .5s ease-in-out;-o-transition:background-color .5s ease-in-out;transition:background-color .5s ease-in-out;font-size:1rem}.article-list__load-more-cta__button:active,.article-list__load-more-cta__button:hover{background-color:#000}.article-list__article-label-link,.article-list__article-label-text{display:none}
+    
+
+     .article-header{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column}.article-header>*{margin-bottom:1rem}@media(max-width:899px){.article-header>*{margin-bottom:1rem}}.below-article-header{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:.9rem;font-style:italic;margin-top:-16px}@media(min-width:64rem){.below-article-header{margin-top:-22px}}.below-article-header span{color:#000}.below-article-header a{font-size:.9rem;font-style:italic;text-decoration:underline}.below-article-header a:hover{color:#2d5ea8}.article-eyebrow{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:.9375rem;font-weight:700;line-height:1;text-transform:uppercase;-webkit-box-align:baseline;-ms-flex-align:baseline;align-items:baseline;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-ordinal-group:2;-ms-flex-order:1;order:1}@media(min-width:64rem){.article-eyebrow{font-size:1.25rem}}.article-eyebrow .eyebrow-divider{border-left:2px solid #000;bottom:-3.5px;height:17px;margin-left:9px;padding-left:11px;position:relative}@media(min-width:64rem){.article-eyebrow .eyebrow-divider{height:20px}}.article-eyebrow .eyebrow-logo{max-width:130px;min-height:100%}@media(min-width:64rem){.article-eyebrow .eyebrow-logo{max-width:180px}}.article-title{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:1.5625rem;font-weight:700;line-height:1.1;text-transform:none;letter-spacing:-1;-webkit-box-ordinal-group:3;-ms-flex-order:2;order:2}@media(min-width:32rem){.article-title{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:2rem;font-weight:700;line-height:1.1;text-transform:none}}@media(min-width:64rem){.article-title{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:2.8125rem;font-weight:700;line-height:1.1;text-transform:none}}.article-title--small{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:1.5625rem;font-weight:700;line-height:1.1;text-transform:none;letter-spacing:-1}@media(min-width:32rem){.article-title--small{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:2rem;font-weight:700;line-height:1.1;text-transform:none}}.article__featured-media{-webkit-box-ordinal-group:6;-ms-flex-order:5;order:5;position:relative}.article__featured-media>*{margin-bottom:.5rem}.article__featured-media>:last-child{margin-bottom:0}@media(min-width:900px){.article__featured-media{margin-bottom:1rem}}@media(max-width:899px){.article__featured-media .image-wrapper,.article__featured-media .media-wrapper{margin-left:-1rem;width:100vw}}.article__featured-media figcaption{font-family:Roboto Condensed,arial,helvetica,verdana,sans-serif;font-size:.8125rem;font-weight:400;line-height:1.3;text-transform:none}.article__featured-media .ns-block-embed-anvato{position:relative;z-index:1;z-index:4}@media(max-width:899px){.article__featured-media .ns-block-embed-anvato{width:100vw;margin-left:unset}}.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper,.article__featured-media .ns-block-embed-anvato .wp-block-embed__wrapper{height:0;overflow:hidden;padding-bottom:56.25%;position:relative}@media(max-width:899px){.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper,.article__featured-media .ns-block-embed-anvato .wp-block-embed__wrapper{margin-left:-1rem;width:100vw}}.article__featured-media .ns-block-embed-anvato iframe,.article__featured-media .ns-block-embed-anvato video{height:100%;left:0;position:absolute;top:0;width:100%}.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper iframe{position:absolute!important}@media(max-width:899px){.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper{margin-left:unset}}.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper .desktop-floating-player{border:5px solid #fff;border-top:18px solid #fff;bottom:120px;-webkit-box-shadow:0 0 20px 0 rgba(0,0,0,.25);box-shadow:0 0 20px 0 rgba(0,0,0,.25);height:225px;left:auto;position:fixed!important;right:20px;top:auto!important;width:410px;z-index:6}.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper .mobile-floating-player-min{background:#000;border:0 solid #000;-webkit-box-shadow:0 0 20px 0 rgba(0,0,0,.25);box-shadow:0 0 20px 0 rgba(0,0,0,.25);height:28vw;position:fixed!important;top:5rem;width:100vw;z-index:5}.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper .mobile-floating-player-exp{background:#fff;border:5.5px solid #fff;border-top-width:18px;-webkit-box-shadow:0 0 20px 0 rgba(0,0,0,.25);box-shadow:0 0 20px 0 rgba(0,0,0,.25);height:56.25vw;position:fixed!important;top:5rem;-webkit-transition:height .5s;-o-transition:height .5s;transition:height .5s;width:100vw;z-index:5}.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper .mobile-cross-bar{left:0;position:fixed!important;top:4.5rem;width:100vw;z-index:7}.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper .mobile-cross-bar svg{cursor:pointer;height:24px;position:absolute;right:0;top:.5rem;width:20px;z-index:7}.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper .mobile-cross-bar svg circle{fill:#fff}.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper .mobile-cross-bar svg path{fill:none;stroke:#959595;stroke-width:2;-webkit-transform:scale(1.1);-ms-transform:scale(1.1);transform:scale(1.1)}.article__featured-media .ns-block-embed-anvato .ns-block-embed__wrapper .mobile-cross-bar svg path:first-child{d:path("M5.5,5.5,13.5,13.5")}.article__featured-media .ns-block-embed-anvato .cross-sign{bottom:350px;cursor:pointer;height:24px;left:auto!important;margin-bottom:-30px;position:fixed!important;right:20px;top:auto!important;width:24px;z-index:7}.article__featured-media .ns-block-embed-anvato .cross-sign circle{fill:#fff}.article__featured-media .ns-block-embed-anvato .cross-sign path{fill:none;stroke:#959595;stroke-width:2}.article__featured-media .ns-block-embed-anvato .cross-sign path:first-child{d:path("M5.5,5.5,13.5,13.5")}.article__featured-media .wp-block-jetpack-slideshow{margin-bottom:unset}.article-lead-text{font-family:lora,georgia,times,serif;font-size:1.125rem;font-weight:400;line-height:1.2;text-transform:none;color:#000;font-style:italic;-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}@media(min-width:32rem){.article-lead-text{font-family:lora,georgia,times,serif;font-size:1.5rem;font-weight:400;line-height:1.2;text-transform:none}}.article-lead-share{margin-bottom:1rem;-webkit-box-ordinal-group:5;-ms-flex-order:4;order:4}.article-meta{font-family:arial,helvetica,verdana,sans-serif;font-size:.75rem;font-weight:700;line-height:2;padding-left:1rem;position:relative;margin-bottom:0;-webkit-box-ordinal-group:7;-ms-flex-order:6;order:6}@media(min-width:64rem){.article-meta{font-size:.875rem}}.article-meta:before{background-color:#000;content:"";height:calc(100% - 8px);left:0;margin-top:.25rem;overflow:hidden;position:absolute;top:0;width:.3125rem}.parent-not-min .mobile-floating-player-exp{-webkit-transition:none!important;-o-transition:none!important;transition:none!important}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       .has-text-align-justify{text-align:justify;}
+      
+
+       .parsely-recommendations-list-title{font-size:1.2em}.parsely-recommendations-list{list-style:none;padding:unset}.parsely-recommendations-cardbody{overflow:hidden;padding:.8em;text-overflow:ellipsis;white-space:nowrap}.parsely-recommendations-cardmedia{padding:.8em .8em 0}
+      
+
+
+
+       .widget_ep-facet input[type=search],.wp-block-elasticpress-facet input[type=search]{margin-bottom:1rem}.widget_ep-facet .searchable .inner,.wp-block-elasticpress-facet .searchable .inner{max-height:20em;overflow:scroll}.widget_ep-facet .term.hide,.wp-block-elasticpress-facet .term.hide{display:none}.widget_ep-facet .empty-term,.wp-block-elasticpress-facet .empty-term{opacity:.5;position:relative}.widget_ep-facet .empty-term:after,.wp-block-elasticpress-facet .empty-term:after{bottom:0;content:" ";display:block;left:0;position:absolute;right:0;top:0;width:100%;z-index:2}.widget_ep-facet .level-1,.wp-block-elasticpress-facet .level-1{padding-left:20px}.widget_ep-facet .level-2,.wp-block-elasticpress-facet .level-2{padding-left:40px}.widget_ep-facet .level-3,.wp-block-elasticpress-facet .level-3{padding-left:60px}.widget_ep-facet .level-4,.wp-block-elasticpress-facet .level-4{padding-left:5pc}.widget_ep-facet .level-5,.wp-block-elasticpress-facet .level-5{padding-left:75pt}.widget_ep-facet input[disabled],.wp-block-elasticpress-facet input[disabled]{cursor:pointer;opacity:1}.widget_ep-facet .term a,.wp-block-elasticpress-facet .term a{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;position:relative}.widget_ep-facet .term a:hover .ep-checkbox,.wp-block-elasticpress-facet .term a:hover .ep-checkbox{background-color:#ccc}.ep-checkbox{-webkit-box-align:center;-ms-flex-align:center;-ms-flex-negative:0;-webkit-box-pack:center;-ms-flex-pack:center;align-items:center;background-color:#eee;display:-webkit-box;display:-ms-flexbox;display:flex;flex-shrink:0;height:1em;justify-content:center;margin-right:.25em;width:1em}.ep-checkbox:after{border:solid #fff;border-width:0 .125em .125em 0;content:"";display:none;height:.5em;-webkit-transform:rotate(45deg);transform:rotate(45deg);width:.25em}.ep-checkbox.checked{background-color:#5e5e5e}.ep-checkbox.checked:after{display:block}
+      
+
+
+
+       body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+      
+
+
+
+
+
+
+
+
+
+
+       .article--is-condensed .article-content { max-height: 250px; }
+      
+
+
+
+
+
+
+
+
+
+
+
+
+       var tag = {"options":{"customerId":"90f2c356589913e8f7a5e551a89a0409"}};
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+       {"@context":"https:\/\/schema.org","@type":"NewsArticle","headline":"Christie: Details of Trump indictment \u2018devastating\u2019","url":"http:\/\/thehill.com\/homenews\/campaign\/4043710-christie-details-of-trump-indictment-devastating\/","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/thehill.com\/homenews\/campaign\/4043710-christie-details-of-trump-indictment-devastating\/"},"thumbnailUrl":"https:\/\/thehill.com\/wp-content\/uploads\/sites\/2\/2022\/12\/christiechris_111922_ap_.jpg?w=160&h=90&crop=1","image":{"@type":"ImageObject","url":"https:\/\/thehill.com\/wp-content\/uploads\/sites\/2\/2022\/12\/christiechris_111922_ap_.jpg?strip=1"},"articleSection":"Campaign","author":[{"@type":"Person","name":"jgans"}],"creator":["jgans"],"publisher":{"@type":"Organization","name":"The Hill","logo":"https:\/\/thehill.com\/wp-content\/uploads\/sites\/2\/2023\/03\/cropped-favicon-512px-1.png?strip=1"},"keywords":["indictment","mar-a-lago","trump classified documents"],"dateCreated":"2023-06-10T13:40:38Z","datePublished":"2023-06-10T13:40:38Z","dateModified":"2023-06-10T13:51:25Z"}
+      
+
+       img#wpstats{display:none}
+      
+
+       var sailthru_vars = {"ajaxurl":"https:\/\/thehill.com\/wp-admin\/admin-ajax.php"}
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Skip to content
+   
+
+
+
+
+
+
+       Toggle Menu
+      
+
+
+
+         Open Navigation
+        
+
+
+
+
+
+
+
+         Close Navigation
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Close search form
+        
+
+
+
+
+        News
+       
+
+
+
+
+
+            Senate
+           
+
+
+
+            House
+           
+
+
+
+            Administration
+           
+
+
+
+            Courts
+           
+
+
+
+            Campaign
+           
+
+
+
+            2024 Elections
+           
+
+
+
+            Health Care
+           
+
+
+
+            Media
+           
+
+
+
+            Education
+           
+
+
+
+            Latino
+           
+
+
+
+            LGBTQ
+           
+
+
+
+            Race & Politics
+           
+
+
+
+            State Watch
+           
+
+
+
+            In The Know
+           
+
+
+
+            Changing America
+           
+
+
+
+            People in the News
+           
+
+
+
+            Print Edition
+           
+
+
+
+
+
+
+
+        Policy
+       
+
+
+
+
+
+            Defense
+           
+
+
+
+            Energy & Environment
+           
+
+
+
+            Health Care
+           
+
+
+
+            Technology
+           
+
+
+
+            Transportation
+           
+
+
+
+            International
+           
+
+
+
+            Cybersecurity
+           
+
+
+
+            National Security
+           
+
+
+
+            Space
+           
+
+
+
+            Sustainability
+           
+
+
+
+
+
+
+
+        Business
+       
+
+
+
+
+
+            All business news
+           
+
+
+
+            Budget
+           
+
+
+
+            Economy
+           
+
+
+
+            Personal finance
+           
+
+
+
+            Housing
+           
+
+
+
+            Lobbying
+           
+
+
+
+            Taxes
+           
+
+
+
+            Trade
+           
+
+
+
+
+
+
+
+        Opinion
+       
+
+
+
+
+
+            Columnists
+           
+
+
+
+            Congress Blog
+           
+
+
+
+            All Contributors
+           
+
+
+
+
+
+                Campaign
+               
+
+
+
+                Civil Rights
+               
+
+
+
+                Criminal Justice
+               
+
+
+
+                Cybersecurity
+               
+
+
+
+                Education
+               
+
+
+
+                Energy and Environment
+               
+
+
+
+                Finance
+               
+
+
+
+                Healthcare
+               
+
+
+
+                Immigration
+               
+
+
+
+                International
+               
+
+
+
+                Judiciary
+               
+
+
+
+                National Security
+               
+
+
+
+                Technology
+               
+
+
+
+                White House
+               
+
+
+
+
+
+
+
+            Submit Opinion Content
+           
+
+
+
+
+
+
+
+        Events
+       
+
+
+
+
+
+            Upcoming Events
+           
+
+
+
+            About
+           
+
+
+
+
+
+
+
+        Jobs
+       
+
+
+
+
+
+            The Hill Jobs
+           
+
+
+
+            National Jobs
+           
+
+
+
+
+
+
+
+        Hill TV
+       
+
+
+
+        Newsletters
+       
+
+
+
+
+
+            Sign up
+           
+
+
+
+            Morning Report
+           
+
+
+
+            12:30 Report
+           
+
+
+
+            Business & Economy
+           
+
+
+
+            Defense
+           
+
+
+
+            Health Care
+           
+
+
+
+            Campaign Report
+           
+
+
+
+            Technology
+           
+
+
+
+            Energy & Environment
+           
+
+
+
+            Sustainability
+           
+
+
+
+
+
+
+
+        Sign up to our latest Newsletter
+       
+
+        Sign Up
+       
+
+
+
+
+         Search
+        
+
+
+
+           Search
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        trending&colon
+       
+
+
+
+          Debt ceiling
+         
+
+
+
+          2024 Elections
+         
+
+
+
+          Russia-Ukraine war
+         
+
+
+
+
+
+        sponsored&colon
+       
+
+
+
+          Content from IASIC on Cannabis
+         
+
+
+
+          Content from AT&T
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+        (function () {  try {   var event = new CustomEvent(    "nsDfpSlotRendered",    {     detail: {      id: 'acm-ad-tag-billboard1-billboard1'     }    }   );    window.dispatchEvent(event);  } catch (err) {} })();
+       
+
+
+
+
+
+
+
+
+
+
+
+        Just In...
+       
+
+
+
+          George Soros passes control of his foundation to his son Alex
+         
+
+
+           Blog Briefing Room
+          
+
+           - 16m 22s ago
+          
+
+
+
+
+          Gallego calls Kari Lake’s remarks on Trump indictment ‘dangerous’
+         
+
+
+           Campaign
+          
+
+           - 1h 27m ago
+          
+
+
+
+
+          More logging won’t curb wildfire smoke
+         
+
+
+           Congress Blog
+          
+
+           - 2h 35m ago
+          
+
+
+
+
+          Eric Holder: Trump conviction could lead to impeachment, removal from office
+         
+
+
+           News
+          
+
+           - 2h 51m ago
+          
+
+
+
+
+          Sununu says it’s likely ‘some type of guilty verdict’ will come down on Trump
+         
+
+
+           Blog Briefing Room
+          
+
+           - 3h 28m ago
+          
+
+
+
+
+          Trump suggests indictment came as ‘distraction’ to Hunter Biden probe
+         
+
+
+           Blog Briefing Room
+          
+
+           - 4h 2m ago
+          
+
+
+
+
+          Conservative revolt in House alarms Senate GOP
+         
+
+
+           Senate
+          
+
+           - 4h 20m ago
+          
+
+
+
+
+          US tells UNESCO it wants to rejoin: report
+         
+
+
+           News
+          
+
+           - 4h 27m ago
+          
+
+
+
+
+        View all
+       
+
+
+         Load more
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         Campaign
+        
+
+
+
+         Christie: Details of Trump indictment ‘devastating’
+        
+
+
+          by
+          
+           Jared Gans
+          
+          - 06/10/23 9:40 AM ET
+          
+
+
+
+
+
+
+
+               Facebook
+              
+
+
+
+
+
+
+
+             Share
+            
+
+
+
+
+
+               Twitter
+              
+
+
+
+
+
+
+
+             Tweet
+            
+
+
+
+             lang: en_US
+            
+
+
+
+
+
+
+
+
+              ...
+             
+
+
+
+             More
+            
+
+
+
+
+
+         by
+         
+          Jared Gans
+         
+         - 06/10/23 9:40 AM ET
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          window.loadAnvato({"mcp":"LIN","width":"100%","height":"100%","video":"8721143","autoplay":true,"expect_preroll":true,"pInstance":"p0","plugins":{"comscore":{"clientId":"6036439","c3":"thehill.com","version":"5.2.0","useDerivedMetadata":true,"mapping":{"c3":"thehill.com","ns_st_st":"hill","ns_st_pu":"Nexstar","ns_st_ge":"Hill.TV Clips","c4":"vod","cs_ucfr":""}},"dfp":{"adTagUrl":"https://pubads.g.doubleclick.net/gampad/ads?sz=1x1000&iu=/5678/nx.thehill/news/campaign&ciu_szs=300x250&impl=s&gdfp_req=1&env=vp&output=vmap&unviewed_position_start=1&ad_rule=1&description_url=https://thehill.com/homenews/campaign/4043710-christie-details-of-trump-indictment-devastating/&vconp=2&cust_params=vid%3D8721143%26cmsid%3D4043710%26pid%3D4043710%26pers_cid%3Dthehill-2-article-4043710%26vidcat%3D/news/campaign%26bob_ck%3D[bob_ck_val]%26d_code%3D310%2C300%2C301%2C303%2C304%2C305%2C306%2C307%2C289%2C278%2C292%2C287%2C299%2C296%2C294%2C256%2C290%2C291%2C311%2C310%2C270%2C271%2C272%2C273%2C275%2C308%2C270%2C301%2C303%2C304%2C305%2C306%2C307%2C263%2C271%2C292%2C290%2C289%2C278%2C296%2C294%2C299%2C256%2C287%2C291%2C277%2C278%2C176%2C256%2C257%2C253%2C289%2C288%2C308%2C303%2C300%2C301%2C310%2C305%2C306%2C307%2C263%2C256%2C299%2C296%2C292%2C286%2C281%2C283%2C282%2C308%2C263%2C303%2C300%2C301%2C310%2C304%2C306%2C307%2C270%2C271%2C291%2C281%2C296%2C278%2C268%2C292%2C287%2C286%2C910%2C287%2C286%2C308%2C309%2C300%2C301%2C302%2C303%2C304%2C305%2C306%2C307%2C245%2C260%2C240%2C242%2C279%2C268%2C249%2C263%2C906%2C299%2C296%2C297%2C294%2C295%2C292%2C290%2C291%26pagetype%3Dstory%26hlmeta%3D4043710%20christie%20details%20of%20trump%20indictment%20devastating%26aa%3Df"},"segmentCustom":{"script":"https://segment.psg.nexstardigital.net/v2/anvato.js","writeKey":"7pQqdpSKE8rc12w83fBiAoQVD4llInQJ","pluginsLoadingTimeout":12},"theHillPlugin":{"script":"https://thehill.com/wp-content/themes/the-hill/client/build/js/player.bundle.min.js?ver=5437e9735567a7270f0f","cssFile":"https://thehill.com/wp-content/themes/the-hill/client/build/css/player.min.css?ver=a8ac4e0aa430ab1c2411"}},"expectPrerollTimeout":8,"accessKey":"q261XAmOMdqqRf1p7eCo7IYmO1kyPmMB","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiI4NzIxMTQzIiwiaXNzIjoicTI2MVhBbU9NZHFxUmYxcDdlQ283SVltTzFreVBtTUIiLCJleHAiOjE2ODY1MzczMjF9.SO27EKCXZM1I9Pza006aUqTmyQHzu8QjlDJSc_n3iug","nxs":{"mp4Url":"https://tkx.mp.lura.live/rest/v2/mcp/video/8721143?anvack=q261XAmOMdqqRf1p7eCo7IYmO1kyPmMB&token=%7E5i%2B7cJIDbkS%2BMCtUbliiXbloGseZvo70MQ%3D%3D","enableFloatingPlayer":true},"disableMutedAutoplay":false,"recommendations":{"items":[{"mcpid":"8714516","title":"Dangerous smoke sweeps US; particle pollution from wildfires threatens remote cities","image":"https://h104216-fcdn.mp.lura.live/1/938892/pvw_lin/086/AA6/086AA65C59CC05C0EEF342D2425D3A4E_6.jpg?aktaexp=2082787200&aktasgn=77d014a9c959a5362c34b0d4236e6da1","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiI4NzE0NTE2IiwiaXNzIjoicTI2MVhBbU9NZHFxUmYxcDdlQ283SVltTzFreVBtTUIiLCJleHAiOjE2ODY1MzczMjF9.s59MagI9nuyu0F8H8fenKgq4EXNtZ1DpiC2kxuLeC_Q","ad_unit_path":""},{"mcpid":"8719098","title":"Rising Clip: Ukraine Damaged Kakhovka dam in previous attack; why NATO membership should be off the table","image":"https://h104216-fcdn.mp.lura.live/1/938892/pvw_lin/D73/92F/D7392F0E2ADDA69DCE080A521FE22AEE_4.jpg?aktaexp=2082787200&aktasgn=6ac22c5ebc3a86129fc6977ab8aaed2a","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiI4NzE5MDk4IiwiaXNzIjoicTI2MVhBbU9NZHFxUmYxcDdlQ283SVltTzFreVBtTUIiLCJleHAiOjE2ODY1MzczMjF9.VBulFpRWElRXC-jhJTZwxK_58zvmwYhQhAQA9tIZWJw","ad_unit_path":"/5678/nx.thehill/the_hill_tv/rising"},{"mcpid":"8711051","title":"Can Ron DeSantis' 'Great American Comeback' catch Donald Trump?","image":"https://h104216-fcdn.mp.lura.live/1/938892/pvw_lin/287/628/287628EB9B10F8BA5977061117F0542B_2.jpg?aktaexp=2082787200&aktasgn=cef234f44a641195ae9200874fb97450","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiI4NzExMDUxIiwiaXNzIjoicTI2MVhBbU9NZHFxUmYxcDdlQ283SVltTzFreVBtTUIiLCJleHAiOjE2ODY1MzczMjF9.f6P22iP4uCQd4aOy2JF4FVrAqsVnUzwCc3t3UDOx1oc","ad_unit_path":""},{"mcpid":"8721143","title":"Rising Clip: Trump indicted, charged on 7 counts","image":"https://h104216-fcdn.mp.lura.live/1/938892/pvw_lin/764/45E/76445E88DBACF0BAD06EA02888F17AB6_2.jpg?aktaexp=2082787200&aktasgn=2e8cc2b5d0355a2c65bb6ca680f87803","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiI4NzIxMTQzIiwiaXNzIjoicTI2MVhBbU9NZHFxUmYxcDdlQ283SVltTzFreVBtTUIiLCJleHAiOjE2ODY1MzczMjF9.SO27EKCXZM1I9Pza006aUqTmyQHzu8QjlDJSc_n3iug","ad_unit_path":"/5678/nx.thehill/the_hill_tv/rising"},{"mcpid":"8694478","title":"Trump pledges to end birthright citizenship on first day in office","image":"https://h104216-fcdn.mp.lura.live/1/938892/pvw_lin/EE2/C3B/EE2C3B5CECE042C446A2D24773F9450A_1.jpg?aktaexp=2082787200&aktasgn=e6fc0d079798c7675b7d13e659b7d143","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiI4Njk0NDc4IiwiaXNzIjoicTI2MVhBbU9NZHFxUmYxcDdlQ283SVltTzFreVBtTUIiLCJleHAiOjE2ODY1MzczMjF9.pPaLR5aG6cLl748U4sfcQicnPI6Ymzw-fuaZlRZIHXI","ad_unit_path":""},{"mcpid":"8714791","title":"Rising Clip: Smog from Canadian Wildfires smother New York, DC; air quality warnings on red alert","image":"https://h104216-fcdn.mp.lura.live/1/938892/pvw_lin/888/55B/88855B239195AF5078E90631BCA65F4A_2.jpg?aktaexp=2082787200&aktasgn=b033ae7ca054bb146a167fed9e578f68","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiI4NzE0NzkxIiwiaXNzIjoicTI2MVhBbU9NZHFxUmYxcDdlQ283SVltTzFreVBtTUIiLCJleHAiOjE2ODY1MzczMjF9.cP_pvU0NvXuJIVrcOTHp2mC0bTewzSRGw_5sQ-Ubjk4","ad_unit_path":"/5678/nx.thehill/the_hill_tv/rising"},{"mcpid":"8721744","title":"Leslie Kean weighs in on \"mindblowing\" gov't stash of 'non human' space craft: Rising","image":"https://m104216-ucdn.mp.lura.live/iupl_lin/F01/2B0/F012B0379213A1A14C10F666869DA032.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=dG3Go6caiG2GKEO4kVmtjh7Zzug","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiI4NzIxNzQ0IiwiaXNzIjoicTI2MVhBbU9NZHFxUmYxcDdlQ283SVltTzFreVBtTUIiLCJleHAiOjE2ODY1MzczMjF9.sbg3jq6ItxLT4ULQPu_lZCk8kWyZCsI_qjFQCR-0haQ","ad_unit_path":""},{"mcpid":"8721729","title":"Hillary Clinton smugly sells cringe 'But Her Emails' hats amidst Trump indictment","image":"https://m104216-ucdn.mp.lura.live/iupl_lin/E3F/11F/E3F11F365F64772656F795D3D4DE1568.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=-6gFHCW4VbvPQ1ANhXG3UXDJu68","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiI4NzIxNzI5IiwiaXNzIjoicTI2MVhBbU9NZHFxUmYxcDdlQ283SVltTzFreVBtTUIiLCJleHAiOjE2ODY1MzczMjF9.Kg_tT81PT2Zv3LNfpatoDmieYcR8lRnBsVvTDmB7OTU","ad_unit_path":""},{"mcpid":"8721693","title":"'Witch hunt': Trump indicted on 7 charges including espionage, conspiracy","image":"https://m104216-ucdn.mp.lura.live/iupl_lin/454/F15/454F15CAB5CF21D1D071E0AE778C90A7.jpg?Expires=2082758400&KeyName=mcpkey1&Signature=h76fLfRwIFZvewvm0a-nd3NoDO0","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiI4NzIxNjkzIiwiaXNzIjoicTI2MVhBbU9NZHFxUmYxcDdlQ283SVltTzFreVBtTUIiLCJleHAiOjE2ODY1MzczMjF9.QHNd8Mi_c-CEln4zNgOwkxvvjMGZwEFhuWkDFFylpOk","ad_unit_path":""},{"mcpid":"8721783","title":"DOJ Special Counsel Jack Smith delivers first remarks on Trump federal indictment","image":"https://h104216-fcdn.mp.lura.live/1/938892/pvw_lin/218/3C1/2183C1E1A9CA9D3A18DDBD7F75144B90_7.jpg?aktaexp=2082787200&aktasgn=e8d26a0126ab0a4c3b4d88ed03c2e962","token":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ2aWQiOiI4NzIxNzgzIiwiaXNzIjoicTI2MVhBbU9NZHFxUmYxcDdlQ283SVltTzFreVBtTUIiLCJleHAiOjE2ODY1MzczMjF9.rfVYRZ_M4WmAyKzjQMougmHak6Z4iz35cDBFkVOQ5x4","ad_unit_path":""}],"duration":5},"expectPreroll":true,"titleVisible":true,"pauseOnClick":true,"trackTimePeriod":60,"isPermutiveEnabled":true,"isMinimizedEnabled":true,"share":false,"pauseOnTabInactive":false,"isLeadMedia":false});
+         
+
+
+
+
+
+
+
+
+             Facebook
+            
+
+
+
+
+
+
+
+           Share
+          
+
+
+
+
+
+             Twitter
+            
+
+
+
+
+
+
+
+           Tweet
+          
+
+
+
+           lang: en_US
+          
+
+
+
+
+
+
+
+
+            ...
+           
+
+
+
+           More
+          
+
+
+
+
+
+
+
+
+
+            Share
+           
+
+            ✕
+           
+
+
+
+
+
+
+
+
+                Twitter
+               
+
+
+
+
+
+
+
+              Twitter
+             
+
+
+
+
+
+
+
+
+                Facebook
+               
+
+
+
+
+
+
+
+              Facebook
+             
+
+
+
+
+
+
+
+
+                LinkedIn
+               
+
+
+
+
+
+              LinkedIn
+             
+
+
+
+
+
+
+
+
+                Whatsapp
+               
+
+
+
+
+
+
+
+
+
+              Whatsapp
+             
+
+
+
+
+
+
+
+
+                Email
+               
+
+
+
+
+
+              Email
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Former New Jersey Gov. Chris Christie (R), a GOP presidential candidate for 2024, said the details of the federal indictment against former President Trump are “devastating.”
+          
+
+           “The fact is that these facts are devastating,” Christie told CNN’s Jake Tapper in an
+           
+            interview
+           
+           on Friday.
+          
+
+
+
+
+
+             (function () {  try {   var event = new CustomEvent(    "nsDfpSlotRendered",    {     detail: {      id: 'acm-ad-tag-mr1_ab-mr1_ab'     }    }   );    window.dispatchEvent(event);  } catch (err) {} })();
+            
+
+
+
+           Christie
+           
+            noted
+           
+           that the indictment accuses Trump of directing what documents were to be packed in boxes upon leaving the White House at the end of his presidency, that they should be sent to Mar-a-Lago and where they would be placed while they were at Mar-a-Lago.
+          
+
+           He said Trump is also accused of directing the documents to be taken with him to his golf club in Bedminster, N.J., when he went there during the summer and continuing to “stonewall” investigators who were trying to get the documents returned to government recordkeepers.
+          
+
+           “The bigger issue for our country is, is this the type of conduct that we want from someone who wants to be president of the United States?” Christie said.
+          
+
+           The indictment
+           
+            alleges
+           
+           that the documents that Trump had in his possession at Mar-a-Lago included information about the U.S. nuclear program, defense capabilities and potential vulnerabilities to attacks. It states that the unauthorized disclosure of this information could put national security, foreign relations, the safety of the military, human sources and intelligence-gathering methods at risk.
+          
+
+
+
+
+              The Hill Elections 2024 coverage
+             
+
+
+
+
+           Christie previously
+           
+            said
+           
+           in a tweet after Trump announced Thursday that he had been indicted that the public should wait to see the facts laid out in the charging document before making a judgement, but no one is above the law.
+          
+
+           He said the indictment is “very evidence-filled,” making clear the prosecutors have tape recordings, electronic text messages, emails and testimony of dozens of witnesses who have provided the information.
+          
+
+
+
+
+
+             (function () {  try {   var event = new CustomEvent(    "nsDfpSlotRendered",    {     detail: {      id: 'acm-ad-tag-mr2_ab-mr2_ab'     }    }   );    window.dispatchEvent(event);  } catch (err) {} })();
+            
+
+
+
+
+            George Soros passes control of his foundation to his son Alex
+           
+
+            Gallego calls Kari Lake’s remarks on Trump indictment ‘dangerous’
+           
+
+
+           He said Trump and Walt Nauta, one of Trump’s aides who allegedly took part in moving the boxes around Mar-a-Lago and has also been indicted, seem to be the only individuals involved who have not cooperated with the government investigation.
+          
+
+           Christie said he expects the number of Republicans willing to denounce Trump for his actions will grow as people have more of an opportunity to read the indictment.
+          
+
+           “The facts that are laid out here are damning in terms of Donald Trump’s conduct, and that’s what I think we as a party should be looking at,” he said.
+          
+
+
+
+
+
+
+
+         Tags
+        
+
+         Chris Christie
+        
+
+         Donald Trump
+        
+
+         indictment
+        
+
+         Jake Tapper
+        
+
+         Mar-a-Lago
+        
+
+         Trump classified documents
+        
+
+
+
+
+        Copyright 2023 Nexstar Media Inc. All rights reserved. This material may not be published, broadcast, rewritten, or redistributed.
+       
+
+
+
+
+
+
+
+             Facebook
+            
+
+
+
+
+
+
+
+           Share
+          
+
+
+
+
+
+             Twitter
+            
+
+
+
+
+
+
+
+           Tweet
+          
+
+
+
+           lang: en_US
+          
+
+
+
+
+
+
+
+
+            ...
+           
+
+
+
+           More
+          
+
+
+
+
+
+
+
+
+
+            Share
+           
+
+            ✕
+           
+
+
+
+
+
+
+
+
+                Twitter
+               
+
+
+
+
+
+
+
+              Twitter
+             
+
+
+
+
+
+
+
+
+                Facebook
+               
+
+
+
+
+
+
+
+              Facebook
+             
+
+
+
+
+
+
+
+
+                LinkedIn
+               
+
+
+
+
+
+              LinkedIn
+             
+
+
+
+
+
+
+
+
+                Whatsapp
+               
+
+
+
+
+
+
+
+
+
+              Whatsapp
+             
+
+
+
+
+
+
+
+
+                Email
+               
+
+
+
+
+
+              Email
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           More Campaign News
+          
+
+
+
+             See All
+            
+
+
+
+
+
+
+
+
+
+
+
+
+             Campaign
+            
+
+
+
+
+              Gallego calls Kari Lake’s remarks on Trump indictment ‘dangerous’
+             
+
+
+
+
+
+
+
+
+                by
+                
+                 Olafimihan Oshin
+                
+
+
+
+                1 hour ago
+               
+
+
+
+
+
+                 Campaign
+                
+
+
+                /
+               
+
+                1 hour ago
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Campaign
+            
+
+
+
+
+              Trump sees ‘no case’ in which he’d drop out of 2024 race: ‘None whatsoever’
+             
+
+
+
+
+
+
+
+
+                by
+                
+                 Julia Mueller
+                
+
+
+
+                5 hours ago
+               
+
+
+
+
+
+                 Campaign
+                
+
+
+                /
+               
+
+                5 hours ago
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Administration
+            
+
+
+
+
+              Emily’s List prepping to bolster Kamala Harris as VP in 2024: report
+             
+
+
+
+
+
+
+
+
+                by
+                
+                 Olafimihan Oshin
+                
+
+
+
+                6 hours ago
+               
+
+
+
+
+
+                 Administration
+                
+
+
+                /
+               
+
+                6 hours ago
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Campaign
+            
+
+
+
+
+              80 percent of likely GOP voters think Trump should still be able to be president if convicted
+             
+
+
+
+
+
+
+
+
+                by
+                
+                 Julia Mueller
+                
+
+
+
+                8 hours ago
+               
+
+
+
+
+
+                 Campaign
+                
+
+
+                /
+               
+
+                8 hours ago
+               
+
+
+
+
+
+
+
+
+           See All
+          
+
+
+
+
+
+
+
+           (function () {  try {   var event = new CustomEvent(    "nsDfpSlotRendered",    {     detail: {      id: 'acm-ad-tag-leader_mr1-leader_mr1'     }    }   );    window.dispatchEvent(event);  } catch (err) {} })();
+          
+
+
+
+
+
+           Video/Hill.TV
+          
+
+
+
+             See all Hill.TV
+            
+
+
+
+             See all Video
+            
+
+
+
+
+
+
+
+
+
+
+
+
+             Rising
+            
+
+
+
+             Rising: June 10, 2023
+            
+
+
+
+
+
+
+
+              by TheHill.com
+             
+
+
+              06/10/23 11:00 AM ET
+             
+
+
+
+
+
+               Rising
+              
+
+
+              /
+             
+
+              1 day ago
+             
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Rising
+            
+
+
+
+
+              Rising: June 9, 2023
+             
+
+
+
+
+
+
+
+
+                by TheHill.com
+               
+
+
+                06/09/23 10:50 AM ET
+               
+
+
+
+
+
+                 Rising
+                
+
+
+                /
+               
+
+                2 days ago
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Rising
+            
+
+
+
+
+              Rising: June 8, 2023
+             
+
+
+
+
+
+
+
+
+                by TheHill.com
+               
+
+
+                06/08/23 11:57 AM ET
+               
+
+
+
+
+
+                 Rising
+                
+
+
+                /
+               
+
+                3 days ago
+               
+
+
+
+
+
+
+
+
+           See all Hill.TV
+          
+
+
+
+           See all Video
+          
+
+
+
+
+
+
+
+           (function () {  try {   var event = new CustomEvent(    "nsDfpSlotRendered",    {     detail: {      id: 'acm-ad-tag-leader_mr2-leader_mr2'     }    }   );    window.dispatchEvent(event);  } catch (err) {} })();
+          
+
+
+
+
+
+           Top Stories
+          
+
+
+
+             See All
+            
+
+
+
+
+
+
+
+
+
+
+
+
+             Senate
+            
+
+
+
+
+              Conservative revolt in House alarms Senate GOP
+             
+
+
+
+
+
+
+
+
+                by
+                
+                 Al Weaver
+                
+
+
+
+                4 hours ago
+               
+
+
+
+
+
+                 Senate
+                
+
+
+                /
+               
+
+                4 hours ago
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Senate
+            
+
+
+
+
+              Senate GOP leaders break with House on Trump indictment
+             
+
+
+
+
+
+
+
+
+                by
+                
+                 Alexander Bolton
+                
+
+
+
+                16 hours ago
+               
+
+
+
+
+
+                 Senate
+                
+
+
+                /
+               
+
+                16 hours ago
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Campaign
+            
+
+
+
+
+              Democratic fears grow over third-party candidates
+             
+
+
+
+
+
+
+
+
+                by
+                
+                 Julia Manchester
+                
+
+
+
+                8 hours ago
+               
+
+
+
+
+
+                 Campaign
+                
+
+
+                /
+               
+
+                8 hours ago
+               
+
+
+
+
+
+
+
+
+
+
+
+
+
+             News
+            
+
+
+
+
+              Eric Holder: Trump conviction could lead to impeachment, removal from office
+             
+
+
+
+
+
+
+
+
+                by
+                
+                 Olafimihan Oshin
+                
+
+
+
+                3 hours ago
+               
+
+
+
+
+
+                 News
+                
+
+
+                /
+               
+
+                3 hours ago
+               
+
+
+
+
+
+
+
+
+           See All
+          
+
+
+
+
+
+
+
+
+
+
+
+          (function () {  try {   var event = new CustomEvent(    "nsDfpSlotRendered",    {     detail: {      id: 'acm-ad-tag-mr_combo1-mr_combo1'     }    }   );    window.dispatchEvent(event);  } catch (err) {} })();
+         
+
+
+
+
+
+         Most Popular
+        
+
+
+
+           Senate GOP leaders break with House on Trump indictment
+          
+
+
+
+           Conservative revolt in House alarms Senate GOP
+          
+
+
+
+           Eric Holder: Trump conviction could lead to impeachment, removal from office
+          
+
+
+
+           Barr: Presenting Trump as victim after indictment is ‘ridiculous’
+          
+
+
+
+           Gallego calls Kari Lake’s remarks on Trump indictment ‘dangerous’
+          
+
+
+
+           Sununu blasts 2024 GOP candidates over response to Trump indictment
+          
+
+
+
+           Christie: Details of Trump indictment ‘devastating’
+          
+
+
+
+           AT&T, Verizon or T-Mobile? Maps show which cell provider gives your area best ...
+          
+
+
+
+           Dana Bash spars with Jim Jordan over Trump indictment
+          
+
+
+
+           Surprise Supreme Court decision gives boost to Democratic hopes
+          
+
+
+
+           Former DHS official: Trump indictment paints ‘vivid picture’ of what ...
+          
+
+
+
+           Claims that UFO information was inappropriately withheld from Congress deemed ...
+          
+
+
+
+           Maggie Haberman: Trump indictment is ‘most devastating…that I have ever ...
+          
+
+
+
+           Trump slams Bill Barr as ‘a coward who didn’t do his job’
+          
+
+
+
+           Democratic fears grow over third-party candidates
+          
+
+
+
+           Who is Walt Nauta, the Trump aide indicted in classified documents case?
+          
+
+
+
+           Haberman says Walt Nauta is ‘case study’ of what happens to Trump ...
+          
+
+
+
+           House Democrat: ‘Overwhelmingly devastating’ Trump indictment is of ...
+          
+
+
+
+         Load more
+        
+
+
+
+
+
+
+          (function () {  try {   var event = new CustomEvent(    "nsDfpSlotRendered",    {     detail: {      id: 'acm-ad-tag-mr1-mr1'     }    }   );    window.dispatchEvent(event);  } catch (err) {} })();
+         
+
+
+
+
+
+
+
+         Video
+        
+
+
+
+
+
+
+
+
+             Watch live: White House monkeypox response team holds briefing
+            
+
+
+
+             News
+            
+
+
+
+
+
+
+          See all Video
+         
+
+
+
+
+
+
+
+
+
+
+
+          (function () {  try {   var event = new CustomEvent(    "nsDfpSlotRendered",    {     detail: {      id: 'acm-ad-tag-mr_combo2-mr_combo2'     }    }   );    window.dispatchEvent(event);  } catch (err) {} })();
+         
+
+
+
+
+
+
+
+
+
+        (function () {  try {   var event = new CustomEvent(    "nsDfpSlotRendered",    {     detail: {      id: 'acm-ad-tag-leaderboard3-leaderboard3'     }    }   );    window.dispatchEvent(event);  } catch (err) {} })();
+       
+
+
+
+
+
+
+
+
+       (function () {  try {   var event = new CustomEvent(    "nsDfpSlotRendered",    {     detail: {      id: 'acm-ad-tag-oop-super-billboard'     }    }   );    window.dispatchEvent(event);  } catch (err) {} })();
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+      DON'T MISS A BRIEF.
+      
+       SIGN UP FOR OUR DAILY EMAIL.
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        News
+       
+
+
+
+
+
+
+          Senate
+         
+
+
+
+          House
+         
+
+
+
+          Campaign
+         
+
+
+
+          Administration
+         
+
+
+
+          Regulation
+         
+
+
+
+          Media
+         
+
+
+
+          Briefing Room
+         
+
+
+
+          Latino
+         
+
+
+
+          12:30 Report
+         
+
+
+
+          Coronavirus Report
+         
+
+
+
+          Floor Action
+         
+
+
+
+          In The Know
+         
+
+
+
+          Sunday Talk Shows
+         
+
+
+
+          More
+         
+
+
+
+
+
+
+
+
+        Policy
+       
+
+
+
+
+
+
+          Defense
+         
+
+
+
+          Energy & Environment
+         
+
+
+
+          Health Care
+         
+
+
+
+          Technology
+         
+
+
+
+          International
+         
+
+
+
+          Transportation
+         
+
+
+
+          Cybersecurity
+         
+
+
+
+          National Security
+         
+
+
+
+          Sustainability
+         
+
+
+
+          More
+         
+
+
+
+
+
+
+
+
+        Video
+       
+
+
+
+
+
+
+          Latest
+         
+
+
+
+          Defense
+         
+
+
+
+          Energy & Environment
+         
+
+
+
+          Healthcare
+         
+
+
+
+          Technology
+         
+
+
+
+          Transportation
+         
+
+
+
+          International
+         
+
+
+
+          Cybersecurity
+         
+
+
+
+          National Security
+         
+
+
+
+          Sunday Shows
+         
+
+
+
+          Events
+         
+
+
+
+          More
+         
+
+
+
+
+
+
+
+
+        Opinion
+       
+
+
+
+
+
+
+          Contributors to The Hill
+         
+
+
+
+          Columnists
+         
+
+
+
+          Congress Blog
+         
+
+
+
+          More
+         
+
+
+
+
+
+
+
+
+
+
+
+
+        Resources
+       
+
+
+
+
+
+
+          The Hill Apps
+         
+
+
+
+          People
+         
+
+
+
+          RSS
+         
+
+
+
+
+
+
+
+
+        Other Areas
+       
+
+
+
+
+
+
+          Galleries
+         
+
+
+
+          The Hill Jobs
+         
+
+
+
+          National Jobs
+         
+
+
+
+
+
+
+
+
+        Contributors
+       
+
+
+
+
+
+
+          Submit Opinion Content
+         
+
+
+
+
+
+
+
+      Follow Us On
+     
+
+
+
+
+
+
+
+          Visit our Facebook page
+         
+
+
+
+
+
+
+
+
+
+          Visit our Twitter profile
+         
+
+
+
+
+
+
+
+
+
+          Visit our LinkedIn profile
+         
+
+
+
+
+
+
+
+          Visit our Haystack News
+         
+
+
+           .cls-1 {
+				fill: none;
+			}
+
+			.cls-2 {
+				fill: #fff;
+			}
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Get the App
+     
+
+
+
+
+
+          Get the Android app from Google Play
+         
+
+
+
+
+
+
+          Get the iOS app from App Store
+         
+
+
+
+
+
+
+
+
+
+        SUBSCRIPTIONS
+       
+
+
+
+        PRIVACY POLICY
+       
+
+
+
+        TERMS & CONDITIONS
+       
+
+
+
+        CONTACT
+       
+
+
+
+        ADVERTISE
+       
+
+
+
+
+
+
+
+        NewsNation
+       
+
+
+
+        BestReviews
+       
+
+
+
+        Nexstar Digital
+       
+
+
+
+        Journalistic Integrity
+       
+
+
+
+        Do Not Sell or Share My Personal Information
+       
+
+
+
+      THE HILL 1625 K STREET, NW SUITE 900 WASHINGTON DC 20006 | 202-628-8500 TEL | 202-628-8503 FAX
+     
+
+      © 1998 - 2023 Nexstar Media Inc. | All Rights Reserved.
+     
+
+
+
+
+
+   (function() {
+	var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+
+	_sf_async_config.sections = "Campaign,News";
+	_sf_async_config.authors = "Jared Gans";
+	_sf_async_config.type = NXSTdata.content.pageType;
+	function loadChartbeat() {
+			var e = document.createElement('script');
+			var n = document.getElementsByTagName('script')[0];
+			e.type = 'text/javascript';
+			e.async = true;
+			e.src = '//static.chartbeat.com/js/chartbeat.js';
+			n.parentNode.insertBefore(e, n);
+	}
+	loadChartbeat();
+})();
+  
+
+
+
+
+
+
+
+
+
+
+     ✕
+    
+
+
+
+     (function () {  try {   var event = new CustomEvent(    "nsDfpSlotRendered",    {     detail: {      id: 'acm-ad-tag-adhesion-adhesion'     }    }   );    window.dispatchEvent(event);  } catch (err) {} })(); window.dispatchEvent( new CustomEvent( 'nsDfpInitVisibleSlots' ) );
+    
+
+
+
+
+
+
+
+
+
+
+
+   !function(e){var t={};function n(r){if(t[r])return t[r].exports;var o=t[r]={i:r,l:!1,exports:{}};return e[r].call(o.exports,o,o.exports,n),o.l=!0,o.exports}n.m=e,n.c=t,n.d=function(e,t,r){n.o(e,t)||Object.defineProperty(e,t,{enumerable:!0,get:r})},n.r=function(e){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},n.t=function(e,t){if(1&t&&(e=n(e)),8&t)return e;if(4&t&&"object"==typeof e&&e&&e.__esModule)return e;var r=Object.create(null);if(n.r(r),Object.defineProperty(r,"default",{enumerable:!0,value:e}),2&t&&"string"!=typeof e)for(var o in e)n.d(r,o,function(t){return e[t]}.bind(null,o));return r},n.n=function(e){var t=e&&e.__esModule?function(){return e.default}:function(){return e};return n.d(t,"a",t),t},n.o=function(e,t){return Object.prototype.hasOwnProperty.call(e,t)},n.p="/wp-content/themes/nexstar/client/build/",n(n.s=103)}({103:function(e,t,n){e.exports=n(281)},28:function(e,t,n){"use strict";t.a=function(){window.googletag=window.googletag||{},window.googletag.cmd=googletag.cmd||[]}},281:function(e,t,n){"use strict";n.r(t);var r=n(28);function o(e,t){for(var n=0;n<t.length;n++){var r=t[n];r.enumerable=r.enumerable||!1,r.configurable=!0,"value"in r&&(r.writable=!0),Object.defineProperty(e,r.key,r)}}var i=function(){function e(){var t=this;!function(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}(this,e),this.observer=null,this.watched={},this.paused={},this.maxRefreshes=9,this.refreshCounter={},window.addEventListener("focus",(function(){t.resumeAllTimers()})),window.addEventListener("blur",(function(){t.pauseAllTimers()})),this.observer=new IntersectionObserver((function(e){t.callback(e)}),{root:null,rootMargin:"0px",threshold:[.3,.5]})}var t,n,r;return t=e,(n=[{key:"callback",value:function(e){var t=this;e.forEach((function(e){var n=e.target.id;if(n in t.watched){var r=t.watched[n];e.isIntersecting&&e.intersectionRatio>=r.ratio?null===r.timerId&&(r.timerId=setTimeout((function(){document.hidden?t.clearTimer(n):(t.stopWatching(n),t.refreshCounter[n]+=1,window.dispatchEvent(new CustomEvent("nsDfpRefreshSingleSlot",{detail:{slotElementId:n}})))}),1e3*r.refreshSecs)):t.clearTimer(n)}}))}},{key:"startWatching",value:function(e,t,n,r){this.watched[e]={ratio:n,timerId:null,node:t,refreshSecs:r},this.observer.observe(t)}},{key:"stopWatching",value:function(e){var t=this.watched[e];clearTimeout(t.timerId),delete this.watched[e],this.observer.unobserve(t.node)}},{key:"clearTimer",value:function(e){var t=this.watched[e];clearTimeout(t.timerId),t.timerId=null}},{key:"observe",value:function(e,t){if(!(5>t||(e in this.refreshCounter||(this.refreshCounter[e]=0),this.refreshCounter[e]>=this.maxRefreshes))){var n=document.getElementById(e);if(n){var r=242e3<n.clientWidth*n.clientHeight?.3:.5;this.startWatching(e,n,r,t)}}}},{key:"pauseAllTimers",value:function(){var e=this;Object.keys(this.watched).forEach((function(t){e.paused[t]=e.watched[t],e.stopWatching(t)}))}},{key:"resumeAllTimers",value:function(){var e=this;Object.keys(this.paused).forEach((function(t){var n=e.paused[t],r=n.node,o=n.ratio,i=n.refreshSecs;e.startWatching(t,r,o,i),delete e.paused[t]}))}}])&&o(t.prototype,n),r&&o(t,r),e}();Object(r.a)();var a=new i;googletag.cmd.push((function(){var e=function(e,t,n){var r;try{r=e.slot[t].apply(e.slot,n)}catch(e){r="[unknown]"}return r},t=function(){var e=window.innerWidth||document.documentElement.clientWidth,t="mobile";768<e&&(t="tablet"),1024<e&&(t="desktop");var n=googletag.pubads().getTargeting("pagetype");return 1===n.length&&["index","subindex","story"].includes(n[0])||(n="other"),function(e,r){if(window.isAdRefreshEnabled&&window.adExclusionIds.length&&!window.adExclusionIds.includes(r)){var o,i=e.getTargeting("pos"),a=[n,i,t].join("/");return null!==(o=window.adRefreshConfig[a])&&void 0!==o&&o}return!1}}();googletag.pubads().addEventListener("slotRenderEnded",(function(n){if(n.slot){var r=n.slot,o=n.isEmpty,i=n.size,s=n.lineItemId,c=r.getSlotElementId(),d="NA";window.isAdSponsorshipEnabled&&(d=window.adExclusionIds.includes(s));var u=r.getTargeting("ad_rendercount"),l="AD SLOT RENDERED {\n  containerId: ".concat(c,",\n  isEmpty: ").concat(o,",\n  size: ").concat(i,",\n  adUnitPath: ").concat(e(n,"getAdUnitPath"),",\n  position: ").concat(e(n,"getTargeting",["pos"]),",\n  lineItemId: ").concat(s,", sponsorship=").concat(d,",\n  renderCount: ").concat(u,"\n}");if(window.setTimeout((function(){console.info(l)}),10),c.startsWith("acm-ad-tag-adhesion")&&!o){var f=document.getElementById(c).parentNode;f.classList.remove("pre-render"),f.parentNode.classList.remove("pre-render"),f.parentNode.querySelector(".close-btn-container").addEventListener("click",(function(e){e.preventDefault(),f.parentNode.remove()}),!1)}if(c.startsWith("acm-ad-tag-adhesion-adhesion")&&!o){var h=document.getElementById(c).parentNode,v=document.querySelector(".close-btn-container--mobile");v&&v.addEventListener("click",(function(){h.parentNode.remove()}),!1)}if(c.startsWith("acm-ad-tag-oop")&&!o&&document.body.classList.add("has-loaded-super-billboard-ad"),c&&!o&&i&&"function"==typeof document.getElementById(c).closest){var g=document.getElementById(c).closest(".ad-unit");if(g){var m=g.querySelector(".ad-unit__content > div[id^=acm]");if(m){var p=i[0],b=void 0===p?null:p,w=i[1],y=void 0===w?null:w;b&&y&&(m.setAttribute("width",b),m.setAttribute("height",y))}g.classList.add("ad-unit--is-rendered")}}var E=t(r,s);0<E&&a.observe(c,E)}}))}))}});
+//# sourceMappingURL=ad-handler.bundle.min.js.map
+  
+
+
+
+
+
+
+
+
+
+
+
+   window.wpParselySiteId = 'thehill.com';
+  
+
+
+
+
+
+   var nsApiSettings = {"root":"https:\/\/thehill.com\/wp-json\/","nonce":"901d872fa8","versionString":"wp\/v2\/","wpAdmin":"https:\/\/thehill.com\/wp-admin\/","postId":"4043710","placeholderImage":"https:\/\/thehill.com\/wp-content\/themes\/the-hill\/assets\/image-placeholder-640x360.png"};
+var theHillPeopleLinks = [{"name":"Chris Christie ","url":"https:\/\/thehill.com\/people\/chris-christie\/","id":13628},{"name":"Chris Christie,","url":"https:\/\/thehill.com\/people\/chris-christie\/","id":13628},{"name":"Chris Christie\u2019s ","url":"https:\/\/thehill.com\/people\/chris-christie\/","id":13628},{"name":"Chris Christie's ","url":"https:\/\/thehill.com\/people\/chris-christie\/","id":13628},{"name":"Chris Christie\u2019s,","url":"https:\/\/thehill.com\/people\/chris-christie\/","id":13628},{"name":"Chris Christie's,","url":"https:\/\/thehill.com\/people\/chris-christie\/","id":13628},{"name":"Donald Trump ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald Trump,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald Trump\u2019s ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald Trump's ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald Trump\u2019s,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald Trump's,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"President Trump ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"President Trump,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"President Trump\u2019s ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"President Trump's ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"President Trump\u2019s,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"President Trump's,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J. Trump ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J. Trump,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J. Trump\u2019s ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J. Trump's ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J. Trump\u2019s,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J. Trump's,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J Trump ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J Trump,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J Trump\u2019s ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J Trump's ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J Trump\u2019s,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Donald J Trump's,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Former President Trump ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Former President Trump,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Former President Trump\u2019s ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Former President Trump's ","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Former President Trump\u2019s,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Former President Trump's,","url":"https:\/\/thehill.com\/people\/donald-trump\/","id":2086},{"name":"Jake Tapper ","url":"https:\/\/thehill.com\/people\/jake-tapper\/","id":10485},{"name":"Jake Tapper,","url":"https:\/\/thehill.com\/people\/jake-tapper\/","id":10485},{"name":"Jake Tapper\u2019s ","url":"https:\/\/thehill.com\/people\/jake-tapper\/","id":10485},{"name":"Jake Tapper's ","url":"https:\/\/thehill.com\/people\/jake-tapper\/","id":10485},{"name":"Jake Tapper\u2019s,","url":"https:\/\/thehill.com\/people\/jake-tapper\/","id":10485},{"name":"Jake Tapper's,","url":"https:\/\/thehill.com\/people\/jake-tapper\/","id":10485}];
+  
+
+
+
+
+
+
+
+
+
+
+
+   _stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:11.4',blog:'201940957',post:'4043710',tz:'-4',srv:'thehill.com',hp:'vip'} ]);
+	_stq.push([ 'clickTrackerInit', '201940957', '4043710' ]);
+  
+
+

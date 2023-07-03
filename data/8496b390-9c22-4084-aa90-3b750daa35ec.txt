@@ -1,0 +1,2055 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   window.zphrSegmentsTime = (new Date()).getTime(); window.segmentsCalled = false;
+  
+
+   function adOfTypeLoaded(type) {
+      if (false) {console.log("reskin ad detected");}
+      const head = document.head || document.getElementsByTagName('head')[0];
+      const reskinCSS = '#fusion-app {align-items: center;} @media (min-width: 800px) {#main .container {max-width: 1280px;}} .container { max-width: 100%;} @media screen and (min-width: 1060px) {#bottom { width: calc(100% - 240px) !important; max-width: 1280px;} #masthead {width: calc(100% - 240px) !important; margin: 0 auto !important; padding-left: 44px; padding-right: 44px;} div[data-ad-container="reskin"] {width: calc(100% - 240px) !important; margin: 0 auto !important; padding-left: 44px; padding-right: 44px;}.layout-section > .row > *:first-child {padding-left: 24px !important;}.layout-section > .row > *:last-child {padding-right: 24px !important;}} @media screen and (min-width: 1060px) {#bottom {padding: 0 40px !important;z-index: 4 !important;}}';
+       const style = document.createElement('style');
+       style.type = 'text/css';
+       style.appendChild(document.createTextNode(reskinCSS));
+       head.appendChild(style);
+       if (false) {console.log("$$reskin style applied");}
+   };
+  
+
+
+
+   function postSegments() {
+  window.blueConicClient.event.subscribe(window.blueConicClient.event.onEventReady, {}, () => {
+   const segments = window.blueConicClient.getSegments().map(segment => segment.id);
+   if (segments.length && !window.segmentsCalled) {
+      if (true) { console.log('$$SEG_RSP_RCVD$$ After segment.id created by window.blueConicClient.getSegments() ', ((new Date()).getTime()- window.zphrSegmentsTime), 'ms'); }
+      const retrieveSegmentsXhr = new (XMLHttpRequest || ActiveXObject)('MSXML2.XMLHTTP.3.0');
+      retrieveSegmentsXhr.onreadystatechange = function() {
+        if (retrieveSegmentsXhr.readyState == XMLHttpRequest.DONE && retrieveSegmentsXhr.status === 200) {
+          if (true) { console.log('$$SEG_RSP_RCVD$$ After the response received from Zephr segment. ', ((new Date()).getTime() - window.zphrSegmentsTime), 'ms'); }
+          window.segmentsCalled = true;
+          window.dispatchEvent(new Event('SEG_RSP_RCVD'));
+        }
+      }
+      if (true) { console.log('$$SEG_RSP_RCVD$$ Before opening the connection on the Zephr segment call. ', ((new Date()).getTime() - window.zphrSegmentsTime), 'ms'); }
+      retrieveSegmentsXhr.open('POST', 'https://zephr.nydailynews.com/plugins/public/blueconic/segmentsV2', true);
+      retrieveSegmentsXhr.setRequestHeader('Content-type', 'application/json');
+      retrieveSegmentsXhr.withCredentials = true;
+      retrieveSegmentsXhr.send(JSON.stringify(segments));
+    }
+    });
+   } if (typeof window.blueConicClient !== 'undefined'
+     && typeof window.blueConicClient.event !== 'undefined'
+     && typeof window.blueConicClient.event.subscribe !== 'undefined') {
+     if (true) { console.log('$$SEG_RSP_RCVD$$ Start time before trigger postSegments() - via blueConicClient', ((new Date()).getTime() - window.zphrSegmentsTime), 'ms'); }
+     postSegments();
+   } else {
+     window.addEventListener('onBlueConicLoaded', () => {
+     if (true) { console.log('$$SEG_RSP_RCVD$$ Start time before trigger postSegments() via onBlueConicLoaded', ((new Date()).getTime() - window.zphrSegmentsTime), 'ms'); }
+     postSegments();
+   }, false);
+  }
+  
+
+
+
+   (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-5K8DK4V');
+  
+
+   Trump applauded the Espionage Act prosecution of Reality Winner; now it’s his turn
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   window.isIE = !!window.MSInputMethodContext && !!document.documentMode;
+  
+
+
+
+   if(!Array.prototype.includes||!(window.Object && window.Object.assign)||!window.Promise||!window.Symbol||!window.fetch){document.write('<script type="application/javascript" src="/pf/dist/engine/polyfill.js?d=145" defer=""><\/script>')}
+  
+
+
+
+
+
+
+
+   .hdnmjV{font-family:PT Serif,serif;font-size:14px;color:#6c7778;margin:8px 0;line-height:16px;}/*!sc*/
+.hdnmjV > *{font-family:PT Serif,serif;}/*!sc*/
+.hdnmjV .title{color:#6c7778;font-weight:bold;}/*!sc*/
+data-styled.g4[id="ImageMetadata__MetadataParagraph-sc-1gn0vty-0"]{content:"hdnmjV,"}/*!sc*/
+.gVBMpi{font-family:PT Serif,serif;}/*!sc*/
+data-styled.g6[id="primary-font__PrimaryFontStyles-o56yd5-0"]{content:"gVBMpi,"}/*!sc*/
+.fVRCsT > img{max-width:100%;}/*!sc*/
+data-styled.g14[id="wapoImageComponent__StyledPicture-sc-1pwac1d-0"]{content:"fVRCsT,"}/*!sc*/
+.hnShxL a{color:#2278CE;}/*!sc*/
+data-styled.g43[id="default__StyledText-sc-1wxyvyl-0"]{content:"hnShxL,"}/*!sc*/
+.hEvcgL{font-family:Georgia,serif;}/*!sc*/
+.hEvcgL h1,.hEvcgL h2,.hEvcgL h3,.hEvcgL h4,.hEvcgL h5,.hEvcgL h6,.hEvcgL figcaption,.hEvcgL table{font-family:PT Serif,serif;}/*!sc*/
+.hEvcgL .body-paragraph,.hEvcgL .interstitial-link,.hEvcgL ol,.hEvcgL ul,.hEvcgL blockquote p,.hEvcgL blockquote{font-family:Georgia,serif;}/*!sc*/
+data-styled.g45[id="default__ArticleBody-sc-1wxyvyl-2"]{content:"hEvcgL,"}/*!sc*/
+.fpQUuz{background-color:#F9F9F9;box-shadow:0 2px 4px 0 rgba(197,197,197,0.5);position:relative;}/*!sc*/
+data-styled.g48[id="styledNavContainer__NavContainerDiv-rflvtd-0"]{content:"fpQUuz,"}/*!sc*/
+.fNEnAO{position:relative;}/*!sc*/
+data-styled.g49[id="default__StickyContainerDiv-v2bes2-0"]{content:"fNEnAO,"}/*!sc*/
+.fqpDWD{height:100%;}/*!sc*/
+data-styled.g50[id="default__StickyChainDiv-v2bes2-1"]{content:"fqpDWD,"}/*!sc*/
+.dcZZpY{color:#2278CE;}/*!sc*/
+data-styled.g73[id="default__OverlineStyles-cu6kre-0"]{content:"dcZZpY,"}/*!sc*/
+.fLeOkG{border:1px solid #2278CE;fill:#2278CE;}/*!sc*/
+.fLeOkG a{border-right:1px solid #2278CE;}/*!sc*/
+data-styled.g74[id="default__StyledSocialContainer-r0sip1-0"]{content:"fLeOkG,"}/*!sc*/
+.iTmpez{color:#191919 !important;-webkit-text-decoration:none;text-decoration:none;font-family:$openSans;}/*!sc*/
+data-styled.g75[id="default__StyledLink-r0sip1-1"]{content:"iTmpez,"}/*!sc*/
+.ieUTUQ{color:#2278CE !important;}/*!sc*/
+data-styled.g76[id="storyEntry__Overline-mtcu4c-0"]{content:"ieUTUQ,"}/*!sc*/
+  
+
+
+
+
+
+
+   (function() {
+        var _sf_async_config = window._sf_async_config = (window._sf_async_config || {});
+        _sf_async_config.uid = 25745;
+        _sf_async_config.domain = "nydailynews.com";
+        _sf_async_config.useCanonical = true;
+        _sf_async_config.useCanonicalDomain = true;
+        _sf_async_config.flickerControl = false;
+     })();
+  
+
+
+
+
+
+
+
+   {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.nydailynews.com/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html"},"headline":"Winner vs. loser: Trump applauded the Espionage Act prosecution of Reality Winner; now it’s his turn","url":"https://www.nydailynews.com/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html","thumbnailUrl":"","isAccessibleForFree":false,"hasPart":{"@type":"WebPageElement","isAccessibleForFree":false,"cssSelector":".article-body-wrapper-custom"},"isPartOf":{"@type":["CreativeWork","Product"],"name":"All Access","productID":"nydailynews.com:all-access"},"articleSection":"opinion","dateCreated":"2023-06-09T15:15:51.550Z","datePublished":"2023-06-11T08:10:00.304Z","dateModified":"2023-06-11T08:10:00.299Z","creator":["Daily News Editorial Board"],"author":[{"@type":"Person","name":"Daily News Editorial Board"}],"publisher":[{"@type":"Organization","name":"New York Daily News","logo":{"@type":"ImageObject","url":"https://www.nydailynews.com/pf/resources/logo/New_York_Daily_News_nydredblack.svg?d=145","width":467,"height":60}}],"description":"A federal grand jury has charged Donald Trump with 31 counts of willfully retaining national defense secrets in violation of the Espionage Act. Trump says the indictment is “the most horrible abuse of power” and a “hoax.” He should watch HBO’s docudrama “Reality,” which assiduously walks through the arrest by Trump’s Justice Department of Reality Winner, the National Security Agency translator who leaked one classified document and was sentenced to more than five years in prison.","keywords":[],"image":{"type":"ImageObject","url":"https://www.nydailynews.com/resizer/wQtL_qRRWyQxAk9mjPhqMGggxew=/4320x2880/filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/cloudfront-us-east-1.images.arcpublishing.com/tronc/FZS4LQHLLSQOKYBIJMWMGLWAGA.jpg","height":2880,"width":4320},"articleBody":"A federal grand jury has charged Donald Trump with 31 counts of willfully retaining national defense secrets in violation of the Espionage Act. Trump says the indictment is “the most horrible abuse of power” and a “hoax.” He should watch HBO’s docudrama “Reality,” which assiduously walks through the arrest by Trump’s Justice Department of Reality Winner, the National Security Agency translator who leaked one classified document and was sentenced to more than five years in prison. Winner was a contractor who saw a classified NSA report detailing Russian attempts to interfere in the 2016 election via a cyberattack on a voting software supplier and phishing emails aimed at local election officials. She sent it to The Intercept, which made it public. Former President Donald Trump waves after speaking at the Georgia Republican convention, Saturday, June 10, 2023, in Columbus, Ga. (AP Photo/John Bazemore) The leak was a violation of the law, and for it, Winner paid a steep price. For exposing one secret document that gave the American people information it likely had a right to know, the Air Force vet — who pleaded guilty — got the longest sentence ever imposed for the unauthorized release of government information to the media. Speaking to the judge upon her sentencing, she took “full responsibility” for the “undeniable mistake” and “would like to apologize profusely.” (Winner was released from prison into home confinement in 2021.) What about Trump, who illegally retained 140 classified documents in his Florida residence and then obfuscated rather than cooperating with federal officials who wanted them back? The special counsel’s evidence includes an audio recording in which Trump, speaking about a secret document in 2021, says “As president, I could have declassified it, but now I can’t” — a critical admission that he understood that what he was doing was unlawful. Upon Winner’s sentencing in 2018, Trump tweeted that the punishment meted out was “unfair” and a “double standard” because it was “small potatoes” “compared to what Hillary Clinton did,” namely her use of a private email server as secretary of state. Those small potatoes have now been fried up and doused in ketchup by the former (and pray not future) president."}
+  
+
+   {"@type":"Organization","name":"New York Daily News","logo":{"@type":"ImageObject","url":"https://www.nydailynews.com/pf/resources/logo/New_York_Daily_News_nydredblack.svg?d=145","width":467,"height":60},"sameAs":["https://www.facebook.com/NYDailyNews","https://www.instagram.com/nydailynews/","https://twitter.com/NYDailyNews","https://www.youtube.com/user/nydailynews/"]}
+  
+
+
+
+   if (true) {
+        window.addEventListener("load", function (event) {
+            var OneSignal = window.OneSignal || [];
+            var trb = window.trb || {};
+            OneSignal.push(function () {
+                OneSignal.init(Object.assign({
+                    appId: "f6403880-4fac-4636-af72-6db9b22d3f02",
+                    promptOptions: {
+                        actionMessage: "Sign up for  notifications so you don't miss a story.",
+                        acceptButtonText: "",
+                        cancelButtonText: "",
+                        customlink: {
+                            enable: "true",
+                            style: "button",
+                            size: "medium",
+                            color: {
+                                button: "#E12D30",
+                                text: "#FFFFFF",
+                            },
+                            text: {
+                                subscribe: "Subscribe to push notifications",
+                                unsubscribe: "Unsubscribe from push notifications",
+                                explanation: "",
+                            },
+                            unsubscribeEnabled: "",
+                        },
+                    },
+                }));
+                var navigationStart = window.performance.timing.navigationStart;
+                var timeNow = Date.now();
+                
+                setTimeout(() => promptAndSubscribeUser(false, true), Math.max(0 - (timeNow - navigationStart), 0));
+                if (false) {
+                    registerVisit("", "3");
+                }
+                OneSignal.on('subscriptionChange', function(isSubscribed) {
+                    if(!isSubscribed) {
+                        deleteUserTags()
+                    } else {
+                        if(topicTag){
+                            tagToUser("t_", 's');
+                        }
+                    }
+                })
+                OneSignal.on('popoverShown', function () {
+                    trackNotificationEvents('popoverShown')
+                });
+                OneSignal.on('popoverAllowClick', function () {
+                    trackNotificationEvents('popoverAllowClick')
+                });
+                OneSignal.on('popoverCancelClick', function () {
+                    trackNotificationEvents('popoverCancelClick')
+                });
+                OneSignal.on('permissionPromptDisplay', function () {
+                    trackNotificationEvents('permissionPromptDisplay')
+                });
+                OneSignal.on('notificationPermissionChange', function (permissionChange) {
+                    trackPermissionEvents('notificationPermissionChange', permissionChange)
+                });
+            });
+            OneSignal.push(["addListenerForNotificationOpened", function (payload) {
+            }]);
+        });
+        function trackNotificationEvents(event) {   
+        }
+        function trackPermissionEvents(event, action) {    
+        }
+        function promptAndSubscribeUser(displayNativePrompt, slidePromptDisable) {
+            window.OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+                if (!isEnabled) {
+                    window.OneSignal.push(function() {
+                        if(displayNativePrompt){
+                            window.OneSignal.showNativePrompt();
+                            return;
+                        }
+                        if(!slidePromptDisable){
+                            window.OneSignal.showSlidedownPrompt();
+                            return;
+                        }
+                    });
+                }
+            });
+        }
+        function tagToUser(key, value) {
+            window.OneSignal.push(function() {
+                window.OneSignal.sendTag(key, value);
+            });
+        }
+        function registerVisit(topic, numberOfVisits){
+            function getCurrentStatusObject(topicTagName, freqTopicName){
+                let promise = new Promise(function(resolve, reject){
+                    window.OneSignal.push(function() {
+                        window.OneSignal.getTags(function(tags) {
+                            const currentStatus = {
+                                isManuallySuscribed: tags && tags[topicTagName] && tags[topicTagName] === 's',
+                                frecuencyValue: tags && tags[freqTopicName] ? parseInt(tags[freqTopicName]) : NaN
+                            };
+                            resolve(currentStatus);
+                        });
+                    });
+                });
+                return promise;
+            }
+            window.OneSignal.push(function() {
+              window.OneSignal.isPushNotificationsEnabled(function(isEnabled) {
+                if (isEnabled) {
+                    const topicTagName = "t_";
+                    const freqTopicName = "tf_";
+                    getCurrentStatusObject(topicTagName, freqTopicName).then(function(currentStatusObject) {
+                        let { isManuallySuscribed, frecuencyValue } = currentStatusObject;
+                        if (!isNaN(frecuencyValue)) {
+                            frecuencyValue += 1;
+                        } else {
+                            frecuencyValue = 1;
+                        }
+                        tagToUser(freqTopicName, frecuencyValue);
+                        if (!isManuallySuscribed && frecuencyValue >= numberOfVisits) {
+                            tagToUser(topicTagName, 'as');
+                        }
+                    });
+                }
+              });
+            });
+        }
+        
+        function deleteUserTags(){
+            window.OneSignal.push(function() {
+                window.OneSignal.getTags(function (tags) {
+                    window.OneSignal.deleteTags(Object.keys(tags).filter(key => key.startsWith("t")))
+                })
+            })
+        }
+    }
+  
+
+   .osano-cm-widget {display: none;}
+  
+
+   (window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);
+  
+
+   !function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="CNG4V-VKPZ8-E3VJH-4LSSY-MWNZU",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"CNG4V-VKPZ8-E3VJH-4LSSY-MWNZU";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="nqp2flyxhufrczegpjua-f-56809918c-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"36","ak.cp":"684372","ak.ai":parseInt("630253",10),"ak.ol":"0","ak.cr":33,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"b0e3c95","ak.r":38227,"ak.a2":n,"ak.m":"dscr","ak.n":"ff","ak.bpcip":"108.31.162.0","ak.cport":54824,"ak.gh":"23.48.249.17","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"reno","ak.t":"1686534760","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==prCI+D4iabsqmiOuv1tOWEEzuZSX/HRawBhinXB+IiL8F73D1hlrP2eME/kt7iqwxG9H3po9/Dttwt/q96CGsoGrT2HcCK9CeAUXBhnNwJhIwv+lr06WloiI8s0VVodGw77pT3KVoI/5cTVnXEqIXFKEgpK7W/y/EGU6QG+OFZoz6slaEhoFbG5ZcRE7uPYI7hXN/DOzau2YZ4U2Z7oKdqkZX8TcdmD6tX7sN+1BH56XZgaquJSjMjkTGOkmB46sASxlRWqmqUtkIUb4tQLMCzXuIIkS8F2bwbc1nYaHbxE7Drl+xIRshh694OgA0u0xFeoZrwKRX1GOt/vACqe7GWwX5uy6vtwQPMxQ3keAtsMOtKWambv7WNe0Zwmj+STJNGW5xt0jsW22WO5jLpvcMgLRQuVTXL028lq14thU0Hs=","ak.pv":"121","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);
+  
+
+
+
+   function closeOsano() { 
+      document.getElementById('osanoCustomDialogDiv').classList.add('osanoHide');}
+      setTimeout(() => {document.getElementById('osanoCustomDialogDiv').classList.add('osano-cm-dialog-custom--hidden');},10000);
+  
+
+   .osano-cm-window > .osano-cm-dialog{display: none !important};
+  
+
+   .osanoHide{display:none !important;}.osano-cm-dialog-custom--hidden{ opacity: 0;transition-delay: 0ms,.7s !important;visibility: hidden;}
+  
+
+   .osano-cm-dialog-custom {background: #000;color: #fff;top: 0;align-items: center;box-sizing: border-box;font-family: Helvetica,Arial,Hiragino Sans GB,STXihei,Microsoft YaHei,WenQuanYi Micro Hei,Hind,MS Gothic,Apple SD Gothic Neo,NanumBarunGothic,sans-serif;font-size: 15px;line-height: 1.25;padding: 1em;position: fixed;transition-delay: 0ms,0ms;transition-duration: .7s,0ms;transition-property: opacity,visibility;z-index: 2147483637;direction: ltr;text-align: left;}.osano-cm-dialog-custom--type_bar {flex-direction: column;}.osano-cm-dialog-custom--type_bar {box-sizing: border-box;display: flex;flex-direction: column;left: 0;right: 0;}.osano-cm-custom-close {background-color: transparent;border-color: transparent;color: #fff;stroke: #fff;position: absolute;right: 0;top: 0;stroke-width: 1px;border-radius: 50%;border-style: solid;border-width: 2px;box-sizing: content-box;cursor: pointer;height: 20px;margin: 0.5em;min-height: 20px;min-width: 20px;order: 0;outline: none;overflow: hidden;padding: 0;text-decoration: none;transform: rotate(0deg);transition-duration: .2s;transition-property: transform,color,background-color,stroke,stroke-width;transition-timing-function: ease-out;width: 20px;z-index: 2;}.osano-cm-dialog-custom__content {flex: 5;margin-bottom: 0.25em;width: 100%;}.osano-cm-content-custom__message {margin-bottom: 1em;padding-bottom: 1.5em;word-break: break-word;}.osano-cm-link {color: #f1d600;display: inline-block;cursor: pointer;text-decoration: underline;transition-duration: .2s;transition-property: color;transition-timing-function: ease-out;}
+  
+
+
+
+
+      Close this dialog
+     
+
+
+
+
+
+
+
+
+     This website stores data such as cookies to enable essential site functionality, as well as marketing, personalization, and analytics. By remaining on this website, you indicate your consent.
+    
+
+     Cookie Policy
+    
+
+
+
+   if (!window.localStorage.getItem('osano_consentmanager') || window.localStorage.getItem('osano_consentmanager').length <= 0)  {
+     document.getElementById('osanoCustomDialogDiv').classList.remove('osanoHide');
+   }
+  
+
+   document.getElementById('osanoCstmBtn').addEventListener('click',closeOsano);
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Advertise with us
+              
+               (Opens in new window)
+              
+
+
+
+
+
+               E-Newspaper
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Daily News E-Newspaper
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Evening Edition
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+
+
+
+              Newsletters
+              
+               (Opens in new window)
+              
+
+
+
+
+
+               Subscriber Services
+               
+                (Opens in new window)
+               
+
+
+
+
+
+
+
+
+
+
+
+
+                 Subscriber Services
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 EZ Pay
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Delivery Issue
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Subscriber Terms
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+
+
+
+
+               About Us
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Help Center
+                
+
+
+
+                 Contact Us
+                
+
+
+
+                 100th Anniversary
+                
+
+
+
+
+
+
+
+               Branded Content
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Advertising by Ascend
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Paid Partner Content
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Paid Content By Brandpoint
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+
+
+
+              Comics
+             
+
+
+
+              Coronavirus
+             
+
+
+
+
+               Fun & Games
+               
+                (Opens in new window)
+               
+
+
+
+
+
+
+
+
+
+
+
+
+                 Jumble Daily
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Cookie Crush
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Daily Crossword
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Bubble Shooter Pro
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+
+
+
+              Horoscopes
+             
+
+
+
+
+               Jobs
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Place an ad
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Career advice
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Find a job
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Freelance jobs
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+
+
+
+              Justice Story
+             
+
+
+
+
+               Lifestyle
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Health
+                
+
+
+
+                 Eats
+                
+
+
+
+                 Puzzles and Games
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Viva
+                
+
+
+
+
+
+
+
+               New York
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Manhattan
+                
+
+
+
+                 Bronx
+                
+
+
+
+                 Brooklyn
+                
+
+
+
+                 Queens
+                
+
+
+
+                 NYC Crime
+                
+
+
+
+                 Hometown Heroes
+                
+
+
+
+                 Black History Month
+                
+
+
+
+                 Education
+                
+
+
+
+                 New York Politics
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Obituaries
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Weather
+                
+
+
+
+
+
+
+
+               News
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Crime
+                
+
+
+
+                 U.S.
+                
+
+
+
+                 Politics
+                
+
+
+
+                 World
+                
+
+
+
+
+
+
+
+               Obituaries
+               
+                (Opens in new window)
+               
+
+
+
+
+
+
+
+
+
+
+
+
+                 Death notice listings
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Obits
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+
+
+
+
+               Opinion
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Editorial Cartoons
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+
+
+
+
+               Photos
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Photos
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Covers
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+
+
+
+
+               Real Estate
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Place an ad
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Real Estate news and advice
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Real Estate Listings
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+
+
+
+              Snyde
+             
+
+
+
+              Special Sections
+             
+
+
+
+
+               Sports
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Yankees
+                
+
+
+
+                 Mets
+                
+
+
+
+                 Giants
+                
+
+
+
+                 Jets
+                
+
+
+
+                 Knicks
+                
+
+
+
+                 Nets
+                
+
+
+
+                 Liberty
+                
+
+
+
+                 Rangers
+                
+
+
+
+                 Islanders
+                
+
+
+
+                 Football
+                
+
+
+
+                 Basketball
+                
+
+
+
+                 Baseball
+                
+
+
+
+                 Hockey
+                
+
+
+
+                 Soccer
+                
+
+
+
+                 More Sports
+                
+
+
+
+                 The Hook
+                
+
+
+
+                 The Back Page
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+
+
+
+
+               Travel
+              
+
+
+
+
+
+
+
+
+
+
+
+                 Travel Offers
+                
+
+
+
+
+
+
+              U.S. Politics
+              
+               (Opens in new window)
+              
+
+
+
+
+
+               More
+               
+                (Opens in new window)
+               
+
+
+
+
+
+
+
+
+
+
+
+
+                 Automotive
+                
+
+
+
+                 Classifieds
+                
+
+
+
+                 En español
+                
+
+
+
+                 Photo requests, reprints
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Consumer Reviews
+                
+
+
+
+                 Contests
+                
+
+
+
+                 Daily News archives
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Privacy Policy
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 Public Notices
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+                 TAG disclosure
+                 
+                  (Opens in new window)
+                 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      .osano-cm-widget{display: none;}
+     
+
+
+
+
+
+
+
+
+
+
+
+
+         Advertisement
+        
+
+
+
+
+
+
+
+
+
+         Opinion
+        
+
+
+
+
+
+
+
+         Winner vs. loser: Trump applauded the Espionage Act prosecution of Reality Winner; now it’s his turn
+        
+
+
+
+
+
+
+
+
+          By
+          
+
+            Daily News Editorial Board
+           
+
+
+
+
+           New York Daily News
+          
+
+           •
+          
+
+           Jun 11, 2023 at 4:10 am
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         var buttons = document.querySelectorAll('.ts-share-bar__button.ts-507348201');
+  buttons.forEach((button, index) => {
+    button.addEventListener('click', () => {
+      const handleOnClick = (props) => {
+        const {
+          social, encodedUrl, encodedTitle, websiteName,
+        } = props;
+        const share = {
+          facebook: (url) => {
+            const windowFeatures = 'width=658, height=354, scrollbars=no';
+            window.open(url, 'share_facebook', windowFeatures);
+          },
+          twitter: (url) => {
+            const windowFeatures = 'width=658, height=354, scrollbars=no';
+            window.open(url, 'share_twitter', windowFeatures);
+          },
+          pinterest: (url) => {
+            const windowFeatures = 'width=658, height=354, scrollbars=no';
+            window.open(url, 'share_pinterest', windowFeatures);
+          },
+          linkedIn: (url) => {
+            const windowFeatures = 'width=830, height=460, scrollbars=no';
+            window.open(url, 'share_linkedin', windowFeatures);
+          },
+          email: (url, title, websiteName) => {
+            const windowFeatures = 'width=830, height=460, scrollbars=no';
+            const mailUrl = 'mailto:?subject=' + title + '-' + websiteName + '&body=' + url;
+            window.open(mailUrl, 'send_email', windowFeatures);
+          },
+        };
+        window.dataLayer.push({ event: 'social share', shareType: 'share bar', socialNetwork: social });
+        share[social](encodedUrl, encodedTitle, websiteName);
+      };
+      handleOnClick({
+        social: `email,facebook,twitter`.split(',')[index],
+        encodedUrl: `https://www.nydailynews.com/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html,https://www.facebook.com/sharer/sharer.php?u=https://www.nydailynews.com/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html&title=Trump%20applauded%20the%20Espionage%20Act%20prosecution%20of%20Reality%20Winner%3B%20now%20it%E2%80%99s%20his%20turn,https://twitter.com/intent/tweet?text=Trump%20applauded%20the%20Espionage%20Act%20prosecution%20of%20Reality%20Winner%3B%20now%20it%E2%80%99s%20his%20turn&url=https://www.nydailynews.com/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html`.split(',')[index],
+        encodedTitle: `Trump%20applauded%20the%20Espionage%20Act%20prosecution%20of%20Reality%20Winner%3B%20now%20it%E2%80%99s%20his%20turn,Trump%20applauded%20the%20Espionage%20Act%20prosecution%20of%20Reality%20Winner%3B%20now%20it%E2%80%99s%20his%20turn,Trump%20applauded%20the%20Espionage%20Act%20prosecution%20of%20Reality%20Winner%3B%20now%20it%E2%80%99s%20his%20turn`.split(',')[index],
+        websiteName: `New York Daily News`,
+      });
+    });
+  });
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         A federal grand jury has charged Donald Trump with 31 counts of willfully retaining national defense secrets in violation of the Espionage Act. Trump says the indictment is “the most horrible abuse of power” and a “hoax.” He should watch
+         
+          HBO’s docudrama “Reality,”
+         
+         which assiduously walks through the
+         
+          arrest by Trump’s Justice Department of Reality Winner
+         
+         , the National Security Agency translator who leaked one classified document and was sentenced to more than five years in prison.
+        
+
+         Winner was a contractor who saw a classified NSA report detailing Russian attempts to interfere in the 2016 election via a cyberattack on a voting software supplier and phishing emails aimed at local election officials. She sent it to
+         
+          The Intercept
+         
+         , which made it public.
+        
+
+
+
+
+
+
+
+             Advertisement
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             Former President Donald Trump waves after speaking at the Georgia Republican convention, Saturday, June 10, 2023, in Columbus, Ga. (AP Photo/John Bazemore)
+            
+            (John Bazemore/AP)
+           
+
+
+
+
+         The leak was a violation of the law, and for it, Winner paid a steep price. For exposing one secret document that gave the American people information it likely had a right to know, the Air Force vet — who pleaded guilty —
+         
+          got the longest sentence ever imposed for the unauthorized release of government information to the media
+         
+         . Speaking to the judge upon her sentencing, she took “full responsibility” for the “undeniable mistake” and “would like to apologize profusely.” (Winner was released from prison into home confinement in 2021.)
+        
+
+         What about Trump, who illegally
+         
+          retained 140 classified documents
+         
+         in his Florida residence and then obfuscated rather than cooperating with federal officials who wanted them back? The special counsel’s evidence includes an audio recording in which Trump, speaking about a secret document in 2021, says
+         
+          “As president, I could have declassified it, but now I can’t”
+         
+         — a critical admission that he understood that what he was doing was unlawful.
+        
+
+
+
+
+
+         window.addEventListener("DOMContentLoaded", () => {
+      if (!window.ntvFired) {
+      window.ntv = window.ntv || {};
+      window.ntv.cmd = window.ntv.cmd || [];
+      window.ntv.cmd.push(() => window.PostRelease.Start());
+      window.ntvFired = true;
+  }})
+        
+
+
+
+
+
+
+
+             Advertisement
+            
+
+
+
+
+
+
+
+         Upon Winner’s sentencing in 2018, Trump
+         
+          tweeted that the punishment meted out was “unfair” and a “double standard”
+         
+         because it was “small potatoes” “compared to what Hillary Clinton did,” namely her
+         
+          use of a private email server as secretary of state
+         
+         . Those small potatoes have now been fried up and doused in ketchup by the former (and pray not future) president.
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          var buttons = document.querySelectorAll('.ts-share-bar__button.ts-690098910');
+  buttons.forEach((button, index) => {
+    button.addEventListener('click', () => {
+      const handleOnClick = (props) => {
+        const {
+          social, encodedUrl, encodedTitle, websiteName,
+        } = props;
+        const share = {
+          facebook: (url) => {
+            const windowFeatures = 'width=658, height=354, scrollbars=no';
+            window.open(url, 'share_facebook', windowFeatures);
+          },
+          twitter: (url) => {
+            const windowFeatures = 'width=658, height=354, scrollbars=no';
+            window.open(url, 'share_twitter', windowFeatures);
+          },
+          pinterest: (url) => {
+            const windowFeatures = 'width=658, height=354, scrollbars=no';
+            window.open(url, 'share_pinterest', windowFeatures);
+          },
+          linkedIn: (url) => {
+            const windowFeatures = 'width=830, height=460, scrollbars=no';
+            window.open(url, 'share_linkedin', windowFeatures);
+          },
+          email: (url, title, websiteName) => {
+            const windowFeatures = 'width=830, height=460, scrollbars=no';
+            const mailUrl = 'mailto:?subject=' + title + '-' + websiteName + '&body=' + url;
+            window.open(mailUrl, 'send_email', windowFeatures);
+          },
+        };
+        window.dataLayer.push({ event: 'social share', shareType: 'share bar', socialNetwork: social });
+        share[social](encodedUrl, encodedTitle, websiteName);
+      };
+      handleOnClick({
+        social: `email,facebook,twitter`.split(',')[index],
+        encodedUrl: `https://www.nydailynews.com/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html,https://www.facebook.com/sharer/sharer.php?u=https://www.nydailynews.com/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html&title=Trump%20applauded%20the%20Espionage%20Act%20prosecution%20of%20Reality%20Winner%3B%20now%20it%E2%80%99s%20his%20turn,https://twitter.com/intent/tweet?text=Trump%20applauded%20the%20Espionage%20Act%20prosecution%20of%20Reality%20Winner%3B%20now%20it%E2%80%99s%20his%20turn&url=https://www.nydailynews.com/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html`.split(',')[index],
+        encodedTitle: `Trump%20applauded%20the%20Espionage%20Act%20prosecution%20of%20Reality%20Winner%3B%20now%20it%E2%80%99s%20his%20turn,Trump%20applauded%20the%20Espionage%20Act%20prosecution%20of%20Reality%20Winner%3B%20now%20it%E2%80%99s%20his%20turn,Trump%20applauded%20the%20Espionage%20Act%20prosecution%20of%20Reality%20Winner%3B%20now%20it%E2%80%99s%20his%20turn`.split(',')[index],
+        websiteName: `New York Daily News`,
+      });
+    });
+  });
+         
+
+
+
+
+
+
+
+
+
+
+           2023
+          
+
+
+          >
+          
+           June
+          
+
+
+          >
+          
+           11
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           Advertisement
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+             LATEST
+            
+
+
+
+
+              Broadway
+             
+
+
+
+                Alex Newell wins best featured actor Tony for ‘Shucked,’ making history for nonbinary actors
+               
+
+
+
+
+               19m
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Giants
+             
+
+
+
+                Saquon Barkley frustrated by Giant leaks, doesn’t rule out holdout
+               
+
+
+
+
+               29m
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Broadway
+             
+
+
+
+                Tony Awards 2023: Host Ariana DeBose navigates writers strike with jaw-dropping, lyric-less dance performance
+               
+
+
+
+
+               1h
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+           CONNECT
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         TRIBUNE PUBLISHING
+        
+
+
+
+
+            Chicago Tribune
+           
+
+
+
+            Orlando Sentinel
+           
+
+
+
+            The Morning Call of Pa.
+           
+
+
+
+            Daily Press of Va.
+           
+
+
+
+            Studio 1847
+           
+
+
+
+
+
+            The Baltimore Sun
+           
+
+
+
+            Sun Sentinel of Fla.
+           
+
+
+
+            Hartford Courant
+           
+
+
+
+            The Virginian-Pilot
+           
+
+
+
+
+
+
+
+
+         COMPANY INFO
+        
+
+
+
+
+            Careers
+           
+
+
+
+            Help Center
+           
+
+
+
+            Manage Web Notifications
+           
+
+
+
+            Place an Ad
+           
+
+
+
+            Media Kit
+           
+
+
+
+            Privacy Policy
+           
+
+
+
+            Terms of Service
+           
+
+
+
+            Site Map
+           
+
+
+
+            Do Not Sell/Share My Personal Information
+           
+
+
+
+            Cookie Policy
+           
+
+
+
+            Cookie Preferences
+           
+
+
+
+
+
+            Contact Us
+           
+
+
+
+            Site Map
+           
+
+
+
+            Subscriber Services
+           
+
+
+
+            Contests
+           
+
+
+
+            Special Sections
+           
+
+
+
+            Daily News archives
+           
+
+
+
+            About Us
+           
+
+
+
+            California Notice at Collection
+           
+
+
+
+            Notice of Financial Incentive
+           
+
+
+
+
+
+
+
+
+       Copyright © 2023, New York Daily News
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   window.Fusion=window.Fusion||{};Fusion.arcSite="new-york-daily-news";Fusion.contextPath="/pf";Fusion.deployment="145";Fusion.globalContent={"_id":"IS4DCVG53RAKVM3IOBXDB7OFYA","type":"story","version":"0.10.9","content_elements":[{"content":"","type":"text"},{"type":"text"},{"type":"image"},{"type":"text"},{"type":"text"},{"type":"text"}],"created_date":"2023-06-09T15:15:51.550Z","revision":{"revision_id":"YTS5Z3G5URBBVFLPO7XMPLHJNA","parent_id":"HNUXT4CLEVCONERM3U6TTE4IUM","editions":["default"],"branch":"default","user_id":"MAronson@nydailynews.com","published":true},"last_updated_date":"2023-06-11T08:10:00.299Z","headlines":{"basic":"Winner vs. loser: Trump applauded the Espionage Act prosecution of Reality Winner; now it’s his turn","meta_title":"Trump applauded the Espionage Act prosecution of Reality Winner; now it’s his turn","mobile":"","native":"","print":"","tablet":"","web":""},"owner":{"sponsored":false,"id":"tronc"},"content_restrictions":{"content_code":"metered"},"address":{},"workflow":{"status_code":1},"subheadlines":{"basic":""},"description":{"basic":"A federal grand jury has charged Donald Trump with 31 counts of willfully retaining national defense secrets in violation of the Espionage Act. Trump says the indictment is “the most horrible abuse of power” and a “hoax.” He should watch HBO’s docudrama “Reality,” which assiduously walks through the arrest by Trump’s Justice Department of Reality Winner, the National Security Agency translator who leaked one classified document and was sentenced to more than five years in prison."},"label":{},"source":{"name":"New York Daily News","source_type":"nydn","system":"composer"},"taxonomy":{"primary_section":{"_id":"/opinion","_website":"new-york-daily-news","type":"section","version":"0.6.0","name":"Opinion","description":"Read the New York Daily News opinion section.","path":"/opinion","parent_id":"/","parent":{"default":"/"},"additional_properties":{"original":{"_id":"/opinion","site":{"site_title":"Opinion","site_url":"/opinion/","site_description":"Read the New York Daily News opinion section.","pagebuilder_path_for_native_apps":"/opinion/"},"social":{"twitter":null,"instagram":null,"facebook":null,"applenews_ispaid":"true"},"Ad_IDs":{"yieldmo_id_1":"","yieldmo_id_2":"","dfp_id":"opinion/sf","yieldmo_amp_id_1":"","yieldmo_amp_id_2":null,"yieldmo_footer_id":""},"video":{"video_playlist":null,"video_playlist_p2p_id":null,"aol_playlist_id":"5877be20cc52c75124984393","enable_video_stn_player_section":"true","enable_video_stn_player_floating":"true","enable_video_stn_player_wrapper":"true","stn_section_front_barker_id":"I8tJaAwE","video_stn_player_cid":"6215","video_stn_player_fk":"JYQlzpEX","video_stn_player_wrapper_title":"TODAY'S TOP POLITICS VIDEOS"},"newsletter":{"newsletter_id":"529"},"_admin":{"alias_ids":["/opinion"]},"story_body_options":{"automatic_interstitial_links_initial_paragraph":"5","automatic_interstitial_links_paragraph_interval":"3","interstitial_link_label":"More Opinion","interstitial_link_source_advance":"Do Not Automatically Insert Links"},"Page_Metadata":{"add_meta_articleopinion_tag_to_articles":"true"},"_website":"new-york-daily-news","name":"Opinion","order":{"main-nav":1018,"native-app":1009,"native-app-bar":1007,"default":1025,"main-nav-bar":1005,"subsection-menu":1009,"carroll-main-nav":1008,"Soccer":1025},"parent":{"default":"/","main-nav":"/","native-app":"/","native-app-bar":"/","main-nav-bar":"/","subsection-menu":"/","carroll-main-nav":"/","Soccer":"/"},"ancestors":{"default":[],"main-nav":[],"native-app":[],"native-app-bar":[],"main-nav-bar":[],"subsection-menu":[],"carroll-main-nav":[],"Soccer":[]},"inactive":false,"node_type":"section"}}},"sections":[{"_id":"/opinion","_website":"new-york-daily-news","type":"section","version":"0.6.0","name":"Opinion","description":"Read the New York Daily News opinion section.","path":"/opinion","parent_id":"/","parent":{"default":"/"},"additional_properties":{"original":{"_id":"/opinion","site":{"site_title":"Opinion","site_url":"/opinion/","site_description":"Read the New York Daily News opinion section.","pagebuilder_path_for_native_apps":"/opinion/"},"social":{"twitter":null,"instagram":null,"facebook":null,"applenews_ispaid":"true"},"Ad_IDs":{"yieldmo_id_1":"","yieldmo_id_2":"","dfp_id":"opinion/sf","yieldmo_amp_id_1":"","yieldmo_amp_id_2":null,"yieldmo_footer_id":""},"video":{"video_playlist":null,"video_playlist_p2p_id":null,"aol_playlist_id":"5877be20cc52c75124984393","enable_video_stn_player_section":"true","enable_video_stn_player_floating":"true","enable_video_stn_player_wrapper":"true","stn_section_front_barker_id":"I8tJaAwE","video_stn_player_cid":"6215","video_stn_player_fk":"JYQlzpEX","video_stn_player_wrapper_title":"TODAY'S TOP POLITICS VIDEOS"},"newsletter":{"newsletter_id":"529"},"_admin":{"alias_ids":["/opinion"]},"story_body_options":{"automatic_interstitial_links_initial_paragraph":"5","automatic_interstitial_links_paragraph_interval":"3","interstitial_link_label":"More Opinion","interstitial_link_source_advance":"Do Not Automatically Insert Links"},"Page_Metadata":{"add_meta_articleopinion_tag_to_articles":"true"},"_website":"new-york-daily-news","name":"Opinion","order":{"main-nav":1018,"native-app":1009,"native-app-bar":1007,"default":1025,"main-nav-bar":1005,"subsection-menu":1009,"carroll-main-nav":1008,"Soccer":1025},"parent":{"default":"/","main-nav":"/","native-app":"/","native-app-bar":"/","main-nav-bar":"/","subsection-menu":"/","carroll-main-nav":"/","Soccer":"/"},"ancestors":{"default":[],"main-nav":[],"native-app":[],"native-app-bar":[],"main-nav-bar":[],"subsection-menu":[],"carroll-main-nav":[],"Soccer":[]},"inactive":false,"node_type":"section"}},"_website_section_id":"new-york-daily-news./opinion"}],"keywords":[{"keyword":"trump","score":0.7471143642713337,"tag":"proper_noun","frequency":11},{"keyword":"winner","score":0.3409291929651719,"tag":"noun","frequency":9},{"keyword":"document","score":0.24554226544122487,"tag":"noun","frequency":7},{"keyword":"reality","score":0.17978687910272736,"tag":"noun","frequency":3},{"keyword":"Trump","score":0.14183187129215158,"tag":"proper_noun","frequency":5},{"keyword":"election","score":0.13484015932704552,"tag":"noun","frequency":3},{"keyword":"violation","score":0.13317546600202027,"tag":"noun","frequency":4},{"keyword":"prison","score":0.13317546600202027,"tag":"noun","frequency":4},{"keyword":"sentencing","score":0.1012133541615354,"tag":"noun","frequency":4},{"keyword":"president","score":0.09788396751148491,"tag":"noun","frequency":4},{"keyword":"abuse","score":0.07990527960121216,"tag":"noun","frequency":2},{"keyword":"indictment","score":0.07990527960121216,"tag":"noun","frequency":2},{"keyword":"jury","score":0.07990527960121216,"tag":"noun","frequency":2},{"keyword":"power","score":0.07990527960121216,"tag":"noun","frequency":2},{"keyword":"arrest","score":0.07990527960121216,"tag":"noun","frequency":2},{"keyword":"hbo","score":0.07990527960121216,"tag":"proper_noun","frequency":2},{"keyword":"docudrama","score":0.07990527960121216,"tag":"noun","frequency":2},{"keyword":"hoax","score":0.07990527960121216,"tag":"noun","frequency":2},{"keyword":"cyberattack","score":0.059928959700909126,"tag":"noun","frequency":2},{"keyword":"contractor","score":0.059928959700909126,"tag":"noun","frequency":2},{"keyword":"intercept","score":0.059928959700909126,"tag":"proper_noun","frequency":2},{"keyword":"release","score":0.053270186400808106,"tag":"noun","frequency":2},{"keyword":"law","score":0.053270186400808106,"tag":"noun","frequency":2},{"keyword":"right","score":0.053270186400808106,"tag":"noun","frequency":2},{"keyword":"media","score":0.053270186400808106,"tag":"noun","frequency":2}],"topics":[{"_id":"534db7a2e4b0be4f5c38e7cd","name":"Defense and Cybersecurity","score":0.8142418400741404,"uid":"vn"}],"auxiliaries":[],"named_entities":[{"_id":"nsa","name":"NSA","type":"organization","score":0.5164713067271414},{"_id":"national-security-agency","name":"National Security Agency","type":"organization","score":0.47762472531941674},{"_id":"hbo","name":"HBO","type":"organization","score":0.4130083716730669},{"_id":"air-force","name":"Air Force","type":"organization","score":0.3832283624309666},{"_id":"hillary-clinton","name":"Hillary Clinton","type":"person","score":0.2700368729587549},{"_id":"florida","name":"Florida","type":"location","score":0.22802350531350196},{"_id":"donald-trump","name":"Donald Trump","type":"person","score":0.17972745662015685},{"_id":"trump-s-justice-department-of-reality-winner","name":"Trump 's Justice Department of Reality Winner","type":"organization","score":0.1745724143488959}]},"promo_items":{"basic":{"_id":"FZS4LQHLLSQOKYBIJMWMGLWAGA","additional_properties":{"countryId":227,"expiration_date":"2023-07-10T20:41:05Z","fullSizeResizeUrl":"/resizer/BY87-_Qfwm573kZ01ytv_icMfvo=/arc-anglerfish-arc2-prod-tronc/public/FZS4LQHLLSQOKYBIJMWMGLWAGA.jpg","galleries":[],"iptc_job_identifier":"NYOTK","iptc_source":"AP","iptc_title":"STF","keywords":[""],"mime_type":"image/jpeg","originalName":"Election_2024_Trump_Georgia_Republican_Convention_33500.jpg","originalUrl":"https://cloudfront-us-east-1.images.arcpublishing.com/tronc/FZS4LQHLLSQOKYBIJMWMGLWAGA.jpg","proxyUrl":"/resizer/BY87-_Qfwm573kZ01ytv_icMfvo=/arc-anglerfish-arc2-prod-tronc/public/FZS4LQHLLSQOKYBIJMWMGLWAGA.jpg","published":true,"resizeUrl":"/resizer/BY87-_Qfwm573kZ01ytv_icMfvo=/arc-anglerfish-arc2-prod-tronc/public/FZS4LQHLLSQOKYBIJMWMGLWAGA.jpg","restricted":false,"takenOn":"2023-06-10T19:43:06Z","thumbnailResizeUrl":"/resizer/jKNBWfW7F0Bpv8kAmQbxs5c_vXw=/300x0/arc-anglerfish-arc2-prod-tronc/public/FZS4LQHLLSQOKYBIJMWMGLWAGA.jpg","version":2,"focal_point":{"max":[2139,1073],"min":[2139,1073]}},"address":{"locality":"Columbus","region":"Ga","country_name":"USA"},"auth":{"1":"c1d26a1d5bbdf82f107498b44a15c487d88d6bdd9ec54bedb27cd11e8abb6d6f"},"caption":"Former President Donald Trump speaks at the Georgia Republican convention, Saturday, June 10, 2023, in Columbus, Ga. (AP Photo/John Bazemore)","copyright":"Copyright 2023 The Associated Press. All rights reserved","created_date":"2023-06-10T20:41:06Z","credits":{"affiliation":[{"name":"AP","type":"author"}],"by":[{"name":"John Bazemore","type":"author"}]},"distributor":{"mode":"reference","reference_id":"c52291a8-24a4-44cf-a612-531d78896144"},"height":2880,"last_updated_date":"2023-06-11T05:03:07Z","licensable":false,"owner":{"id":"tronc"},"slug":"Election 2024 Trump Georgia Republican Convention","source":{"name":"Associated Press","source_id":"6828b5e91eab4c33bbb100ece1c06977","source_type":"wires","additional_properties":{"editor":"photo center"},"edit_url":"","system":"arc i/o"},"status":"usable","subtitle":"Election 2024 Trump Georgia Republican Convention","taxonomy":{"associated_tasks":[]},"resized_params":{"84x56":"uNsKn3LGd8LoodfcpvowzcAP3FQ=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","105x70":"VT-mvfbV_oiZ8nf8zdHW6vW8T0s=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","158x105":"K5kw1d13RWr70Txk8TesHwjiO2Q=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","274x183":"kghmZ5Jo9x9jor4mKdbic-EhQPo=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","377x251":"8AJEvjnHOMJRbHxaPduuKJqyiqM=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","400x267":"XFgdWz5A-0oJihNzeIcewwUCyL4=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","600x400":"u6ortAdO1QtPqrOP8Pfpf1WMkyg=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","768x512":"3z1l7m1pCCv5RNbhDK7FhX3W0c4=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","800x533":"6R-624T_LAvTToGQ5-__u7VrcmA=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1024x683":"vxidsHrg1opGrV1wK2f_9umC8zA=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1440x960":"_w8tsZ_w2hdYIE7v6p1_vUeO8mw=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1600x1067":"K6mlEn6ByNr0vYn7HMG3HAVUT1A=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","84x63":"VcXFxjnhjDMVlPo4ywKMyIKbaGM=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","105x79":"iSrpWwkHrObT-VatBwZ9in65UHk=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","158x119":"R6PmkxCCAkIh6F7R2sWtJjnieZQ=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","274x206":"1pWazKiZnBQtPXZr7NojkNGFN-c=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","377x283":"W78Tkn4KqbbRAZyYpCtX50jBJys=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","400x300":"-j5cqs5QBGQCWuuqkMOqV7jjYs8=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","600x450":"9mM7PU1kOmBDIyypms0484mhc9M=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","768x576":"RxUPtHRgGvJcHuW8XKIvHTaaadk=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","800x600":"zvkaBow8FilHTid-ECgF_kOuG4Y=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1024x768":"o7bzzvvtUo8oAfNh-AGZBovCS7Y=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1440x1080":"l8pHuUr_nz9am-yyvAPhtGwfQa0=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1600x1200":"YN9VamxAIhxw-GgF-D_EXqmWkzQ=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","84x0":"jdaSOGPdgeV0oPCvy33gZJFxgWY=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","105x0":"Za-wot9lSDuD97b1wUNdVEh4S3o=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","158x0":"Y5p9LVtJjtLVhLQ53UTNJvUwJNA=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","274x0":"GCR0vrGr1NZdjLAoJ_C9s39aGEI=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","377x0":"I2TBpT-B0cFFbclxXtb5P9_y-Ls=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","400x0":"T-FmJLjABdCMPywajKcrYlrbKK8=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","600x0":"1SgFv-sJpDSFvAPmHT7IDNwGHkM=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","768x0":"DELxZ0PyjDfpNHj6NVA7cZqHve4=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","800x0":"KnjSfCtcZB_uUvT7n-TQTwobBX8=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1024x0":"zV7bCeSj3o0Il4Gblyj81_ajOoY=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1440x0":"OkQiY07_hKBA56bSDO4qzbZQ2MM=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1600x0":"1QbNvVtoDR7au4_j6Raf-Jh5VjM=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","84x47":"DVmEk744QdgkL9EScGOCfxU6I9M=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","105x59":"4WNliYwrrOxR1XJ6uAiBj4HE1p4=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","158x89":"SwtJ16BEMd4BTT6UPw3_8kepBow=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","274x154":"6A7gZSWWP4c-InD0j0R8uoXr-JE=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","377x212":"wMbfCq7mW_dHAWZoYjsEpNk5tzY=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","400x225":"YhW2NQVT32ln1T81dQAkKSCfi4g=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","600x338":"3xAA-MZk3td06vTRjtV2eocjlZs=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","768x432":"980AYY8D6BnaFzOi1TJRE-XvZlY=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","800x450":"-CW0B8OXrjftP25dEevowU8bqUY=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1024x576":"O2xTj84lCdmARf4pXmmuErqsoF8=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1440x810":"kuLpSNoBaVUD1v5Kc6zY9-O9vls=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1600x900":"rGx1xL0lEnW8VQyEVceultHdodw=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","84x84":"d-nhNH5lbbuebjRFPYABfb28VKs=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","105x105":"V5xE8ecLIUBVMFG6kveKIwh-Nw0=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","158x158":"UaJ0ZkLTTjhIsdH9Qq5ui2YxiPU=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","274x274":"az51mrth9Ongcv7Ftkz2Fe3ft9s=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","377x377":"I-DtRhpIUS4gKszsz2FZ0bvstNM=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","400x400":"sj_vfGWe-C31rppN7JPrtQm2Rss=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","600x600":"uDMC-F5ncPfnDg8QXp6-gsmhmv0=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","768x768":"sHRuXUL0uWo9g03O0_DmpIc0NIk=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","800x800":"5dTzxmbAgW2lAPMd0nEs2645Vn4=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1024x1024":"kuL8q_lqHrgY92N0GoWt-FTLR1Q=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1440x1440":"OeSFAtv2x2p0dvjDddBm6DMRuW4=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/","1600x1600":"hD-Yu2Jg7sE24hJ1o_DBsT8QZPI=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/"},"url":"https://cloudfront-us-east-1.images.arcpublishing.com/tronc/FZS4LQHLLSQOKYBIJMWMGLWAGA.jpg","type":"image","version":"0.10.9","width":4320}},"related_content":{"basic":[],"redirect":[]},"distributor":{"name":"New York Daily News","category":"staff","subcategory":"nydn","reference_id":"d1c19bda-1347-4812-af72-9633372f264f","mode":"reference_denormalized"},"canonical_website":"new-york-daily-news","geo":{},"planning":{"internal_note":"top ma","story_length":{"character_count_actual":2098,"character_encoding":"UTF-16","inch_count_actual":23,"line_count_actual":177,"word_count_actual":342}},"display_date":"2023-06-11T08:10:00Z","credits":{"by":[{"_id":"nydn-daily-news-editorial-board-20180611","type":"author","version":"0.5.8","name":"Daily News Editorial Board","image":{"version":"0.5.8"},"description":null,"url":"/nydn-daily-news-editorial-board-20180611-staff.html","slug":"nydn-daily-news-editorial-board-20180611","social_links":[{"site":"facebook","url":"https://www.facebook.com/"},{"site":"twitter","url":"https://twitter.com/"}],"socialLinks":[{"site":"facebook","url":"https://www.facebook.com/","deprecated":true,"deprecation_msg":"Please use social_links."},{"site":"twitter","url":"https://twitter.com/","deprecated":true,"deprecation_msg":"Please use social_links."}],"additional_properties":{"original":{"_id":"nydn-daily-news-editorial-board-20180611","byline":"Daily News Editorial Board","org":"tronc","image":null,"bio":null,"slug":"nydn-daily-news-editorial-board-20180611","facebook":"https://www.facebook.com/","twitter":"https://twitter.com/","books":[],"podcasts":[],"education":[],"awards":[],"last_updated_date":"2019-03-26T20:07:46.613Z","type":"author","bio_page":"/nydn-daily-news-editorial-board-20180611-staff.html","role":"New York Daily News"}},"resized_params":{}}]},"subtype":"stories","first_publish_date":"2023-06-11T08:10:00.304Z","websites":{"new-york-daily-news":{"website_section":{"_id":"/opinion","site":{"site_title":"Opinion","site_url":"/opinion/","site_description":"Read the New York Daily News opinion section.","pagebuilder_path_for_native_apps":"/opinion/","title_tag_append_site_name":"true","gptrefreshtime":"0"},"social":{"twitter":null,"instagram":null,"facebook":null,"applenews_ispaid":"true"},"Ad_IDs":{"yieldmo_id_1":"ym_1800212","yieldmo_id_2":"ym_662209094606331088","dfp_id":"opinion/sf","yieldmo_amp_id_1":"ym_1357185183770115286","yieldmo_amp_id_2":"ym_1534815027014777354","yieldmo_footer_id":"ym_1610966087474985534"},"video":{"video_playlist":null,"video_playlist_p2p_id":null,"aol_playlist_id":"5877be20cc52c75124984393","enable_video_stn_player_section":"true","enable_video_stn_player_floating":"true","enable_video_stn_player_wrapper":"true","stn_section_front_barker_id":"I8tJaAwE","video_stn_player_cid":"6215","video_stn_player_fk":"JYQlzpEX","video_stn_player_wrapper_title":"TODAY'S TOP POLITICS VIDEOS","enable_stn_video_on_sections":"true","enable_mobile_stn_player_wrapper":"true","stn_delay_close":"2000","enable_stn_float_api":"true","enable_mobile_stn_player_floating":"true","enable_video_stn_player_article":"true"},"newsletter":{"newsletter_id":"529","promo_card_devices_to_display_on_amp":"true","promo_card_reporting_source":"arc-inarticle","promo_card_devices_to_display_on_desktop":"true","promo_card_devices_to_display_on_mobile":"true"},"_admin":{"alias_ids":["/opinion"]},"story_body_options":{"automatic_interstitial_links_initial_paragraph":"5","automatic_interstitial_links_paragraph_interval":"3","interstitial_link_label":"More Opinion","interstitial_link_source_advance":"Do Not Automatically Insert Links","amp_read_more_height":"800px"},"Page_Metadata":{"add_meta_articleopinion_tag_to_articles":"true"},"_website":"new-york-daily-news","name":"Opinion","order":{"main-nav":1018,"native-app":1009,"native-app-bar":1007,"default":1025,"main-nav-bar":1005,"subsection-menu":1009,"carroll-main-nav":1008,"Soccer":1025},"parent":{"default":"/","main-nav":"/","native-app":"/","native-app-bar":"/","main-nav-bar":"/","subsection-menu":"/","carroll-main-nav":"/","Soccer":"/"},"ancestors":{"default":[],"main-nav":[],"native-app":[],"native-app-bar":[],"main-nav-bar":[],"subsection-menu":[],"carroll-main-nav":[],"Soccer":[]},"inactive":false,"node_type":"section","DSS_SSOR":{"amp_paywall_subtitle_text_weight":"Bold","amp_toaster_separator_color":"#FFFFFF","amp_paywall_subtitle_text_color":"#000000","amp_toaster_left_text":"TRIAL OFFER","amp_paywall_subscribe_bar_background_color":"#266A82","amp_paywall_no_commitment_cancel_text_font_weight":"900","dss_offer_text":"10 weeks for only 99&cent","amp_paywall_login_bar_button_text":"SUBSCRIBER LOGIN","amp_subscribe_button_text_color":"#000000","amp_paywall_offer_text":"10¢/week for 12 weeks","amp_subscribe_with_google_enabled":"false","amp_paywall_subscribe_button_text_font":"Lato","amp_paywall_footer_background_color":"#004e87","amp_toaster_background_color":"#005980","amp_subscribe_button_text":"SUBSCRIBE<br>","show_free_article_message_if_content_is_free":"false","amp_paywall_login_bar_button_background_color":"#ffffff","amp_paywall_no_commitment_cancel_text_color":"#111111","dss_subscribe_host":"subscribe.nydailynews.com","dss_offer_bullets":"Enjoy full access to nydailynews.com|Download our app for breaking news alerts &amp; more|Read the eNewspaper, a daily digital edition","amp_subscribe_button_sub_text":"10¢/week","amp_paywall_subscribe_button_text":"CONTINUE TO CHECKOUT","amp_toaster_separator_font_weight":"700","amp_paywall_offer_text_line-through_font_weight":"900","dss_product_code":"nydnarc","amp_paywall_offer_text_font_weight":"900","amp_login_enhancements_enabled":"true","amp_paywall_subscribe_button_text_color":"#FFFFFF","amp_paywall_login_bar_text_weight":"700","amp_toaster_right_text":"10¢/WEEK FOR 12 WEEKS","amp_paywall_offer_text_font":"Lato","amp_paywall_title_text_color":"#000000","amp_paywall_title_text_font_weight":"700","amp_paywall_no_commitment_cancel_text_font":"Lato","amp_paywall_bottom_icons_alt":"our website, fewer ads, our E-newspaper, & Exclusive app access.","amp_paywall_subtitle_text_size":"small","amp_toaster_left_text_font_weight":"700","ssor_amp_code":"nydnews-amp","amp_toaster_right_text_font_weight":"700","amp_paywall_login_bar_text":"YOU'VE REACHED YOUR FREE ARTICLE LIMIT","amp_toaster_separator":"|","amp_paywall_title_text":"You're selected for this<br>special subscription offer!","amp_toaster_left_text_font_color":"#fcd13e","amp_subscribe_button_background_color":"#ffcc38","amp_subscribe_with_google_product_id":"nydailynews.com:all-access","amp_paywall_login_bar_button_text_font":"Lato","show_premium_article_message":"true","premium_article_message_for_subscribers_text":"Thank you for supporting our journalism. This article is available exclusively for our subscribers, who help fund our work at the Daily News.","amp_paywall_subtitle_text_font":"Lato","amp_paywall_subscribe_button_text_font_weight":"700","amp_paywall_no_commitment_cancel_text":"No commitment, cancel anytime","amp_paywall_login_bar_button_text_weight":"900","amp_toaster_url":"subscribe.nydailynews.com","amp_paywall_checkout_button_background":"#004e87","amp_toaster_right_text_font_color":"#FFFFFF","amp_paywall_login_bar_button_text_color":"#266a82","amp_paywall_title_text_font":"Lato","amp_paywall_login_bar_text_font":"Lato","amp_paywall_bottom_icons":"https://www.nydailynews.com/subscriptions/amp/img/benefits-icons.svg","amp_paywall_login_bar_background_color":"#266a82","amp_paywall_login_bar_text_color":"#ffffff","amp_paywall_offer_text_color":"#004e87","archival_content_age":"90"},"Article_Listicle":{"listicle_interstitial_link_item_interval":"4","listicle_interstitial_link_initial_item":"3","listicle_interstitial_link_content_source":"Do Not Automatically Insert Links","desktop_in-content_ad_1":"Nativo","desktop_in-content_ad_2":"DFP","listicle_max_stars":"5","yieldmo_listicle_amp_id_2":"ym_2338424504767684668","yieldmo_listicle_amp_id_1":"ym_2338424504692187195","listicle_disable_lazy_loading":"false","mobile_in-content_ad_2":"DFP","mobile_in-content_ad_1":"DFP","listicle_interstitial_link_label":"More","yieldmo_listicle_id_1":"ym_2338424504524415033","yieldmo_listicle_id_2":"ym_2338424504608301114","enable_teads_mid_listicle_ad_unit_amp_section":"2","listicle_ad_items_between":"1"},"Story In-Body Recommender":{"recommmender_amp_taboola_recommender":"true","recommender_alignment_left_or_right":"left","recommender_paragraphs_from_bottom":"5","recommender_minimum_number_of_paragraphs":"8"},"Ad_Slots":{"choose_wrapper":"Zeus","mobile__inline_slot_3":"Nativo","mobile__inline_slot_2":"DFP Cube","disable_duration":"true","enable_teads_mid_article_ad_unit":"true"},"Vertical_Gallery":{"vg_mobile_in_content_ad_1":"Teads","vg_mobile_in_content_ad_2":"DFP cube","vg_ad_items_between":"1","vg_lazy_loading_offset":"700","vg_desktop_in_content_ad_1":"Teads","vg_desktop_in_content_ad_2":"DFP cube"},"Elections":{"data_refresh_interval_section_level":"2","data_refresh_interval_story_level":"2"},"Brand Manager":{"googleanalyticsid":"UA-20856122-1","chartbeatuid":"25745","comscoreid":"6036462"},"Push_Notifications":{"slide_prompt":"2499999","enable_push_notifications_prompts":"true","slide_prompt_disable":"true","number_of_user_views_to_automatically_assign_topic_tag":"3","native_prompt_display_instead_of_slide_prompt":"false","mobile_slide_prompt":"120"},"Analytics & A/B Testing":{"enable_optimize_anti-flicker_snippet":"false","enable_amp_linker":"true","enable_google_optimize":"true","blueconic_main_script_url":"https://h689.nydailynews.com/script.js"},"adlite":{"enable_adlite":"true","lite_-_desktop_nativo_position":"6","lite_-_mobile_inline_position":"6","lite_-_mobile_inline_unit":"Nativo","lite_-_mobile_inline_dfp_position":"4"},"Section Fronts":{"refresh_warning_bar_seconds_before_refresh":"0"},"Mobile_Apps":{"mobile_view_session_base_token":"7683"},"branding":{"enable_yahoo_search":"All"},"Sticky Chain":{"sticky_chain_last_page_ad_size":"Flex cube combo (300x250|300x600)"}},"website_url":"/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html"}},"additional_properties":{"clipboard":{},"has_published_copy":true},"publish_date":"2023-06-11T08:10:00.304Z","slug":"ny edit reality winner donald trump indictment Espionage Act","canonical_url":"/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html","publishing":{"scheduled_operations":{"publish_edition":[],"unpublish_edition":[]}},"website":"new-york-daily-news","website_url":"/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html","renderCount":2,"firstFSLOnPage":"f0f1SjORsf3YTb","fslSourceSet":{}};Fusion.globalContentConfig={"source":"content-api-custom","query":{"uri":"/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html","website_url":"/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html","arc-site":"new-york-daily-news"}};Fusion.lastModified=1686534746378;Fusion.contentCache={"chartbeat-most-read":{"{\"environment\":\"prod\",\"feature\":\"news-ticker\",\"feedSize\":15}":{"data":{"content_elements":[{"_id":"GU2LUFHVRRGOJGUUILPMWTHC3U","canonical_url":"/entertainment/broadway/ny-2023-tony-awards-ariana-debose-20230612-gu2lufhvrrgojguuilpmwthc3u-story.html","headlines":{"basic":"Tony Awards 2023: Host Ariana DeBose navigates writers strike with jaw-dropping, lyric-less dance performance"},"promo_items":{"basic":{"resized_params":{"84x84":"9F1qTAeOVdfGl34xgVDojGqseS8=filters:format(jpg):quality(70):focal(1672x419:1682x429)/"},"type":"image","url":"https://www.nydailynews.com/resizer/BGzIwfw0SKNfBDetIf2U_nm93Yw=/cloudfront-us-east-1.images.arcpublishing.com/tronc/NUXXVCK3SRGEPJYUFQNDWKAGFM.jpg"}}},{"_id":"VBMS7D2V7FD2FOHQK5FPNFOIC4","canonical_url":"/snyde/ny-2023-tony-awards-red-carpet-arrivals-fashion-20230611-vbms7d2v7fd2fohqk5fpnfoic4-photogallery.html","headlines":{"basic":"Tony Awards 2023: Red carpet arrivals"},"promo_items":{"basic":{"resized_params":{"84x84":"nXD2XfFA7WEbm3dE9mfQEpMpXSk=filters:format(jpg):quality(70):focal(3176x1139:3186x1149)/"},"type":"image","url":"https://www.nydailynews.com/resizer/ETYLzFeVf2rT281iKZIALIlf4Ls=/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZZ76TQEXCVBLDGVGCZSIUL6NBA.jpg"}}},{"_id":"7XQHPAD3BZEPPLKQGHQN3DAV4A","canonical_url":"/new-york/ny-new-york-air-quality-worsens-sunday-20230611-7xqhpad3bzepplkqghqn3dav4a-story.html","headlines":{"basic":"NYC air quality slightly worse on Sunday as smoke from Canadian wildfires returns"},"promo_items":{"basic":{"resized_params":{"84x84":"TSC1mMRz7pxTOCsM3Bx1QRZiEq0=filters:format(jpg):quality(70):focal(3257x1879:3267x1889)/"},"type":"image","url":"https://www.nydailynews.com/resizer/ezG6jwhU0DorF5eP8wk44JDeMqI=/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q4MZCOAUCBB6FOFSG5NWFPG55I.JPG"}}},{"_id":"X3OUKXRNQ5GDXMVGDYASXAKVC4","canonical_url":"/entertainment/broadway/ny-tony-awards-2023-featured-actor-musical-20230612-x3oukxrnq5gdxmvgdyasxakvc4-story.html","headlines":{"basic":"Alex Newell wins best featured actor Tony for ‘Shucked,’ making history for nonbinary actors"},"promo_items":{"basic":{"resized_params":{"84x84":"pxhOq3wEWfsSrfKYdkC74S5tKAo=filters:format(jpg):quality(70):focal(3420x666:3430x676)/"},"type":"image","url":"https://www.nydailynews.com/resizer/xzRWKjPXPB6WdF5RBsIR4JgauPs=/cloudfront-us-east-1.images.arcpublishing.com/tronc/KG5ZUA467JHNJJT6ZQZAILTNA4.jpg"}}},{"_id":"IS4DCVG53RAKVM3IOBXDB7OFYA","canonical_url":"/opinion/ny-edit-reality-winner-donald-trump-indictment-espionage-act-20230611-is4dcvg53rakvm3iobxdb7ofya-story.html","headlines":{"basic":"Winner vs. loser: Trump applauded the Espionage Act prosecution of Reality Winner; now it’s his turn"},"promo_items":{"basic":{"resized_params":{"84x84":"tvWHG6XpqeHrHG4nd4ugpybiDO8=filters:format(jpg):quality(70):focal(2134x1068:2144x1078)/"},"type":"image","url":"https://www.nydailynews.com/resizer/mis3ln23b5GsFcTsAAqhmjva5XE=/cloudfront-us-east-1.images.arcpublishing.com/tronc/FZS4LQHLLSQOKYBIJMWMGLWAGA.jpg"}}},{"_id":"AE7Q3F4DX5AZROXGB4RXX55OXQ","canonical_url":"/entertainment/broadway/ny-tony-awards-united-palace-washington-heights-20230611-ae7q3f4dx5azroxgb4rxx55oxq-story.html","headlines":{"basic":"2023 Tony Awards bring festival atmosphere to Washington Heights"},"promo_items":{"basic":{"resized_params":{"84x84":"rppwMGbzOo8GsDYfI1rgmtyb3nA=filters:format(jpg):quality(70)/"},"type":"image","url":"https://www.nydailynews.com/resizer/TDEqqVU894FdoAkgtapM6XTGUkc=/cloudfront-us-east-1.images.arcpublishing.com/tronc/BUSNFQBU55D55PPMRZOKRZRLBA.JPG"}}},{"_id":"UC6OUGAGLZGH3HJUZDIMAU6LKI","canonical_url":"/snyde/ny-james-ross-tyra-sanchez-arrested-threatens-police-officer-20230610-uc6ougaglzgh3hjuzdimau6lki-story.html","headlines":{"basic":"Controversial ‘RuPaul’s Drag Race’ winner arrested for 2nd time, threatened to shoot cop: report"},"promo_items":{"basic":{"resized_params":{"84x84":"GTLgRhn8GNTp6E-0YCP0iZpbVGw=filters:format(jpg):quality(70):focal(998x457:1008x467)/"},"type":"image","url":"https://www.nydailynews.com/resizer/18LjRh9np74rTVhrE7RSRPsaO7I=/cloudfront-us-east-1.images.arcpublishing.com/tronc/JV7MGTFOUBHEZMXXPNDEEXJU7Y.jpeg"}}},{"_id":"7RFOQTQYLNAL5DKLXSDKDUK5UA","canonical_url":"/news/politics/us-elections-government/ny-trump-indictment-makes-him-stronger-lindsay-graham-20230611-7rfoqtqylnal5dklxsdkduk5ua-story.html","headlines":{"basic":"Trump indictment makes him ‘stronger,’ say Republican backers"},"promo_items":{"basic":{"resized_params":{"84x84":"M8Nf4yYTMkx8KUa3zC5kgErY4GA=filters:format(jpg):quality(70)/"},"type":"image","url":"https://www.nydailynews.com/resizer/Xc3X_QNfWT5x_LPZnagQIfVynj8=/cloudfront-us-east-1.images.arcpublishing.com/tronc/2PC5QFBOVNEXBJKP4PXXZ5BRYY.jpg"}}},{"_id":"6RYLPMFPUNESJAF7JPXS3KTR7M","canonical_url":"/sports/football/giants/ny-saquon-barkley-frustrated-giants-leaks-holdout-20230612-6rylpmfpunesjaf7jpxs3ktr7m-story.html","headlines":{"basic":"Saquon Barkley frustrated by Giant leaks, doesn’t rule out holdout"},"promo_items":{"basic":{"resized_params":{"84x84":"tC4DKuLoKQDB6LpPeZI2_qGCpEo=filters:format(jpg):quality(70)/"},"type":"image","url":"https://www.nydailynews.com/resizer/nlqSVJlhmpWRhq9ZPNzZCrcw-5c=/cloudfront-us-east-1.images.arcpublishing.com/tronc/JN2V5X2BKZHIFBNQW6HHG6BK34.jpg"}}},{"_id":"N5DVYD5UMFEYBL6HUQAE2ZAR6Y","canonical_url":"/snyde/ny-tony-awards-2023-winners-list-20230611-n5dvyd5umfeybl6huqae2zar6y-story.html","headlines":{"basic":"Tony Awards 2023: Full list of winners (LIVE UPDATES) "},"promo_items":{"basic":{"resized_params":{"84x84":"GxzpDUUbJg4yBX4qfBd27Alwsdk=filters:format(jpg):quality(70)/"},"type":"image","url":"https://www.nydailynews.com/resizer/45o0VRhnaCDXuJ7-GTAKIun0vHo=/cloudfront-us-east-1.images.arcpublishing.com/tronc/PRQTALX7SVFJTF2O6BUYEJP6BA.jpg"}}},{"_id":"GR7Z5WTS6VBQ5OVYPVECPNGJAU","canonical_url":"/entertainment/broadway/ny-tony-awards-2023-featured-actress-musical-20230612-gr7z5wts6vbq5ovypvecpngjau-story.html","headlines":{"basic":"Bonnie Milligan wins featured actress Tony for ‘Kimberly Akimbo’ "},"promo_items":{"basic":{"resized_params":{"84x84":"btMI62FtXL9HXdcvYUm8YQW_87o=filters:format(png):quality(70):focal(1230x360:1240x370)/"},"type":"image","url":"https://www.nydailynews.com/resizer/XH6S5qxVUU8EHAEFITUi8689Z4E=/cloudfront-us-east-1.images.arcpublishing.com/tronc/VDON2F7BARHXJHT6UX73RNIP7M.png"}}},{"_id":"5MMYKG2QLJDW3JWZ7GCIXVYMIU","canonical_url":"/news/politics/new-york-elections-government/ny-congressman-george-santos-bond-appeal-wire-fraud-theft-of-public-funds-20230609-5mmykg2qljdw3jwz7gcixvymiu-story.html","headlines":{"basic":"Congressman George Santos appeals decision to reveal identities of people who posted his $500K bond"},"promo_items":{"basic":{"resized_params":{"84x84":"VlCvlUi6_tz4nIutKM3z7rrRLyI=filters:format(jpg):quality(70)/"},"type":"image","url":"https://www.nydailynews.com/resizer/H8ilqdFZJioSTzmjlzElHKOc83U=/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q7JSUX6MN5AMTNMCP2F243X7BQ.JPG"}}},{"_id":"SSKQXASPPREDTJUQMRZOIIJLLE","canonical_url":"/news/crime/ny-syracuse-summer-gathering-brawl-13-shot-stabbed-hit-cars-20230612-sskqxasppredtjuqmrzoiijlle-story.html","headlines":{"basic":"Syracuse summer gathering erupts into brawl, with 13 shot, stabbed or hit by cars: police"},"promo_items":{"basic":{"resized_params":{"84x84":"zpoWwKzyrqgMf3IahFfaRVmSc9w=filters:format(jpg):quality(70)/"},"type":"image","url":"https://www.nydailynews.com/resizer/-zVDKCcj1bVr7VsSmy0uJZXxqo4=/cloudfront-us-east-1.images.arcpublishing.com/tronc/M3PPZFHO65GFBETTW4WYKOMWGQ.jpg"}}},{"_id":"EP2IDGCTYBDAXK227OETA3WVZU","canonical_url":"/entertainment/broadway/ny-neil-diamond-tony-awards-beautiful-noise-broadhurst-theatre-20230612-ep2idgctybdaxk227oeta3wvzu-story.html","headlines":{"basic":"‘A Beautiful Noise’ keeps Brooklyn-born Neil Diamond’s music rocking on Broadway"},"promo_items":{"basic":{"resized_params":{"84x84":"8oK6vuVT4mipHMM0Y4t91G4K0cU=filters:format(jpg):quality(70):focal(1419x315:1429x325)/"},"type":"image","url":"https://www.nydailynews.com/resizer/m8XQFtL4q4pmWnAfYPKm0T0Dy58=/cloudfront-us-east-1.images.arcpublishing.com/tronc/E35BCJZ2YR3XADXTENWKO727AM.jpg"}}},{"_id":"DFIHJJKFDVD3VEP3VLMOTRED7I","canonical_url":"/new-york/nyc-crime/ny-gang-member-killed-catering-hall-brooklyn-20230610-dfihjjkfdvd3vep3vlmotred7i-story.html","headlines":{"basic":"Bloods gang member shot dead at Brooklyn catering hall, NYPD says; Flatlands venue known for strict security"},"promo_items":{"basic":{"resized_params":{"84x84":"WhXIY_ez-G5rbaW8V4ZvZSaRW6w=filters:format(jpg):quality(70)/"},"type":"image","url":"https://www.nydailynews.com/resizer/918KRGGRsFINFrgOUUtH0Vv6ThY=/cloudfront-us-east-1.images.arcpublishing.com/tronc/SDX4YBGOP5DTZM6URMIOVYUD5M.JPG"}}}],"_id":"96d1ba2a128dc4c7afdfe0f5beebb462f52f2d17dd4180f26fb7ed4acdeac9d1"},"expires":1686534915561,"lastModified":1686534615561}}};Fusion.layout="right-rail";Fusion.metas={"page-type":{"value":"article","html":true},"enableSingleH1Override":{"value":"true","html":true}};Fusion.outputType="default";Fusion.template="template/tpfspgNtiPgePJ0t";Fusion.tree={"collection":"layouts","type":"right-rail","props":{"collection":"layouts","type":"right-rail","id":"right-rail","childProps":[{"collection":"sections","id":0},{"collection":"sections","id":1},{"collection":"sections","id":2},{"collection":"sections","id":3},{"collection":"sections","id":4},{"collection":"sections","id":5}]},"children":[{"collection":"sections","props":{"collection":"sections","id":0},"children":[{"collection":"chains","type":"nav-chain","props":{"collection":"chains","type":"nav-chain","id":"c0fd5c9irf3Ygz","customFields":{"navLeftBlockCount":4,"navRightBlockCount":1,"label":null,"trackingParams":null},"displayProperties":{}},"children":[{"collection":"features","type":"nav/hamburger","props":{"collection":"features","type":"nav/hamburger","id":"f0fqKFxn3kOKbPJ-0-0-0","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"iconSize":16,"displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":true},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"nav/logo","props":{"collection":"features","type":"nav/logo","id":"f0fjs27y3kOKbGR-0-0-1","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"heightDesktop":25,"heightMobile":20,"displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":true,"trackingLogoParams":{"nt":"mastheadnavbar"}},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"nav/search","props":{"collection":"features","type":"nav/search","id":"f0fxL27D3kOKbNv-0-0-2","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"iconSize":16,"placeholderText":"Search","displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":false},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"nav/alert-bar","props":{"collection":"features","type":"nav/alert-bar","id":"f0fcGKYG3kOKbOI-0-0-3","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"labelTextH":"BREAKING","alertTextH":"Flights grounded at airports across U.S.A.","labelTextL":"Feedback","alertTextL":"Test","labelTextW":"Weather","enableWeather":false,"displayOnDesktop":true,"displayOnTablet":false,"displayOnMobile":false,"alertUrlH":"","alertUrlL":"","labelUrlL":"","mobileHeight":null,"alertUrlW":"","trackingAlertBarParams":{"nt":"screamer"},"newWindowW":null},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"nav/login-subscribe-buttons","props":{"collection":"features","type":"nav/login-subscribe-buttons","id":"f0fGElAM3kOKbL5-0-0-4","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":true},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"nav/search","props":{"collection":"features","type":"nav/search","id":"f0fdLnHR3kOKb5b-0-0-5","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"iconSize":16,"placeholderText":"Search","displayOnDesktop":false,"displayOnTablet":false,"displayOnMobile":true,"alwaysOpen":true},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"nav/menu","props":{"collection":"features","type":"nav/menu","id":"f0fsp6wo8kOKbGE-0-0-6","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"navigationConfig":{"contentService":"site-service-hierarchy","contentConfigValues":{"hierarchy":"main-nav"}},"displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":true},"displayProperties":{},"localEdits":{},"variants":{}}}]},{"collection":"features","type":"nav/alert-bar","props":{"collection":"features","type":"nav/alert-bar","id":"f0fXkXzprf3YVd","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"labelTextH":"","alertTextH":"","labelTextL":"Subscribe","alertTextL":"Learn more about subscriber benefits","labelTextW":"Weather","enableWeather":false,"displayOnDesktop":false,"displayOnTablet":false,"displayOnMobile":true,"alertUrlH":"","labelUrlL":"https://www.nydailynews.com/subscriptions/land-subscribe-evergreen/?market=ny&source=manage&int=nydn_digitaladshouse_6-months-1_acquisition-subscriber_arc_button_manage-member-center_______bxca","alertUrlL":"https://www.nydailynews.com/about/ny-new-york-daily-news-subscriber-benefits-20190807-zq6uielfp5gi3iaxylz3inzhye-story.html","alertUrlW":null,"newWindowW":null,"trackingAlertBarParams":null},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"nav/news-ticker","props":{"collection":"features","type":"nav/news-ticker","id":"f0f27h4srf3Y0k","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"listContentConfig":{"contentService":"chartbeat-most-read","contentConfigValues":{"feedSize":15,"environment":"prod"}},"displayOnDesktop":true,"displayOnTablet":false,"displayOnMobile":false,"trackingNewsTickerParams":{"nt":"ticker"}},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/html-box","props":{"collection":"features","type":"common/html-box","id":"f0fTE2hurf3YMU","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":false,"HTML":"<div data-reg-role='prompt' data-dss-condense='true'></div>"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/html-box","props":{"collection":"features","type":"common/html-box","id":"f0fyEMzGd9wD5U1","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"staticId":"113","displayOnDesktop":false,"displayOnTablet":false,"displayOnMobile":true,"HTML":"<style> \n      .osano-cm-widget{display: none;}\n</style> ","staticComponent":null},"displayProperties":{},"localEdits":{},"variants":{}}}]},{"collection":"sections","props":{"collection":"sections","id":1},"children":[{"collection":"features","type":"common/terms-of-service","props":{"collection":"features","type":"common/terms-of-service","id":"f0fUQ2ifUlyX3Hq","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"headingHTML":"NOTICE","bodyHTML":"By continuing to use this website, you agree to our updated <a href=\"https://www.tribpub.com/subscriber-terms-and-conditions/\">Subscriber Terms and Conditions</a> and <a href=\"https://www.tribpub.com/central-terms-of-service/\">Terms of Service</a>, as updated on 5/1/23","minHeightVals":"8,5,3.5"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0fanaVDrf3YVO","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"allUsers","displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":true,"adType":"top_article_fluid","stickyTop":true,"lazyLoad":null},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/sectionBranding","props":{"collection":"features","type":"common/sectionBranding","id":"f0fy6HgGrf3Yli","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"article/overline","props":{"collection":"features","type":"article/overline","id":"f0fL8d4Jrf3YQ9","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"trackingOverlineParams":{"nt":"taxonomy-article"}},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"article/headline","props":{"collection":"features","type":"article/headline","id":"f0f01axNrf3Y92","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"article/byline","props":{"collection":"features","type":"article/byline","id":"f0fAGSPQrf3YWF","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"withTimeAgo":true,"showTimeAgo":true,"showAuthor":true,"showDistributor":true},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"nav/share-bar","props":{"collection":"features","type":"nav/share-bar","id":"f0fBsVrTrf3YDC","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"email":true,"facebook":true,"pinterest":false,"twitter":true,"linkedIn":false},"displayProperties":{},"localEdits":{},"variants":{}}}]},{"collection":"sections","props":{"collection":"sections","id":2},"children":[{"collection":"features","type":"article/lead-art","props":{"collection":"features","type":"article/lead-art","id":"f0fH8k5Xrf3YDv","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"shrinkToFit":true,"viewportPercentage":65,"enableAutoplay":true},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"@wpmedia/htmlbox-block/htmlbox","props":{"collection":"features","type":"@wpmedia/htmlbox-block/htmlbox","id":"f0fgEVaZrf3YSh","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"HTML":"<script type=\"text/javascript\" id=\"remixd-audio-player-script\" src=\"https://tags.remixd.com/player/v5/index.js\" charset=\"utf-8\" async><\/script>"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"chains","type":"article-body","props":{"collection":"chains","type":"article-body","id":"c0ff3repsf3Y3v","customFields":{"elementPlacement":{"1":"2","2":"4","3":"6","4":"2","5":"4","6":"6","7":"8","8":"10","9":"12/6*","10":"2","11":"4"},"elementRepeatLimit":50,"displayNewsletter":true,"showImage":true,"displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":true,"endpoint":"https://api.nlr.tronc.com/v3/newsletters/subscriptions/","newsletterLink":"/newsletters"},"displayProperties":{}},"children":[{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0fkaMi1sf3Y0b","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"allUsers","displayOnDesktop":true,"displayOnTablet":false,"displayOnMobile":false,"adType":"outstream_*"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/nativo-ad","props":{"collection":"features","type":"common/nativo-ad","id":"f0fONyL3sf3Y8C","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"displayOnDesktop":true,"displayOnTablet":false,"displayOnMobile":false,"placement":"trb_ar_nt"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0fCJZb6sf3YM9","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"nonSubscribers","displayOnDesktop":true,"displayOnTablet":false,"displayOnMobile":false,"adType":"outstream_*"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0fhm5g8sf3YHm","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"allUsers","displayOnDesktop":false,"displayOnTablet":false,"displayOnMobile":true,"adType":"inline_cube_*"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0fwdNkasf3YSi","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"nonSubscribers","displayOnDesktop":false,"displayOnTablet":false,"displayOnMobile":true,"adType":"inline_cube_*","pbInternal_cloneId":"f0f7fLUSYAb54dk"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0f3KGkcsf3Y6Q","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"allUsers","displayOnDesktop":false,"displayOnTablet":true,"displayOnMobile":true,"adType":"outstream_*"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/nativo-ad","props":{"collection":"features","type":"common/nativo-ad","id":"f0fU6xEesf3Y4r","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"displayOnDesktop":false,"displayOnTablet":true,"displayOnMobile":true,"placement":"trb_ar_nt_m"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0fnfvGgsf3YMj","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"nonSubscribers","displayOnDesktop":false,"displayOnTablet":true,"displayOnMobile":true,"adType":"outstream_*"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0f5pLIisf3Yd1","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"nonSubscribers","displayOnDesktop":false,"displayOnTablet":false,"displayOnMobile":true,"adType":"inline_cube_*"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"nav/share-bar","props":{"collection":"features","type":"nav/share-bar","id":"f0fk6tfqamyma9r","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"email":true,"facebook":true,"pinterest":false,"twitter":true,"linkedIn":false,"displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":true},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0f4pjKksf3YjL","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"allUsers","displayOnDesktop":false,"displayOnTablet":true,"displayOnMobile":false,"adType":"cube_*"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0fxgYWmsf3YTm","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"allUsers","displayOnDesktop":false,"displayOnTablet":true,"displayOnMobile":false,"adType":"cube_*"},"displayProperties":{},"localEdits":{},"variants":{}}}]},{"collection":"features","type":"common/sitemapBreadcrumb","props":{"collection":"features","type":"common/sitemapBreadcrumb","id":"f0fJET02GyyN9ar","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/taboola","props":{"collection":"features","type":"common/taboola","id":"f0fwCbUusf3Y7T","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":true,"adLite":"nonSubscribers","placement":"below-article-thumbs_ARC","mode":"thumbs-1r","container":"below-article-thumbs_ARC"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/taboola","props":{"collection":"features","type":"common/taboola","id":"f0fzlArxsf3YKO","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":true,"adLite":"onlySubscribers","placement":"Feed-subscriber-below-article-thumbs_ARC","mode":"thumbs-1r","container":"Feed-subscriber-below-article-thumbs_ARC"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"@wpmedia/htmlbox-block/htmlbox","props":{"collection":"features","type":"@wpmedia/htmlbox-block/htmlbox","id":"f0fIopIzsf3Y2P","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"HTML":"<div class=\"taboola-skip-wrapper\" style=\"width:100%; max-width: 801px\"> \t<div id=\"taboola-skip-2\"></div> </div>"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0fmHEVBsf3YuD","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"nonSubscribers","displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":false,"adType":"bottom_article","lazyLoad":null,"stickyTop":null},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0fBer1Esf3YFb","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"allUsers","displayOnDesktop":false,"displayOnTablet":false,"displayOnMobile":true,"adType":"bottom_article","lazyLoad":null,"stickyTop":null},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"@wpmedia/htmlbox-block/htmlbox","props":{"collection":"features","type":"@wpmedia/htmlbox-block/htmlbox","id":"f0fc2byGsf3YtV","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"HTML":"<div class=\"taboola-skip-wrapper\" style=\"width:100%; max-width: 801px\"> \t<div id=\"taboola-skip\"></div> </div>"},"displayProperties":{},"localEdits":{},"variants":{}}}]},{"collection":"sections","props":{"collection":"sections","id":3},"children":[{"collection":"chains","type":"sticky-chain","props":{"collection":"chains","type":"sticky-chain","id":"c0f54sD2tf3Yrf","customFields":{"stickyItem":7,"trackingParams":{"nt":"related-content"}},"displayProperties":{}},"children":[{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0fizzPKsf3YNA","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"allUsers","displayOnDesktop":true,"displayOnTablet":false,"displayOnMobile":false,"adType":"cube_*"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0f033ZMsf3YC7","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"allUsers","displayOnDesktop":true,"displayOnTablet":false,"displayOnMobile":false,"adType":"cube_*","pbInternal_cloneId":"f0fcHqozZuFw48r"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0f0z6jPsf3Yxc","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"allUsers","displayOnDesktop":true,"displayOnTablet":false,"displayOnMobile":false,"adType":"flex_cube_*","pbInternal_cloneId":"f0fLdowCttCw45R"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"lists/featured-story-list","props":{"collection":"features","type":"lists/featured-story-list","id":"f0f1SjORsf3YTb","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"listContentConfig":{"contentService":"story-feed-sections","contentConfigValues":{"includeSections":"/arts,/coronavirus,/entertainment,/featured,/features,/gambling,/health-fitness,/holidays,/life-style,/marijuana,/national-sports,/new-york, /news,/opinion,/real-estate,/snyde,/sports,/viva,/weather","excludeSections":"/100th-anniversary,/about,/about/help,/advice,/automotive,/business-success,/careers-finance,/classifieds,/consumer-reviews,/contact-us,/contests,/espanol,/faq,/horoscopes,/hurricane-maria,/job-openings,/jobs,/latino,/opinion/99-reasons-to-dump-trump,/pets,/photos,/retirement-aging,/special-sections,/sports/odds, /sports/odds/NCAAB,/sports/odds/NCAAF,/sports/odds/atp,/sports/odds/boxing,/sports/odds/champs-league,/sports/odds/mlb,/sports/odds/mls,/sports/odds/mma,/sports/odds/nba,/sports/odds/nfl,/sports/odds/nhl,/sports/odds/world-cup,/sports/odds/wta,/test,/thirdparty,/travel,/true-crime-justice-story","feedSize":3}},"featuredShowFirstStoryAsFeatured":false,"featuredOnlyShowHeadlineOnMobile":false,"featuredShowOverline":false,"featuredShowHeadline":false,"featuredBoldHeadline":false,"featuredShowImage":false,"featuredShowDescription":false,"featuredShowByline":false,"featuredShowDate":false,"featuredImageRatio":"16:9","featuredImagePosition":"right","displayOnDesktop":true,"displayOnTablet":false,"displayOnMobile":false,"listShowOverline":true,"listShowHeadline":true,"listBoldHeadline":false,"listShowImage":true,"listShowDescription":false,"listShowByline":false,"listShowDate":true,"listImageRatio":"4:3","listImagePosition":"right","title":"LATEST","pbInternal_cloneId":"f0fRqZPOQy6a5H0","placement":null,"displaySponsorPlacement":null},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0foR6TTsf3Ysc","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"adLite":"allUsers","displayOnDesktop":true,"displayOnTablet":false,"displayOnMobile":false,"adType":"cube_*","pbInternal_cloneId":"f0fHxkEUOaSJ65n"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/taboola","props":{"collection":"features","type":"common/taboola","id":"f0fvgInWsf3YlH","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"displayOnDesktop":true,"displayOnTablet":false,"displayOnMobile":false,"adLite":"allUsers","container":"taboola-right-rail-thumbnails_arc","mode":"thumbnails-rr2","placement":"taboola-right-rail-thumbnails_arc"},"displayProperties":{},"localEdits":{},"variants":{}}},{"collection":"features","type":"common/ad","props":{"collection":"features","type":"common/ad","id":"f0fNAtRYsf3Y1r","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"displayOnDesktop":true,"displayOnTablet":true,"displayOnMobile":false,"adType":"flex_cube_*","adLite":"allUsers"},"displayProperties":{},"localEdits":{},"variants":{}}}]}]},{"collection":"sections","props":{"collection":"sections","id":4},"children":[]},{"collection":"sections","props":{"collection":"sections","id":5},"children":[{"collection":"features","type":"common/footer","props":{"collection":"features","type":"common/footer","id":"f0fDWbeQceTi4IF","contentConfig":{"contentService":"","contentConfigValues":{},"inherit":true},"customFields":{"navigationConfig":{"contentService":"site-service-hierarchy-custom","contentConfigValues":{"hierarchy":"footer"}},"LinkId":"link-5KUY2VAPT57DFB2VNPQQ5W5ZQ8","lazyLoad":null,"osanoLabel":null,"osanoOnclick":null},"displayProperties":{},"localEdits":{},"variants":{}}}]}]};Fusion.spa=false;Fusion.spaEnabled=false;
+  
+
