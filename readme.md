@@ -27,3 +27,11 @@ If you would like to update the documentation or pull in new changes from the of
 4. Wait for the Gradio interface to launch.
 
 5. Start chatting with the bot!
+
+## Ongoing Issues/Things to Keep In Mind
+
+1. Unlike with the OpenAI GUI (https://chat.openai.com/), you are being charged by the token (word) that you submit to the API. You can track your costs/usage here. https://platform.openai.com/account/usage
+2. This is not fast, and it's also going to take longer to run (and be more expensive) the longer the conversations are, so think about clearing the conversation and starting over if you don't need the context.
+3. The word embedding costs for this particular set of text (the Python for Shiny) docs are very low - like, under 30 cents.
+4. You can swap out different engines for either the embeddings or the LLM (like, if you want to use GPT-3.5.
+5. You can swap out the Shiny .txt files with any other text files. 
