@@ -1,0 +1,35 @@
+from __future__ import annotations
+
+import shiny.experimental as x
+from shiny import App, ui
+
+piggy_bank = ui.HTML(
+    ''
+)
+arrow_up = ui.HTML(
+    ''
+)
+
+app_ui = ui.page_fluid(
+    x.ui.value_box(
+        "KPI Title",
+        ui.h1(ui.HTML("$1 <i>Billion</i> Dollars")),
+        ui.span(arrow_up, " 30% VS PREVIOUS 30 DAYS"),
+        showcase=piggy_bank,
+        class_="bg-success",
+        full_screen=True,
+        # showcase_layout=x.ui._valuebox.showcase_left_center(),
+    ),
+    x.ui.value_box(
+        "KPI Title",
+        ui.h1(ui.HTML("$1 <i>Billion</i> Dollars")),
+        ui.span(arrow_up, " 30% VS PREVIOUS 30 DAYS"),
+        showcase=piggy_bank,
+        class_="bg-success",
+        full_screen=True,
+        showcase_layout=x.ui.showcase_top_right(width="70%"),
+    ),
+)
+
+
+app = App(app_ui, server=None)

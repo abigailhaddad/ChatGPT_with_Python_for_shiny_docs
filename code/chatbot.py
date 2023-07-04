@@ -72,21 +72,23 @@ def main():
     glob_pattern = "**/*.txt"
     llm = initialize_chat_model("../key/key.txt")
 
-    # Create or load Chroma vectorstore
-    vectordb = load_or_create_chroma('db')
-
     if not os.path.exists('db'):
-        # Load documents
+        # Load documents if db does not exist
         documents = load_documents(glob_pattern)
         print("loaded_documents")
 
         # Create Chroma vectorstore
         vectordb = load_or_create_chroma('db', documents=documents)
         print("created vectorstore")
+    else:
+        # Load the existing Chroma vectorstore
+        vectordb = load_or_create_chroma('db')
+        print("loaded vectorstore")
 
     qa_chain = initialize_qa_chain(llm, vectordb)
     print("launched qa_chain")
     launch_demo(qa_chain)
+
 
 
 if __name__ == "__main__":

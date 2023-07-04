@@ -40,3 +40,4 @@ If you would like to pull in new changes from the official repository, you can r
 2. This is not fast, and it's also going to take longer to run (and be more expensive) the longer the conversations are, so think about clearing the conversation and starting over if you don't need the context.
 3. You can swap out different engines for either the embeddings or the LLM (like, if you want to use GPT-3.5).
 4. You can swap out the Shiny .txt files with any other text files. If you want to use PDFs or other file types, you'll need to add those document processing functions from langchain. 
+5. If you want to re-run the fetch_shiny_docs script, you'll need a GitHub API key called "github_token.txt" in your "keys" subfolder.
