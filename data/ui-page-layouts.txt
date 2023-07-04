@@ -1,0 +1,147 @@
+---
+title: HTML page layouts
+---
+
+This section will discuss how to customize the overall layout and appearance of shiny apps.
+
+## Common structure
+
+The code below show a common setup for shiny apps---a page with a sidebar and main panel---
+along with a graph of how the pieces get laid out on a webpage.
+
+```{.python}
+app_ui = ui.page_fluid(
+    ui.panel_title(),
+    ui.layout_sidebar(
+        ui.panel_sidebar(
+            ...
+        ),
+        ui.panel_main(
+            ...
+        ),
+    ),
+)
+```
+
+::: {.column-margin}
+
+
+
+:::
+
+Notice that the first piece of each function name gives a hint about what it does:
+
+* **`page_*`** is the outermost piece. `page_fluid` means it will expand to fill the full width of the browser window, rather than stopping at a certain width.
+* **`layout_*`** positions the pieces inside it (e.g. put them side-by-side).
+* **`panel_*`** is used for a range of common pieces used in shiny apps.
+
+Shiny applications often use `page_fluid()`, so we'll focuses on other aspects
+of laying out pages, before discussing choosing between `page_*` functions at the end.
+
+## Page with sidebar
+
+A common approach for shiny applications is to put inputs in a sidebar, and then
+output content on the main section of the page.
+
+This is shown in the application below.
+
+
+```{shinylive-python}
+#| standalone: true
+#| components: [editor, viewer]
+#| layout: vertical
+#| viewerHeight: 600
+
+from shiny import App, render, ui
+import matplotlib.pyplot as plt
+import numpy as np
+
+app_ui = ui.page_fluid(
+    ui.panel_title("Simulate a normal distribution"),
+
+    ui.layout_sidebar(
+
+      ui.panel_sidebar(
+        ui.input_slider("n", "Sample size", 0, 1000, 250),
+        ui.input_numeric("mean", "Mean", 0),
+        ui.input_numeric("std_dev", "Standard deviation", 1),
+        ui.input_slider("n_bins", "Number of bins", 0, 100, 20),
+      ),
+
+      ui.panel_main(
+        ui.output_plot("plot")
+      ),
+    ),
+)
+
+
+def server(input, output, session):
+
+    @output
+    @render.plot(alt="A histogram")
+    def plot() -> object:
+        x = np.random.normal(input.mean(), input.std_dev(), input.n())
+
+        fig, ax = plt.subplots()
+        ax.hist(x, input.n_bins(), density=True)
+        return fig
+
+
+app = App(app_ui, server)
+
+```
+
+Note that if the browser window is narrow, the sidebar will be shown on top of the main panel.
+
+
+
+## Adding rows and columns
+
+In addition to defining big pieces---like a sidebar---it's quick to add rows and columns to your content.
+You can set pieces side-by-side, while controlling the width of each piece,
+while ensuring it adapts well to narrow screens (e.g. mobile devices).
+
+This is shown in the app below, which has two rows and columns of different widths.
+
+```{shinylive-python}
+#| standalone: true
+#| components: [editor, viewer]
+#| layout: vertical
+#| viewerHeight: 200
+
+from shiny import App, ui
+import matplotlib.pyplot as plt
+import numpy as np
+
+style="border: 1px solid #999;"
+
+app_ui = ui.page_fluid(
+    ui.row(
+        ui.column(4, "row-1 col-1", style=style),
+        ui.column(8, "row-1 col-2", style=style),
+    ),
+    ui.row(
+        ui.column(6, "row-2 col-1", style=style),
+        ui.column(6, "row-2 col-2", style=style),
+    ),
+)
+
+
+app = App(app_ui, None)
+```
+
+Notice that we first define rows, then columns inside them.
+Importantly, the first parameter to `ui.column()` is how wide (relative to others in the row) each column should be.
+Rows are defined as 12 units wide.
+
+## Choosing a page function
+
+While `page_fluid()` is the most common page function used, below is a description of the different page function options.
+
+| name | description |
+| ---- | ----------- |
+| `page_fluid()` | Continuously expand width to fit the screen. |
+| `page_fixed()` | Expand width at certain pre-defined breakpoints. (E.g. when shifting from "small" to "medium" width.) |
+| `page_nav()` | Create a page with a top navigation bar. Note that navigation is discussed in detail in the next section. |
+| `page_bootstrap()` | A basic page that makes sure bootstrap is loaded. Customization is left to the user. |
+

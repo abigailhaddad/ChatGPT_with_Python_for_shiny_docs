@@ -1,0 +1,145 @@
+---
+title: Shiny modules
+---
+
+Shiny modules allow you to create re-usable application components.
+
+## From app to shiny module
+
+Let's look at a simple shiny app that implements a counter.
+
+:::{.column-page-inset-right}
+```{shinylive-python}
+#| standalone: true
+#| components: [editor, viewer]
+
+from shiny import App, reactive, render, ui
+custom_label = "Some Counter"
+
+counter_ui = ui.div(
+    {"style": "border: 1px solid #ccc; border-radius: 5px; margin: 5px 0;"},
+    ui.h2("This is " + custom_label),
+    ui.input_action_button(id="button", label=custom_label),
+    ui.output_text_verbatim(id="out"),
+)
+
+def counter_server(input, output, session, starting_value = 0):
+    count = reactive.Value(starting_value)
+
+    @reactive.Effect
+    @reactive.event(input.button)
+    def _():
+        count.set(count() + 1)
+
+    @output
+    @render.text
+    def out():
+        return f"Click count is {count()}"
+
+app = App(counter_ui, counter_server)
+```
+:::
+
+How can we make this reproducible, so people can include counters in their own apps?
+
+The key is to do the following:
+
+* wrap the UI piece in a function, and decorate it with `module.ui`.
+* decorate the server function with `module.server`.
+
+Here is the UI from the example above turned into a module.
+
+```{.python}
+from shiny import module, ui, render, reactive, event, App
+
+# UI ----
+# Note that we made conter_ui a function, and decorated it
+@module.ui
+def counter_ui(custom_label: str = "Increment counter"):
+    return ui.div(
+        {"style": "border: 1px solid #ccc; border-radius: 5px; margin: 5px 0;"},
+        ui.h2("This is " + custom_label),
+        ui.input_action_button(id="button", label=custom_label),
+        ui.output_text_verbatim(id="out"),
+    )
+
+```
+
+Notice that now the UI is a function that can take the parameter `custom_label`.
+
+Now let's look at the changes to the server function, which just needs to be decorated with `@module.server`.
+
+```{.python}
+
+# Server ----
+# Note that we just added the @module.server decorator
+@module.server
+def counter_server(input, output, session, starting_value = 0):
+    count = reactive.Value(starting_value)
+
+    @reactive.Effect
+    @reactive.event(input.button)
+    def _():
+        count.set(count() + 1)
+
+    @output
+    @render.text
+    def out():
+        return f"Click count is {count()}"
+```
+
+## Using modules in an app
+
+The example below shows how an app can use the module above (which is in the counter.py tab).
+
+:::{.column-page-inset-right}
+```{shinylive-python}
+#| standalone: true
+#| components: [editor, viewer]
+## file: app.py
+
+from shiny import App, ui
+from .counter import counter_ui, counter_server
+
+
+app_ui = ui.page_fluid(
+    counter_ui("counter1", "Counter 1"),
+    counter_ui("counter2", "Counter 2"),
+)
+
+
+def server(input, output, session):
+    counter_server("counter1")
+    counter_server("counter2")
+
+
+app = App(app_ui, server)
+
+## file: counter.py
+from shiny import module, ui, render, reactive, event
+@module.ui
+def counter_ui(label: str = "Increment counter"):
+    return ui.div(
+        {"style": "border: 1px solid #ccc; border-radius: 5px; margin: 5px 0;"},
+        ui.h2("This is " + label),
+        ui.input_action_button(id="button", label=label),
+        ui.output_text_verbatim(id="out"),
+    )
+
+
+@module.server
+def counter_server(input, output, session, starting_value = 0):
+    count = reactive.Value(starting_value)
+
+    @reactive.Effect
+    @reactive.event(input.button)
+    def _():
+        count.set(count() + 1)
+
+    @output
+    @render.text
+    def out():
+        return f"Click count is {count()}"
+
+```
+:::

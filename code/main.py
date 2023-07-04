@@ -4,7 +4,6 @@ Created on Mon Jul  3 10:34:00 2023
 @author: abiga
 """
 
-
 import gradio as gr
 from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
