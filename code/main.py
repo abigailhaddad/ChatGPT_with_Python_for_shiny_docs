@@ -48,8 +48,8 @@ def launch_demo(qa_chain):
             # Format chat history
             formatted_chat_history = []
             for h in history:
-                user_msg = {"role": "user", "content": h[0]}
-                assistant_msg = {"role": "assistant", "content": h[1]}
+                user_msg = ("user", h[0])
+                assistant_msg = ("assistant", h[1])
                 formatted_chat_history.append(user_msg)
                 formatted_chat_history.append(assistant_msg)
 
@@ -60,6 +60,7 @@ def launch_demo(qa_chain):
             new_history = history + [(user_message, response["answer"])]
 
             return gr.update(value=""), new_history
+
 
         msg.submit(user, [msg, chatbot], [msg, chatbot], queue=False)
         clear.click(lambda: None, None, chatbot, queue=False)
