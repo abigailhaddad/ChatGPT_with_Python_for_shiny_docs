@@ -1,10 +1,10 @@
 import gradio as gr
 from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain.vectorstores import Chroma
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.chains import ConversationalRetrievalChain
 from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import DirectoryLoader
-import chromadb
 import os
 
 def load_api_key(path):
@@ -23,31 +23,20 @@ def load_documents(glob_pattern):
     documents = text_splitter.split_documents(documents)
     return documents
 
-def create_or_load_chroma_collection(collection_name="my_collection"):
-    chroma_client = chromadb.Client()
-    collection = chroma_client.get_collection(collection_name)
+def load_or_create_chroma(persist_directory, documents=None):
+    """Load or create a Chroma DB with the given documents."""
+    embedding = OpenAIEmbeddings()
 
-    # If collection doesn't exist, create a new one
-    if not collection:
-        collection = chroma_client.create_collection(name=collection_name)
-
-    return collection, chroma_client
-
-def add_documents_to_collection(collection, documents):
-    collection.add(
-        documents=documents,
-        metadatas=[{"source": "my_source"}] * len(documents),
-        ids=[str(i) for i in range(len(documents))]
-    )
-
-def initialize_chroma_vectorstore(documents, collection_name="my_collection"):
-    collection, chroma_client = create_or_load_chroma_collection(collection_name)
-
-    # If the collection is empty, add documents
-    if collection.count() == 0:
-        add_documents_to_collection(collection, documents)
-
-    return collection, chroma_client
+    if os.path.exists(persist_directory):
+        # Load the persisted database from disk
+        print("loaded vectorstore")
+        vectordb = Chroma(persist_directory=persist_directory, embedding_function=embedding)
+    else:
+        # Create the new Chroma DB
+        print("creating vectorstore")
+        vectordb = Chroma.from_documents(documents=documents, embedding=embedding, persist_directory=persist_directory)
+    
+    return vectordb
 
 def initialize_qa_chain(llm, vectorstore):
     return ConversationalRetrievalChain.from_llm(llm, vectorstore.as_retriever())
@@ -83,21 +72,22 @@ def main():
     glob_pattern = "**/*.txt"
     llm = initialize_chat_model("../key/key.txt")
 
-    # Load documents
-    documents = load_documents(glob_pattern)
-    print("loaded_documents")
-
     # Create or load Chroma vectorstore
-    vectorstore, chroma_client = initialize_chroma_vectorstore(documents)
-    print("created or loaded vectorstore")
+    vectordb = load_or_create_chroma('db')
 
-    qa_chain = initialize_qa_chain(llm, vectorstore)
-    print("initialized qa_chain")
+    if not os.path.exists('db'):
+        # Load documents
+        documents = load_documents(glob_pattern)
+        print("loaded_documents")
 
+        # Create Chroma vectorstore
+        vectordb = load_or_create_chroma('db', documents=documents)
+        print("created vectorstore")
+
+    qa_chain = initialize_qa_chain(llm, vectordb)
+    print("launched qa_chain")
     launch_demo(qa_chain)
 
-    # Close the Chroma client
-    chroma_client.close()
 
 if __name__ == "__main__":
     main()
