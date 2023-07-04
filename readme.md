@@ -35,3 +35,4 @@ If you would like to pull in new changes from the official repository, you can r
 3. The word embedding costs for this particular set of text (the Python for Shiny) docs are very low - like, under 30 cents.
 4. You can swap out different engines for either the embeddings or the LLM (like, if you want to use GPT-3.5.
 5. You can swap out the Shiny .txt files with any other text files. 
+6. This currently saves out the embeddings in a .chroma subfolder. There should be a way to load these so we're not generating them again each time we run the bot; I'm not sure how yet. 

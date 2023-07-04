@@ -1,16 +1,10 @@
-"""
-Created on Mon Jul  3 10:34:00 2023
-
-@author: abiga
-"""
-
 import gradio as gr
 from langchain.embeddings.openai import OpenAIEmbeddings
-from langchain.vectorstores import Chroma
 from langchain.text_splitter import CharacterTextSplitter
 from langchain.chains import ConversationalRetrievalChain
 from langchain.chat_models import ChatOpenAI
 from langchain.document_loaders import DirectoryLoader
+import chromadb
 import os
 
 def load_api_key(path):
@@ -29,13 +23,34 @@ def load_documents(glob_pattern):
     documents = text_splitter.split_documents(documents)
     return documents
 
-def create_embeddings(documents):
-    embeddings = OpenAIEmbeddings()
-    vectorstore = Chroma.from_documents(documents, embeddings)
-    return vectorstore
+def create_or_load_chroma_collection(collection_name="my_collection"):
+    chroma_client = chromadb.Client()
+    collection = chroma_client.get_collection(collection_name)
 
-# At the beginning of your code
-chat_history = []
+    # If collection doesn't exist, create a new one
+    if not collection:
+        collection = chroma_client.create_collection(name=collection_name)
+
+    return collection, chroma_client
+
+def add_documents_to_collection(collection, documents):
+    collection.add(
+        documents=documents,
+        metadatas=[{"source": "my_source"}] * len(documents),
+        ids=[str(i) for i in range(len(documents))]
+    )
+
+def initialize_chroma_vectorstore(documents, collection_name="my_collection"):
+    collection, chroma_client = create_or_load_chroma_collection(collection_name)
+
+    # If the collection is empty, add documents
+    if collection.count() == 0:
+        add_documents_to_collection(collection, documents)
+
+    return collection, chroma_client
+
+def initialize_qa_chain(llm, vectorstore):
+    return ConversationalRetrievalChain.from_llm(llm, vectorstore.as_retriever())
 
 def launch_demo(qa_chain):
     with gr.Blocks() as demo:
@@ -60,15 +75,9 @@ def launch_demo(qa_chain):
 
             return gr.update(value=""), new_history
 
-
         msg.submit(user, [msg, chatbot], [msg, chatbot], queue=False)
         clear.click(lambda: None, None, chatbot, queue=False)
     demo.launch(debug=True)
-
-def initialize_qa_chain(llm, vectorstore):
-    return ConversationalRetrievalChain.from_llm(llm, vectorstore.as_retriever())
-
-
 
 def main():
     glob_pattern = "**/*.txt"
@@ -78,14 +87,17 @@ def main():
     documents = load_documents(glob_pattern)
     print("loaded_documents")
 
-    # Create embeddings
-    vectorstore = create_embeddings(documents)
-    print("created vectorstore")
+    # Create or load Chroma vectorstore
+    vectorstore, chroma_client = initialize_chroma_vectorstore(documents)
+    print("created or loaded vectorstore")
 
     qa_chain = initialize_qa_chain(llm, vectorstore)
-    print("launched qa_chain")
+    print("initialized qa_chain")
+
     launch_demo(qa_chain)
 
+    # Close the Chroma client
+    chroma_client.close()
 
 if __name__ == "__main__":
     main()
