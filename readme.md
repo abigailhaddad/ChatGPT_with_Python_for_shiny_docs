@@ -23,7 +23,3 @@ The input files should be placed in the `data` subfolder in the application's ro
 4. Wait for the Gradio interface to launch.
 
 5. Start chatting with the bot!
-
-## Note
-
-The first time you run the application, it will take longer to start as it needs to process all the text documents to create embeddings. However, the processed data will be saved, making subsequent starts faster. If you want to re-process the data (e.g., if you've added new documents), delete the `documents.pkl` and `embeddings.pkl` files in the `data` subfolder.
