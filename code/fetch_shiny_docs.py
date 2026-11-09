@@ -35,6 +35,12 @@ def remove_empty_folders(root_folder):
         if not os.listdir(foldername) and foldername != root_folder:
             os.rmdir(foldername)
 
+def output_name(repo, item):
+    """Unique flat file name: repo + full path, so e.g. the many __init__.py files in
+    different packages (or two index.qmd) don't overwrite each other."""
+    stem, _ = os.path.splitext(item['path'])
+    return f"{repo}/{stem}".replace('/', '__') + '.txt'
+
 def fetch_files_from_directory(repositories, output_folder="../data"):
     # Ensure output folder exists
     github_token = load_github_token("../key/github_token.txt")
@@ -52,7 +58,7 @@ def fetch_files_from_directory(repositories, output_folder="../data"):
                 file_content = requests.get(item['download_url']).text
 
                 # Write file to disk
-                filename = os.path.join(output_folder, item['name'].replace('.qmd', '.txt').replace('.py', '.txt'))
+                filename = os.path.join(output_folder, output_name(repo, item))
                 with open(filename, 'w', encoding='utf-8') as f:
                     f.write(file_content)
 
@@ -79,7 +85,7 @@ def fetch_files_from_directory_in_subfolder(path, output_folder, repo):
             file_content = requests.get(item['download_url']).text
 
             # Write file to disk
-            filename = os.path.join(output_folder, item['name'].replace('.qmd', '.txt').replace('.py', '.txt'))
+            filename = os.path.join(output_folder, output_name(repo, item))
             with open(filename, 'w', encoding='utf-8') as f:
                 f.write(file_content)
 
